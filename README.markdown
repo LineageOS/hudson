@@ -1,5 +1,5 @@
 # Accessing the Build Server
-http://home.koushikdutta.com:8080/
+http://home.koushikdutta.com:8080/ (will eventually move to a CM subdomain)
 
 # Authenticating to the Build Server
 You must be a member of the CyanogenMod organization.
