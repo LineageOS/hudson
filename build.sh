@@ -9,6 +9,8 @@ then
 fi
 
 cd $WORKSPACE
+export BUILD_NO=$BUILD_NUMBER
+unset BUILD_NUMBER
 
 export PATH=~/bin:$PATH
 
