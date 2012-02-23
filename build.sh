@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 MYPATH=$(dirname $0)
+echo script path: $MYPATH
 
 if [ -z "$WORKSPACE" ]
 then
