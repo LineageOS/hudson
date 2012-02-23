@@ -58,6 +58,15 @@ else
   THREADS=$(cat /proc/cpuinfo | grep processor | wc -l)
 fi
 
+if [ "$RELEASE_TYPE" = "CM_NIGHTLY" ]
+then
+  export CM_NIGHTLY=true
+elif [ "$RELEASE_TYPE" = "CM_SNAPSHOT" ]
+  export CM_SNAPSHOT=true
+elif [ "$RELEASE_TYPE" = "CM_RELEASE" ]
+  export CM_RELEASE=true
+fi
+
 make -j$THREADS bacon
 
 exit $?
