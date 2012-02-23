@@ -41,4 +41,7 @@ cp $MYPATH/local_manifest.xml .repo/
 echo Syncing...
 repo sync
 
+. build/envsetup.sh
+lunch $JOB_NAME
+
 echo success!
