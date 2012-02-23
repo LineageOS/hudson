@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+MYPATH=$(dirname $0)
+
 if [ -z "$WORKSPACE" ]
 then
   echo WORKSPACE not specified
@@ -34,6 +36,9 @@ else
   cd $REPO_BRANCH
 fi
 
+cp $MYPATH/local_manifest.xml .repo/
+
+echo Syncing...
 repo sync
 
 echo success!

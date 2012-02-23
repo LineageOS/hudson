@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="koush/proprietary_vendor_akm" path="vendor/akm" remote="github" revision="gingerbread" />
+  <project name="koush/proprietary_vendor_broadcom" path="vendor/broadcom" remote="github" revision="gingerbread" />
+  <project name="koush/proprietary_vendor_bn" path="vendor/bn" remote="github" revision="gingerbread" />
+  <project name="koush/proprietary_vendor_commtiva" path="vendor/commtiva" remote="github" revision="gingerbread" />
+  <project name="koush/proprietary_vendor_geeksphone" path="vendor/geeksphone" remote="github" revision="gingerbread" />
+  <project name="koush/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="gingerbread" />
+  <project name="koush/proprietary_vendor_imgtec" path="vendor/imgtec" remote="github" />
+  <project name="koush/proprietary_vendor_google" path="vendor/google" remote="github" revision="gh-pages" />
+  <project name="koush/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="gingerbread" />
+  <project name="koush/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="gingerbread" />
+  <project name="koush/proprietary_vendor_nvidia" path="vendor/nvidia" remote="github" revision="gingerbread" />
+  <project name="koush/proprietary_vendor_nxp" path="vendor/nxp" remote="github" revision="gingerbread" />
+  <project name="koush/proprietary_vendor_semc" path="vendor/semc" remote="github" revision="gingerbread" />
+  <project name="koush/proprietary_vendor_samsung" path="vendor/samsung" remote="github" />
+
+</manifest>
