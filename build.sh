@@ -14,6 +14,8 @@ unset BUILD_NUMBER
 
 export PATH=~/bin:$PATH
 
+export USE_CCACHE=1
+
 REPO=$(which repo)
 if [ -z "$REPO" ]
 then
@@ -80,6 +82,11 @@ then
 elif [ "$RELEASE_TYPE" = "CM_RELEASE" ]
 then
   export CM_RELEASE=true
+fi
+
+if [ ! "$(ccache -s|grep -E 'max cache size'|awk '{print $4}')" = "5.0" ]
+then
+  ccache -M 5G
 fi
 
 make $CLEAN_TYPE
