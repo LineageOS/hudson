@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 
-MYPATH=$(dirname $0)
 echo script path: $MYPATH
 
 if [ -z "$WORKSPACE" ]
@@ -9,8 +8,7 @@ then
   exit 1
 fi
 
-mkdir -p $WORKSPACE/../android
-cd $WORKSPACE/../android
+cd $WORKSPACE
 
 export PATH=~/bin:$PATH
 
@@ -37,7 +35,7 @@ else
   cd $REPO_BRANCH
 fi
 
-cp $MYPATH/local_manifest.xml .repo/
+cp $WORKSPACE/hudson/$REPO_BRANCH.xml .repo/local_manifest.xml
 
 echo Syncing...
 repo sync
