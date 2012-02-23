@@ -1,5 +1,13 @@
 #!/usr/bin/env bash
 
+if [ -z "$WORKSPACE" ]
+then
+  echo WORKSPACE not specified
+  exit 1
+fi
+
+cd $WORKSPACE
+
 export PATH=~/bin:$PATH
 
 REPO=$(which repo)
