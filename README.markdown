@@ -22,7 +22,7 @@ Or edit gingerbread.xml (the gingerbread local_manifest.xml) and submit a pull r
 
 # Adding Nodes to the Build Server
 More nodes the better.  
-To add a node, please open an issue with a externally accessible username and host name that Hudson can use to connect via SSH.  
+To add a node, please open an issue (or do it yourself within Jenkins) with a externally accessible username and host name that Hudson can use to connect via SSH.  
 Your build machine must also be completely/properly set up to support building Android. sudo/root access is not required.  
 
 The login provided should use allow access to the following public key via the authorized_keys file:  
