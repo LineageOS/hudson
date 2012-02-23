@@ -25,5 +25,5 @@ More nodes the better.
 To add a node, please open an issue with a externally accessible username and host name that Hudson can use to connect via SSH.
 Your build machine must also be completely/properly set up to support building Android. sudo/root access is not required.
 
-The login provided should use allow access to the following authorized_keys file:
+The login provided should use allow access to the following public key via the authorized_keys file:
 https://github.com/CyanogenMod/hudson/blob/master/authorized_keys
