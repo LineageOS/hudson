@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/usr/bin/env bash
 
 REPO=$(which repo)
 if [ -z "$REPO" ]
