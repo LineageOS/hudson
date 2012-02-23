@@ -47,7 +47,7 @@ echo Syncing...
 repo sync
 
 . build/envsetup.sh
-lunch $JOB_NAME
+lunch $LUNCH
 
 UNAME=$(uname)
 
