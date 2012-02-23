@@ -14,6 +14,9 @@ unset BUILD_NUMBER
 
 export PATH=~/bin:$PATH
 
+export USE_CCACHE=1
+export BUILD_WITH_COLORS=0
+
 REPO=$(which repo)
 if [ -z "$REPO" ]
 then
@@ -46,6 +49,9 @@ else
   # temp hack for turl
   repo init -u git://github.com/CyanogenMod/android.git -b $REPO_BRANCH
 fi
+
+# make sure ccache is in PATH
+export PATH="$PATH:$REPO_BRANCH/prebuilt/$(uname|awk '{print tolower($0)}')-x86/ccache"
 
 cp $WORKSPACE/hudson/$REPO_BRANCH.xml .repo/local_manifest.xml
 
@@ -80,6 +86,11 @@ then
 elif [ "$RELEASE_TYPE" = "CM_RELEASE" ]
 then
   export CM_RELEASE=true
+fi
+
+if [ ! "$(ccache -s|grep -E 'max cache size'|awk '{print $4}')" = "5.0" ]
+then
+  ccache -M 5G
 fi
 
 make $CLEAN_TYPE
