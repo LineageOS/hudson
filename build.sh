@@ -69,6 +69,7 @@ then
   export CM_RELEASE=true
 fi
 
+make $CLEAN_TYPE
 make -j$THREADS bacon
 
 exit $?
