@@ -18,6 +18,7 @@ Build it.
 
 # Modifying the local_manifest.xml
 Edit ics.xml (the ics local_manifest.xml) and submit a pull request.
+Or edit gingerbread.xml (the gingerbread local_manifest.xml) and submit a pull request.
 
 # Adding Nodes to the Build Server
 More nodes the better.
