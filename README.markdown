@@ -9,7 +9,7 @@ Your API token is accessible here:
 https://github.com/settings/admin  
 
 You must also make sure your CyanogenMod membership is not concealed. You can do that here:  
-https://github.com/cyanogenmod  
+https://github.com/CyanogenMod  
 
 # Using the Build Server
 Click the "android" job.  

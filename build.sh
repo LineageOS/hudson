@@ -7,6 +7,8 @@ then
 fi
 
 cd $WORKSPACE
+rm -rf archive
+mkdir -p archive
 export BUILD_NO=$BUILD_NUMBER
 unset BUILD_NUMBER
 
@@ -69,5 +71,7 @@ fi
 
 make $CLEAN_TYPE
 make -j$THREADS bacon
+
+cp $OUT/update*.zip* $WORKSPACE/archive
 
 exit $?
