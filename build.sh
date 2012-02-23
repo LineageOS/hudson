@@ -28,7 +28,7 @@ if [ ! -d $REPO_BRANCH ]
 then
   mkdir $REPO_BRANCH
   cd $REPO_BRANCH
-  repo init -u git://github.com/CyanogenMod/androig.git -b $REPO_BRANCH
+  repo init -u git://github.com/CyanogenMod/android.git -b $REPO_BRANCH
 else
   cd $REPO_BRANCH
 fi
