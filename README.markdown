@@ -18,3 +18,10 @@ Build it.
 
 # Modifying the local_manifest.xml
 Edit ics.xml (the ics local_manifest.xml) and submit a pull request.
+
+# Adding Nodes to the Build Server
+More nodes the better.
+To add a node, please open an issue with a externally accessible username and host name that Hudson can use to connect via SSH.
+Your build machine must also be completely/properly set up to support building Android. sudo/root access is not required.
+
+The login provided should use allow access to the following authorized_keys file:
