@@ -61,9 +61,9 @@ fi
 if [ "$RELEASE_TYPE" = "CM_NIGHTLY" ]
 then
   export CM_NIGHTLY=true
-else if [ "$RELEASE_TYPE" = "CM_SNAPSHOT" ]
+elif [ "$RELEASE_TYPE" = "CM_SNAPSHOT" ]
   export CM_SNAPSHOT=true
-else if [ "$RELEASE_TYPE" = "CM_RELEASE" ]
+elif [ "$RELEASE_TYPE" = "CM_RELEASE" ]
   export CM_RELEASE=true
 fi
 
