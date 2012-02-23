@@ -50,6 +50,9 @@ else
   repo init -u git://github.com/CyanogenMod/android.git -b $REPO_BRANCH
 fi
 
+# make sure ccache is in PATH
+export PATH="$PATH:$REPO_BRANCH/prebuilt/$(uname|awk '{print tolower($0)}')-x86/ccache"
+
 cp $WORKSPACE/hudson/$REPO_BRANCH.xml .repo/local_manifest.xml
 
 echo Syncing...
