@@ -32,6 +32,7 @@ if [ ! -d $REPO_BRANCH ]
 then
   if [ ! -z "$BOOTSTRAP" -a -d "$BOOTSTRAP" ]
   then
+    echo Bootstrapping repo with: $BOOTSTRAP
     cp -R $BOOTSTRAP $REPO_BRANCH
     # this preserves .repo
     rm -rf *
