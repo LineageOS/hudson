@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-echo script path: $MYPATH
-
 if [ -z "$WORKSPACE" ]
 then
   echo WORKSPACE not specified
