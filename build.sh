@@ -6,7 +6,8 @@ then
   exit 1
 fi
 
-cd $WORKSPACE
+mkdir -p $WORKSPACE/../android
+cd $WORKSPACE/../android
 
 export PATH=~/bin:$PATH
 
