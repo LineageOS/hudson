@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set
+
 REPO=$(which repo)
 if [ -z "$REPO" ]
 then
