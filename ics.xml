@@ -2,7 +2,6 @@
 <manifest>
   <project name="koush/proprietary_vendor_akm" path="vendor/akm" remote="github" />
   <project name="koush/proprietary_vendor_broadcom" path="vendor/broadcom" remote="github" />
-  <project name="koush/proprietary_vendor_bn" path="vendor/bn" remote="github" />
   <project name="koush/proprietary_vendor_commtiva" path="vendor/commtiva" remote="github" />
   <project name="koush/proprietary_vendor_geeksphone" path="vendor/geeksphone" remote="github" />
   <project name="koush/proprietary_vendor_htc" path="vendor/htc" remote="github" />
