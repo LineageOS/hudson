@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-set
+export PATH=~/bin:$PATH
 
 REPO=$(which repo)
 if [ -z "$REPO" ]
