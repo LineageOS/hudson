@@ -41,13 +41,21 @@ then
   $WORKSPACE/hudson/$REPO_BRANCH-setup.sh
 fi
 
-
 echo Syncing...
 repo sync
 
 . build/envsetup.sh
 lunch $JOB_NAME
 
-make -j$(cat /proc/cpuinfo | grep processor | wc -l) bacon
+UNAME=$(uname)
+
+if [ "$UNAME" = "Darwin" ]
+then
+  THREADS=$(sysctl hw.ncpu | cut -f 2 -d :)
+else
+  THREADS=$(cat /proc/cpuinfo | grep processor | wc -l)
+fi
+
+make -j$THREADS bacon
 
 echo Done!
