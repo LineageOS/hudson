@@ -71,7 +71,8 @@ fi
 
 make $CLEAN_TYPE
 make -j$THREADS bacon
+RESULT=$?
 
 cp $OUT/update*.zip* $WORKSPACE/archive
 
-exit $?
+exit $RESULT
