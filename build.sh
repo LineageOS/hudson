@@ -43,4 +43,6 @@ repo sync
 . build/envsetup.sh
 lunch $JOB_NAME
 
-echo success!
+make -j$(cat /proc/cpuinfo | grep processor | wc -l) bacon
+
+echo Done!
