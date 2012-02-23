@@ -1,5 +1,5 @@
 # Accessing the Build Server
-http://n0.clockworkmod.com:9999/ (will eventually move to a CM subdomain)
+http://jenkins.cyanogenmod.com/
 
 # Authenticating to the Build Server
 You must be a member of the CyanogenMod organization.
