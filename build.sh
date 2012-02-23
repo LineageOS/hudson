@@ -30,7 +30,14 @@ fi
 
 if [ ! -d $REPO_BRANCH ]
 then
-  mkdir $REPO_BRANCH
+  if [ ! -z "$BOOTSTRAP" -a -d "$BOOTSTRAP" ]
+  then
+    cp -R $BOOTSTRAP $REPO_BRANCH
+    # this preserves .repo
+    rm -rf *
+  else
+    mkdir $REPO_BRANCH
+  fi
   cd $REPO_BRANCH
   repo init -u git://github.com/CyanogenMod/android.git -b $REPO_BRANCH
 else
