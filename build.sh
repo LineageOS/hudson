@@ -38,13 +38,14 @@ else
 fi
 
 cp $WORKSPACE/hudson/$REPO_BRANCH.xml .repo/local_manifest.xml
+
+echo Syncing...
+repo sync
+
 if [ -f $WORKSPACE/hudson/$REPO_BRANCH-setup.sh ]
 then
   $WORKSPACE/hudson/$REPO_BRANCH-setup.sh
 fi
-
-echo Syncing...
-repo sync
 
 . build/envsetup.sh
 lunch $LUNCH
