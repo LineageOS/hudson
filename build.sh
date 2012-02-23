@@ -49,6 +49,8 @@ repo sync
 . build/envsetup.sh
 lunch $LUNCH
 
+rm $OUT/update*.zip*
+
 UNAME=$(uname)
 
 if [ "$UNAME" = "Darwin" ]
