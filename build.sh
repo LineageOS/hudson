@@ -51,7 +51,7 @@ else
 fi
 
 # make sure ccache is in PATH
-export PATH="$PATH:$REPO_BRANCH/prebuilt/$(uname|awk '{print tolower($0)}')-x86/ccache"
+export PATH="$PATH:$PWD/prebuilt/$(uname|awk '{print tolower($0)}')-x86/ccache"
 
 cp $WORKSPACE/hudson/$REPO_BRANCH.xml .repo/local_manifest.xml
 
