@@ -50,7 +50,7 @@ fi
 . build/envsetup.sh
 lunch $LUNCH
 
-rm $OUT/update*.zip*
+rm -f $OUT/update*.zip*
 
 UNAME=$(uname)
 
