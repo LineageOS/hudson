@@ -60,4 +60,4 @@ fi
 
 make -j$THREADS bacon
 
-echo Done!
+exit $?
