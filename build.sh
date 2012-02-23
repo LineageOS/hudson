@@ -10,7 +10,7 @@ then
   chmod a+x ~/bin/repo
 fi
 
-if [ ! -z "$REPO_BRANCH" ]
+if [ -z "$REPO_BRANCH" ]
 then
   echo REPO_BRANCH not specified
   exit 1
