@@ -84,7 +84,12 @@ fi
 
 if [ "$RELEASE_TYPE" = "CM_NIGHTLY" ]
 then
-  export CM_NIGHTLY=true
+  if [ "$REPO_BRANCH" = "gingerbread" ]
+  then
+    export CYANOGEN_NIGHTLY=true
+  else
+    export CM_NIGHTLY=true
+  fi
 elif [ "$RELEASE_TYPE" = "CM_SNAPSHOT" ]
 then
   export CM_SNAPSHOT=true
