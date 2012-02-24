@@ -76,13 +76,6 @@ rm -f $OUT/update*.zip*
 
 UNAME=$(uname)
 
-if [ "$UNAME" = "Darwin" ]
-then
-  THREADS=$(sysctl hw.ncpu | cut -f 2 -d :)
-else
-  THREADS=$(cat /proc/cpuinfo | grep processor | wc -l)
-fi
-
 if [ "$RELEASE_TYPE" = "CM_NIGHTLY" ]
 then
   if [ "$REPO_BRANCH" = "gingerbread" ]
@@ -105,7 +98,7 @@ then
 fi
 
 make $CLEAN_TYPE
-make -j$THREADS bacon recoveryzip recoveryimage
+mka bacon recoveryzip recoveryimage
 RESULT=$?
 
 cp $OUT/update*.zip* $WORKSPACE/archive
