@@ -61,7 +61,8 @@ fi
 cp $WORKSPACE/hudson/$REPO_BRANCH.xml .repo/local_manifest.xml
 
 echo Syncing...
-repo sync
+repo sync > /dev/null
+echo Sync complete.
 
 if [ -f $WORKSPACE/hudson/$REPO_BRANCH-setup.sh ]
 then
