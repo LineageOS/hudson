@@ -6,6 +6,12 @@ then
   exit 1
 fi
 
+if [ -z "$CLEAN_TYPE" ]
+then
+  echo CLEAN_TYPE not specified
+  exit 1
+fi
+
 if [ -z "$REPO_BRANCH" ]
 then
   echo REPO_BRANCH not specified
