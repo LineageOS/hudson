@@ -8,4 +8,7 @@
   <project name="koush/proprietary_vendor_nxp" path="vendor/nxp" remote="github" />
   <project name="koush/proprietary_vendor_samsung" path="vendor/samsung" remote="github" />
 
+  <project name="CyanogenMod/android_device_samsung_crespo" path="device/samsung/crespo" remote="github" />
+  <project name="CyanogenMod/android_device_samsung_crespo4g" path="device/samsung/crespo4g" remote="github" />
+
 </manifest>
