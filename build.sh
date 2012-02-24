@@ -104,9 +104,12 @@ then
 fi
 
 make $CLEAN_TYPE
-make -j$THREADS bacon
+make -j$THREADS bacon recoveryzip recoveryimage
 RESULT=$?
 
 cp $OUT/update*.zip* $WORKSPACE/archive
+cp $OUT/utilties/update.zip $WORKSPACE/archive/recovery.zip
+cp $OUT/recovery.img $WORKSPACE/archive
+
 
 exit $RESULT
