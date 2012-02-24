@@ -118,6 +118,10 @@ fi
 make $CLEAN_TYPE
 mka bacon recoveryzip recoveryimage
 RESULT=$?
+if [ "$RESULT" != "0" ]
+then
+  exit $RESULT
+fi
 
 cp $OUT/update*.zip* $WORKSPACE/archive
 if [ -f $OUT/utilties/update.zip ]
