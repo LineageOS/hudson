@@ -6,6 +6,24 @@ then
   exit 1
 fi
 
+if [ -z "$REPO_BRANCH" ]
+then
+  echo REPO_BRANCH not specified
+  exit 1
+fi
+
+if [ -z "$LUNCH" ]
+then
+  echo LUNCH not specified
+  exit 1
+fi
+
+if [ -z "$RELEASE_TYPE" ]
+then
+  echo RELEASE_TYPE not specified
+  exit 1
+fi
+
 cd $WORKSPACE
 rm -rf archive
 mkdir -p archive
