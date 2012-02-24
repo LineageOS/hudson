@@ -109,8 +109,14 @@ make -j$THREADS bacon recoveryzip recoveryimage
 RESULT=$?
 
 cp $OUT/update*.zip* $WORKSPACE/archive
-cp $OUT/utilties/update.zip $WORKSPACE/archive/recovery.zip
-cp $OUT/recovery.img $WORKSPACE/archive
+if [ -f $OUT/utilties/update.zip ]
+then
+  cp $OUT/utilties/update.zip $WORKSPACE/archive/recovery.zip
+fi
+if [ -f $OUT/recovery.img ]
+then
+  cp $OUT/recovery.img $WORKSPACE/archive
+fi
 
 
 exit $RESULT
