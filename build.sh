@@ -53,6 +53,11 @@ fi
 # make sure ccache is in PATH
 export PATH="$PATH:/opt/local/bin/:$PWD/prebuilt/$(uname|awk '{print tolower($0)}')-x86/ccache"
 
+if [ -f ~/.jenkins_profile ]
+then
+  . ~/.jenkins_profile
+fi
+
 cp $WORKSPACE/hudson/$REPO_BRANCH.xml .repo/local_manifest.xml
 
 echo Syncing...
