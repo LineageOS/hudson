@@ -49,12 +49,6 @@ then
   chmod a+x ~/bin/repo
 fi
 
-if [ -z "$REPO_BRANCH" ]
-then
-  echo REPO_BRANCH not specified
-  exit 1
-fi
-
 git config --global user.name $(whoami)@$NODE_NAME
 git config --global user.email jenkins@cyanogenmod.com
 
