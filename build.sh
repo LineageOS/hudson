@@ -126,8 +126,7 @@ then
 fi
 
 make $CLEAN_TYPE
-# make checkapi?
-mka bacon recoveryzip recoveryimage
+mka bacon recoveryzip recoveryimage checkapi
 check_result Build failed.
 
 cp $OUT/update*.zip* $WORKSPACE/archive
