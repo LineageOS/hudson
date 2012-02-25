@@ -14,4 +14,5 @@
   <project name="koush/proprietary_vendor_nxp" path="vendor/nxp" />
   <project name="koush/proprietary_vendor_samsung" path="vendor/samsung" />
   <project name="koush/proprietary_vendor_semc" path="vendor/semc" />
+  <project name="koush/proprietary_vendor_zte" path="vendor/zte" />
 </manifest>
