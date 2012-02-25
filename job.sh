@@ -1,7 +1,3 @@
-# In your Jenkins/Hudson job, simply put:
-# $(curl https://raw.github.com/CyanogenMod/hudson/master/job.sh)
-# This will run the contents of this script as the job.
-
 cd $WORKSPACE
 mkdir -p ../android
 cd ../android
