@@ -1,5 +1,13 @@
 #!/usr/bin/env bash
 
+function check_result {
+  if [ "0" -ne "$?" ]
+  then
+    echo $1
+    exit 1
+  fi
+}
+
 if [ -z "$WORKSPACE" ]
 then
   echo WORKSPACE not specified
@@ -80,6 +88,7 @@ cp $WORKSPACE/hudson/$REPO_BRANCH.xml .repo/local_manifest.xml
 
 echo Syncing...
 repo sync > /dev/null 2> /dev/null
+check_result repo sync failed.
 echo Sync complete.
 
 if [ -f $WORKSPACE/hudson/$REPO_BRANCH-setup.sh ]
@@ -89,6 +98,7 @@ fi
 
 . build/envsetup.sh
 lunch $LUNCH
+check_result lunch failed.
 
 rm -f $OUT/update*.zip*
 
@@ -116,12 +126,9 @@ then
 fi
 
 make $CLEAN_TYPE
+# make checkapi?
 mka bacon recoveryzip recoveryimage
-RESULT=$?
-if [ "$RESULT" != "0" ]
-then
-  exit $RESULT
-fi
+check_result Build failed.
 
 cp $OUT/update*.zip* $WORKSPACE/archive
 if [ -f $OUT/utilties/update.zip ]
@@ -132,6 +139,3 @@ if [ -f $OUT/recovery.img ]
 then
   cp $OUT/recovery.img $WORKSPACE/archive
 fi
-
-
-exit $RESULT
