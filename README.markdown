@@ -29,9 +29,10 @@ You can also configure your node to only perform builds during certain hours. Th
 The login provided should use allow access to the following public key via the authorized_keys file:  
 https://github.com/CyanogenMod/hudson/blob/master/authorized_keys  
 
-# Job Setup
+# Jenkins Job Setup
 The job uses the following script:
 
 ```bash
-$(curl https://raw.github.com/CyanogenMod/hudson/master/job.sh)
+curl -O https://raw.github.com/CyanogenMod/hudson/master/job.sh
+. ./job.sh
 ```
