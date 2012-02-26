@@ -143,3 +143,7 @@ if [ -f $OUT/recovery.img ]
 then
   cp $OUT/recovery.img $WORKSPACE/archive
 fi
+
+# archive the build.prop as well
+ZIP=$(ls $WORSKPACE/archive/update*,zip)
+unzip -c $ZIP system/build.prop > $WORKSPACE/archive/build.prop
