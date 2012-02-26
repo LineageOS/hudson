@@ -145,5 +145,5 @@ then
 fi
 
 # archive the build.prop as well
-ZIP=$(ls $WORSKPACE/archive/update*,zip)
+ZIP=$(ls $WORKSPACE/archive/update*,zip)
 unzip -c $ZIP system/build.prop > $WORKSPACE/archive/build.prop
