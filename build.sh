@@ -47,8 +47,7 @@ unset BUILD_NUMBER
 export PATH=~/bin:$PATH
 
 export USE_CCACHE=1
-# colors work now!
-#export BUILD_WITH_COLORS=0
+export BUILD_WITH_COLORS=0
 
 REPO=$(which repo)
 if [ -z "$REPO" ]
