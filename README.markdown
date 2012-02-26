@@ -2,11 +2,8 @@
 http://jenkins.cyanogenmod.com/
 
 # Authenticating to the Build Server
-You must be a member of the CyanogenMod organization.
-
-Your username and password is your Github username and Github API Token.  
-Your API token is accessible here:  
-https://github.com/settings/admin  
+You must be a member of the CyanogenMod organization.  
+Jenkins will authorize using OAuth to GitHub.
 
 You must also make sure your CyanogenMod membership is not concealed. You can do that here:  
 https://github.com/CyanogenMod  
