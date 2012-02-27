@@ -10,5 +10,7 @@
 
   <project name="CyanogenMod/android_device_samsung_crespo" path="device/samsung/crespo" remote="github" />
   <project name="CyanogenMod/android_device_samsung_crespo4g" path="device/samsung/crespo4g" remote="github" />
+  <project name="CyanogenMod/android_device_asus_tf101" path="device/asus/tf101" remote="github" />
+  <project name="CyanogenMod/android_device_asus_tf201" path="device/asus/tf201" remote="github" />
 
 </manifest>
