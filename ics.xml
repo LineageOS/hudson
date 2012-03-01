@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <project name="AndroidRoot/vendor_proprietary_asus_tf101" path="vendor/asus/tf101" remote="github" />
+  <project name="AndroidRoot/vendor_proprietary_asus_tf201" path="vendor/asus/tf201" remote="github" />
   <project name="koush/proprietary_vendor_akm" path="vendor/akm" remote="github" />
   <project name="koush/proprietary_vendor_broadcom" path="vendor/broadcom" remote="github" />
   <project name="koush/proprietary_vendor_htc" path="vendor/htc" remote="github" />
