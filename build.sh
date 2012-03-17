@@ -147,3 +147,6 @@ fi
 # archive the build.prop as well
 ZIP=$(ls $WORKSPACE/archive/update*.zip)
 unzip -c $ZIP system/build.prop > $WORKSPACE/archive/build.prop
+
+# chmod the files in case UMASK blocks permissions
+chmod -R ugo+r $WORKSPACE/archive
