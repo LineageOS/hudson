@@ -5,6 +5,7 @@
   <project name="koush/proprietary_vendor_akm" path="vendor/akm" remote="github" />
   <project name="koush/proprietary_vendor_broadcom" path="vendor/broadcom" remote="github" />
   <project name="koush/proprietary_vendor_htc" path="vendor/htc" remote="github" />
+  <project name="koush/proprietary_vendor_hp" path="vendor/hp" remote="github" />
   <project name="koush/proprietary_vendor_imgtec" path="vendor/imgtec" remote="github" />
   <project name="koush/proprietary_vendor_lge" path="vendor/lge" remote="github" />
   <project name="koush/proprietary_vendor_nxp" path="vendor/nxp" remote="github" />
