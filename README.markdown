@@ -3,6 +3,7 @@ http://jenkins.cyanogenmod.com/
 
 # Authenticating to the Build Server
 You must be a member of the CyanogenMod organization.  
+Your membership must be "publicized". https://github.com/CyanogenMod  
 Jenkins will authorize using OAuth to GitHub.
 
 You must also make sure your CyanogenMod membership is not concealed. You can do that here:  
