@@ -138,7 +138,7 @@ fi
 
 if [ ! "$(ccache -s|grep -E 'max cache size'|awk '{print $4}')" = "5.0" ]
 then
-  ccache -M 5G
+  ccache -M 50G
 fi
 
 make $CLEAN_TYPE
