@@ -38,6 +38,11 @@ then
   exit 1
 fi
 
+if [ -z "$SYNC_PROTO" ]
+then
+  SYNC_PROTO=http
+fi
+
 # colorization fix in Jenkins
 export CL_PFX="\"\033[34m\""
 export CL_INS="\"\033[32m\""
@@ -74,11 +79,11 @@ then
     cp -R $BOOTSTRAP/.repo $REPO_BRANCH
   fi
   cd $REPO_BRANCH
-  repo init -u http://github.com/CyanogenMod/android.git -b $REPO_BRANCH
+  repo init -u $SYNC_PROTO://github.com/CyanogenMod/android.git -b $REPO_BRANCH
 else
   cd $REPO_BRANCH
   # temp hack for turl
-  repo init -u http://github.com/CyanogenMod/android.git -b $REPO_BRANCH
+  repo init -u $SYNC_PROTO://github.com/CyanogenMod/android.git -b $REPO_BRANCH
 fi
 
 # make sure ccache is in PATH
