@@ -144,6 +144,12 @@ then
   export CM_SNAPSHOT=true
 fi
 
+if [ ! -z "$GERRIT_CHANGES" ]
+then
+  python $WORKSPACE/hudson/repopick.py $GERRIT_CHANGES
+  check_result "gerrit picks failed."
+fi
+
 if [ ! "$(ccache -s|grep -E 'max cache size'|awk '{print $4}')" = "50.0" ]
 then
   ccache -M 50G
