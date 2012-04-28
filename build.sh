@@ -136,6 +136,11 @@ then
   export CM_RELEASE=true
 fi
 
+if [ ! -z "$CM_EXTRAVERSION" ]
+then
+  export CM_SNAPSHOT=true
+fi
+
 if [ ! "$(ccache -s|grep -E 'max cache size'|awk '{print $4}')" = "50.0" ]
 then
   ccache -M 50G
