@@ -146,6 +146,7 @@ fi
 
 if [ ! -z "$GERRIT_CHANGES" ]
 then
+  export CM_SNAPSHOT=true
   python $WORKSPACE/hudson/repopick.py $GERRIT_CHANGES
   check_result "gerrit picks failed."
 fi
