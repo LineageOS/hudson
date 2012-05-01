@@ -18,6 +18,7 @@ for change in sys.argv[1:]:
         new_project = project.replace('_', '/', 1)
         if new_project == project:
             break
+        project = new_project
 
     print project
     number = data['number']
