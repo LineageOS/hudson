@@ -10,6 +10,7 @@ for change in sys.argv[1:]:
     d = f.read()
     # gerrit doesnt actually return json. returns two json blobs, separate lines. bizarre.
     d = d.split('\n')[0]
+    print d
     data = json.loads(d)
     project = data['project']
     project = project.replace('CyanogenMod/', '').replace('android_', '')
@@ -22,4 +23,4 @@ for change in sys.argv[1:]:
 
     print project
     number = data['number']
-    os.system('repo download %s %s' % (project, number))
+    os.system('CURRENT_HEAD=$(git rev-list HEAD --max-count 1) ; repo download %s %s ; git merge $CURRENT_HEAD' % (project, number))
