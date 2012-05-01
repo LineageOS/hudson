@@ -23,4 +23,14 @@ for change in sys.argv[1:]:
 
     print project
     number = data['number']
-    os.system('cd %s ; CURRENT_HEAD=$(git rev-list HEAD --max-count 1) ; repo download . %s ; git merge $CURRENT_HEAD' % (project, number))
+    patch_count = 0
+    junk = number[len(number) - 2:]
+
+    while 0 != os.system('cd %s ; git fetch http://review.cyanogenmod.com/%s refs/changes/%s/%s/%s' % (project, data['project'], junk, number, patch_count + 1)):
+        patch_count = patch_count + 1
+
+    while 0 == os.system('cd %s ; git fetch http://review.cyanogenmod.com/%s refs/changes/%s/%s/%s' % (project, data['project'], junk, number, patch_count + 1)):
+        patch_count = patch_count + 1
+
+    os.system('cd %s ; git fetch http://review.cyanogenmod.com/%s refs/changes/%s/%s/%s' % (project, data['project'], junk, number, patch_count))
+    os.system('cd %s ; git merge FETCH_HEAD' % project)
