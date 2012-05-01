@@ -148,7 +148,7 @@ if [ ! -z "$GERRIT_CHANGES" ]
 then
   export CM_SNAPSHOT=true
   IS_HTTP=$(echo $GERRIT_CHANGES | grep http:)
-  if [ ! -z "$IS_HTTP" ]
+  if [ -z "$IS_HTTP" ]
   then
     python $WORKSPACE/hudson/repopick.py $GERRIT_CHANGES
     check_result "gerrit picks failed."
