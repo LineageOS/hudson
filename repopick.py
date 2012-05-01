@@ -12,7 +12,13 @@ for change in sys.argv[1:]:
     d = d.split('\n')[0]
     data = json.loads(d)
     project = data['project']
-    project = project.replace('CyanogenMod/', '').replace('android_', '').replace('_', '/')
+    project = project.replace('CyanogenMod/', '').replace('android_', '')
+
+    while not os.path.isdir(project):
+        new_project = project.replace('_', '/', 1)
+        if new_project == project:
+            break
+
     print project
     number = data['number']
     os.system('repo download %s %s' % (project, number))
