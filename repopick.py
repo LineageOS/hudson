@@ -9,8 +9,8 @@ for change in sys.argv[1:]:
     f = urllib2.urlopen('http://review.cyanogenmod.com/query?q=change:%s' % change)
     d = f.read()
     # gerrit doesnt actually return json. returns two json blobs, separate lines. bizarre.
-    d = d.split('\n')[0]
     print d
+    d = d.split('\n')[0]
     data = json.loads(d)
     project = data['project']
     project = project.replace('CyanogenMod/', '').replace('android_', '')
@@ -23,4 +23,4 @@ for change in sys.argv[1:]:
 
     print project
     number = data['number']
-    os.system('CURRENT_HEAD=$(git rev-list HEAD --max-count 1) ; repo download %s %s ; git merge $CURRENT_HEAD' % (project, number))
+    os.system('cd %s ; CURRENT_HEAD=$(git rev-list HEAD --max-count 1) ; repo download . %s ; git merge $CURRENT_HEAD' % (project, number))
