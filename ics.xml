@@ -8,6 +8,7 @@
   <project name="koush/proprietary_vendor_hp" path="vendor/hp" remote="github" />
   <project name="koush/proprietary_vendor_imgtec" path="vendor/imgtec" remote="github" />
   <project name="koush/proprietary_vendor_lge" path="vendor/lge" remote="github" />
+  <project name="koush/proprietary_vendor_motorola" path="vendor/motorola" remote="github" />
   <project name="koush/proprietary_vendor_nxp" path="vendor/nxp" remote="github" />
   <project name="koush/proprietary_vendor_samsung" path="vendor/samsung" remote="github" />
   <project name="koush/proprietary_vendor_semc" path="vendor/semc" remote="github" />
