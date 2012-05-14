@@ -112,6 +112,12 @@ then
   check_result "CORE_MANIFEST_URL: $CORE_MANIFEST_URL download failed."
 fi
 
+echo Core Manifest:
+cat .repo/manifests/default.xml
+
+echo Local Manifest:
+cat .repo/local_manifest.xml
+
 echo Syncing...
 repo sync -d #> /dev/null 2> /tmp/jenkins-sync-errors.txt
 check_result "repo sync failed."
