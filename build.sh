@@ -76,26 +76,18 @@ fi
 git config --global user.name $(whoami)@$NODE_NAME
 git config --global user.email jenkins@cyanogenmod.com
 
-if [ ! -d $REPO_BRANCH ]
+mkdir -p $REPO_BRANCH
+cd $REPO_BRANCH
+
+# always force a fresh repo init since we can build off different branches
+# and the "default" upstream branch can get stuck on whatever was init first.
+if [ -z "$CORE_BRANCH" ]
 then
-  mkdir $REPO_BRANCH
-  if [ ! -z "$BOOTSTRAP" -a -d "$BOOTSTRAP" ]
-  then
-    echo Bootstrapping repo with: $BOOTSTRAP
-    cp -R $BOOTSTRAP/.repo $REPO_BRANCH
-  fi
-  cd $REPO_BRANCH
-  repo init -u $SYNC_PROTO://github.com/CyanogenMod/android.git -b $REPO_BRANCH
-else
-  cd $REPO_BRANCH
-  if [ -d ".repo/manifests" ]
-  then
-    cd .repo/manifests
-    git reset --hard
-    git pull
-    cd ../..
-  fi
+  CORE_BRANCH=$REPO_BRANCH
 fi
+rm -rf .repo/manifests*
+repo init -u $SYNC_PROTO://github.com/CyanogenMod/android.git -b $CORE_BRANCH
+check_error "repo init failed."
 
 # make sure ccache is in PATH
 export PATH="$PATH:/opt/local/bin/:$PWD/prebuilt/$(uname|awk '{print tolower($0)}')-x86/ccache"
@@ -106,12 +98,6 @@ then
 fi
 
 cp $WORKSPACE/hudson/$REPO_BRANCH.xml .repo/local_manifest.xml
-if [ ! -z "$CORE_MANIFEST_URL" ]
-then
-  echo Retrieving CM Core manifest for build.
-  curl $CORE_MANIFEST_URL > .repo/manifests/default.xml
-  check_result "CORE_MANIFEST_URL: $CORE_MANIFEST_URL download failed."
-fi
 
 echo Core Manifest:
 cat .repo/manifests/default.xml
