@@ -88,8 +88,12 @@ then
   repo init -u $SYNC_PROTO://github.com/CyanogenMod/android.git -b $REPO_BRANCH
 else
   cd $REPO_BRANCH
-  # temp hack for turl
-  repo init -u $SYNC_PROTO://github.com/CyanogenMod/android.git -b $REPO_BRANCH
+  if [ -d ".repo/manifests" ]
+  then
+    cd .repo/manifests
+    git reset --hard
+    cd ../..
+  fi
 fi
 
 # make sure ccache is in PATH
@@ -101,6 +105,11 @@ then
 fi
 
 cp $WORKSPACE/hudson/$REPO_BRANCH.xml .repo/local_manifest.xml
+if [ ! -z "$CORE_MANIFEST_URL" ]
+then
+  curl $CORE_MANIFEST_URL > .repo/manifests/default.xml
+  check_result "CORE_MANIFEST_URL: $CORE_MANIFEST_URL download failed."
+fi
 
 echo Syncing...
 repo sync -d > /dev/null 2> /tmp/jenkins-sync-errors.txt
