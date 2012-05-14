@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/moto/common" name="CyanogenMod/android_device_moto_common" />
-  <project path="device/moto/stingray" name="CyanogenMod/android_device_moto_stingray" />
-  <project path="device/moto/wingray" name="CyanogenMod/android_device_moto_wingray" />
-  <project path="device/samsung/maguro" name="CyanogenMod/android_device_samsung_maguro" />
-  <project path="device/samsung/toro" name="CyanogenMod/android_device_samsung_toro" />
-  <project path="device/samsung/tuna" name="CyanogenMod/android_device_samsung_tuna" />
+  <project path="device/moto/common" name="CyanogenMod/android_device_moto_common" revision="ics" />
+  <project path="device/moto/stingray" name="CyanogenMod/android_device_moto_stingray" revision="ics" />
+  <project path="device/moto/wingray" name="CyanogenMod/android_device_moto_wingray" revision="ics" />
+  <project path="device/samsung/maguro" name="CyanogenMod/android_device_samsung_maguro" revision="ics" />
+  <project path="device/samsung/toro" name="CyanogenMod/android_device_samsung_toro" revision="ics" />
+  <project path="device/samsung/tuna" name="CyanogenMod/android_device_samsung_tuna" revision="ics" />
 
-  <project name="AndroidRoot/vendor_proprietary_asus_tf101" path="vendor/asus/tf101" remote="github" />
-  <project name="AndroidRoot/vendor_proprietary_asus_tf201" path="vendor/asus/tf201" remote="github" />
-  <project name="koush/proprietary_vendor_akm" path="vendor/akm" remote="github" />
-  <project name="koush/proprietary_vendor_broadcom" path="vendor/broadcom" remote="github" />
-  <project name="koush/proprietary_vendor_htc" path="vendor/htc" remote="github" />
-  <project name="koush/proprietary_vendor_hp" path="vendor/hp" remote="github" />
-  <project name="koush/proprietary_vendor_imgtec" path="vendor/imgtec" remote="github" />
-  <project name="koush/proprietary_vendor_lge" path="vendor/lge" remote="github" />
-  <project name="koush/proprietary_vendor_motorola" path="vendor/motorola" remote="github" />
-  <project name="koush/proprietary_vendor_nxp" path="vendor/nxp" remote="github" />
-  <project name="koush/proprietary_vendor_samsung" path="vendor/samsung" remote="github" />
-  <project name="koush/proprietary_vendor_semc" path="vendor/semc" remote="github" />
-  <project name="koush/proprietary_vendor_zte" path="vendor/zte" remote="github" />
+  <project name="AndroidRoot/vendor_proprietary_asus_tf101" path="vendor/asus/tf101" revision="ics" />
+  <project name="AndroidRoot/vendor_proprietary_asus_tf201" path="vendor/asus/tf201" revision="ics" />
+  <project name="koush/proprietary_vendor_akm" path="vendor/akm" revision="ics" />
+  <project name="koush/proprietary_vendor_broadcom" path="vendor/broadcom" revision="ics" />
+  <project name="koush/proprietary_vendor_htc" path="vendor/htc" revision="ics" />
+  <project name="koush/proprietary_vendor_hp" path="vendor/hp" revision="ics" />
+  <project name="koush/proprietary_vendor_imgtec" path="vendor/imgtec" revision="ics" />
+  <project name="koush/proprietary_vendor_lge" path="vendor/lge" revision="ics" />
+  <project name="koush/proprietary_vendor_motorola" path="vendor/motorola" revision="ics" />
+  <project name="koush/proprietary_vendor_nxp" path="vendor/nxp" revision="ics" />
+  <project name="koush/proprietary_vendor_samsung" path="vendor/samsung" revision="ics" />
+  <project name="koush/proprietary_vendor_semc" path="vendor/semc" revision="ics" />
+  <project name="koush/proprietary_vendor_zte" path="vendor/zte" revision="ics" />
 
-  <project name="CyanogenMod/android_device_asus_tf101" path="device/asus/tf101" remote="github" />
-  <project name="CyanogenMod/android_device_asus_tf201" path="device/asus/tf201" remote="github" />
+  <project name="CyanogenMod/android_device_asus_tf101" path="device/asus/tf101" revision="ics" />
+  <project name="CyanogenMod/android_device_asus_tf201" path="device/asus/tf201" revision="ics" />
 
-  <project name="CyanogenMod/android_device_samsung_crespo" path="device/samsung/crespo" remote="github" />
-  <project name="CyanogenMod/android_device_samsung_crespo4g" path="device/samsung/crespo4g" remote="github" />
-  <project name="CyanogenMod/android_device_samsung_p4-common" path="device/samsung/p4-common" remote="github" />
-  <project name="CyanogenMod/android_device_samsung_p4wifi" path="device/samsung/p4wifi" remote="github" />
-  <project name="CyanogenMod/android_device_samsung_p4tmo" path="device/samsung/p4tmo" remote="github" />
+  <project name="CyanogenMod/android_device_samsung_crespo" path="device/samsung/crespo" revision="ics" />
+  <project name="CyanogenMod/android_device_samsung_crespo4g" path="device/samsung/crespo4g" revision="ics" />
+  <project name="CyanogenMod/android_device_samsung_p4-common" path="device/samsung/p4-common" revision="ics" />
+  <project name="CyanogenMod/android_device_samsung_p4wifi" path="device/samsung/p4wifi" revision="ics" />
+  <project name="CyanogenMod/android_device_samsung_p4tmo" path="device/samsung/p4tmo" revision="ics" />
 
-  <project name="CyanogenMod/android_device_semc_hallon" path="device/semc/hallon" remote="github" />
-  <project name="CyanogenMod/android_device_semc_anzu" path="device/semc/anzu" remote="github" />
-  <project name="CyanogenMod/android_device_semc_coconut" path="device/semc/coconut" remote="github" />
-  <project name="CyanogenMod/android_device_semc_haida" path="device/semc/haida" remote="github" />
-  <project name="CyanogenMod/android_device_semc_iyokan" path="device/semc/iyokan" remote="github" />
-  <project name="CyanogenMod/android_device_semc_mango" path="device/semc/mango" remote="github" />
-  <project name="CyanogenMod/android_device_semc_mogami-common" path="device/semc/mogami-common" remote="github" />
-  <project name="CyanogenMod/android_device_semc_msm7x30-common" path="device/semc/msm7x30-common" remote="github" />
-  <project name="CyanogenMod/android_device_semc_satsuma" path="device/semc/satsuma" remote="github" />
-  <project name="CyanogenMod/android_device_semc_smultron" path="device/semc/smultron" remote="github" />
-  <project name="CyanogenMod/android_device_semc_urushi" path="device/semc/urushi" remote="github" />
-  <project name="CyanogenMod/android_device_semc_zeus" path="device/semc/zeus" remote="github" />
+  <project name="CyanogenMod/android_device_semc_hallon" path="device/semc/hallon" revision="ics" />
+  <project name="CyanogenMod/android_device_semc_anzu" path="device/semc/anzu" revision="ics" />
+  <project name="CyanogenMod/android_device_semc_coconut" path="device/semc/coconut" revision="ics" />
+  <project name="CyanogenMod/android_device_semc_haida" path="device/semc/haida" revision="ics" />
+  <project name="CyanogenMod/android_device_semc_iyokan" path="device/semc/iyokan" revision="ics" />
+  <project name="CyanogenMod/android_device_semc_mango" path="device/semc/mango" revision="ics" />
+  <project name="CyanogenMod/android_device_semc_mogami-common" path="device/semc/mogami-common" revision="ics" />
+  <project name="CyanogenMod/android_device_semc_msm7x30-common" path="device/semc/msm7x30-common" revision="ics" />
+  <project name="CyanogenMod/android_device_semc_satsuma" path="device/semc/satsuma" revision="ics" />
+  <project name="CyanogenMod/android_device_semc_smultron" path="device/semc/smultron" revision="ics" />
+  <project name="CyanogenMod/android_device_semc_urushi" path="device/semc/urushi" revision="ics" />
+  <project name="CyanogenMod/android_device_semc_zeus" path="device/semc/zeus" revision="ics" />
 </manifest>
