@@ -94,9 +94,6 @@ else
     git reset --hard
     git pull
     cd ../..
-    
-    # hax
-    rm -rf kernel/samsung/tuna
   fi
 fi
 
