@@ -119,6 +119,12 @@ check_result "lunch failed."
 # save manifest used for build (saving revisions as current HEAD)
 repo manifest -o $WORKSPACE/archive/manifest.xml -r
 
+# note that deleting local_manifest here has no effect on the working tree, since
+# repo sync has already taken place. this is just used to snapshot the core
+rm -f .repo/local_manifest.xml
+# CORE: save manifest used for build (saving revisions as current HEAD)
+repo manifest -o $WORKSPACE/archive/core.xml -r
+
 rm -f $OUT/update*.zip*
 
 UNAME=$(uname)
