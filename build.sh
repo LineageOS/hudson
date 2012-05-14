@@ -191,10 +191,9 @@ fi
 ZIP=$(ls $WORKSPACE/archive/update*.zip)
 unzip -c $ZIP system/build.prop > $WORKSPACE/archive/build.prop
 
-# chmod the files in case UMASK blocks permissions
-chmod -R ugo+r $WORKSPACE/archive
-
-
 # CORE: save manifest used for build (saving revisions as current HEAD)
 rm -f .repo/local_manifest.xml
 repo manifest -o $WORKSPACE/archive/core.xml -r
+
+# chmod the files in case UMASK blocks permissions
+chmod -R ugo+r $WORKSPACE/archive
