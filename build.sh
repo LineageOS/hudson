@@ -92,6 +92,7 @@ else
   then
     cd .repo/manifests
     git reset --hard
+    git pull
     cd ../..
   fi
 fi
