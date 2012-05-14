@@ -107,6 +107,7 @@ fi
 cp $WORKSPACE/hudson/$REPO_BRANCH.xml .repo/local_manifest.xml
 if [ ! -z "$CORE_MANIFEST_URL" ]
 then
+  echo Retrieving CM Core manifest for build.
   curl $CORE_MANIFEST_URL > .repo/manifests/default.xml
   check_result "CORE_MANIFEST_URL: $CORE_MANIFEST_URL download failed."
 fi
