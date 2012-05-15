@@ -16,8 +16,6 @@
 
   <project name="CyanogenMod/android_device_asus_tf101" path="device/asus/tf101" revision="ics" />
   <project name="CyanogenMod/android_device_asus_tf201" path="device/asus/tf201" revision="ics" />
-  <project name="CyanogenMod/android_kernel_asus_tf101" path="kernel/asus/tf101" revision="ics" />
-  <project name="CyanogenMod/android_kernel_asus_tf201" path="kernel/asus/tf201" revision="ics" />
 
   <project name="CyanogenMod/android_device_moto_common" path="device/moto/common" revision="ics" />
   <project name="CyanogenMod/android_device_moto_stingray" path="device/moto/stingray" revision="ics" />
@@ -26,26 +24,22 @@
   <project name="CyanogenMod/android_device_samsung_maguro" path="device/samsung/maguro" revision="ics" />
   <project name="CyanogenMod/android_device_samsung_toro" path="device/samsung/toro" revision="ics" />
   <project name="CyanogenMod/android_device_samsung_tuna" path="device/samsung/tuna" revision="ics" />
-  <project name="CyanogenMod/android_kernel_samsung_tuna" path="kernel/samsung/tuna" revision="ics" />
 
   <project name="CyanogenMod/android_device_samsung_crespo" path="device/samsung/crespo" revision="ics" />
   <project name="CyanogenMod/android_device_samsung_crespo4g" path="device/samsung/crespo4g" revision="ics" />
-  <project name="CyanogenMod/android_kernel_samsung_crespo" path="kernel/samsung/crespo" revision="ics" />
 
   <project name="CyanogenMod/android_device_samsung_p4-common" path="device/samsung/p4-common" revision="ics" />
   <project name="CyanogenMod/android_device_samsung_p4wifi" path="device/samsung/p4wifi" revision="ics" />
   <project name="CyanogenMod/android_device_samsung_p4tmo" path="device/samsung/p4tmo" revision="ics" />
-  
+
   <project name="CyanogenMod/android_device_samsung_p1-common" path="device/samsung/p1-common" revision="ics" />
   <project name="CyanogenMod/android_device_samsung_p1" path="device/samsung/p1" revision="ics" />
   <project name="CyanogenMod/android_device_samsung_p1c" path="device/samsung/p1c" revision="ics" />
-  <project name="CyanogenMod/android_kernel_samsung_p1" path="kernel/samsung/p1" revision="android-samsung-2.6.35" />
-  <project name="CyanogenMod/android_kernel_samsung_galaxytab-cdma" path="kernel/samsung/p1c" revision="ics" />
 
   <project name="CyanogenMod/android_device_samsung_aries-common" path="device/samsung/aries-common" revision="ics"/>
   <project name="CyanogenMod/android_device_samsung_captivatemtd" path="device/samsung/captivatemtd" revision="ics" />
   <project name="CyanogenMod/android_device_samsung_galaxysmtd" path="device/samsung/galaxysmtd" revision="ics" />
   <project name="CyanogenMod/android_device_samsung_galaxysbmtd" path="device/samsung/galaxysbmtd" revision="ics" />
   <project name="CyanogenMod/android_device_samsung_vibrantmtd" path="device/samsung/vibrantmtd" revision="ics" />
-  <project name="CyanogenMod/android_kernel_samsung_aries" path="kernel/samsung/aries" revision="android-samsung-3.0-ics" />
+
 </manifest>
