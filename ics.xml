@@ -22,8 +22,6 @@
   <project name="CyanogenMod/android_device_moto_common" path="device/moto/common" revision="ics" />
   <project name="CyanogenMod/android_device_moto_stingray" path="device/moto/stingray" revision="ics" />
   <project name="CyanogenMod/android_device_moto_wingray" path="device/moto/wingray" revision="ics" />
-  <project name="CyanogenMod/moto-kernel-stingray" path="kernel/motorola/stingray" revision="ics" />
-  <project name="CyanogenMod/moto-kernel-wingray" path="kernel/motorola/wingray" revision="ics" />
 
   <project name="CyanogenMod/android_device_samsung_maguro" path="device/samsung/maguro" revision="ics" />
   <project name="CyanogenMod/android_device_samsung_toro" path="device/samsung/toro" revision="ics" />
