@@ -15,4 +15,5 @@
   <project name="koush/proprietary_vendor_semc" path="vendor/semc" revision="gingerbread" />
   <project name="koush/proprietary_vendor_zte" path="vendor/zte" revision="gingerbread" />
   <project name="bekriebel/proprietary_vendor_malata" path="vendor/malata" revision="gingerbread" />
+  <project name="koush/proprietary_vendor_huawei" path="vendor/huawei" revision="gingerbread" />
 </manifest>
