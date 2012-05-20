@@ -16,4 +16,5 @@
   <project name="koush/proprietary_vendor_zte" path="vendor/zte" revision="gingerbread" />
   <project name="bekriebel/proprietary_vendor_malata" path="vendor/malata" revision="gingerbread" />
   <project name="koush/proprietary_vendor_huawei" path="vendor/huawei" revision="gingerbread" />
+  <project name="Sven-Dawitz/proprietary_vendor_advent" path="vendor/advent" revision="gingerbread" />
 </manifest>
