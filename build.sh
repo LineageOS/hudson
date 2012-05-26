@@ -122,7 +122,7 @@ check_result "lunch failed."
 # save manifest used for build (saving revisions as current HEAD)
 repo manifest -o $WORKSPACE/archive/manifest.xml -r
 
-rm -f $OUT/update*.zip*
+rm -f $OUT/cm-*.zip*
 
 UNAME=$(uname)
 
@@ -175,7 +175,7 @@ make $CLEAN_TYPE
 mka bacon recoveryzip recoveryimage checkapi
 check_result "Build failed."
 
-cp $OUT/update*.zip* $WORKSPACE/archive
+cp $OUT/cm-*.zip* $WORKSPACE/archive
 if [ -f $OUT/utilties/update.zip ]
 then
   cp $OUT/utilties/update.zip $WORKSPACE/archive/recovery.zip
@@ -186,7 +186,7 @@ then
 fi
 
 # archive the build.prop as well
-ZIP=$(ls $WORKSPACE/archive/update*.zip)
+ZIP=$(ls $WORKSPACE/archive/cm-*.zip)
 unzip -c $ZIP system/build.prop > $WORKSPACE/archive/build.prop
 
 # CORE: save manifest used for build (saving revisions as current HEAD)
