@@ -139,12 +139,10 @@ then
   export CM_EXPERIMENTAL=true
 elif [ "$RELEASE_TYPE" = "CM_RELEASE" ]
 then
-  if [ "$REPO_BRANCH" = "gingerbread" ]
-  then
-    export CYANOGEN_RELEASE=true
-  else
-    export CM_RELEASE=true
-  fi
+  # gingerbread needs this
+  export CYANOGEN_RELEASE=true
+  # ics needs this
+  export CM_RELEASE=true
 fi
 
 if [ ! -z "$CM_EXTRAVERSION" ]
@@ -195,3 +193,14 @@ repo manifest -o $WORKSPACE/archive/core.xml -r
 
 # chmod the files in case UMASK blocks permissions
 chmod -R ugo+r $WORKSPACE/archive
+
+CMCP=$(which cmcp)
+if [ ! -z "$CMCP" -a ! -z "$CM_RELEASE" ]
+then
+  MODVERSION=$(cat $WORKSPACE/archive/build.prop | grep ro.cm.version | cut -d = -f 2)
+  echo Archiving release to S3.
+  for f in $(ls $WORKSPACE/archive)
+  do
+    cmcp $WORKSPACE/archive/$f release/$MODVERSION/$f
+  done
+fi
