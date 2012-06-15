@@ -202,6 +202,11 @@ then
   then
     MODVERSION=$(cat $WORKSPACE/archive/build.prop | grep ro.cm.version | cut -d = -f 2)
   fi
+  if [ -z "$MODVERSION" ]
+  then
+    echo "Unable to detect ro.modversion or ro.cm.version."
+    exit 1
+  fi
   echo Archiving release to S3.
   for f in $(ls $WORKSPACE/archive)
   do
