@@ -201,7 +201,7 @@ then
   echo Archiving release to S3.
   for f in $(ls $WORKSPACE/archive)
   do
-    cmcp $WORKSPACE/archive/$f release/$MODVERSION/$f
+    cmcp $WORKSPACE/archive/$f release/$MODVERSION/$f > /dev/null 2> /dev/null
     check_result "Failure archiving $f"
   done
 fi
