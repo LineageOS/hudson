@@ -197,7 +197,11 @@ chmod -R ugo+r $WORKSPACE/archive
 CMCP=$(which cmcp)
 if [ ! -z "$CMCP" -a ! -z "$CM_RELEASE" ]
 then
-  MODVERSION=$(cat $WORKSPACE/archive/build.prop | grep ro.cm.version | cut -d = -f 2)
+  MODVERSION=$(cat $WORKSPACE/archive/build.prop | grep ro.modversion | cut -d = -f 2)
+  if [ -z "$MODVERSION" ]
+  then
+    MODVERSION=$(cat $WORKSPACE/archive/build.prop | grep ro.cm.version | cut -d = -f 2)
+  fi
   echo Archiving release to S3.
   for f in $(ls $WORKSPACE/archive)
   do
