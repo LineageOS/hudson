@@ -202,6 +202,6 @@ then
   for f in $(ls $WORKSPACE/archive)
   do
     cmcp $WORKSPACE/archive/$f release/$MODVERSION/$f
-    check_result Failure archiving $f
+    check_result "Failure archiving $f"
   done
 fi
