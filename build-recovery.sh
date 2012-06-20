@@ -119,7 +119,7 @@ check_result "unpacking the boot image failed (gunzip)."
 popd
 
 function getprop {
-  cat /tmp/recovery/ramdisk/default.prop | grep $1 | cut -d = -f 2
+  cat /tmp/recovery/ramdisk/default.prop | grep $1= | cut -d = -f 2
 }
 
 MANUFACTURER=$(getprop ro.product.manufacturer)
@@ -136,6 +136,9 @@ then
   echo ro.product.device not found
   exit 1
 fi
+
+echo MANUFACTURER: $MANUFACTURER
+echo DEVICE: $DEVICE
 
 build/tools/device/mkvendor.sh $MANUFACTURER $DEVICE /tmp/recovery.img
 
