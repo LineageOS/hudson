@@ -41,8 +41,8 @@ export CL_INS="\"\033[32m\""
 export CL_RST="\"\033[0m\""
 
 cd $WORKSPACE
-rm -rf archive
-mkdir -p archive
+rm -rf $WORKSPACE/../recovery/archive
+mkdir -p $WORKSPACE/../recovery/archive
 export BUILD_NO=$BUILD_NUMBER
 unset BUILD_NUMBER
 
@@ -92,7 +92,7 @@ lunch $LUNCH
 check_result "lunch failed."
 
 # save manifest used for build (saving revisions as current HEAD)
-repo manifest -o $WORKSPACE/archive/manifest.xml -r
+repo manifest -o $WORKSPACE/../recovery/archive/manifest.xml -r
 
 if [ ! "$(ccache -s|grep -E 'max cache size'|awk '{print $4}')" = "50.0" ]
 then
@@ -105,12 +105,12 @@ check_result "Build failed."
 
 if [ -f $OUT/utilties/update.zip ]
 then
-  cp $OUT/utilties/update.zip $WORKSPACE/archive/recovery.zip
+  cp $OUT/utilties/update.zip $WORKSPACE/../recovery/archive/recovery.zip
 fi
 if [ -f $OUT/recovery.img ]
 then
-  cp $OUT/recovery.img $WORKSPACE/archive
+  cp $OUT/recovery.img $WORKSPACE/../recovery/archive
 fi
 
 # chmod the files in case UMASK blocks permissions
-chmod -R ugo+r $WORKSPACE/archive
+chmod -R ugo+r $WORKSPACE/../recovery/archive
