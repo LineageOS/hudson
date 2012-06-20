@@ -35,6 +35,9 @@ then
   SYNC_PROTO=http
 fi
 
+echo Custom recovery.fstab:
+echo $RECOVERY_FSTAB
+
 # colorization fix in Jenkins
 export CL_PFX="\"\033[34m\""
 export CL_INS="\"\033[32m\""
@@ -165,6 +168,8 @@ if [ -f $OUT/recovery.img ]
 then
   cp $OUT/recovery.img $WORKSPACE/../recovery/archive
 fi
+
+cp /tmp/recovery.img $WORKSPACE/../recovery/archive/inputrecovery.img
 
 # chmod the files in case UMASK blocks permissions
 chmod -R ugo+r $WORKSPACE/../recovery/archive
