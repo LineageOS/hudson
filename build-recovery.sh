@@ -30,12 +30,6 @@ then
   exit 1
 fi
 
-if [ -z "$RELEASE_TYPE" ]
-then
-  echo RELEASE_TYPE not specified
-  exit 1
-fi
-
 if [ -z "$SYNC_PROTO" ]
 then
   SYNC_PROTO=http
