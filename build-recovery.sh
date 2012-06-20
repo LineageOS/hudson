@@ -33,9 +33,6 @@ then
   SYNC_PROTO=http
 fi
 
-echo Custom recovery.fstab:
-echo $RECOVERY_FSTAB
-
 # colorization fix in Jenkins
 export CL_PFX="\"\033[34m\""
 export CL_INS="\"\033[32m\""
@@ -148,6 +145,11 @@ if [ ! -z "$RECOVERY_FSTAB_URL" ]
 then
   curl $RECOVERY_FSTAB_URL > device/$MANUFACTURER/$DEVICE/recovery.fstab
   check_result "recovery.fstab download failed"
+fi
+
+if [ "$BOARD_TOUCH_RECOVERY" != "true" ]
+then
+  unset BOARD_TOUCH_RECOVERY
 fi
 
 lunch cm_$DEVICE-userdebug
