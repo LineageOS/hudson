@@ -181,3 +181,9 @@ cp /tmp/recovery.img $WORKSPACE/../recovery/archive/inputrecovery.img
 
 # chmod the files in case UMASK blocks permissions
 chmod -R ugo+r $WORKSPACE/../recovery/archive
+
+
+echo This recovery was built for:
+echo MANUFACTURER: $MANUFACTURER
+echo DEVICE: $DEVICE
+echo If this is not the recovery you were building, please check the other builds.
