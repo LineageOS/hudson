@@ -147,6 +147,14 @@ then
   check_result "recovery.fstab download failed"
 fi
 
+if [ ! -z "$BOARD_CUSTOM_GRAPHICS_URL" ]
+then
+  curl $BOARD_CUSTOM_GRAPHICS_URL > device/$MANUFACTURER/$DEVICE/graphics.c
+  check_result "graphics.c download failed"
+  echo >> device/$MANUFACTURER/$DEVICE/BoardConfig.mk
+  echo BOARD_CUSTOM_GRAPHICS:= ../../../device/$MANUFACTURER/$DEVICE/graphics.c >> device/$MANUFACTURER/$DEVICE/BoardConfig.mk
+fi
+
 if [ "$BOARD_TOUCH_RECOVERY" != "true" ]
 then
   unset BOARD_TOUCH_RECOVERY
