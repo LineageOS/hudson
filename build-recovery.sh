@@ -129,8 +129,8 @@ DEVICE=$(getprop ro.product.device)
 
 if [ -z "$MANUFACTURER" ]
 then
-  echo ro.product.manufacturer not found
-  exit 1
+  echo ro.product.manufacturer not found, using default
+  MANUFACTURER=unknown
 fi
 
 if [ -z "$DEVICE" ]
