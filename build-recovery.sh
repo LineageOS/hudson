@@ -96,7 +96,7 @@ lunch generic_armv5-userdebug
 make -j32 otatools
 
 UNPACKBOOTIMG=$(ls out/host/**/bin/unpackbootimg)
-if [ ! -z "$UNPACKBOOTIMG" ]
+if [ -z "$UNPACKBOOTIMG" ]
 then
   echo unpackbootimg not found
   exit 1
@@ -125,13 +125,13 @@ function getprop {
 MANUFACTURER=$(getprop ro.product.manufacturer)
 DEVICE=$(getprop ro.product.device)
 
-if [ ! -z "$MANUFACTURER" ]
+if [ -z "$MANUFACTURER" ]
 then
   echo ro.product.manufacturer not found
   exit 1
 fi
 
-if [ ! -z "$DEVICE" ]
+if [ -z "$DEVICE" ]
 then
   echo ro.product.device not found
   exit 1
