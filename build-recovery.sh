@@ -67,7 +67,7 @@ cd $REPO_BRANCH
 
 rm -rf .repo/manifests*
 repo init -u $SYNC_PROTO://github.com/CyanogenMod/android.git -b $REPO_BRANCH
-check_error "repo init failed."
+check_result "repo init failed."
 
 # make sure ccache is in PATH
 export PATH="$PATH:/opt/local/bin/:$PWD/prebuilt/$(uname|awk '{print tolower($0)}')-x86/ccache"
@@ -104,7 +104,7 @@ fi
 
 echo Retrieving recovery image.
 curl $RECOVERY_IMAGE_URL > /tmp/recovery.img
-check_error "Recovery image download failed."
+check_result "Recovery image download failed."
 
 echo Unpacking recovery image.
 mkdir -p /tmp/recovery
@@ -114,7 +114,7 @@ pushd .
 cd /tmp/recovery
 mkdir ramdisk
 cd ramdisk
-gunzip -c ../recovery-ramdisk.gz | cpio -i
+gunzip -c ../recovery.img-ramdisk.gz | cpio -i
 check_result "unpacking the boot image failed (gunzip)."
 popd
 
