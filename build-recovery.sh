@@ -106,6 +106,7 @@ then
 fi
 
 echo Retrieving recovery image.
+rm -rf /tmp/recovery.img /tmp/recovery
 curl $RECOVERY_IMAGE_URL > /tmp/recovery.img
 check_result "Recovery image download failed."
 
@@ -144,6 +145,12 @@ echo MANUFACTURER: $MANUFACTURER
 echo DEVICE: $DEVICE
 
 build/tools/device/mkvendor.sh $MANUFACTURER $DEVICE /tmp/recovery.img
+
+if [ ! -z "$RECOVERY_FSTAB_URL" ]
+then
+  curl $RECOVERY_FSTAB_URL > device/$MANUFACTURER/$DEVICE/recovery.fstab
+  check_result "recovery.fstab download failed"
+fi
 
 lunch cm_$DEVICE-userdebug
 check_result "lunch failed."
