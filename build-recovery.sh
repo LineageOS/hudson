@@ -133,8 +133,9 @@ fi
 
 if [ -z "$DEVICE" ]
 then
-  echo ro.product.device not found
-  exit 1
+  echo ro.product.device not found, using default
+  echo THIS IS GENERALLY BAD BAD BAD BAD BAD.
+  DEVICE=unknown
 fi
 
 echo MANUFACTURER: $MANUFACTURER
