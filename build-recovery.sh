@@ -83,10 +83,10 @@ then
   . ~/.jenkins_profile
 fi
 
+cp $WORKSPACE/hudson/recovery.xml .repo/local_manifest.xml
+
 echo Manifest:
 cat .repo/manifests/default.xml
-
-rm -f .repo/local_manifest.xml
 
 echo Syncing...
 repo sync -d > /dev/null 2> /tmp/jenkins-sync-errors.txt
