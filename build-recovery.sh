@@ -87,11 +87,6 @@ repo sync -d > /dev/null 2> /tmp/jenkins-sync-errors.txt
 check_result "repo sync failed."
 echo Sync complete.
 
-if [ -f $WORKSPACE/hudson/$REPO_BRANCH-setup.sh ]
-then
-  $WORKSPACE/hudson/$REPO_BRANCH-setup.sh
-fi
-
 . build/envsetup.sh
 lunch $LUNCH
 check_result "lunch failed."
