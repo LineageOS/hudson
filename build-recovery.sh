@@ -193,7 +193,7 @@ cp /tmp/recovery.img $WORKSPACE/../recovery/archive/inputrecovery.img
 chmod -R ugo+r $WORKSPACE/../recovery/archive
 
 echo Zipping up device tree.
-zip -ry $WORKSPACE/../recovery/archive/android_device_$MANUFACTURER_$DEVICE.zip device/$MANUFACTURER/$DEVICE
+zip -ry $WORKSPACE/../recovery/archive/"android_device_"$MANUFACTURER"_"$DEVICE.zip device/$MANUFACTURER/$DEVICE
 
 echo This recovery was built for:
 echo MANUFACTURER: $MANUFACTURER
