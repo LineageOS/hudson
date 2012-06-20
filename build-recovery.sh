@@ -20,8 +20,6 @@ then
   exit 1
 fi
 
-CLEAN_TYPE=clean
-
 REPO_BRANCH=ics
 
 if [ -z "$RECOVERY_IMAGE_URL" ]
@@ -163,7 +161,8 @@ then
   ccache -M 50G
 fi
 
-make $CLEAN_TYPE
+# only clobber product, not host
+rm -rf out/target/product
 mka recoveryzip recoveryimage
 check_result "Build failed."
 
