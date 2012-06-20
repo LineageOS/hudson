@@ -24,9 +24,9 @@ CLEAN_TYPE=clean
 
 REPO_BRANCH=ics
 
-if [ -z "$LUNCH" ]
+if [ -z "$RECOVERY_IMAGE_URL" ]
 then
-  echo LUNCH not specified
+  echo RECOVERY_IMAGE_URL not specified
   exit 1
 fi
 
@@ -83,12 +83,63 @@ echo Manifest:
 cat .repo/manifests/default.xml
 
 echo Syncing...
+# clear all devices from previous builds.
+rm -rf device
 repo sync -d > /dev/null 2> /tmp/jenkins-sync-errors.txt
 check_result "repo sync failed."
 echo Sync complete.
 
 . build/envsetup.sh
-lunch $LUNCH
+
+echo Building unpackbootimg.
+lunch generic_armv5-userdebug
+make -j32 otatools
+
+UNPACKBOOTIMG=$(ls out/host/**/bin/unpackbootimg)
+if [ ! -z "$UNPACKBOOTIMG" ]
+then
+  echo unpackbootimg not found
+  exit 1
+fi
+
+echo Retrieving recovery image.
+curl $RECOVERY_IMAGE_URL > /tmp/recovery.img
+check_error "Recovery image download failed."
+
+echo Unpacking recovery image.
+mkdir -p /tmp/recovery
+unpackbootimg -i /tmp/recovery.img -o /tmp/recovery
+check_result "unpacking the boot image failed."
+pushd .
+cd /tmp/recovery
+mkdir ramdisk
+cd ramdisk
+gunzip -c ../recovery-ramdisk.gz | cpio -i
+check_result "unpacking the boot image failed (gunzip)."
+popd
+
+function getprop {
+  cat /tmp/recovery/ramdisk/default.prop | grep $1 | cut -d = -f 2
+}
+
+MANUFACTURER=$(getprop ro.product.manufacturer)
+DEVICE=$(getprop ro.product.device)
+
+if [ ! -z "$MANUFACTURER" ]
+then
+  echo ro.product.manufacturer not found
+  exit 1
+fi
+
+if [ ! -z "$DEVICE" ]
+then
+  echo ro.product.device not found
+  exit 1
+fi
+
+build/tools/device/mkvendor.sh $MANUFACTURER $DEVICE /tmp/recovery.img
+
+lunch cm_$DEVICE-userdebug
 check_result "lunch failed."
 
 # save manifest used for build (saving revisions as current HEAD)
