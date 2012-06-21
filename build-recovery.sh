@@ -92,7 +92,7 @@ echo Sync complete.
 echo Building unpackbootimg.
 lunch generic_armv5-userdebug
 # fix up the path to not force darwin stupidly
-make -j8 out/host/darwin-x86/bin/unpackbootimg
+make -j4 out/host/darwin-x86/bin/unpackbootimg
 
 UNPACKBOOTIMG=$(ls out/host/**/bin/unpackbootimg)
 if [ -z "$UNPACKBOOTIMG" ]
@@ -175,7 +175,7 @@ fi
 
 # only clobber product, not host
 rm -rf out/target/product
-mka recoveryzip recoveryimage
+make -j4 recoveryzip recoveryimage
 check_result "Build failed."
 
 if [ -f $OUT/utilties/update.zip ]
