@@ -199,3 +199,5 @@ echo This recovery was built for:
 echo MANUFACTURER: $MANUFACTURER
 echo DEVICE: $DEVICE
 echo If this is not the recovery you were building, please check the other builds.
+echo
+echo 'You can download the recovery image and other artifacts by clicking "Status" in the menu on the left.'
