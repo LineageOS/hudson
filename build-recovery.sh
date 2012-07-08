@@ -83,7 +83,7 @@ cat .repo/manifests/default.xml
 echo Syncing...
 # clear all devices from previous builds.
 rm -rf device
-repo sync -d > /dev/null 2> /tmp/jenkins-sync-errors.txt
+repo sync -d
 check_result "repo sync failed."
 echo Sync complete.
 
