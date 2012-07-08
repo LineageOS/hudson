@@ -89,20 +89,20 @@ echo Sync complete.
 
 . build/envsetup.sh
 
-echo Building unpackbootimg.
-lunch generic_armv5-userdebug
-# fix up the path to not force darwin stupidly
-make -j4 out/host/darwin-x86/bin/unpackbootimg
-
-UNPACKBOOTIMG=$(ls out/host/**/bin/unpackbootimg)
-if [ -z "$UNPACKBOOTIMG" ]
-then
-  echo unpackbootimg not found
-  exit 1
-fi
-
 if [ ! -z "$RECOVERY_IMAGE_URL" ]
 then
+  echo Building unpackbootimg.
+  lunch generic_armv5-userdebug
+  # fix up the path to not force darwin stupidly
+  make -j4 out/host/darwin-x86/bin/unpackbootimg
+
+  UNPACKBOOTIMG=$(ls out/host/**/bin/unpackbootimg)
+  if [ -z "$UNPACKBOOTIMG" ]
+  then
+    echo unpackbootimg not found
+    exit 1
+  fi
+
   echo Retrieving recovery image.
   rm -rf /tmp/recovery.img /tmp/recovery
   curl $RECOVERY_IMAGE_URL > /tmp/recovery.img
