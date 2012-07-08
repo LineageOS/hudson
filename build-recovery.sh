@@ -22,9 +22,9 @@ fi
 
 REPO_BRANCH=ics
 
-if [ -z "$RECOVERY_IMAGE_URL" -a -z "$EXISTING_LUNCH" ]
+if [ -z "$RECOVERY_IMAGE_URL" -a -z "$EXISTING_DEVICE" ]
 then
-  echo RECOVERY_IMAGE_URL and EXISTING_LUNCH not specified
+  echo RECOVERY_IMAGE_URL and EXISTING_DEVICE not specified
   exit 1
 fi
 
