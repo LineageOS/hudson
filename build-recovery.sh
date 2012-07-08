@@ -212,7 +212,7 @@ cp /tmp/recovery.img $WORKSPACE/../recovery/archive/inputrecovery.img
 chmod -R ugo+r $WORKSPACE/../recovery/archive
 
 echo This recovery was built for:
-if [ ! -z "$MANUFACTURER" ]
+if [ -z "$MANUFACTURER" ]
 then
   function getprop {
     cat $OUT/recovery/root/default.prop | grep $1= | cut -d = -f 2
