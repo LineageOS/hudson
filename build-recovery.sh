@@ -126,8 +126,10 @@ then
 
   MANUFACTURER=$(getprop ro.product.manufacturer)
   MANUFACTURER=$(echo $MANUFACTURER | sed s/-//g)
+  MANUFACTURER=$(echo $MANUFACTURER | sed 's/ //g')
   DEVICE=$(getprop ro.product.device)
   DEVICE=$(echo $DEVICE | sed s/-//g)
+  DEVICE=$(echo $DEVICE | sed 's/ //g')
 
   if [ -z "$MANUFACTURER" ]
   then
