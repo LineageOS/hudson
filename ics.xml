@@ -44,4 +44,9 @@
   <project name="CyanogenMod/android_device_samsung_galaxysbmtd" path="device/samsung/galaxysbmtd" revision="ics" />
   <project name="CyanogenMod/android_device_samsung_vibrantmtd" path="device/samsung/vibrantmtd" revision="ics" />
 
+  <project name="CyanogenMod/android_device_samsung_msm8960-common" path="device/samsung/msm8960-common" revision="ics" />
+  <project name="CyanogenMod/android_device_samsung_d2-common" path="device/samsung/d2-common" revision="ics" />
+  <project name="CyanogenMod/android_device_samsung_d2att" path="device/samsung/d2att" revision="ics" />
+  <project name="CyanogenMod/android_device_samsung_d2spr" path="device/samsung/d2spr" revision="ics" />
+  <project name="CyanogenMod/android_device_samsung_d2tmo" path="device/samsung/d2tmo" revision="ics" />
 </manifest>
