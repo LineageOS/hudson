@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="AndroidRoot/vendor_proprietary_asus_tf101" path="vendor/asus/tf101" revision="ics" />
-  <project name="AndroidRoot/vendor_proprietary_asus_tf201" path="vendor/asus/tf201" revision="ics" />
-  <project name="koush/proprietary_vendor_akm" path="vendor/akm" revision="ics" />
-  <project name="koush/proprietary_vendor_broadcom" path="vendor/broadcom" revision="ics" />
-  <project name="koush/proprietary_vendor_htc" path="vendor/htc" revision="ics" />
-  <project name="koush/proprietary_vendor_hp" path="vendor/hp" revision="ics" />
-  <project name="koush/proprietary_vendor_imgtec" path="vendor/imgtec" revision="ics" />
-  <project name="koush/proprietary_vendor_lge" path="vendor/lge" revision="ics" />
-  <project name="koush/proprietary_vendor_motorola" path="vendor/motorola" revision="ics" />
-  <project name="koush/proprietary_vendor_nxp" path="vendor/nxp" revision="ics" />
-  <project name="koush/proprietary_vendor_samsung" path="vendor/samsung" revision="ics" />
-  <project name="koush/proprietary_vendor_semc" path="vendor/semc" revision="ics" />
-  <project name="koush/proprietary_vendor_zte" path="vendor/zte" revision="ics" />
-  <project name="xplodwild/android_vendor_asus_tf300t" path="vendor/asus/tf300t" revision="master" />
+  <project name="TheMuppets/vendor_proprietary_asus" path="vendor/asus" revision="ics" />
+  <project name="TheMuppets/proprietary_vendor_akm" path="vendor/akm" revision="ics" />
+  <project name="TheMuppets/proprietary_vendor_broadcom" path="vendor/broadcom" revision="ics" />
+  <project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc" revision="ics" />
+  <project name="TheMuppets/proprietary_vendor_hp" path="vendor/hp" revision="ics" />
+  <project name="TheMuppets/proprietary_vendor_imgtec" path="vendor/imgtec" revision="ics" />
+  <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge" revision="ics" />
+  <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" revision="ics" />
+  <project name="TheMuppets/proprietary_vendor_nxp" path="vendor/nxp" revision="ics" />
+  <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" revision="ics" />
+  <project name="TheMuppets/proprietary_vendor_semc" path="vendor/semc" revision="ics" />
+  <project name="TheMuppets/proprietary_vendor_zte" path="vendor/zte" revision="ics" />
 
   <project name="CyanogenMod/android_device_asus_tf101" path="device/asus/tf101" revision="ics" />
   <project name="CyanogenMod/android_device_asus_tf201" path="device/asus/tf201" revision="ics" />
