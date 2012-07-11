@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="TheMuppets/vendor_proprietary_asus" path="vendor/asus" revision="ics" />
+  <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" revision="ics" />
   <project name="TheMuppets/proprietary_vendor_akm" path="vendor/akm" revision="ics" />
   <project name="TheMuppets/proprietary_vendor_broadcom" path="vendor/broadcom" revision="ics" />
   <project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc" revision="ics" />
