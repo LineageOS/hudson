@@ -91,11 +91,11 @@ echo Sync complete.
 
 if [ ! -z "$RECOVERY_IMAGE_URL" ]
 then
-  echo Building unpackbootimg.
-  lunch generic_armv5-userdebug
   # fix up the path to not force darwin stupidly
   if [ ! -f out/host/darwin-x86/bin/unpackbootimg ]
   then
+    echo Building unpackbootimg.
+    lunch generic_armv5-userdebug
     make -j4 out/host/darwin-x86/bin/unpackbootimg
   fi
 
