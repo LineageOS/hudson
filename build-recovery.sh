@@ -94,7 +94,10 @@ then
   echo Building unpackbootimg.
   lunch generic_armv5-userdebug
   # fix up the path to not force darwin stupidly
-  make -j4 out/host/darwin-x86/bin/unpackbootimg
+  if [ ! -f out/host/darwin-x86/bin/unpackbootimg ]
+  then
+    make -j4 out/host/darwin-x86/bin/unpackbootimg
+  fi
 
   UNPACKBOOTIMG=$(ls out/host/**/bin/unpackbootimg)
   if [ -z "$UNPACKBOOTIMG" ]
