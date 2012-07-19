@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remove-project name="CyanogenMod/android_bootable_recovery" />
-  <project name="koush/android_bootable_recovery" path="bootable/recovery" revision="ics" remote="private" />
   <project name="koush/android_vendor_koush" path="vendor/koush" revision="ics" remote="private" />
 </manifest>
   
