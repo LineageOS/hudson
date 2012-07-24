@@ -107,6 +107,7 @@ then
   rm -rf /tmp/recovery.img /tmp/recovery
   curl $RECOVERY_IMAGE_URL > /tmp/recovery.img
   check_result "Recovery image download failed."
+  cp /tmp/recovery.img $WORKSPACE/../recovery/archive/inputrecovery.img
 
   echo Unpacking recovery image.
   mkdir -p /tmp/recovery
@@ -207,8 +208,6 @@ if [ -f $OUT/recovery.img ]
 then
   cp $OUT/recovery.img $WORKSPACE/../recovery/archive
 fi
-
-cp /tmp/recovery.img $WORKSPACE/../recovery/archive/inputrecovery.img
 
 # chmod the files in case UMASK blocks permissions
 chmod -R ugo+r $WORKSPACE/../recovery/archive
