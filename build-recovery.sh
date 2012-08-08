@@ -87,6 +87,7 @@ repo sync -d
 check_result "repo sync failed."
 echo Sync complete.
 
+. vendor/koush/recovery/envsetup.sh
 . build/envsetup.sh
 
 if [ ! -z "$RECOVERY_IMAGE_URL" ]
