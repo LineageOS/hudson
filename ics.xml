@@ -11,6 +11,7 @@
   <project name="TheMuppets/proprietary_vendor_nxp" path="vendor/nxp" revision="ics" />
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" revision="ics" />
   <project name="TheMuppets/proprietary_vendor_semc" path="vendor/semc" revision="ics" />
+  <project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony" revision="ics" />
   <project name="TheMuppets/proprietary_vendor_zte" path="vendor/zte" revision="ics" />
 
   <project name="CyanogenMod/android_device_asus_tf101" path="device/asus/tf101" revision="ics" />
