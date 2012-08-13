@@ -216,7 +216,7 @@ check_result "Build failed."
 if [ -z "$NO_UPLOAD" ]
 then
   pushd ROMManagerManifest
-  git commit -a -m "builder.clockworkmod.com: updating device $DEVICE for build number $BUILD_NO"
+  git commit -a -m "builder.clockworkmod.com: updating device $DEVICE for build number $BUILD_NO: http://jenkins.cyanogenmod.com/job/recovery/$BUILD_NO"
   git push private HEAD:gh-pages
   popd
 fi
