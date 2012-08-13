@@ -33,6 +33,13 @@ then
   SYNC_PROTO=git
 fi
 
+if [ ! -z "$INITIATING_OWNER" ]
+then
+  echo Build initiated by owner: $INITIATING_OWNER
+else
+  echo Build initiated by RANDOM
+fi
+
 # colorization fix in Jenkins
 export CL_PFX="\"\033[34m\""
 export CL_INS="\"\033[32m\""
