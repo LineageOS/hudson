@@ -199,6 +199,12 @@ repo manifest -o $WORKSPACE/../recovery/archive/manifest.xml -r
 
 # only clobber product, not host
 rm -rf out/target/product
+RECOVERY_VERSION=$(cat bootable/recovery/Android.mk | grep RECOVERY_VERSION | grep RECOVERY_NAME | awk '{ print $4 }' | sed s/v//g)
+ruby ROMManagerManifest/checkdevice.rb $DEVICE $RECOVERY_VERSION $INITIATING_OWNER
+if [ "$?" != "0" ]
+then
+  export NO_UPLOAD=true
+fi
 . build/tools/device/makerecoveries.sh cm_$DEVICE-userdebug
 check_result "Build failed."
 
