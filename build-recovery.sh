@@ -205,6 +205,11 @@ if [ "$?" != "0" ]
 then
   export NO_UPLOAD=true
 fi
+MCP=$(which mcp)
+if [ -z "$MCP" ]
+then
+  export NO_UPLOAD=true
+fi
 . build/tools/device/makerecoveries.sh cm_$DEVICE-userdebug
 check_result "Build failed."
 
