@@ -213,6 +213,14 @@ fi
 . build/tools/device/makerecoveries.sh cm_$DEVICE-userdebug
 check_result "Build failed."
 
+if [ -z "$NO_UPLOAD" ]
+then
+  pushd ROMManagerManifest
+  git commit -a -m "builder.clockworkmod.com: updating device $DEVICE for build number $BUILD_NO"
+  git push private HEAD:gh-pages
+  popd
+fi
+
 if [ -f $OUT/utilties/update.zip ]
 then
   cp $OUT/utilties/update.zip $WORKSPACE/../recovery/archive/recovery.zip
