@@ -49,6 +49,11 @@ export PATH=~/bin:$PATH
 export USE_CCACHE=1
 export BUILD_WITH_COLORS=0
 
+if [ ! "$(ccache -s|grep -E 'max cache size'|awk '{print $4}')" = "50.0" ]
+then
+  ccache -M 50G
+fi
+
 REPO=$(which repo)
 if [ -z "$REPO" ]
 then
@@ -185,20 +190,12 @@ then
   unset BOARD_TOUCH_RECOVERY
 fi
 
-lunch cm_$DEVICE-userdebug
-check_result "lunch failed."
-
 # save manifest used for build (saving revisions as current HEAD)
 repo manifest -o $WORKSPACE/../recovery/archive/manifest.xml -r
 
-if [ ! "$(ccache -s|grep -E 'max cache size'|awk '{print $4}')" = "50.0" ]
-then
-  ccache -M 50G
-fi
-
 # only clobber product, not host
 rm -rf out/target/product
-make -j4 recoveryzip recoveryimage
+. build/tools/device/makerecoveries.sh cm_$DEVICE-userdebug
 check_result "Build failed."
 
 if [ -f $OUT/utilties/update.zip ]
