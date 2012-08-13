@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
 
+if [ -f ~/.jenkins_profile ]
+then
+  . ~/.jenkins_profile
+fi
+
 function check_result {
   if [ "0" -ne "$?" ]
   then
@@ -78,14 +83,6 @@ cd $REPO_BRANCH
 rm -rf .repo/manifests*
 repo init -u $SYNC_PROTO://github.com/CyanogenMod/android.git -b $REPO_BRANCH
 check_result "repo init failed."
-
-# make sure ccache is in PATH
-export PATH="$PATH:/opt/local/bin/:$PWD/prebuilt/$(uname|awk '{print tolower($0)}')-x86/ccache"
-
-if [ -f ~/.jenkins_profile ]
-then
-  . ~/.jenkins_profile
-fi
 
 cp $WORKSPACE/hudson/recovery.xml .repo/local_manifest.xml
 
