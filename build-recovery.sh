@@ -101,6 +101,7 @@ echo Sync complete.
 
 if [ ! -z "$RECOVERY_IMAGE_URL" ]
 then
+  export NO_UPLOAD=true
   # fix up the path to not force darwin stupidly
   echo Building unpackbootimg.
   lunch generic_armv5-userdebug
