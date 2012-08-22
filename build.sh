@@ -164,9 +164,9 @@ then
   fi
 fi
 
-if [ ! "$(ccache -s|grep -E 'max cache size'|awk '{print $4}')" = "50.0" ]
+if [ ! "$(ccache -s|grep -E 'max cache size'|awk '{print $4}')" = "200.0" ]
 then
-  ccache -M 50G
+  ccache -M 200G
 fi
 
 make $CLEAN_TYPE
