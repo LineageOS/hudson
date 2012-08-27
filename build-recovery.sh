@@ -122,7 +122,7 @@ then
 
   echo Unpacking recovery image.
   mkdir -p /tmp/recovery
-  unpackbootimg -i /tmp/recovery.img -o /tmp/recovery
+  $UNPACKBOOTIMG -i /tmp/recovery.img -o /tmp/recovery
   check_result "unpacking the boot image failed."
   pushd .
   cd /tmp/recovery
