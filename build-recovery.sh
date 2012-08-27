@@ -104,7 +104,7 @@ then
   export NO_UPLOAD=true
   # fix up the path to not force darwin stupidly
   echo Building unpackbootimg.
-  lunch generic_armv5-userdebug
+  lunch full-userdebug
   make -j4 out/host/darwin-x86/bin/unpackbootimg
 
   UNPACKBOOTIMG=$(ls out/host/**/bin/unpackbootimg)
