@@ -25,7 +25,7 @@ then
   exit 1
 fi
 
-REPO_BRANCH=ics
+REPO_BRANCH=jellybean
 
 if [ -z "$RECOVERY_IMAGE_URL" -a -z "$EXISTING_DEVICE" ]
 then
