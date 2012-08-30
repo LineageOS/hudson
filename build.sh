@@ -87,7 +87,6 @@ then
   CORE_BRANCH=$REPO_BRANCH
 fi
 rm -rf .repo/manifests*
-rm -rf .repo/local_manifest.xml
 repo init -u $SYNC_PROTO://github.com/CyanogenMod/android.git -b $CORE_BRANCH
 check_result "repo init failed."
 
