@@ -178,7 +178,23 @@ then
   ccache -M 100G
 fi
 
-make $CLEAN_TYPE
+LAST_CLEAN=0
+if [ -f .clean ]
+then
+  LAST_CLEAN=$(date -r .clean +%s)
+fi
+TIME_SINCE_LAST_CLEAN=$(expr $(date +%s) - $LAST_CLEAN)
+# convert this to hours
+TIME_SINCE_LAST_CLEAN=$(expr $TIME_SINCE_LAST_CLEAN / 60 / 60)
+if [ $TIME_SINCE_LAST_CLEAN -gt "24" ]
+then
+  echo "Cleaning!"
+  touch .clean
+  make $CLEAN_TYPE
+else
+  echo "Skipping clean: $TIME_SINCE_LAST_CLEAN hours since last clean."
+fi
+
 time mka bacon recoveryzip recoveryimage checkapi
 check_result "Build failed."
 
