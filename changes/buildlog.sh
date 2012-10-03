@@ -4,7 +4,8 @@ if [ -z "$CM_BUILD" ]; then
 fi
 
 MYPATH=$(dirname $0)
-rm $WORKSPACE/archive/CHANGES.txt 2>/dev/null
+export CHANGESPATH=$WORKSPACE/archive/CHANGES.txt
+rm $CHANGESPATH 2>/dev/null
 
 prevts=
 for ts in `python2 $MYPATH/getdates.py $CM_BUILD`; do
@@ -18,7 +19,11 @@ if [ -z "$prevts" ]; then
 else
   repo forall -c 'L=$(git log --oneline --no-merges --since $ts --until $prevts -n 1); if [ "n$L" != "n" ]; then echo; echo "   * $REPO_PATH"; git log --oneline --no-merges --since $ts --until $prevts; fi'
 fi
-echo) >> $WORKSPACE/archive/CHANGES.txt
+echo) >> $CHANGESPATH
 export prevts=$ts
 
 done
+
+if [ -z "$prevts" ]; then
+  echo "This is the first CyanogenMod build of this type for device $CM_BUILD" >> $CHANGESPATH
+fi
