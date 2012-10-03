@@ -14,9 +14,9 @@ export ts
 date -d @$ts 
 echo "============================="
 if [ -z "$prevts" ]; then
-  repo forall -c 'L=$(git log --oneline --no-merges --since $ts -n 1); if [ "n$L" != "n" ]; then echo -e "\n   * $REPO_PATH\n"; git log --oneline --no-merges --since $ts; echo; fi'
+  repo forall -c 'L=$(git log --oneline --no-merges --since $ts -n 1); if [ "n$L" != "n" ]; then echo; echo "   * $REPO_PATH"; git log --oneline --no-merges --since $ts; echo; fi'
 else
-  repo forall -c 'L=$(git log --oneline --no-merges --since $ts --until $prevts -n 1); if [ "n$L" != "n" ]; then echo -e "\n   * $REPO_PATH\n"; git log --oneline --no-merges --since $ts --until $prevts; echo; fi'
+  repo forall -c 'L=$(git log --oneline --no-merges --since $ts --until $prevts -n 1); if [ "n$L" != "n" ]; then echo; echo "   * $REPO_PATH"; git log --oneline --no-merges --since $ts --until $prevts; echo; fi'
 fi
 echo "============================="
 echo) >> $WORKSPACE/archive/CHANGES.txt
