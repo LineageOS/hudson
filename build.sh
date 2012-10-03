@@ -128,8 +128,6 @@ fi
 lunch $LUNCH
 check_result "lunch failed."
 
-WORKSPACE=$WORKSPACE LUNCH=$LUNCH sh $WORKSPACE/hudson/changes/buildlog.sh 2>&1
-
 # save manifest used for build (saving revisions as current HEAD)
 repo manifest -o $WORKSPACE/archive/manifest.xml -r
 
@@ -179,6 +177,8 @@ if [ ! "$(ccache -s|grep -E 'max cache size'|awk '{print $4}')" = "100.0" ]
 then
   ccache -M 100G
 fi
+
+WORKSPACE=$WORKSPACE LUNCH=$LUNCH sh $WORKSPACE/hudson/changes/buildlog.sh 2>&1
 
 LAST_CLEAN=0
 if [ -f .clean ]
