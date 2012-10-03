@@ -24,6 +24,12 @@ if 'CM_RELEASE' in os.environ:
 elif 'CM_NIGHTLY' in os.environ:
   channel = 'nightly'
   limit = 5
+elif 'CM_EXTRAVERSION' in os.environ:
+  if re.search("^M\d+",os.environ['CM_EXTRAVERSION']) is not None:
+    channel = 'snapshot'
+    limit = 1
+  else:
+    sys.exit(4)
 else:
   sys.exit(3)
 
