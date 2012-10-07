@@ -18,10 +18,10 @@ if len(device) <= 0:
   print "No device left after parsing input?"
   sys.exit(2)
 
-if 'CM_RELEASE' in os.environ:
+if 'CM_RELEASE' in os.environ or 'CYANOGEN_RELEASE' in os.environ:
   channel = 'stable'
   limit = 1
-elif 'CM_NIGHTLY' in os.environ:
+elif 'CM_NIGHTLY' in os.environ or 'CYANOGEN_NIGHTLY' in os.environ:
   channel = 'nightly'
   limit = 5
 elif 'CM_EXTRAVERSION' in os.environ:
