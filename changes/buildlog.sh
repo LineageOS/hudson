@@ -12,12 +12,12 @@ for ts in `python2 $MYPATH/getdates.py $CM_BUILD`; do
 
 export ts
 (echo "==================================="
-echo -n "Since ";date -d @$ts 
+echo -n "Since ";date -u -d @$ts 
 echo "==================================="
 if [ -z "$prevts" ]; then
-  repo forall -c 'L=$(git log --oneline --no-merges --since $ts -n 1); if [ "n$L" != "n" ]; then echo; echo "   * $REPO_PATH"; git log --oneline --no-merges --since $ts; fi'
+  repo forall -c 'L=$(git log --oneline --since $ts -n 1); if [ "n$L" != "n" ]; then echo; echo "   * $REPO_PATH"; git log --oneline --since $ts; fi'
 else
-  repo forall -c 'L=$(git log --oneline --no-merges --since $ts --until $prevts -n 1); if [ "n$L" != "n" ]; then echo; echo "   * $REPO_PATH"; git log --oneline --no-merges --since $ts --until $prevts; fi'
+  repo forall -c 'L=$(git log --oneline --since $ts --until $prevts -n 1); if [ "n$L" != "n" ]; then echo; echo "   * $REPO_PATH"; git log --oneline --since $ts --until $prevts; fi'
 fi
 echo) >> $CHANGESPATH
 export prevts=$ts
