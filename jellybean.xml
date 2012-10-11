@@ -12,6 +12,7 @@
   <project name="TheMuppets/proprietary_vendor_nvidia" path="vendor/nvidia" revision="jellybean" />
   <project name="TheMuppets/proprietary_vendor_nxp" path="vendor/nxp" revision="jellybean" />
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" revision="jellybean" />
+  <project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony" revision="jellybean" />
   <project name="TheMuppets/proprietary_vendor_widevine" path="vendor/widevine" revision="jellybean" />
   <project name="CyanogenMod/android_device_samsung_maguro" path="device/samsung/maguro" remote="github" revision="jellybean" />
   <project name="CyanogenMod/android_kernel_samsung_tuna" path="kernel/samsung/tuna" remote="github" revision="jb" />
