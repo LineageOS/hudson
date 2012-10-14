@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="TheMuppets / proprietary_vendor_acer" path="vendor/acer" revision="jellybean" />
+  <project name="TheMuppets/proprietary_vendor_acer" path="vendor/acer" revision="jellybean" />
   <project name="TheMuppets/proprietary_vendor_akm" path="vendor/akm" revision="jellybean" />
   <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" revision="jellybean" />
   <project name="TheMuppets/proprietary_vendor_broadcom" path="vendor/broadcom" revision="jellybean" />
