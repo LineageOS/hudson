@@ -115,7 +115,7 @@ echo Local Manifest:
 cat .repo/local_manifest.xml
 
 echo Syncing...
-repo sync -d > /dev/null
+repo sync -d -c > /dev/null
 check_result "repo sync failed."
 echo Sync complete.
 
