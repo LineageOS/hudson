@@ -106,7 +106,7 @@ then
   # fix up the path to not force darwin stupidly
   echo Building unpackbootimg.
   lunch full-userdebug
-  make -j4 out/host/darwin-x86/bin/unpackbootimg
+  make -j4 unpackbootimg
 
   UNPACKBOOTIMG=$(ls out/host/**/bin/unpackbootimg)
   if [ -z "$UNPACKBOOTIMG" ]
