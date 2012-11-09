@@ -16,7 +16,7 @@
   <project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony" revision="jellybean" />
   <project name="TheMuppets/proprietary_vendor_widevine" path="vendor/widevine" revision="jellybean" />
   <project name="CyanogenMod/android_device_samsung_maguro" path="device/samsung/maguro" remote="github" revision="jellybean" />
-  <project name="CyanogenMod/android_kernel_samsung_tuna" path="kernel/samsung/tuna" remote="github" revision="jb" />
+  <project name="CyanogenMod/android_kernel_samsung_tuna" path="kernel/samsung/tuna" remote="github" revision="jellybean" />
   <project name="CyanogenMod/android_device_samsung_tuna" path="device/samsung/tuna" remote="github" revision="jellybean" />
   <project name="CyanogenMod/android_device_samsung_toro" path="device/samsung/toro" remote="github" revision="jellybean" />
   <project name="CyanogenMod/android_device_samsung_torospr" path="device/samsung/torospr" remote="github" revision="jellybean" />
