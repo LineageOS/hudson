@@ -19,8 +19,6 @@
   <project name="CyanogenMod/android_kernel_samsung_tuna" path="kernel/samsung/tuna" remote="github" revision="jellybean-stable" />
   <project name="CyanogenMod/android_device_samsung_tuna" path="device/samsung/tuna" remote="github" revision="jellybean-stable" />
   <project name="CyanogenMod/android_device_samsung_toro" path="device/samsung/toro" remote="github" revision="jellybean-stable" />
-  <project name="CyanogenMod/android_device_samsung_torospr" path="device/samsung/torospr" remote="github" revision="jellybean-stable" />
-  <project name="CyanogenMod/android_device_samsung_toroplus" path="device/samsung/toroplus" remote="github" revision="jellybean-stable" />
   <project name="CyanogenMod/android_device_samsung_p3100" path="device/samsung/p3100" remote="github" revision="jellybean-stable" />
   <project name="CyanogenMod/android_kernel_samsung_espresso10" path="kernel/samsung/espresso10" remote="github" revision="jellybean-stable" />
   <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="jellybean-stable" />
