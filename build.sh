@@ -92,7 +92,7 @@ repo init -u $SYNC_PROTO://github.com/CyanogenMod/android.git -b $CORE_BRANCH
 check_result "repo init failed."
 
 # make sure ccache is in PATH
-if [ "$REPO_BRANCH" == "jellybean" ]
+if [ "$REPO_BRANCH" == "jellybean" ] || [ "$REPO_BRANCH" == "jellybean-stable" ]
 then
 export PATH="$PATH:/opt/local/bin/:$PWD/prebuilts/misc/$(uname|awk '{print tolower($0)}')-x86/ccache"
 export CCACHE_DIR=~/.jb_ccache
