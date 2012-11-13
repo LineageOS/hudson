@@ -15,16 +15,4 @@
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" revision="jellybean-stable" />
   <project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony" revision="jellybean-stable" />
   <project name="TheMuppets/proprietary_vendor_widevine" path="vendor/widevine" revision="jellybean-stable" />
-  <project name="CyanogenMod/android_device_samsung_maguro" path="device/samsung/maguro" remote="github" revision="jellybean-stable" />
-  <project name="CyanogenMod/android_kernel_samsung_tuna" path="kernel/samsung/tuna" remote="github" revision="jellybean-stable" />
-  <project name="CyanogenMod/android_device_samsung_tuna" path="device/samsung/tuna" remote="github" revision="jellybean-stable" />
-  <project name="CyanogenMod/android_device_samsung_toro" path="device/samsung/toro" remote="github" revision="jellybean-stable" />
-  <project name="CyanogenMod/android_device_samsung_p3100" path="device/samsung/p3100" remote="github" revision="jellybean-stable" />
-  <project name="CyanogenMod/android_kernel_samsung_espresso10" path="kernel/samsung/espresso10" remote="github" revision="jellybean-stable" />
-  <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="jellybean-stable" />
-  <project name="CyanogenMod/android_device_samsung_p3110" path="device/samsung/p3110" remote="github" revision="jellybean-stable" />
-  <project name="CyanogenMod/android_device_samsung_p3113" path="device/samsung/p3113" remote="github" revision="jellybean-stable" />
-  <project name="CyanogenMod/android_device_samsung_p5100" path="device/samsung/p5100" remote="github" revision="jellybean-stable" />
-  <project name="CyanogenMod/android_device_samsung_p5110" path="device/samsung/p5110" remote="github" revision="jellybean-stable" />
-  <project name="CyanogenMod/android_device_samsung_p5113" path="device/samsung/p5113" remote="github" revision="jellybean-stable" />
 </manifest>
