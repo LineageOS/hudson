@@ -78,8 +78,14 @@ fi
 git config --global user.name $(whoami)@$NODE_NAME
 git config --global user.email jenkins@cyanogenmod.com
 
-mkdir -p $REPO_BRANCH
-cd $REPO_BRANCH
+if [ "$REPO_BRANCH" == "jellybean-stable" ]; then
+   JENKINS_BUILD_DIR=jellybean
+else
+   JENKINS_BUILD_DIR=$REPO_BRANCH
+fi
+
+mkdir -p $JENKINS_BUILD_DIR
+cd $JENKINS_BUILD_DIR
 
 # always force a fresh repo init since we can build off different branches
 # and the "default" upstream branch can get stuck on whatever was init first.
