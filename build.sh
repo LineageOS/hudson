@@ -198,7 +198,7 @@ if [ $TIME_SINCE_LAST_CLEAN -gt "24" -o $CLEAN_TYPE = "clobber" ]
 then
   echo "Cleaning!"
   touch .clean
-  make clobber
+  make $CLEAN_TYPE
 else
   echo "Skipping clean: $TIME_SINCE_LAST_CLEAN hours since last clean."
 fi
