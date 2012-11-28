@@ -20,9 +20,9 @@ then
   exit 1
 fi
 
-if [ -z "$CLEAN_TYPE" ]
+if [ -z "$CLEAN" ]
 then
-  echo CLEAN_TYPE not specified
+  echo CLEAN not specified
   exit 1
 fi
 
@@ -194,7 +194,7 @@ fi
 TIME_SINCE_LAST_CLEAN=$(expr $(date +%s) - $LAST_CLEAN)
 # convert this to hours
 TIME_SINCE_LAST_CLEAN=$(expr $TIME_SINCE_LAST_CLEAN / 60 / 60)
-if [ $TIME_SINCE_LAST_CLEAN -gt "24" -o $CLEAN_TYPE = "clobber" ]
+if [ $TIME_SINCE_LAST_CLEAN -gt "24" -o $CLEAN = "true" ]
 then
   echo "Cleaning!"
   touch .clean
