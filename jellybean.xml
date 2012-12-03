@@ -3,6 +3,7 @@
   <project name="TheMuppets/proprietary_vendor_acer" path="vendor/acer" revision="jellybean" />
   <project name="TheMuppets/proprietary_vendor_akm" path="vendor/akm" revision="jellybean" />
   <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" revision="jellybean" />
+  <project name="TheMuppets/proprietary_vendor_audience" path="vendor/audience" revision="jellybean" />
   <project name="TheMuppets/proprietary_vendor_bn" path="vendor/bn" revision="jellybean" />
   <project name="TheMuppets/proprietary_vendor_broadcom" path="vendor/broadcom" revision="jellybean" />
   <project name="TheMuppets/proprietary_vendor_elan" path="vendor/elan" revision="jellybean" />
