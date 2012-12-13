@@ -135,16 +135,16 @@ then
   LAST_BRANCH=$(cat .last_branch)
 else
   echo "Last build branch is unknown, assume clean build"
-  LAST_BRANCH=$CORE_BRANCH
+  LAST_BRANCH=$REPO_BRANCH-$CORE_BRANCH
 fi
 
-if [ $LAST_BRANCH != $CORE_BRANCH ]
+if [ "$LAST_BRANCH" != "$REPO_BRANCH-$CORE_BRANCH" ]
 then
   echo "Branch has changed since the last build happened here. Forcing cleanup."
   CLEAN="true"
 fi
 
-echo $CORE_BRANCH > .last_branch
+echo "$REPO_BRANCH-$CORE_BRANCH" > .last_branch
 
 . build/envsetup.sh
 lunch $LUNCH
