@@ -78,7 +78,7 @@ fi
 git config --global user.name $(whoami)@$NODE_NAME
 git config --global user.email jenkins@cyanogenmod.com
 
-if [ "$REPO_BRANCH" == "jellybean-stable" ]; then
+if [[ "$REPO_BRANCH" =~ "jellybean" || $REPO_BRANCH =~ "cm-10" ]]; then 
    JENKINS_BUILD_DIR=jellybean
 else
    JENKINS_BUILD_DIR=$REPO_BRANCH
@@ -98,7 +98,7 @@ repo init -u $SYNC_PROTO://github.com/CyanogenMod/android.git -b $CORE_BRANCH
 check_result "repo init failed."
 
 # make sure ccache is in PATH
-if [ "$REPO_BRANCH" == "jellybean" ] || [ "$REPO_BRANCH" == "jellybean-stable" ]
+if [[ "$REPO_BRANCH" =~ "jellybean" || $REPO_BRANCH =~ "cm-10" ]]; then 
 then
 export PATH="$PATH:/opt/local/bin/:$PWD/prebuilts/misc/$(uname|awk '{print tolower($0)}')-x86/ccache"
 export CCACHE_DIR=~/.jb_ccache
