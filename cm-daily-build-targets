@@ -18,7 +18,7 @@ cm_evita-userdebug jellybean
 cm_fascinatemtd-userdebug jellybean
 cm_galaxysbmtd-userdebug jellybean
 cm_galaxysmtd-userdebug jellybean
-cm_grouper-userdebug jellybean
+cm_grouper-userdebug cm-10.1
 cm_haida-userdebug jellybean
 cm_hallon-userdebug jellybean
 cm_hercules-userdebug jellybean
@@ -54,6 +54,7 @@ cm_p5110-userdebug jellybean
 cm_p920-userdebug jellybean
 cm_p930-userdebug jellybean
 cm_p970-userdebug jellybean
+cm_p990-userdebug jellybean
 cm_quincyatt-userdebug jellybean
 cm_quincytmo-userdebug jellybean
 cm_satsuma-userdebug jellybean
@@ -66,6 +67,7 @@ cm_tf101-userdebug jellybean
 cm_tf201-userdebug jellybean
 cm_tf300t-userdebug jellybean
 cm_tf700t-userdebug cm-10.1 
+cm_tilapia-userdebug cm-10.1 
 cm_toroplus-userdebug jellybean
 cm_toro-userdebug jellybean
 cm_urushi-userdebug jellybean
