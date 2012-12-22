@@ -222,7 +222,10 @@ fi
 time mka bacon recoveryzip recoveryimage checkapi
 check_result "Build failed."
 
-cp $OUT/cm-*.zip* $WORKSPACE/archive
+for f in $(ls $OUT/cm-*.zip*)
+do
+  ln $f $WORKSPACE/archive/$(basename $f)
+done
 if [ -f $OUT/utilties/update.zip ]
 then
   cp $OUT/utilties/update.zip $WORKSPACE/archive/recovery.zip
