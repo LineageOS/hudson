@@ -147,8 +147,6 @@ then
   CLEAN="true"
 fi
 
-echo "$REPO_BRANCH-$CORE_BRANCH" > .last_branch
-
 . build/envsetup.sh
 lunch $LUNCH
 check_result "lunch failed."
@@ -221,6 +219,8 @@ then
 else
   echo "Skipping clean: $TIME_SINCE_LAST_CLEAN hours since last clean."
 fi
+
+echo "$REPO_BRANCH-$CORE_BRANCH" > .last_branch
 
 time mka bacon recoveryzip recoveryimage checkapi
 check_result "Build failed."
