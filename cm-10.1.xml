@@ -7,6 +7,7 @@
   <project name="TheMuppets/proprietary_vendor_bn" path="vendor/bn" revision="cm-10.1" />
   <project name="TheMuppets/proprietary_vendor_broadcom" path="vendor/broadcom" revision="cm-10.1" />
   <project name="TheMuppets/proprietary_vendor_elan" path="vendor/elan" revision="cm-10.1" />
+  <project name="TheMuppets/proprietary_vendor_hardkernel" path="vendor/hardkernel" revision="cm-10.1" />
   <project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc" revision="cm-10.1" />
   <project name="TheMuppets/proprietary_vendor_invensense" path="vendor/invensense" revision="cm-10.1" />
   <project name="TheMuppets/proprietary_vendor_imgtec" path="vendor/imgtec" revision="cm-10.1" />
