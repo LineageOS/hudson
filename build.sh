@@ -115,13 +115,14 @@ then
   . ~/.jenkins_profile
 fi
 
-cp $WORKSPACE/hudson/$REPO_BRANCH.xml .repo/local_manifest.xml
+mkdir -p .repo/local_manifests
+cp $WORKSPACE/hudson/$REPO_BRANCH.xml .repo/local_manifests/
 
 echo Core Manifest:
 cat .repo/manifests/default.xml
 
 echo Local Manifest:
-cat .repo/local_manifest.xml
+cat .repo/local_manifests/$REPO_BRANCH.xml
 
 echo Syncing...
 repo sync -d -c > /dev/null
@@ -243,7 +244,7 @@ ZIP=$(ls $WORKSPACE/archive/cm-*.zip)
 unzip -p $ZIP system/build.prop > $WORKSPACE/archive/build.prop
 
 # CORE: save manifest used for build (saving revisions as current HEAD)
-rm -f .repo/local_manifest.xml
+rm -f .repo/local_manifest/$REPO_BRANCH.xml
 repo manifest -o $WORKSPACE/archive/core.xml -r
 
 # chmod the files in case UMASK blocks permissions
