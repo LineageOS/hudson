@@ -1,0 +1,149 @@
+# CM build target list
+# <lunchcombo> <branch> [period: "D"aily, "W"eekly or "M"onthly]
+# Absence of a period indicates Daily (the default)
+
+cm_a700-userdebug cm-10.1
+cyanogen_ace-eng gingerbread M
+cm_anzu-userdebug jellybean W
+cm_aoba-userdebug ics W
+cyanogen_blade-eng gingerbread M
+cyanogen_bravo-eng gingerbread M
+cyanogen_bravoc-eng gingerbread M
+cyanogen_buzz-eng gingerbread M
+cyanogen_c660-eng gingerbread M
+cm_c800-userdebug ics W
+cm_captivatemtd-userdebug cm-10.1
+cyanogen_click-eng gingerbread M
+cm_coconut-userdebug jellybean W
+cyanogen_cooper-eng gingerbread M
+cm_crespo-userdebug cm-10.1
+cm_crespo4g-userdebug cm-10.1
+cm_d2att-userdebug cm-10.1
+cm_d2cri-userdebug cm-10.1
+cm_d2mtr-userdebug cm-10.1
+cm_d2spr-userdebug cm-10.1
+cm_d2tmo-userdebug cm-10.1
+cm_d2usc-userdebug cm-10.1
+cm_d2vzw-userdebug cm-10.1
+cyanogen_desirec-eng gingerbread M
+cm_doubleshot-userdebug ics W
+cyanogen_droid2-eng gingerbread M
+cyanogen_droid2we-eng gingerbread M
+cm_e400-userdebug ics W
+cyanogen_e510-eng gingerbread M
+cyanogen_e720-eng gingerbread M
+cm_e730-userdebug ics W
+cm_e739-userdebug ics W
+cm_encore-userdebug jellybean W
+cm_endeavoru-userdebug jellybean W
+cm_epicmtd-userdebug jellybean W
+cyanogen_espresso-eng gingerbread M
+cm_everest-userdebug cm-10.1
+cm_evita-userdebug jellybean W
+cm_fascinatemtd-userdebug cm-10.1
+cm_galaxysbmtd-userdebug cm-10.1
+cm_galaxysmtd-userdebug cm-10.1
+cyanogen_glacier-eng gingerbread M
+cm_grouper-userdebug cm-10.1
+cm_haida-userdebug jellybean W
+cm_hallon-userdebug jellybean W
+cm_hercules-userdebug jellybean W
+cyanogen_hero-eng gingerbread M
+cyanogen_heroc-eng gingerbread M
+cm_hikari-userdebug ics W
+cm_i777-userdebug cm-10.1
+cm_i9100-userdebug cm-10.1
+cm_i9100g-userdebug cm-10.1
+cm_i9300-userdebug cm-10.1
+cyanogen_inc-eng gingerbread M
+cm_iyokan-userdebug jellybean W
+cm_jewel-userdebug jellybean W
+cyanogen_jordan-eng gingerbread M
+cyanogen_jordan_plus-eng gingerbread M
+cyanogen_legend-eng gingerbread M
+cyanogen_liberty-eng gingerbread M
+cm_maguro-userdebug cm-10.1
+cm_mako-userdebug cm-10.1
+cm_mango-userdebug jellybean W
+cm_manta-userdebug cm-10.1
+cm_mesmerizemtd-userdebug jellybean W
+cm_mint-userdebug jellybean W
+cyanogen_morrison-eng gingerbread M
+cyanogen_motus-eng gingerbread M
+cm_n7000-userdebug cm-10.1
+cm_n7100-userdebug cm-10.1
+cm_n8000-userdebug cm-10.1
+cm_n8013-userdebug cm-10.1
+cm_nozomi-userdebug ics W
+cm_odroidu2-userdebug cm-10.1
+cyanogen_olympus-eng gingerbread M
+cm_p1c-userdebug jellybean W
+cm_p1l-userdebug jellybean W
+cm_p1n-userdebug jellybean W
+cm_p1-userdebug jellybean W
+cm_p3-userdebug cm-10.1
+cm_p3100-userdebug cm-10.1
+cm_p3110-userdebug cm-10.1
+cm_p4-userdebug cm-10.1
+cm_p4tmo-userdebug cm-10.1
+cm_p4vzw-userdebug cm-10.1
+cm_p4wifi-userdebug cm-10.1
+cyanogen_p350-eng gingerbread M
+cyanogen_p500-eng gingerbread M
+cm_p5100-userdebug cm-10.1
+cm_p5110-userdebug cm-10.1
+cm_p5-userdebug ics W
+cm_p5wifi-userdebug ics W
+cm_p720-userdebug jellybean W
+cm_p920-userdebug jellybean W
+cm_p930-userdebug jellybean W
+cm_p970-userdebug cm-10.1
+cm_p990-userdebug jellybean W
+cyanogen_p999-eng gingerbread M
+cyanogen_passion-eng gingerbread M
+cm_pyramid-userdebug ics W
+cm_quincyatt-userdebug jellybean W
+cm_quincytmo-userdebug jellybean W
+cm_ruby-userdebug jellybean W
+cyanogen_s5670-eng gingerbread M
+cyanogen_saga-eng gingerbread M
+cm_satsuma-userdebug jellybean W
+cyanogen_shadow-eng gingerbread M
+cyanogen_sholes-eng gingerbread M
+cm_shooteru-userdebug ics W
+cyanogen_showcasemtd-eng gingerbread M
+cyanogen_skate-eng gingerbread M
+cm_skyrocket-userdebug jellybean W
+cyanogen_smb_a1002-eng gingerbread M
+cm_smultron-userdebug jellybean W
+cyanogen_speedy-eng gingerbread M
+cm_stingray-userdebug jellybean W
+cm_su640-userdebug jellybean W
+cyanogen_sunfire-eng gingerbread M
+cyanogen_supersonic-eng gingerbread M
+cm_t769-userdebug jellybean W
+cyanogen_tass-eng gingerbread M
+cm_tenderloin-userdebug ics W
+cm_tf101-userdebug jellybean W
+cm_tf201-userdebug jellybean W
+cm_tf300t-userdebug cm-10.1
+cm_tf700t-userdebug cm-10.1 
+cm_tilapia-userdebug cm-10.1 
+cm_toroplus-userdebug cm-10.1
+cm_toro-userdebug cm-10.1
+cyanogen_u8150-eng gingerbread M
+cyanogen_u8160-eng gingerbread M
+cyanogen_u8220-eng gingerbread M
+cm_urushi-userdebug jellybean W
+cyanogen_v9-eng gingerbread M
+cyanogen_vega-eng gingerbread M
+cm_vibrantmtd-userdebug cm-10.1
+cm_ville-userdebug jellybean W
+cyanogen_vision-eng gingerbread M
+cyanogen_vivo-eng gingerbread M
+cyanogen_vivow-eng gingerbread M
+cm_wingray-userdebug cm-10.1
+cyanogen_zeppelin-eng gingerbread M
+cyanogen_zero-eng gingerbread M
+cm_zeus-userdebug ics W
+cm_zeusc-userdebug ics W
