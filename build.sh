@@ -194,6 +194,11 @@ then
     python $WORKSPACE/hudson/repopick.py $(curl $GERRIT_CHANGES)
     check_result "gerrit picks failed."
   fi
+  if [ ! -z "$GERRIT_XLATION_LINT" ]
+  then
+    python $WORKSPACE/hudson/xlationlint.py $GERRIT_CHANGES
+    check_result "basic XML lint failed."
+  fi
 fi
 
 if [ ! "$(ccache -s|grep -E 'max cache size'|awk '{print $4}')" = "100.0" ]
