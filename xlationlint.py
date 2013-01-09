@@ -20,11 +20,5 @@ for change in sys.argv[1:]:
             break
         project = new_project
 
-    retval = os.system('cd %s ; git show FETCH_HEAD | grep ^diff | awk {\'print $3\'} | egrep "res/.*xml$" | sed -e \'s/^a\///g\' | grep "donottranslate"' % (project))
-
-    if (retval == 0):
-        print "Translating a 'donottranslate' file, invalid patch"
-        sys.exit(1)
-
     retval = os.system('cd %s ; xmllint --noout `git show FETCH_HEAD | grep ^diff | awk {\'print $3\'} | egrep "res/.*xml$" | sed -e \'s/^a\///g\'`' % (project))
     sys.exit(retval!=0)
