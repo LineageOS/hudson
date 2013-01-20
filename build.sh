@@ -96,8 +96,17 @@ if [ -z "$CORE_BRANCH" ]
 then
   CORE_BRANCH=$REPO_BRANCH
 fi
+
+if [ ! -z "$RELEASE_MANIFEST" ]
+then
+  MANIFEST="-m $RELEASE_MANIFEST"
+else
+  RELEASE_MANIFEST=""
+  MANIFEST=""
+fi
+
 rm -rf .repo/manifests*
-repo init -u $SYNC_PROTO://github.com/CyanogenMod/android.git -b $CORE_BRANCH
+repo init -u $SYNC_PROTO://github.com/CyanogenMod/android.git -b $CORE_BRANCH $MANIFEST
 check_result "repo init failed."
 
 # make sure ccache is in PATH
@@ -138,10 +147,10 @@ then
   LAST_BRANCH=$(cat .last_branch)
 else
   echo "Last build branch is unknown, assume clean build"
-  LAST_BRANCH=$REPO_BRANCH-$CORE_BRANCH
+  LAST_BRANCH=$REPO_BRANCH-$CORE_BRANCH$RELEASE_MANIFEST
 fi
 
-if [ "$LAST_BRANCH" != "$REPO_BRANCH-$CORE_BRANCH" ]
+if [ "$LAST_BRANCH" != "$REPO_BRANCH-$CORE_BRANCH$RELEASE_MANIFEST" ]
 then
   echo "Branch has changed since the last build happened here. Forcing cleanup."
   CLEAN="true"
@@ -225,7 +234,7 @@ else
   echo "Skipping clean: $TIME_SINCE_LAST_CLEAN hours since last clean."
 fi
 
-echo "$REPO_BRANCH-$CORE_BRANCH" > .last_branch
+echo "$REPO_BRANCH-$CORE_BRANCH$RELEASE_MANIFEST" > .last_branch
 
 time mka bacon recoveryzip recoveryimage checkapi
 check_result "Build failed."
