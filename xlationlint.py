@@ -20,5 +20,5 @@ for change in sys.argv[1:]:
             break
         project = new_project
 
-    retval = os.system('cd %s ; xmllint --noout `git show FETCH_HEAD | grep ^diff | awk {\'print $3\'} | egrep "res/.*xml$" | sed -e \'s/^a\///g\'`' % (project))
+    retval = os.system('cd %s ; xmllint --noout `git show FETCH_HEAD | grep "^+++ b"  | sed -e \'s/^+++ b\///g\' | egrep "res/.*xml$"`' % (project))
     sys.exit(retval!=0)
