@@ -127,7 +127,7 @@ fi
 cp $WORKSPACE/hudson/$REPO_BRANCH.xml .repo/local_manifest.xml
 
 echo Core Manifest:
-cat .repo/manifests/default.xml
+cat .repo/manifest.xml
 
 echo Local Manifest:
 cat .repo/local_manifest.xml
