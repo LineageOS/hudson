@@ -99,7 +99,7 @@ cm_p5-userdebug ics W
 cm_p5wifi-userdebug ics W
 cm_p720-userdebug jellybean W
 cm_p920-userdebug jellybean W
-cm_p930-userdebug jellybean W
+cm_p930-userdebug cm-10.1
 cm_p970-userdebug cm-10.1
 cm_p990-userdebug cm-10.1
 cyanogen_p999-eng gingerbread M
@@ -122,7 +122,7 @@ cm_smultron-userdebug jellybean W
 cyanogen_speedy-eng gingerbread M
 cm_steelhead-userdebug cm-10.1
 cm_stingray-userdebug cm-10.1
-cm_su640-userdebug jellybean W
+cm_su640-userdebug cm-10.1
 cyanogen_sunfire-eng gingerbread M
 cyanogen_supersonic-eng gingerbread M
 cm_t0lte-userdebug cm-10.1
