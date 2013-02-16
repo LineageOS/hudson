@@ -106,6 +106,8 @@ else
 fi
 
 rm -rf .repo/manifests*
+#temporary
+rm -f .repo/local_manifests/*
 repo init -u $SYNC_PROTO://github.com/CyanogenMod/android.git -b $CORE_BRANCH $MANIFEST
 check_result "repo init failed."
 
@@ -126,8 +128,6 @@ fi
 
 mkdir -p .repo/local_manifests
 rm -f .repo/local_manifest.xml
-#temporary
-rm -f .repo/local_manifests/*
 
 cp $WORKSPACE/hudson/$REPO_BRANCH.xml .repo/local_manifests/
 
