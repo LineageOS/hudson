@@ -3,6 +3,8 @@
 function check_result {
   if [ "0" -ne "$?" ]
   then
+    rm -f .repo/local_manifests/dyn-*.xml
+    rm -f .repo/local_manifests/roomservice.xml
     echo $1
     exit 1
   fi
@@ -106,8 +108,7 @@ else
 fi
 
 rm -rf .repo/manifests*
-#temporary
-rm -f .repo/local_manifests/*
+rm -f .repo/local_manifests/dyn-*.xml
 repo init -u $SYNC_PROTO://github.com/CyanogenMod/android.git -b $CORE_BRANCH $MANIFEST
 check_result "repo init failed."
 
@@ -129,13 +130,13 @@ fi
 mkdir -p .repo/local_manifests
 rm -f .repo/local_manifest.xml
 
-cp $WORKSPACE/hudson/$REPO_BRANCH.xml .repo/local_manifests/
+cp $WORKSPACE/hudson/$REPO_BRANCH.xml .repo/local_manifests/dyn-$REPO_BRANCH.xml
 
 echo Core Manifest:
 cat .repo/manifest.xml
 
 echo Local Manifest:
-cat .repo/local_manifests/$REPO_BRANCH.xml
+cat .repo/local_manifests/dyn-$REPO_BRANCH.xml
 
 echo Syncing...
 repo sync -d -c > /dev/null
@@ -273,7 +274,7 @@ ZIP=$(ls $WORKSPACE/archive/cm-*.zip)
 unzip -p $ZIP system/build.prop > $WORKSPACE/archive/build.prop
 
 # CORE: save manifest used for build (saving revisions as current HEAD)
-rm -f .repo/local_manifests/$REPO_BRANCH.xml
+rm -f .repo/local_manifests/dyn-$REPO_BRANCH.xml
 rm -f .repo/local_manifests/roomservice.xml
 
 # Stash away other possible manifests
