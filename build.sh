@@ -125,6 +125,7 @@ then
 fi
 
 mkdir -p .repo/local_manifests
+rm -f .repo/local_manifest.xml
 cp $WORKSPACE/hudson/$REPO_BRANCH.xml .repo/local_manifests/
 
 echo Core Manifest:
