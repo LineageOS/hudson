@@ -139,6 +139,10 @@ cat .repo/manifest.xml
 echo Local Manifest:
 cat .repo/local_manifests/dyn-$REPO_BRANCH.xml
 
+## TEMPORARY: Some kernels are building _into_ the source tree and messing
+## up posterior syncs due to changes
+rm -rf kernel/*
+
 echo Syncing...
 repo sync -d -c > /dev/null
 check_result "repo sync failed."
