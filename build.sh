@@ -151,6 +151,8 @@ echo Sync complete.
 if [ -f $WORKSPACE/hudson/$REPO_BRANCH-setup.sh ]
 then
   $WORKSPACE/hudson/$REPO_BRANCH-setup.sh
+else
+  $WORKSPACE/hudson/cm-setup.sh
 fi
 
 if [ -f .last_branch ]
