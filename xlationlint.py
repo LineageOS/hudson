@@ -3,6 +3,8 @@ import urllib
 import urllib2
 import json
 import os
+import subprocess
+import re
 
 for change in sys.argv[1:]:
     print change
@@ -12,13 +14,16 @@ for change in sys.argv[1:]:
     d = d.split('\n')[0]
     data = json.loads(d)
     project = data['project']
-    project = project.replace('CyanogenMod/', '').replace('android_', '')
-
-    while not os.path.isdir(project):
-        new_project = project.replace('_', '/', 1)
-        if new_project == project:
+    plist = subprocess.Popen([os.environ['HOME']+"/bin/repo","list"], stdout=subprocess.PIPE)
+    while(True):
+        retcode = plist.poll()
+        pline = plist.stdout.readline()
+        ppaths = re.split('\s*:\s*',pline)
+        if ppaths[1] == project:
+            project = ppaths[0]
             break
-        project = new_project
+        if(retcode is not None):
+            break
 
     retval = os.system('cd %s ; xmllint --noout `git show FETCH_HEAD | grep "^+++ b"  | sed -e \'s/^+++ b\///g\' | egrep "res/.*xml$"`' % (project))
     sys.exit(retval!=0)
