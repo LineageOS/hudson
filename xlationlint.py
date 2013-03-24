@@ -17,7 +17,7 @@ for change in sys.argv[1:]:
     plist = subprocess.Popen([os.environ['HOME']+"/bin/repo","list"], stdout=subprocess.PIPE)
     while(True):
         retcode = plist.poll()
-        pline = plist.stdout.readline()
+        pline = plist.stdout.readline().rstrip()
         ppaths = re.split('\s*:\s*',pline)
         if ppaths[1] == project:
             project = ppaths[0]
