@@ -32,6 +32,10 @@ for change in sys.argv[1:]:
     patch_count = 0
     junk = number[len(number) - 2:]
 
+    if not os.path.isdir(project):
+        sys.stderr.write('no project directory: %s' % project)
+        sys.exit(1)
+
     while 0 != os.system('cd %s ; git fetch http://review.cyanogenmod.com/%s refs/changes/%s/%s/%s' % (project, data['project'], junk, number, patch_count + 1)):
         patch_count = patch_count + 1
 
