@@ -1,13 +1,22 @@
-#!/usr/bin/python2
+#!/usr/bin/env python
 
-import httplib
 import json
 import os
 import re
 import sys
 
+try:
+  # For python3
+  import http.client
+except ImportError:
+  # For python2
+  import imp
+  import httplib
+  urllib = imp.new_module('http')
+  http.client = httplib
+
 if len(sys.argv) != 2:
-  print "You done goofed! This takes exactly one argument: the device lunch combo"
+  print("You done goofed! This takes exactly one argument: the device lunch combo")
   sys.exit(1)
 
 device = sys.argv[1]
@@ -15,7 +24,7 @@ device = re.sub('^cm_','',device,1)
 device = re.sub('-[^-]*$','',device,1)
 
 if len(device) <= 0:
-  print "No device left after parsing input?"
+  print("No device left after parsing input?")
   sys.exit(2)
 
 if 'CM_RELEASE' in os.environ or 'CYANOGEN_RELEASE' in os.environ:
@@ -45,7 +54,7 @@ headers['User-Agent'] = 'CyanogenMod changelog builder'
 headers['Accept'] = '*/*'
 headers['Content-Length'] = "%d" % (len(logrequest))
 
-conn = httplib.HTTPConnection('get.cm', 80)
+conn = http.client.HTTPConnection('get.cm', 80)
 conn.connect()
 request = conn.putrequest('POST', '/api')
 
@@ -61,5 +70,5 @@ conn.close()
 builds = jsonreply['result']
 
 for build in builds:
-  print build['timestamp']
+  print(build['timestamp'])
 
