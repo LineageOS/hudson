@@ -15,7 +15,7 @@ export ts
 echo -n "Since ";date -u -d @$ts 
 echo "==================================="
 if [ -z "$prevts" ]; then
-  repo forall -c 'L=$(git log --oneline --since $ts -n 1); if [ "n$L" != "n" ]; then echo; echo "   * $REPO_PATH"; git log --oneline --since $ts; fi' | tee >(wc -l > $WORKSPACE/changecount)
+  repo forall -c 'L=$(git log --oneline --since $ts -n 1); if [ "n$L" != "n" ]; then echo; echo "   * $REPO_PATH"; git log --oneline --since $ts; fi'
 else
   repo forall -c 'L=$(git log --oneline --since $ts --until $prevts -n 1); if [ "n$L" != "n" ]; then echo; echo "   * $REPO_PATH"; git log --oneline --since $ts --until $prevts; fi'
 fi
@@ -25,6 +25,5 @@ export prevts=$ts
 done
 
 if [ -z "$prevts" ]; then
-  rm -f $WORKSPACE/changecount
   echo "This is the first CyanogenMod build of this type for device $CM_BUILD" >> $CHANGESPATH
 fi
