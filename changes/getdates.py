@@ -12,7 +12,7 @@ except ImportError:
   # For python2
   import imp
   import httplib
-  urllib = imp.new_module('http')
+  http = imp.new_module('http')
   http.client = httplib
 
 if len(sys.argv) != 2:
