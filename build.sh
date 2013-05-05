@@ -245,7 +245,18 @@ then
   ccache -M 100G
 fi
 
-WORKSPACE=$WORKSPACE LUNCH=$LUNCH sh $WORKSPACE/hudson/changes/buildlog.sh 2>&1
+rm $WORKSPACE/changecount
+WORKSPACE=$WORKSPACE LUNCH=$LUNCH bash $WORKSPACE/hudson/changes/buildlog.sh 2>&1
+if [ -f $WORKSPACE/changecount ]
+then
+  CHANGE_COUNT=$(cat $WORKSPACE/changecount)
+  rm -f $WORKSPACE/changecount
+  if [ $CHANGE_COUNT -eq "0" ]
+  then
+    echo "Zero changes since last build, aborting"
+    exit 1
+  fi
+fi
 
 LAST_CLEAN=0
 if [ -f .clean ]
