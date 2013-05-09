@@ -1,10 +1,12 @@
-s|cm_t30-common-userdebug|cm_a700-userdebug|g
-s|cm_otter-common-userdebug|cm_otter-userdebug|g
-s|cm_omap4-common-userdebug|cm_maserati-userdebug|g
-s|cm_aries-common-userdebug|cm_galaxysmtd-userdebug|g
-s|cm_msm8660-common-userdebug|cm_hercules-userdebug|g
-s|cm_msm8960-common-userdebug|cm_d2-att-userdebug|g
-s|cm_n80xx-common-userdebug|cm_n8000-userdebug|g
-s|cm_p1-common-userdebug|cm_p1-userdebug|g
-s|cm_tuna-userdebug|cm_maguro-userdebug|g
-s|cm_common-userdebug|cm_mint-userdebug|g
+s|cm_t30-common-userdebug@acer|cm_a700-userdebug|g
+s|cm_otter-common-userdebug@amazon|cm_otter-userdebug|g
+s|cm_omap4-common-userdebug@motorola|cm_maserati-userdebug|g
+s|cm_aries-common-userdebug@samsung|cm_galaxysmtd-userdebug|g
+s|cm_msm8660-common-userdebug@samsung|cm_hercules-userdebug|g
+s|cm_msm8960-common-userdebug@samsung|cm_d2-att-userdebug|g
+s|cm_n80xx-common-userdebug@samsung|cm_n8000-userdebug|g
+s|cm_p1-common-userdebug@samsung|cm_p1-userdebug|g
+s|cm_tuna-userdebug@samsung|cm_maguro-userdebug|g
+s|cm_common-userdebug@sony|cm_mint-userdebug|g
+## Don't remove this line
+s|@.*||g
