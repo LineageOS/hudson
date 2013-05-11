@@ -8,7 +8,7 @@ export CHANGESPATH=$WORKSPACE/archive/CHANGES.txt
 rm $CHANGESPATH 2>/dev/null
 
 prevts=
-for ts in `python2 $MYPATH/getdates.py $CM_BUILD`; do
+for ts in `python2 $MYPATH/getdates.py $CM_BUILD | sort -rn`; do
 
 export ts
 (echo "==================================="
