@@ -8,5 +8,6 @@ s|cm_n80xx-common-userdebug@samsung|cm_n8000-userdebug|g
 s|cm_p1-common-userdebug@samsung|cm_p1-userdebug|g
 s|cm_tuna-userdebug@samsung|cm_maguro-userdebug|g
 s|cm_common-userdebug@sony|cm_mint-userdebug|g
+s|cm_m7-common-userdebug@htc|cm_m7ul-userdebug|g
 ## Don't remove this line
 s|@.*||g
