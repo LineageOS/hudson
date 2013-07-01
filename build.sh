@@ -90,6 +90,8 @@ else
    JENKINS_BUILD_DIR=$REPO_BRANCH
 fi
 
+export JENKINS_BUILD_DIR
+
 mkdir -p $JENKINS_BUILD_DIR
 cd $JENKINS_BUILD_DIR
 
@@ -134,6 +136,11 @@ rm -f .repo/local_manifest.xml
 rm -rf $WORKSPACE/build_env
 git clone https://github.com/CyanogenMod/cm_build_config.git $WORKSPACE/build_env
 check_result "Bootstrap failed"
+
+if [ -f $WORKSPACE/build_env/bootstrap.sh ]
+then
+  bash $WORKSPACE/build_env/bootstrap.sh
+fi
 
 cp $WORKSPACE/build_env/$REPO_BRANCH.xml .repo/local_manifests/dyn-$REPO_BRANCH.xml
 
