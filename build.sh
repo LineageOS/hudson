@@ -227,6 +227,10 @@ then
   export CYANOGEN_RELEASE=true
   # ics needs this
   export CM_RELEASE=true
+  if [ -f  $WORKSPACE/build_env/$REPO_BRANCH-release.xml ]
+  then
+    cp -f $WORKSPACE/build_env/$REPO_BRANCH-release.xml .repo/local_manifests/dyn-$REPO_BRANCH.xml
+  fi
 fi
 
 if [ ! -z "$CM_EXTRAVERSION" ]
