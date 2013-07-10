@@ -151,6 +151,14 @@ cat .repo/manifest.xml
 ## up posterior syncs due to changes
 rm -rf kernel/*
 
+if [ "$RELEASE_TYPE" = "CM_RELEASE" ]
+then
+  if [ -f  $WORKSPACE/build_env/$REPO_BRANCH-release.xml ]
+  then
+    cp -f $WORKSPACE/build_env/$REPO_BRANCH-release.xml .repo/local_manifests/dyn-$REPO_BRANCH.xml
+  fi
+fi
+
 echo Syncing...
 repo sync -d -c > /dev/null
 check_result "repo sync failed."
@@ -227,10 +235,6 @@ then
   export CYANOGEN_RELEASE=true
   # ics needs this
   export CM_RELEASE=true
-  if [ -f  $WORKSPACE/build_env/$REPO_BRANCH-release.xml ]
-  then
-    cp -f $WORKSPACE/build_env/$REPO_BRANCH-release.xml .repo/local_manifests/dyn-$REPO_BRANCH.xml
-  fi
 fi
 
 if [ ! -z "$CM_EXTRAVERSION" ]
