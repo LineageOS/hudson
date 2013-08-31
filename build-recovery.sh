@@ -25,8 +25,6 @@ then
   exit 1
 fi
 
-REPO_BRANCH=cm-10.1
-
 if [ -z "$RECOVERY_IMAGE_URL" -a -z "$EXISTING_DEVICE" ]
 then
   echo RECOVERY_IMAGE_URL and EXISTING_DEVICE not specified
