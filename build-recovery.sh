@@ -91,7 +91,7 @@ check_result "repo init failed."
 
 mkdir -p .repo/local_manifests
 cp $WORKSPACE/hudson/recovery.xml .repo/local_manifests/
-curl "https://raw.github.com/CyanogenMod/cm_build_config/master/$REPO_BRANCH.xml?login=koush&token=$GITHUB_TOKEN" > .repo/local_manifests/$REPO_BRANCH.xml
+curl -u koush:$GITHUB_TOKEN "https://raw.github.com/CyanogenMod/cm_build_config/master/$REPO_BRANCH.xml" > .repo/local_manifests/$REPO_BRANCH.xml
 
 echo Manifest:
 cat .repo/manifest.xml
