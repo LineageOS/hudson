@@ -25,6 +25,12 @@ then
   exit 1
 fi
 
+if [ -z "$GITHUB_TOKEN" ]
+then
+  echo GITHUB_TOKEN not specified
+  exit 1
+fi
+
 if [ -z "$RECOVERY_IMAGE_URL" -a -z "$EXISTING_DEVICE" ]
 then
   echo RECOVERY_IMAGE_URL and EXISTING_DEVICE not specified
@@ -85,6 +91,7 @@ check_result "repo init failed."
 
 mkdir -p .repo/local_manifests
 cp $WORKSPACE/hudson/recovery.xml .repo/local_manifests/
+curl https://raw.github.com/CyanogenMod/cm_build_config/master/$REPO_BRANCH.xml?login=koush&token=$GITHUB_TOKEN > .repo/local_manifests/$REPO_BRANCH.xml
 
 echo Manifest:
 cat .repo/manifest.xml
