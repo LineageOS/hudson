@@ -335,8 +335,10 @@ rmdir $TEMPSTASH
 chmod -R ugo+r $WORKSPACE/archive
 
 # Add build to GetCM
-echo "Adding build to GetCM"
-python /opt/jenkins-utils/add_build.py --file `ls $WORKSPACE/archive/*.zip` --buildprop $WORKSPACE/archive/build.prop --buildnumber $BUILD_NO --releasetype $RELEASE_TYPE
+if [ "$JOB_NAME" = "android" ]; then
+    echo "Adding build to GetCM"
+    python /opt/jenkins-utils/add_build.py --file `ls $WORKSPACE/archive/*.zip` --buildprop $WORKSPACE/archive/build.prop --buildnumber $BUILD_NO --releasetype $RELEASE_TYPE
+fi
 
 CMCP=$(which cmcp)
 if [ ! -z "$CMCP" -a ! -z "$CM_RELEASE" ]
