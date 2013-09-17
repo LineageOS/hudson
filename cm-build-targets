@@ -26,6 +26,8 @@ cm_e400-userdebug ics W
 cm_e610-userdebug jellybean W
 cm_e730-userdebug ics W
 cm_e739-userdebug ics W
+cm_e970-userdebug cm-10.2
+cm_e973-userdebug cm-10.2
 cm_e975-userdebug cm-10.2
 cm_e980-userdebug cm-10.2
 cm_encore-userdebug cm-10.2
@@ -67,6 +69,7 @@ cm_jflteusc-userdebug cm-10.2
 cm_jfltevzw-userdebug cm-10.2
 cm_jfltexx-userdebug cm-10.2
 cm_l900-userdebug cm-10.2
+cm_ls970-userdebug cm-10.2
 cm_m7att-userdebug cm-10.2
 cm_m7spr-userdebug cm-10.2
 cm_m7tmo-userdebug cm-10.2
