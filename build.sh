@@ -316,8 +316,15 @@ check_result "Build failed."
 
 if [ "$SIGN_BUILD" = "true" ]
 then
-  ./build/tools/releasetools/sign_target_files_apks -e Term.apk= -d vendor/cm-priv/keys $OUT/obj/PACKAGING/target_files_intermediates/$TARGET_PRODUCT-target_files-$BUILD_NUMBER.zip $OUT/$MODVERSION-signed-intermediate.zip
-  ./build/tools/releasetools/ota_from_target_files -k vendor/cm-priv/keys/releasekey $OUT/$MODVERSION-signed-intermediate.zip $WORKSPACE/archive/cm-$MODVERSION-signed.zip
+  MODVERSION=$(cat $OUT/system/build.prop | grep ro.modversion | cut -d = -f 2)
+  if [ ! -z "$MODVERSION" -a -f $OUT/obj/PACKAGING/target_files_intermediates/$TARGET_PRODUCT-target_files-$BUILD_NUMBER.zip ]
+  then
+    ./build/tools/releasetools/sign_target_files_apks -e Term.apk= -d vendor/cm-priv/keys $OUT/obj/PACKAGING/target_files_intermediates/$TARGET_PRODUCT-target_files-$BUILD_NUMBER.zip $OUT/$MODVERSION-signed-intermediate.zip
+    ./build/tools/releasetools/ota_from_target_files -k vendor/cm-priv/keys/releasekey $OUT/$MODVERSION-signed-intermediate.zip $WORKSPACE/archive/cm-$MODVERSION-signed.zip
+  else
+    echo "Unable to find target files to sign"
+    exit 1
+  fi
 else
   for f in $(ls $OUT/cm-*.zip*)
   do
