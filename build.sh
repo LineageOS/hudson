@@ -218,6 +218,8 @@ then
   export RELEASE_TYPE=CM_EXPERIMENTAL
 fi
 
+export SIGN_BUILD=false
+
 if [ "$RELEASE_TYPE" = "CM_NIGHTLY" ]
 then
   if [ "$REPO_BRANCH" = "gingerbread" ]
@@ -235,6 +237,17 @@ then
   export CYANOGEN_RELEASE=true
   # ics needs this
   export CM_RELEASE=true
+  if [ "$SIGNED" = "true" ]
+  then
+    SIGN_BUILD=true
+  fi
+elif [ "$RELEASE_TYPE" = "CM_SNAPSHOT" ]
+then
+  export CM_SNAPSHOT=true
+  if [ "$SIGNED" = "true" ]
+  then
+    SIGN_BUILD=true
+  fi
 fi
 
 if [ ! -z "$CM_EXTRAVERSION" ]
@@ -301,10 +314,16 @@ echo "$REPO_BRANCH-$CORE_BRANCH$RELEASE_MANIFEST" > .last_branch
 time mka bacon recoveryzip recoveryimage checkapi
 check_result "Build failed."
 
-for f in $(ls $OUT/cm-*.zip*)
-do
-  ln $f $WORKSPACE/archive/$(basename $f)
-done
+if [ "$SIGN_BUILD" = "true" ]
+then
+  ./build/tools/releasetools/sign_target_files_apks -e Term.apk= -d vendor/cm-priv/keys $OUT/obj/PACKAGING/target_files_intermediates/$TARGET_PRODUCT-target_files-$BUILD_NUMBER.zip $OUT/$MODVERSION-signed-intermediate.zip
+  ./build/tools/releasetools/ota_from_target_files -k vendor/cm-priv/keys/releasekey $OUT/$MODVERSION-signed-intermediate.zip $WORKSPACE/archive/cm-$MODVERSION-signed.zip
+else
+  for f in $(ls $OUT/cm-*.zip*)
+  do
+    ln $f $WORKSPACE/archive/$(basename $f)
+  done
+fi
 if [ -f $OUT/utilties/update.zip ]
 then
   cp $OUT/utilties/update.zip $WORKSPACE/archive/recovery.zip
