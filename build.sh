@@ -52,6 +52,8 @@ then
   SYNC_PROTO=http
 fi
 
+export PYTHONDONTWRITEBYTECODE=1
+
 # colorization fix in Jenkins
 export CL_RED="\"\033[31m\""
 export CL_GRN="\"\033[32m\""
