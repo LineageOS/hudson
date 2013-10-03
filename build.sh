@@ -4,10 +4,17 @@ function check_result {
   if [ "0" -ne "$?" ]
   then
     (repo forall -c "git reset --hard") >/dev/null
-    rm -f .repo/local_manifests/dyn-*.xml
-    rm -f .repo/local_manifests/roomservice.xml
     echo $1
     exit 1
+  fi
+}
+
+function cleanup {
+  rm -f .repo/local_manifests/dyn-*.xml
+  rm -f .repo/local_manifests/roomservice.xml
+  if [ -f $WORKSPACE/build_env/cleanup.sh ]
+  then
+    bash $WORKSPACE/build_env/cleanup.sh
   fi
 }
 
@@ -346,9 +353,10 @@ fi
 ZIP=$(ls $WORKSPACE/archive/cm-*.zip)
 unzip -p $ZIP system/build.prop > $WORKSPACE/archive/build.prop
 
+# Build is done, cleanup the environment
+cleanup
+
 # CORE: save manifest used for build (saving revisions as current HEAD)
-rm -f .repo/local_manifests/dyn-$REPO_BRANCH.xml
-rm -f .repo/local_manifests/roomservice.xml
 
 # Stash away other possible manifests
 TEMPSTASH=$(mktemp -d)
