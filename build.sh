@@ -400,7 +400,7 @@ then
   echo Archiving release to S3.
   for f in $(ls $WORKSPACE/archive)
   do
-    s3cmd -P put $WORKSPACE/archive/$f s3://cyngn-builds/release/$MODVERSION/$f > /dev/null 2> /dev/null
+    s3cmd --no-progress --disable-multipart -P put $WORKSPACE/archive/$f s3://cyngn-builds/release/$MODVERSION/$f > /dev/null 2> /dev/null
     check_result "Failure archiving $f"
   done
 fi
