@@ -23,7 +23,7 @@ for change in sys.argv[1:]:
     d = f.read()
     # gerrit doesnt actually return json. returns two json blobs, separate lines. bizarre.
     print(d)
-    e = str( d, encoding='utf8' )
+    d = str( d, encoding='utf8' )
     d = d.split('\n')[0]
     data = json.loads(d)
     project = data['project']
