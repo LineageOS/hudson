@@ -339,7 +339,7 @@ then
     $OTASCRIPT -k vendor/cm-priv/keys/releasekey $OUT/$MODVERSION-signed-intermediate.zip $WORKSPACE/archive/cm-$MODVERSION-signed.zip
     if [ "$FASTBOOT_IMAGES" = "true" ]
     then
-       ./build/tools/releasetools/img_from_target_files $OUT/obj/PACKAGING/target_files_intermediates/$TARGET_PRODUCT-target_files-$BUILD_NUMBER.zip $OUT/cm-$MODVERSION-fastboot.zip
+       ./build/tools/releasetools/img_from_target_files $OUT/obj/PACKAGING/target_files_intermediates/$TARGET_PRODUCT-target_files-$BUILD_NUMBER.zip $WORKSPACE/archive/cm-$MODVERSION-fastboot.zip
     fi
     rm -f $OUT/ota_script_path
   else
