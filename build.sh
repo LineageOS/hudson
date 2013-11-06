@@ -373,7 +373,7 @@ then
   breakfast $DEBLUNCH
   mka bootimage
   check_result "Failed to generate a debuggable bootimage"
-  cp $OUT/boot.img $WORSPACE/archive/boot-debuggable.img
+  cp $OUT/boot.img $WORKSPACE/archive/boot-debuggable.img
 fi
 
 # Build is done, cleanup the environment
