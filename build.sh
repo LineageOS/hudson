@@ -361,6 +361,10 @@ then
   cp $OUT/recovery.img $WORKSPACE/archive
 fi
 
+# archive the build.prop as well
+ZIP=$(ls $WORKSPACE/archive/cm-*.zip)
+unzip -p $ZIP system/build.prop > $WORKSPACE/archive/build.prop
+
 if [ "$TARGET_BUILD_VARIANT" = "user" -a "$EXTRA_DEBUGGABLE_BOOT" = "true" ]
 then
   # Minimal rebuild to get a debuggable boot image, just in case
@@ -371,10 +375,6 @@ then
   check_result "Failed to generate a debuggable bootimage"
   cp $OUT/boot.img $WORSPACE/archive/boot-debuggable.img
 fi
-
-# archive the build.prop as well
-ZIP=$(ls $WORKSPACE/archive/cm-*.zip)
-unzip -p $ZIP system/build.prop > $WORKSPACE/archive/build.prop
 
 # Build is done, cleanup the environment
 cleanup
