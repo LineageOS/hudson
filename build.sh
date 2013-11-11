@@ -362,7 +362,7 @@ then
 fi
 
 # archive the build.prop as well
-ZIP=$(ls $WORKSPACE/archive/cm-*.zip)
+ZIP=$(ls $WORKSPACE/archive/cm-*.zip | grep -v -- -fastboot)
 unzip -p $ZIP system/build.prop > $WORKSPACE/archive/build.prop
 
 if [ "$TARGET_BUILD_VARIANT" = "user" -a "$EXTRA_DEBUGGABLE_BOOT" = "true" ]
