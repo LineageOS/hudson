@@ -39,18 +39,28 @@ for change in sys.argv[1:]:
 
     print(project)
     number = data['number']
-    patch_count = 0
-    junk = number[len(number) - 2:]
+
+    f = urllib.request.urlopen("http://review.cyanogenmod.org/changes/%s/revisions/current/review" % number)
+    d = f.read().decode()
+    d = '\n'.join(d.split('\n')[1:])
+    data = json.loads(d)
+
+    current_revision = data['current_revision']
+    patchset = 0
+    ref = ""
+
+    for i in data['revisions']:
+        if i == current_revision:
+            ref = data['revisions'][i]['fetch']['http']['ref']
+            patchset = data['revisions'][i]['_number']
+            break
+
+    print("Patch set: %i" % patchset)
+    print("Ref: %s" % ref)
 
     if not os.path.isdir(project):
         sys.stderr.write('no project directory: %s' % project)
         sys.exit(1)
 
-    while 0 != os.system('cd %s ; git fetch http://review.cyanogenmod.org/%s refs/changes/%s/%s/%s' % (project, data['project'], junk, number, patch_count + 1)):
-        patch_count = patch_count + 1
-
-    while 0 == os.system('cd %s ; git fetch http://review.cyanogenmod.org/%s refs/changes/%s/%s/%s' % (project, data['project'], junk, number, patch_count + 1)):
-        patch_count = patch_count + 1
-
-    os.system('cd %s ; git fetch http://review.cyanogenmod.org/%s refs/changes/%s/%s/%s' % (project, data['project'], junk, number, patch_count))
+    os.system('cd %s ; git fetch http://review.cyanogenmod.org/%s %s' % (project, data['project'], ref))
     os.system('cd %s ; git merge FETCH_HEAD' % project)
