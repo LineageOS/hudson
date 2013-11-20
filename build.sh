@@ -107,9 +107,11 @@ cd $JENKINS_BUILD_DIR
 
 # always force a fresh repo init since we can build off different branches
 # and the "default" upstream branch can get stuck on whatever was init first.
-if [ -z "$CORE_BRANCH" ]
+if [ "$STABILIZATION_BRANCH" = "true" ]
 then
-  CORE_BRANCH=$REPO_BRANCH
+  SYNC_BRANCH="stable/$REPO_BRANCH"
+else
+  SYNC_BRANCH=$REPO_BRANCH
 fi
 
 if [ ! -z "$RELEASE_MANIFEST" ]
@@ -122,7 +124,7 @@ fi
 
 rm -rf .repo/manifests*
 rm -f .repo/local_manifests/dyn-*.xml
-repo init -u $SYNC_PROTO://github.com/CyanogenMod/android.git -b $CORE_BRANCH $MANIFEST
+repo init -u $SYNC_PROTO://github.com/CyanogenMod/android.git -b $SYNC_BRANCH $MANIFEST
 check_result "repo init failed."
 
 # make sure ccache is in PATH
@@ -161,7 +163,7 @@ cat .repo/manifest.xml
 ## up posterior syncs due to changes
 rm -rf kernel/*
 
-if [ "$RELEASE_TYPE" = "CM_RELEASE" ]
+if [ "$RELEASE_TYPE" = "CM_RELEASE" || "$STABILIZATION_BRANCH" = "true" ]
 then
   if [ -f  $WORKSPACE/build_env/$REPO_BRANCH-release.xml ]
   then
@@ -186,10 +188,10 @@ then
   LAST_BRANCH=$(cat .last_branch)
 else
   echo "Last build branch is unknown, assume clean build"
-  LAST_BRANCH=$REPO_BRANCH-$CORE_BRANCH$RELEASE_MANIFEST
+  LAST_BRANCH=$REPO_BRANCH-$RELEASE_MANIFEST
 fi
 
-if [ "$LAST_BRANCH" != "$REPO_BRANCH-$CORE_BRANCH$RELEASE_MANIFEST" ]
+if [ "$LAST_BRANCH" != "$REPO_BRANCH-$RELEASE_MANIFEST" ]
 then
   echo "Branch has changed since the last build happened here. Forcing cleanup."
   CLEAN="true"
@@ -319,7 +321,7 @@ else
   echo "Skipping clean: $TIME_SINCE_LAST_CLEAN hours since last clean."
 fi
 
-echo "$REPO_BRANCH-$CORE_BRANCH$RELEASE_MANIFEST" > .last_branch
+echo "$REPO_BRANCH-$RELEASE_MANIFEST" > .last_branch
 
 time mka bacon recoveryzip recoveryimage checkapi
 check_result "Build failed."
