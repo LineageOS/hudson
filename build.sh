@@ -165,7 +165,7 @@ cat .repo/manifest.xml
 ## up posterior syncs due to changes
 rm -rf kernel/*
 
-if [ "$RELEASE_TYPE" = "CM_RELEASE" || "$STABILIZATION_BRANCH" = "true" ]
+if [[ "$RELEASE_TYPE" = "CM_RELEASE" || "$STABILIZATION_BRANCH" = "true" ]]
 then
   if [ -f  $WORKSPACE/build_env/$REPO_BRANCH-release.xml ]
   then
