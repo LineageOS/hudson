@@ -111,7 +111,7 @@ if [ "$STABILIZATION_BRANCH" = "true" ]
 then
   SYNC_BRANCH="stable/$REPO_BRANCH"
   # Temporary: Let the stab builds fallback to the mainline dependency 
-  ROOMSERVICE_BRANCHES="$REPO_BRANCH"
+  export ROOMSERVICE_BRANCHES="$REPO_BRANCH"
 else
   SYNC_BRANCH=$REPO_BRANCH
 fi
