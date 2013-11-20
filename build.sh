@@ -130,14 +130,8 @@ repo init -u $SYNC_PROTO://github.com/CyanogenMod/android.git -b $SYNC_BRANCH $M
 check_result "repo init failed."
 
 # make sure ccache is in PATH
-if [[ "$REPO_BRANCH" =~ "jellybean" || $REPO_BRANCH =~ "cm-10" ]]
-then
 export PATH="$PATH:/opt/local/bin/:$PWD/prebuilts/misc/$(uname|awk '{print tolower($0)}')-x86/ccache"
-export CCACHE_DIR=~/.jb_ccache
-else
-export PATH="$PATH:/opt/local/bin/:$PWD/prebuilt/$(uname|awk '{print tolower($0)}')-x86/ccache"
-export CCACHE_DIR=~/.ics_ccache
-fi
+export CCACHE_DIR=~/.ccache
 
 if [ -f ~/.jenkins_profile ]
 then
@@ -236,20 +230,12 @@ export SIGN_BUILD=false
 
 if [ "$RELEASE_TYPE" = "CM_NIGHTLY" ]
 then
-  if [ "$REPO_BRANCH" = "gingerbread" ]
-  then
-    export CYANOGEN_NIGHTLY=true
-  else
-    export CM_NIGHTLY=true
-  fi
+  export CM_NIGHTLY=true
 elif [ "$RELEASE_TYPE" = "CM_EXPERIMENTAL" ]
 then
   export CM_EXPERIMENTAL=true
 elif [ "$RELEASE_TYPE" = "CM_RELEASE" ]
 then
-  # gingerbread needs this
-  export CYANOGEN_RELEASE=true
-  # ics needs this
   export CM_RELEASE=true
   if [ "$SIGNED" = "true" ]
   then
@@ -330,7 +316,7 @@ check_result "Build failed."
 
 if [ "$SIGN_BUILD" = "true" ]
 then
-  MODVERSION=$(cat $OUT/system/build.prop | grep ro.modversion | cut -d = -f 2)
+  MODVERSION=$(cat $OUT/system/build.prop | grep ro.cm.version | cut -d = -f 2)
   if [ ! -z "$MODVERSION" -a -f $OUT/obj/PACKAGING/target_files_intermediates/$TARGET_PRODUCT-target_files-$BUILD_NUMBER.zip ]
   then
     if [ -s $OUT/ota_script_path ]
@@ -407,14 +393,10 @@ fi
 CMCP=$(which cmcp)
 if [ ! -z "$CMCP" -a ! -z "$CM_RELEASE" ]
 then
-  MODVERSION=$(cat $WORKSPACE/archive/build.prop | grep ro.modversion | cut -d = -f 2)
+  MODVERSION=$(cat $WORKSPACE/archive/build.prop | grep ro.cm.version | cut -d = -f 2)
   if [ -z "$MODVERSION" ]
   then
-    MODVERSION=$(cat $WORKSPACE/archive/build.prop | grep ro.cm.version | cut -d = -f 2)
-  fi
-  if [ -z "$MODVERSION" ]
-  then
-    echo "Unable to detect ro.modversion or ro.cm.version."
+    echo "Unable to detect ro.cm.version."
     exit 1
   fi
   echo Archiving release to S3.
