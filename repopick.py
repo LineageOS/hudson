@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 import sys
 import json
@@ -19,9 +20,10 @@ except ImportError:
 for change in sys.argv[1:]:
     print(change)
     f = urllib.request.urlopen('http://review.cyanogenmod.org/query?q=change:%s' % change)
-    d = f.read().decode(encoding='UTF-8')
+    d = f.read()
     # gerrit doesnt actually return json. returns two json blobs, separate lines. bizarre.
     print(d)
+    d = str( d, encoding='utf8' )
     d = d.split('\n')[0]
     data = json.loads(d)
     project = data['project']
