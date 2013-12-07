@@ -10,13 +10,13 @@ cm_captivatemtd-userdebug cm-11.0
 cm_coconut-userdebug jellybean W
 cm_crespo-userdebug cm-11.0
 cm_crespo4g-userdebug cm-10.1 W
-cm_d2att-userdebug cm-10.2
-cm_d2cri-userdebug cm-10.2
-cm_d2mtr-userdebug cm-10.2
-cm_d2spr-userdebug cm-10.2
-cm_d2tmo-userdebug cm-10.2
-cm_d2usc-userdebug cm-10.2
-cm_d2vzw-userdebug cm-10.2
+cm_d2att-userdebug cm-11.0
+cm_d2cri-userdebug cm-11.0
+cm_d2mtr-userdebug cm-11.0
+cm_d2spr-userdebug cm-11.0
+cm_d2tmo-userdebug cm-11.0
+cm_d2usc-userdebug cm-11.0
+cm_d2vzw-userdebug cm-11.0
 cm_d710-userdebug cm-10.1 W
 cm_d800-userdebug cm-11.0
 cm_d801-userdebug cm-11.0
@@ -59,15 +59,15 @@ cm_i9300-userdebug cm-11.0
 cm_i9305-userdebug cm-10.2
 cm_iyokan-userdebug jellybean W
 cm_jewel-userdebug cm-10.2
-cm_jflteatt-userdebug cm-10.2
-cm_jfltecan-userdebug cm-10.2
-cm_jfltecri-userdebug cm-10.2
-cm_jfltecsp-userdebug cm-10.2
-cm_jfltespr-userdebug cm-10.2
-cm_jfltetmo-userdebug cm-10.2
-cm_jflteusc-userdebug cm-10.2
-cm_jfltevzw-userdebug cm-10.2
-cm_jfltexx-userdebug cm-10.2
+cm_jflteatt-userdebug cm-11.0
+cm_jfltecan-userdebug cm-11.0
+cm_jfltecri-userdebug cm-11.0
+cm_jfltecsp-userdebug cm-11.0
+cm_jfltespr-userdebug cm-11.0
+cm_jfltetmo-userdebug cm-11.0
+cm_jflteusc-userdebug cm-11.0
+cm_jfltevzw-userdebug cm-11.0
+cm_jfltexx-userdebug cm-11.0
 cm_l900-userdebug cm-10.2
 cm_ls970-userdebug cm-10.2
 cm_m7att-userdebug cm-11.0
