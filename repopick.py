@@ -42,7 +42,7 @@ for change in sys.argv[1:]:
     number = data['number']
 
     f = urllib.request.urlopen("http://review.cyanogenmod.org/changes/%s/revisions/current/review" % number)
-    d = f.read().decode()
+    d = f.read()
     d = '\n'.join(d.split('\n')[1:])
     data = json.loads(d)
 
