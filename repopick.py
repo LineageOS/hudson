@@ -23,7 +23,6 @@ for change in sys.argv[1:]:
     d = f.read()
     # gerrit doesnt actually return json. returns two json blobs, separate lines. bizarre.
     print(d)
-    d = str( d, encoding='utf8' )
     d = d.split('\n')[0]
     data = json.loads(d)
     project = data['project']
@@ -43,7 +42,7 @@ for change in sys.argv[1:]:
     number = data['number']
 
     f = urllib.request.urlopen("http://review.cyanogenmod.org/changes/%s/revisions/current/review" % number)
-    d = f.read().decode()
+    d = f.read()
     d = '\n'.join(d.split('\n')[1:])
     data = json.loads(d)
 
