@@ -325,7 +325,7 @@ then
     else
         OTASCRIPT=./build/tools/releasetools/ota_from_target_files
     fi
-    if [ -z "$WITH_GMS" ]
+    if [ -z "$WITH_GMS" -o "$WITH_GMS" = "false" ]
     then
         OTASCRIPT="$OTASCRIPT --backup=true"
     fi
