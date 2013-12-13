@@ -325,6 +325,10 @@ then
     else
         OTASCRIPT=./build/tools/releasetools/ota_from_target_files
     fi
+    if [ -z "$WITH_GMS" ]
+    then
+        OTASCRIPT="$OTASCRIPT --backup=true"
+    fi
     ./build/tools/releasetools/sign_target_files_apks -e Term.apk= -d vendor/cm-priv/keys $OUT/obj/PACKAGING/target_files_intermediates/$TARGET_PRODUCT-target_files-$BUILD_NUMBER.zip $OUT/$MODVERSION-signed-intermediate.zip
     $OTASCRIPT -k vendor/cm-priv/keys/releasekey $OUT/$MODVERSION-signed-intermediate.zip $WORKSPACE/archive/cm-$MODVERSION-signed.zip
     if [ "$FASTBOOT_IMAGES" = "true" ]
