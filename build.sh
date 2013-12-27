@@ -378,17 +378,6 @@ fi
 # Build is done, cleanup the environment
 cleanup
 
-# CORE: save manifest used for build (saving revisions as current HEAD)
-
-# Stash away other possible manifests
-TEMPSTASH=$(mktemp -d)
-mv .repo/local_manifests $TEMPSTASH
-
-repo manifest -o $WORKSPACE/archive/core.xml -r
-
-mv $TEMPSTASH/local_manifests .repo
-rmdir $TEMPSTASH
-
 # chmod the files in case UMASK blocks permissions
 chmod -R ugo+r $WORKSPACE/archive
 
