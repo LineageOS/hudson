@@ -203,20 +203,6 @@ fi
 lunch $LUNCH
 check_result "lunch failed."
 
-# save manifest used for build (saving revisions as current HEAD)
-
-# include only the auto-generated locals
-TEMPSTASH=$(mktemp -d)
-mv .repo/local_manifests/* $TEMPSTASH
-mv $TEMPSTASH/roomservice.xml .repo/local_manifests/
-
-# save it
-repo manifest -o $WORKSPACE/archive/manifest.xml -r
-
-# restore all local manifests
-mv $TEMPSTASH/* .repo/local_manifests/ 2>/dev/null
-rmdir $TEMPSTASH
-
 rm -f $OUT/cm-*.zip*
 
 UNAME=$(uname)
@@ -274,13 +260,25 @@ then
   fi
 fi
 
-if [ ! "$(ccache -s|grep -E 'max cache size'|awk '{print $4}')" = "100.0" ]
-then
-  ccache -M 100G
-fi
+# save manifest used for build (saving revisions as current HEAD)
 
+# include only the auto-generated locals
+TEMPSTASH=$(mktemp -d)
+mv .repo/local_manifests/* $TEMPSTASH
+mv $TEMPSTASH/roomservice.xml .repo/local_manifests/
+
+# Generate git logs for all platform repos
 rm -f $WORKSPACE/changecount
 WORKSPACE=$WORKSPACE LUNCH=$LUNCH bash $WORKSPACE/hudson/changes/buildlog.sh 2>&1
+
+# save it
+repo manifest -o $WORKSPACE/archive/manifest.xml -r
+
+# restore all local manifests
+mv $TEMPSTASH/* .repo/local_manifests/ 2>/dev/null
+rmdir $TEMPSTASH
+
+# Abort build if it's exactly the same as the previous one
 if [ -f $WORKSPACE/changecount ]
 then
   CHANGE_COUNT=$(cat $WORKSPACE/changecount)
@@ -290,6 +288,13 @@ then
     echo "Zero changes since last build, aborting"
     exit 1
   fi
+fi
+
+
+
+if [ ! "$(ccache -s|grep -E 'max cache size'|awk '{print $4}')" = "100.0" ]
+then
+  ccache -M 100G
 fi
 
 LAST_CLEAN=0
