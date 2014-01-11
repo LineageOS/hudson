@@ -52,7 +52,7 @@ for change in sys.argv[1:]:
 
     for i in data['revisions']:
         if i == current_revision:
-            ref = data['revisions'][i]['fetch']['http']['ref']
+            ref = data['revisions'][i]['fetch']['anonymous http']['ref']
             patchset = data['revisions'][i]['_number']
             break
 
