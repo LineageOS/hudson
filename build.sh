@@ -340,9 +340,11 @@ then
     fi
     ./build/tools/releasetools/sign_target_files_apks -e Term.apk= -d vendor/cm-priv/keys $OUT/obj/PACKAGING/target_files_intermediates/$TARGET_PRODUCT-target_files-$BUILD_NUMBER.zip $OUT/$MODVERSION-signed-intermediate.zip
     $OTASCRIPT -k vendor/cm-priv/keys/releasekey $OUT/$MODVERSION-signed-intermediate.zip $WORKSPACE/archive/cm-$MODVERSION-signed.zip
+    md5sum $WORKSPACE/archive/cm-$MODVERSION-signed.zip > $WORKSPACE/archive/cm-$MODVERSION-signed.zip.md5sum
     if [ "$FASTBOOT_IMAGES" = "true" ]
     then
        ./build/tools/releasetools/img_from_target_files $OUT/$MODVERSION-signed-intermediate.zip $WORKSPACE/archive/cm-$MODVERSION-fastboot.zip
+       md5sum $WORKSPACE/archive/cm-$MODVERSION-fastboot.zip > $WORKSPACE/archive/cm-$MODVERSION-fastboot.zip.md5sum
     fi
     rm -f $OUT/ota_script_path $OUT/ota_override_device
   else
