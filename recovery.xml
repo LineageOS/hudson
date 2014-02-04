@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <project name="koush/android_vendor_koush" path="vendor/koush" remote="private" />
-  <project name="koush/ROMManagerManifest" path="ROMManagerManifest" revision="gh-pages" remote="private" />
-</manifest>
-  

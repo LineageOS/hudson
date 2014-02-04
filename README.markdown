@@ -16,5 +16,5 @@ always be labeled as EXPERIMENTAL
 
 # Adding or updating a device
 
-Edit cm-build-targets and submit a pull request. The syntax for that file
-is documented in its first few lines
+Edit cm-build-targets and submit a change to gerrit for review. The
+syntax for that file is documented in its first few lines
