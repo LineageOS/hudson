@@ -10,6 +10,8 @@ s|cm_tuna-userdebug@samsung|cm_maguro-userdebug|g
 s|cm_common-userdebug@sony|cm_mint-userdebug|g
 s|cm_m7-common-userdebug@htc|cm_m7ul-userdebug|g
 s|cm_g2-common-userdebug@lge|cm_d802-userdebug|g
-s|cm_t0ltecdma@samsung|cm_i605-userdebug|g
+s|cm_t0ltecdma-userdebug@samsung|cm_i605-userdebug|g
+s|cm_galaxys2-common-userdebug@samsung|cm_i9100-userdebug|g
+s|cm_smdk4412-common-userdebug@samsung|cm_i9300-userdebug|g
 ## Don't remove this line
 s|@.*||g
