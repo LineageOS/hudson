@@ -2,166 +2,166 @@
 # <lunchcombo> <branch> [period: "D"aily, "W"eekly or "M"onthly]
 # Absence of a period indicates Daily (the default)
 
-cm_a700-userdebug cm-11.0
-cm_acclaim-userdebug cm-11.0
-cm_amami-userdebug cm-11.0
+cm_a700-userdebug cm-12.0
+cm_acclaim-userdebug cm-12.0
+cm_amami-userdebug cm-12.0
 cm_anzu-userdebug jellybean M
-cm_apexqtmo-userdebug cm-11.0
-cm_aries-userdebug cm-11.0
-cm_bacon-userdebug cm-11.0
-cm_captivatemtd-userdebug cm-11.0
+cm_apexqtmo-userdebug cm-12.0
+cm_aries-userdebug cm-12.0
+cm_bacon-userdebug cm-12.0
+cm_captivatemtd-userdebug cm-12.0
 cm_coconut-userdebug jellybean M
-cm_crespo-userdebug cm-11.0
+cm_crespo-userdebug cm-12.0
 cm_crespo4g-userdebug cm-10.1 W
-cm_d2lte-userdebug cm-11.0
+cm_d2lte-userdebug cm-12.0
 cm_d710-userdebug cm-10.2 W
-cm_d800-userdebug cm-11.0
-cm_d801-userdebug cm-11.0
-cm_d802-userdebug cm-11.0
-cm_deb-userdebug cm-11.0
-cm_dlx-userdebug cm-11.0
-cm_dogo-userdebug cm-11.0
+cm_d800-userdebug cm-12.0
+cm_d801-userdebug cm-12.0
+cm_d802-userdebug cm-12.0
+cm_deb-userdebug cm-12.0
+cm_dlx-userdebug cm-12.0
+cm_dogo-userdebug cm-12.0
 cm_e610-userdebug jellybean M
-cm_e970-userdebug cm-11.0
-cm_e973-userdebug cm-11.0
-cm_e975-userdebug cm-11.0
-cm_e980-userdebug cm-11.0
-cm_encore-userdebug cm-11.0
-cm_endeavoru-userdebug cm-11.0
-cm_enrc2b-userdebug cm-11.0
-cm_epicmtd-userdebug cm-11.0
+cm_e970-userdebug cm-12.0
+cm_e973-userdebug cm-12.0
+cm_e975-userdebug cm-12.0
+cm_e980-userdebug cm-12.0
+cm_encore-userdebug cm-12.0
+cm_endeavoru-userdebug cm-12.0
+cm_enrc2b-userdebug cm-12.0
+cm_epicmtd-userdebug cm-12.0
 cm_everest-userdebug cm-10.1 W
-cm_evita-userdebug cm-11.0
-cm_exhilarate-userdebug cm-11.0
-cm_expressatt-userdebug cm-11.0
-cm_falcon-userdebug cm-11.0
+cm_evita-userdebug cm-12.0
+cm_exhilarate-userdebug cm-12.0
+cm_expressatt-userdebug cm-12.0
+cm_falcon-userdebug cm-12.0
 cm_fascinatemtd-userdebug cm-10.1 W
-cm_find5-userdebug cm-11.0
-cm_find7-userdebug cm-11.0
-cm_fireball-userdebug cm-11.0
-cm_flo-userdebug cm-11.0
-cm_galaxysbmtd-userdebug cm-11.0
-cm_galaxysmtd-userdebug cm-11.0
-cm_grouper-userdebug cm-11.0
+cm_find5-userdebug cm-12.0
+cm_find7-userdebug cm-12.0
+cm_fireball-userdebug cm-12.0
+cm_flo-userdebug cm-12.0
+cm_galaxysbmtd-userdebug cm-12.0
+cm_galaxysmtd-userdebug cm-12.0
+cm_grouper-userdebug cm-12.0
 cm_haida-userdebug jellybean M
 cm_hallon-userdebug jellybean M
-cm_hammerhead-userdebug cm-11.0
-cm_hercules-userdebug cm-11.0
-cm_hlte-userdebug cm-11.0
+cm_hammerhead-userdebug cm-12.0
+cm_hercules-userdebug cm-12.0
+cm_hlte-userdebug cm-12.0
 cm_holiday-userdebug jellybean M
-cm_honami-userdebug cm-11.0
-cm_huashan-userdebug cm-11.0
-cm_hummingbird-userdebug cm-11.0
-cm_i605-userdebug cm-11.0
+cm_honami-userdebug cm-12.0
+cm_huashan-userdebug cm-12.0
+cm_hummingbird-userdebug cm-12.0
+cm_i605-userdebug cm-12.0
 cm_i777-userdebug cm-10.2 W
-cm_i9100-userdebug cm-11.0
-cm_i9100g-userdebug cm-11.0
+cm_i9100-userdebug cm-12.0
+cm_i9100g-userdebug cm-12.0
 cm_i9103-userdebug cm-10.1 W
-cm_i925-userdebug cm-11.0
-cm_i9300-userdebug cm-11.0
-cm_i9305-userdebug cm-11.0
-cm_i9500-userdebug cm-11.0
+cm_i925-userdebug cm-12.0
+cm_i9300-userdebug cm-12.0
+cm_i9305-userdebug cm-12.0
+cm_i9500-userdebug cm-12.0
 cm_iyokan-userdebug jellybean M
-cm_jem-userdebug cm-11.0
-cm_jewel-userdebug cm-11.0
-cm_jflte-userdebug cm-11.0
-cm_l01f-userdebug cm-11.0
-cm_l900-userdebug cm-11.0
-cm_ls970-userdebug cm-11.0
-cm_ls980-userdebug cm-11.0
-cm_m4-userdebug cm-11.0
-cm_m7-userdebug cm-11.0
-cm_m7spr-userdebug cm-11.0
-cm_m7vzw-userdebug cm-11.0
-cm_m8-userdebug cm-11.0
-cm_maguro-userdebug cm-11.0
-cm_mako-userdebug cm-11.0
+cm_jem-userdebug cm-12.0
+cm_jewel-userdebug cm-12.0
+cm_jflte-userdebug cm-12.0
+cm_l01f-userdebug cm-12.0
+cm_l900-userdebug cm-12.0
+cm_ls970-userdebug cm-12.0
+cm_ls980-userdebug cm-12.0
+cm_m4-userdebug cm-12.0
+cm_m7-userdebug cm-12.0
+cm_m7spr-userdebug cm-12.0
+cm_m7vzw-userdebug cm-12.0
+cm_m8-userdebug cm-12.0
+cm_maguro-userdebug cm-12.0
+cm_mako-userdebug cm-12.0
 cm_mango-userdebug jellybean M
-cm_manta-userdebug cm-11.0
-cm_maserati-userdebug cm-11.0
+cm_manta-userdebug cm-12.0
+cm_maserati-userdebug cm-12.0
 cm_mesmerizemtd-userdebug cm-10.1 W
-cm_mint-userdebug cm-11.0
-cm_mondrianwifi-userdebug cm-11.0
-cm_moto_msm8960-userdebug cm-11.0
-cm_moto_msm8960dt-userdebug cm-11.0
-cm_n1-userdebug cm-11.0
-cm_n5100-userdebug cm-11.0
-cm_n5110-userdebug cm-11.0
-cm_n5120-userdebug cm-11.0
-cm_n7000-userdebug cm-11.0
-cm_n7100-userdebug cm-11.0
+cm_mint-userdebug cm-12.0
+cm_mondrianwifi-userdebug cm-12.0
+cm_moto_msm8960-userdebug cm-12.0
+cm_moto_msm8960dt-userdebug cm-12.0
+cm_n1-userdebug cm-12.0
+cm_n5100-userdebug cm-12.0
+cm_n5110-userdebug cm-12.0
+cm_n5120-userdebug cm-12.0
+cm_n7000-userdebug cm-12.0
+cm_n7100-userdebug cm-12.0
 cm_n8000-userdebug cm-10.2 W
 cm_n8013-userdebug cm-10.2 W
-cm_odin-userdebug cm-11.0
+cm_odin-userdebug cm-12.0
 cm_odroidu2-userdebug cm-10.2 W
-cm_otter-userdebug cm-11.0
-cm_otter2-userdebug cm-11.0
-cm_otterx-userdebug cm-11.0
-cm_ovation-userdebug cm-11.0
+cm_otter-userdebug cm-12.0
+cm_otter2-userdebug cm-12.0
+cm_otterx-userdebug cm-12.0
+cm_ovation-userdebug cm-12.0
 cm_p1c-userdebug jellybean M
-cm_p1-userdebug cm-11.0
+cm_p1-userdebug cm-12.0
 cm_p3-userdebug cm-10.1 W
-cm_p3100-userdebug cm-11.0
-cm_p3110-userdebug cm-11.0
+cm_p3100-userdebug cm-12.0
+cm_p3110-userdebug cm-12.0
 cm_p4-userdebug cm-10.1 W
 cm_p4tmo-userdebug cm-10.1 W
 cm_p4vzw-userdebug cm-10.1 W
 cm_p4wifi-userdebug cm-10.1 W
-cm_p5100-userdebug cm-11.0
-cm_p5110-userdebug cm-11.0
+cm_p5100-userdebug cm-12.0
+cm_p5110-userdebug cm-12.0
 cm_p700-userdebug jellybean M
 cm_p720-userdebug jellybean M
 cm_p760-userdebug cm-10.2 W
-cm_p880-userdebug cm-11.0
+cm_p880-userdebug cm-12.0
 cm_p920-userdebug jellybean M
-cm_p930-userdebug cm-11.0
+cm_p930-userdebug cm-12.0
 cm_p970-userdebug cm-10.1 W
 cm_p990-userdebug cm-10.1 W
-cm_pollux-userdebug cm-11.0
-cm_pollux_windy-userdebug cm-11.0
+cm_pollux-userdebug cm-12.0
+cm_pollux_windy-userdebug cm-12.0
 cm_pyramid-userdebug jellybean M
 cm_quincyatt-userdebug cm-10.1 W
 cm_quincytmo-userdebug cm-10.1 W
-cm_r950-userdebug cm-11.0
+cm_r950-userdebug cm-12.0
 cm_ruby-userdebug jellybean M
 cm_satsuma-userdebug jellybean M
-cm_serrano3gxx-userdebug cm-11.0
-cm_serranoltexx-userdebug cm-11.0
-cm_sirius-userdebug cm-11.0
-cm_skyrocket-userdebug cm-11.0
+cm_serrano3gxx-userdebug cm-12.0
+cm_serranoltexx-userdebug cm-12.0
+cm_sirius-userdebug cm-12.0
+cm_skyrocket-userdebug cm-12.0
 cm_smultron-userdebug jellybean M
 cm_solana-userdebug cm-10.1 W
-cm_spyder-userdebug cm-11.0
+cm_spyder-userdebug cm-12.0
 cm_steelhead-userdebug cm-10.2 W
 cm_stingray-userdebug cm-10.1 W
 cm_su640-userdebug cm-10.1 W
-cm_superior-userdebug cm-11.0
-cm_t0lte-userdebug cm-11.0
+cm_superior-userdebug cm-12.0
+cm_t0lte-userdebug cm-12.0
 cm_t0lteatt-userdebug cm-10.2 W
 cm_t0ltetmo-userdebug cm-10.2 W
-cm_t6-userdebug cm-11.0
-cm_t6spr-userdebug cm-11.0
-cm_t6vzw-userdebug cm-11.0
-cm_t769-userdebug cm-11.0
-cm_targa-userdebug cm-11.0
-cm_tate-userdebug cm-11.0
+cm_t6-userdebug cm-12.0
+cm_t6spr-userdebug cm-12.0
+cm_t6vzw-userdebug cm-12.0
+cm_t769-userdebug cm-12.0
+cm_targa-userdebug cm-12.0
+cm_tate-userdebug cm-12.0
 cm_tf101-userdebug jellybean M
 cm_tf201-userdebug cm-10.1 W
-cm_tf300t-userdebug cm-11.0
-cm_tf700t-userdebug cm-11.0
-cm_tf701t-userdebug cm-11.0
-cm_tilapia-userdebug cm-11.0
-cm_togari_gpe-userdebug cm-11.0
-cm_togari-userdebug cm-11.0
-cm_toroplus-userdebug cm-11.0
-cm_toro-userdebug cm-11.0
-cm_tsubasa-userdebug cm-11.0
-cm_umts_spyder-userdebug cm-11.0
+cm_tf300t-userdebug cm-12.0
+cm_tf700t-userdebug cm-12.0
+cm_tf701t-userdebug cm-12.0
+cm_tilapia-userdebug cm-12.0
+cm_togari_gpe-userdebug cm-12.0
+cm_togari-userdebug cm-12.0
+cm_toroplus-userdebug cm-12.0
+cm_toro-userdebug cm-12.0
+cm_tsubasa-userdebug cm-12.0
+cm_umts_spyder-userdebug cm-12.0
 cm_urushi-userdebug jellybean M
 cm_vibrantmtd-userdebug cm-10.1 W
-cm_ville-userdebug cm-11.0
-cm_v500-userdebug cm-11.0
-cm_vs920-userdebug cm-11.0
-cm_vs980-userdebug cm-11.0
+cm_ville-userdebug cm-12.0
+cm_v500-userdebug cm-12.0
+cm_vs920-userdebug cm-12.0
+cm_vs980-userdebug cm-12.0
 cm_wingray-userdebug cm-10.1 W
-cm_yuga-userdebug cm-11.0
+cm_yuga-userdebug cm-12.0
