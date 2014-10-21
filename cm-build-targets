@@ -2,6 +2,7 @@
 # <lunchcombo> <branch> [period: "D"aily, "W"eekly or "M"onthly]
 # Absence of a period indicates Daily (the default)
 
+cm_a5-userdebug cm-11.0
 cm_a700-userdebug cm-11.0
 cm_acclaim-userdebug cm-11.0
 cm_amami-userdebug cm-11.0
