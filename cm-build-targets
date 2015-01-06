@@ -26,6 +26,7 @@ cm_m8-userdebug cm-12.0
 cm_mako-userdebug cm-12.0
 cm_mondrianwifi-userdebug cm-12.0
 cm_moto_msm8960-userdebug cm-12.0
+cm_picassowifi-userdebug cm-12.0
 cm_t6-userdebug cm-12.0
 cm_t6spr-userdebug cm-12.0
 cm_t6vzw-userdebug cm-12.0
@@ -119,7 +120,6 @@ cm_p5110-userdebug cm-11.0 W
 cm_p880-userdebug cm-11.0 W
 cm_p930-userdebug cm-11.0 W
 cm_peregrine-userdebug cm-11.0 W
-cm_picassowifi-userdebug cm-11.0 W
 cm_pollux-userdebug cm-11.0 W
 cm_pollux_windy-userdebug cm-11.0 W
 cm_r950-userdebug cm-11.0 W
