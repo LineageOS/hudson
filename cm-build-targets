@@ -8,6 +8,7 @@ cm_d802-userdebug cm-12.0
 cm_d850-userdebug cm-12.0
 cm_d855-userdebug cm-12.0
 cm_dlx-userdebug cm-12.0
+cm_e970-userdebug cm-12.0
 cm_e975-userdebug cm-12.0
 cm_e980-userdebug cm-12.0
 cm_evita-userdebug cm-12.0
@@ -22,6 +23,7 @@ cm_hltespr-userdebug cm-12.0
 cm_jewel-userdebug cm-12.0
 cm_jfltevzw-userdebug cm-12.0
 cm_klte-userdebug cm-12.0
+cm_ls970-userdebug cm-12.0
 cm_m7-userdebug cm-12.0
 cm_m7spr-userdebug cm-12.0
 cm_m7vzw-userdebug cm-12.0
@@ -59,7 +61,6 @@ cm_d801-userdebug cm-11.0 W
 cm_d851-userdebug cm-11.0 W
 cm_deb-userdebug cm-11.0 W
 cm_dogo-userdebug cm-11.0 W
-cm_e970-userdebug cm-11.0 W
 cm_e973-userdebug cm-11.0 W
 cm_encore-userdebug cm-11.0 W
 cm_endeavoru-userdebug cm-11.0 W
@@ -93,7 +94,6 @@ cm_kltevzw-userdebug cm-11.0 W
 cm_ks01lte-userdebug cm-11.0 W
 cm_l01f-userdebug cm-11.0 W
 cm_l900-userdebug cm-11.0 W
-cm_ls970-userdebug cm-11.0 W
 cm_ls980-userdebug cm-11.0 W
 cm_m4-userdebug cm-11.0 W
 cm_maguro-userdebug cm-11.0 W
