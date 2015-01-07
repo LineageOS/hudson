@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_ccf6ced6",
+        "filename": "cm-build-targets",
+        "patchSetId": 1
+      },
+      "lineNbr": 122,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2015-01-07T10:10:55Z",
+      "side": 1,
+      "message": "Remove this one",
+      "revId": "0efdfa433aa9ce5a042112114262401b9b66873c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
