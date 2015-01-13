@@ -37,7 +37,6 @@ cm_mako-userdebug cm-12.0
 cm_manta-userdebug cm-12.0
 cm_mint-userdebug cm-12.0
 cm_mondrianwifi-userdebug cm-12.0
-cm_moto_msm8960-userdebug cm-12.0
 cm_peregrine-userdebug cm-12.0
 cm_picassowifi-userdebug cm-12.0
 cm_t6-userdebug cm-12.0
@@ -49,6 +48,9 @@ cm_shamu-userdebug cm-12.0
 cm_v500-userdebug cm-12.0
 cm_ville-userdebug cm-12.0
 cm_vs985-userdebug cm-12.0
+cm_xt907-userdebug cm-12.0
+cm_xt925-userdebug cm-12.0
+cm_xt926-userdebug cm-12.0
 
 # Weekly cm-11.0
 cm_a5-userdebug cm-11.0 W
