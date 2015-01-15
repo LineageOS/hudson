@@ -3,6 +3,7 @@
 # Absence of a period indicates Daily (the default)
 
 # Daily cm-12.0
+cm_amami-userdebug cm-12.0
 cm_bacon-userdebug cm-12.0
 cm_castor-userdebug cm-12.0
 cm_castor_windy-userdebug cm-12.0
@@ -23,6 +24,7 @@ cm_flo-userdebug cm-12.0
 cm_ghost-userdebug cm-12.0
 cm_grouper-userdebug cm-12.0
 cm_hammerhead-userdebug cm-12.0
+cm_honami-userdebug cm-12.0
 cm_hlte-userdebug cm-12.0
 cm_hltespr-userdebug cm-12.0
 cm_jewel-userdebug cm-12.0
@@ -47,6 +49,8 @@ cm_t6-userdebug cm-12.0
 cm_t6spr-userdebug cm-12.0
 cm_t6vzw-userdebug cm-12.0
 cm_tf300t-userdebug cm-12.0
+cm_togari_gpe-userdebug cm-12.0
+cm_togari-userdebug cm-12.0
 cm_scorpion_windy-userdebug cm-12.0
 cm_serrano3gxx-userdebug cm-12.0
 cm_serranoltexx-userdebug cm-12.0
@@ -63,7 +67,6 @@ cm_xt926-userdebug cm-12.0
 cm_a5-userdebug cm-11.0 W
 cm_a700-userdebug cm-11.0 W
 cm_acclaim-userdebug cm-11.0 W
-cm_amami-userdebug cm-11.0 W
 cm_apexqtmo-userdebug cm-11.0 W
 cm_aries-userdebug cm-11.0 W
 cm_captivatemtd-userdebug cm-11.0 W
@@ -87,7 +90,6 @@ cm_galaxysmtd-userdebug cm-11.0 W
 cm_hercules-userdebug cm-11.0 W
 cm_hlteusc-userdebug cm-11.0 W
 cm_hltevzw-userdebug cm-11.0 W
-cm_honami-userdebug cm-11.0 W
 cm_huashan-userdebug cm-11.0 W
 cm_hummingbird-userdebug cm-11.0 W
 cm_i605-userdebug cm-11.0 W
@@ -144,8 +146,6 @@ cm_tate-userdebug cm-11.0 W
 cm_tf700t-userdebug cm-11.0 W
 cm_tf701t-userdebug cm-11.0 W
 cm_tilapia-userdebug cm-11.0 W
-cm_togari_gpe-userdebug cm-11.0 W
-cm_togari-userdebug cm-11.0 W
 cm_tsubasa-userdebug cm-11.0 W
 cm_umts_spyder-userdebug cm-11.0 W
 cm_vs920-userdebug cm-11.0 W
