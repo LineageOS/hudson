@@ -28,6 +28,7 @@ cm_hammerhead-userdebug cm-12.0
 cm_honami-userdebug cm-12.0
 cm_hlte-userdebug cm-12.0
 cm_hltespr-userdebug cm-12.0
+cm_i605-userdebug cm-12.0
 cm_jactivelte-userdebug cm-12.0
 cm_jewel-userdebug cm-12.0
 cm_jfltetmo-userdebug cm-12.0
@@ -35,6 +36,7 @@ cm_jfltevzw-userdebug cm-12.0
 cm_jfltexx-userdebug cm-12.0
 cm_klte-userdebug cm-12.0
 cm_kltespr-userdebug cm-12.0
+cm_l900-userdebug cm-12.0
 cm_ls970-userdebug cm-12.0
 cm_ls980-userdebug cm-12.0
 cm_m7-userdebug cm-12.0
@@ -47,6 +49,7 @@ cm_mondrianwifi-userdebug cm-12.0
 cm_obake-userdebug cm-12.0
 cm_peregrine-userdebug cm-12.0
 cm_picassowifi-userdebug cm-12.0
+cm_t0lte-userdebug cm-12.0
 cm_t6-userdebug cm-12.0
 cm_t6spr-userdebug cm-12.0
 cm_t6vzw-userdebug cm-12.0
@@ -94,7 +97,6 @@ cm_hlteusc-userdebug cm-11.0 W
 cm_hltevzw-userdebug cm-11.0 W
 cm_huashan-userdebug cm-11.0 W
 cm_hummingbird-userdebug cm-11.0 W
-cm_i605-userdebug cm-11.0 W
 cm_i9100-userdebug cm-11.0 W
 cm_i9100g-userdebug cm-11.0 W
 cm_i925-userdebug cm-11.0 W
@@ -107,7 +109,6 @@ cm_klteusc-userdebug cm-11.0 W
 cm_kltevzw-userdebug cm-11.0 W
 cm_ks01lte-userdebug cm-11.0 W
 cm_l01f-userdebug cm-11.0 W
-cm_l900-userdebug cm-11.0 W
 cm_m4-userdebug cm-11.0 W
 cm_m7spr-userdebug cm-11.0 W
 cm_maguro-userdebug cm-11.0 W
@@ -140,7 +141,6 @@ cm_skyrocket-userdebug cm-11.0 W
 cm_sprout-userdebug cm-11.0 W
 cm_spyder-userdebug cm-11.0 W
 cm_superior-userdebug cm-11.0 W
-cm_t0lte-userdebug cm-11.0 W
 cm_t769-userdebug cm-11.0 W
 cm_targa-userdebug cm-11.0 W
 cm_tate-userdebug cm-11.0 W
