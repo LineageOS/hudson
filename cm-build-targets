@@ -8,6 +8,8 @@ cm_amami-userdebug cm-12.0
 cm_bacon-userdebug cm-12.0
 cm_castor-userdebug cm-12.0
 cm_castor_windy-userdebug cm-12.0
+cm_d800-userdebug cm-12.0
+cm_d801-userdebug cm-12.0
 cm_d802-userdebug cm-12.0
 cm_d850-userdebug cm-12.0
 cm_d851-userdebug cm-12.0
@@ -85,8 +87,6 @@ cm_captivatemtd-userdebug cm-11.0 W
 cm_crespo-userdebug cm-11.0 W
 cm_d2lte-userdebug cm-11.0 W
 cm_d710-userdebug cm-11.0 W
-cm_d800-userdebug cm-11.0 W
-cm_d801-userdebug cm-11.0 W
 cm_dogo-userdebug cm-11.0 W
 cm_e973-userdebug cm-11.0 W
 cm_encore-userdebug cm-11.0 W
