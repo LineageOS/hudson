@@ -52,6 +52,7 @@ cm_manta-userdebug cm-12.0
 cm_memul-userdebug cm-12.0
 cm_mint-userdebug cm-12.0
 cm_mondrianwifi-userdebug cm-12.0
+cm_nicki-userdebug cm-12.0
 cm_obake-userdebug cm-12.0
 cm_peregrine-userdebug cm-12.0
 cm_picassowifi-userdebug cm-12.0
@@ -130,7 +131,6 @@ cm_n5110-userdebug cm-11.0 W
 cm_n5120-userdebug cm-11.0 W
 cm_n7000-userdebug cm-11.0 W
 cm_n7100-userdebug cm-11.0 W
-cm_nicki-userdebug cm-11.0 W
 cm_odin-userdebug cm-11.0 W
 cm_otter-userdebug cm-11.0 W
 cm_otter2-userdebug cm-11.0 W
