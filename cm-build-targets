@@ -4,6 +4,7 @@
 
 # Daily cm-12.0
 cm_a5-userdebug cm-12.0
+cm_acclaim-userdebug cm-12.0
 cm_amami-userdebug cm-12.0
 cm_bacon-userdebug cm-12.0
 cm_castor-userdebug cm-12.0
@@ -84,7 +85,6 @@ cm_z3c-userdebug cm-12.0
 
 # Weekly cm-11.0
 cm_a700-userdebug cm-11.0 W
-cm_acclaim-userdebug cm-11.0 W
 cm_apexqtmo-userdebug cm-11.0 W
 cm_aries-userdebug cm-11.0 W
 cm_captivatemtd-userdebug cm-11.0 W
