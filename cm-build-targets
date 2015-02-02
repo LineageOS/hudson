@@ -63,6 +63,7 @@ cm_t6-userdebug cm-12.0
 cm_t6spr-userdebug cm-12.0
 cm_t6vzw-userdebug cm-12.0
 cm_targa-userdebug cm-12.0
+cm_tilapia-userdebug cm-12.0
 cm_tf300t-userdebug cm-12.0
 cm_togari_gpe-userdebug cm-12.0
 cm_togari-userdebug cm-12.0
@@ -155,7 +156,6 @@ cm_t769-userdebug cm-11.0 W
 cm_tate-userdebug cm-11.0 W
 cm_tf700t-userdebug cm-11.0 W
 cm_tf701t-userdebug cm-11.0 W
-cm_tilapia-userdebug cm-11.0 W
 cm_vs920-userdebug cm-11.0 W
 cm_vs980-userdebug cm-11.0 W
 cm_w7-userdebug cm-11.0 W
