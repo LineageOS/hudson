@@ -56,6 +56,8 @@ cm_nicki-userdebug cm-12.0
 cm_obake-userdebug cm-12.0
 cm_peregrine-userdebug cm-12.0
 cm_picassowifi-userdebug cm-12.0
+cm_pollux-userdebug cm-12.0
+cm_pollux_windy-userdebug cm-12.0
 cm_t0lte-userdebug cm-12.0
 cm_t6-userdebug cm-12.0
 cm_t6spr-userdebug cm-12.0
@@ -143,8 +145,6 @@ cm_p5100-userdebug cm-11.0 W
 cm_p5110-userdebug cm-11.0 W
 cm_p880-userdebug cm-11.0 W
 cm_p930-userdebug cm-11.0 W
-cm_pollux-userdebug cm-11.0 W
-cm_pollux_windy-userdebug cm-11.0 W
 cm_r950-userdebug cm-11.0 W
 cm_skyrocket-userdebug cm-11.0 W
 cm_sprout-userdebug cm-11.0 W
