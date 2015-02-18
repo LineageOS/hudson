@@ -34,6 +34,24 @@
       "revId": "878c0954c8d7bf32adc7df144bec0707620a9e56",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_3e4fdd93",
+        "filename": "cm-build-targets",
+        "patchSetId": 2
+      },
+      "lineNbr": 137,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2015-02-18T22:35:12Z",
+      "side": 1,
+      "message": "XT897 moved to 12 earlier in the day (see line 90). Does that mean I can fully remove this entry for 8960_jbbl?",
+      "parentUuid": "bacf61ea_3e94fd35",
+      "revId": "878c0954c8d7bf32adc7df144bec0707620a9e56",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
