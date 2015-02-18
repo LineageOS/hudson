@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bacf61ea_fe73854b",
+        "filename": "cm-build-targets",
+        "patchSetId": 2
+      },
+      "lineNbr": 137,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2015-02-18T17:28:39Z",
+      "side": 1,
+      "message": "Is this device deprecated fully now?",
+      "revId": "878c0954c8d7bf32adc7df144bec0707620a9e56",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
