@@ -52,6 +52,24 @@
       "revId": "878c0954c8d7bf32adc7df144bec0707620a9e56",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_f9527fdc",
+        "filename": "cm-build-targets",
+        "patchSetId": 2
+      },
+      "lineNbr": 137,
+      "author": {
+        "id": 2759
+      },
+      "writtenOn": "2015-02-19T03:12:45Z",
+      "side": 1,
+      "message": "Yes, you can.",
+      "parentUuid": "bacf61ea_3e4fdd93",
+      "revId": "878c0954c8d7bf32adc7df144bec0707620a9e56",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
