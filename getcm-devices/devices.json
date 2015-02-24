@@ -355,6 +355,7 @@
   {  "name": "Xperia Z3", "wiki_url": "https://wiki.cyanogenmod.org/w/z3_Info", "brand": "Sony",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Sony",  "model": "z3"  },
   {  "name": "Xperia Z3 Compact", "wiki_url": "https://wiki.cyanogenmod.org/w/z3c_Info", "brand": "Sony",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Sony",  "model": "z3c"  },
   {  "name": "Z71", "wiki_url": "https://wiki.cyanogenmod.org/w/z71_Info", "brand": "Commtiva",  "has_recovery": true,  "image_url": "/static/img/z71.png", "oem": "Commtiva",  "model": "z71"  },
+  {  "name": "Desire 601", "wiki_url": "https://wiki.cyanogenmod.org/w/Zara_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "HTC",  "model": "zara"  },
   {  "name": "Cliq XT", "wiki_url": "https://wiki.cyanogenmod.org/w/zeppelin_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/zeppelin.png", "oem": "Motorola",  "model": "zeppelin"  },
   {  "name": "Zero", "wiki_url": "https://wiki.cyanogenmod.org/w/zero_Info", "brand": "Geeksphone",  "has_recovery": true,  "image_url": "/static/img/zero.png", "oem": "Geeksphone",  "model": "zero"  },
   {  "name": "Ericsson Xperia Play (GSM)", "wiki_url": "https://wiki.cyanogenmod.org/w/zeus_Info", "brand": "Sony",  "has_recovery": true,  "image_url": "/static/img/zeus.png", "oem": "Sony",  "model": "zeus"  },
