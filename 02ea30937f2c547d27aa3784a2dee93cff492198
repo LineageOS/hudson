@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ad45d7e_13178252",
+        "filename": "cm-build-targets",
+        "patchSetId": 1
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2015-03-09T17:40:12Z",
+      "side": 1,
+      "message": "Should go before klte",
+      "revId": "02ea30937f2c547d27aa3784a2dee93cff492198",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
