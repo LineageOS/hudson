@@ -2,11 +2,14 @@
 # <lunchcombo> <branch> [period: "D"aily, "W"eekly or "M"onthly]
 # Absence of a period indicates Daily (the default)
 
+# Daily cm-12.1
+cm_bacon-userdebug cm-12.1
+cm_shamu-userdebug cm-12.1
+
 # Daily cm-12.0
 cm_a5-userdebug cm-12.0
 cm_acclaim-userdebug cm-12.0
 cm_amami-userdebug cm-12.0
-cm_bacon-userdebug cm-12.0
 cm_castor-userdebug cm-12.0
 cm_castor_windy-userdebug cm-12.0
 cm_condor-userdebug cm-12.0
@@ -77,7 +80,6 @@ cm_scorpion-userdebug cm-12.0
 cm_scorpion_windy-userdebug cm-12.0
 cm_serrano3gxx-userdebug cm-12.0
 cm_serranoltexx-userdebug cm-12.0
-cm_shamu-userdebug cm-12.0
 cm_sirius-userdebug cm-12.0
 cm_spyder-userdebug cm-12.0
 cm_superior-userdebug cm-12.0
