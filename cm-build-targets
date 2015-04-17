@@ -39,6 +39,7 @@ cm_shamu-userdebug cm-12.1
 cm_spyder-userdebug cm-12.1
 cm_superior-userdebug cm-12.1
 cm_t6-userdebug cm-12.1
+cm_t6spr-userdebug cm-12.1
 cm_t6vzw-userdebug cm-12.1
 cm_targa-userdebug cm-12.1
 cm_tilapia-userdebug cm-12.1
@@ -99,7 +100,6 @@ cm_serrano3gxx-userdebug cm-12.0
 cm_serranoltexx-userdebug cm-12.0
 cm_sirius-userdebug cm-12.0
 cm_t0lte-userdebug cm-12.0
-cm_t6spr-userdebug cm-12.0
 cm_taoshan-userdebug cm-12.0
 cm_tf300t-userdebug cm-12.0
 cm_togari-userdebug cm-12.0
