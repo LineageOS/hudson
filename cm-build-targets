@@ -4,6 +4,7 @@
 
 # Daily cm-12.1
 cm_acclaim-userdebug cm-12.1
+cm_amami-userdebug cm-12.1
 cm_bacon-userdebug cm-12.1
 cm_castor-userdebug cm-12.1
 cm_castor_windy-userdebug cm-12.1
@@ -24,6 +25,7 @@ cm_hammerheadcaf-userdebug cm-12.1
 cm_hlte-userdebug cm-12.1
 cm_hltespr-userdebug cm-12.1
 cm_hltetmo-userdebug cm-12.1
+cm_honami-userdebug cm-12.1
 cm_jfltevzw-userdebug cm-12.1
 cm_jfltexx-userdebug cm-12.1
 cm_klimtwifi-userdebug cm-12.1
@@ -52,6 +54,8 @@ cm_t6vzw-userdebug cm-12.1
 cm_targa-userdebug cm-12.1
 cm_tilapia-userdebug cm-12.1
 cm_titan-userdebug cm-12.1
+cm_togari-userdebug cm-12.1
+cm_togari_gpe-userdebug cm-12.1
 cm_trltetmo-userdebug cm-12.1
 cm_trltexx-userdebug cm-12.1
 cm_umts_spyder-userdebug cm-12.1
@@ -68,7 +72,6 @@ cm_z3c-userdebug cm-12.1
 
 # Daily cm-12.0
 cm_a5-userdebug cm-12.0
-cm_amami-userdebug cm-12.0
 cm_d800-userdebug cm-12.0
 cm_d801-userdebug cm-12.0
 cm_d802-userdebug cm-12.0
@@ -79,7 +82,6 @@ cm_d855-userdebug cm-12.0
 cm_e970-userdebug cm-12.0
 cm_find5-userdebug cm-12.0
 cm_flounder-userdebug cm-12.0
-cm_honami-userdebug cm-12.0
 cm_i605-userdebug cm-12.0
 cm_i925-userdebug cm-12.0
 cm_jactivelte-userdebug cm-12.0
@@ -105,8 +107,6 @@ cm_serranoltexx-userdebug cm-12.0
 cm_t0lte-userdebug cm-12.0
 cm_taoshan-userdebug cm-12.0
 cm_tf300t-userdebug cm-12.0
-cm_togari-userdebug cm-12.0
-cm_togari_gpe-userdebug cm-12.0
 cm_trltespr-userdebug cm-12.0
 cm_trlteusc-userdebug cm-12.0
 cm_tsubasa-userdebug cm-12.0
