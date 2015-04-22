@@ -22,9 +22,12 @@ cm_hammerheadcaf-userdebug cm-12.1
 cm_hlte-userdebug cm-12.1
 cm_hltespr-userdebug cm-12.1
 cm_hltetmo-userdebug cm-12.1
+cm_i605-userdebug cm-12.1
+cm_i925-userdebug cm-12.1
 cm_jfltevzw-userdebug cm-12.1
 cm_jfltexx-userdebug cm-12.1
 cm_klimtwifi-userdebug cm-12.1
+cm_l900-userdebug cm-12.1
 cm_m7-userdebug cm-12.1
 cm_m7vzw-userdebug cm-12.1
 cm_m8-userdebug cm-12.1
@@ -34,6 +37,8 @@ cm_maserati-userdebug cm-12.1
 cm_mb886-userdebug cm-12.1
 cm_mondrianwifi-userdebug cm-12.1
 cm_n3-userdebug cm-12.1
+cm_n5100-userdebug cm-12.1
+cm_n5110-userdebug cm-12.1
 cm_obake-userdebug cm-12.1
 cm_peregrine-userdebug cm-12.1
 cm_picassowifi-userdebug cm-12.1
@@ -41,6 +46,7 @@ cm_quark-userdebug cm-12.1
 cm_shamu-userdebug cm-12.1
 cm_spyder-userdebug cm-12.1
 cm_superior-userdebug cm-12.1
+cm_t0lte-userdebug cm-12.1
 cm_t6-userdebug cm-12.1
 cm_t6spr-userdebug cm-12.1
 cm_t6vzw-userdebug cm-12.1
@@ -77,8 +83,6 @@ cm_e970-userdebug cm-12.0
 cm_find5-userdebug cm-12.0
 cm_flounder-userdebug cm-12.0
 cm_honami-userdebug cm-12.0
-cm_i605-userdebug cm-12.0
-cm_i925-userdebug cm-12.0
 cm_jactivelte-userdebug cm-12.0
 cm_jewel-userdebug cm-12.0
 cm_jflteatt-userdebug cm-12.0
@@ -87,13 +91,10 @@ cm_jfltetmo-userdebug cm-12.0
 cm_klte-userdebug cm-12.0
 cm_kltespr-userdebug cm-12.0
 cm_ks01lte-userdebug cm-12.0
-cm_l900-userdebug cm-12.0
 cm_ls970-userdebug cm-12.0
 cm_ls980-userdebug cm-12.0
 cm_m7spr-userdebug cm-12.0
 cm_mint-userdebug cm-12.0
-cm_n5100-userdebug cm-12.0
-cm_n5110-userdebug cm-12.0
 cm_nicki-userdebug cm-12.0
 cm_pollux-userdebug cm-12.0
 cm_pollux_windy-userdebug cm-12.0
@@ -102,7 +103,6 @@ cm_scorpion_windy-userdebug cm-12.0
 cm_serrano3gxx-userdebug cm-12.0
 cm_serranoltexx-userdebug cm-12.0
 cm_sirius-userdebug cm-12.0
-cm_t0lte-userdebug cm-12.0
 cm_taoshan-userdebug cm-12.0
 cm_togari-userdebug cm-12.0
 cm_togari_gpe-userdebug cm-12.0
