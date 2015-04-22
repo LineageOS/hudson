@@ -5,6 +5,8 @@
 # Daily cm-12.1
 cm_acclaim-userdebug cm-12.1
 cm_bacon-userdebug cm-12.1
+cm_castor-userdebug cm-12.1
+cm_castor_windy-userdebug cm-12.1
 cm_condor-userdebug cm-12.1
 cm_deb-userdebug cm-12.1
 cm_dlx-userdebug cm-12.1
@@ -38,7 +40,10 @@ cm_obake-userdebug cm-12.1
 cm_peregrine-userdebug cm-12.1
 cm_picassowifi-userdebug cm-12.1
 cm_quark-userdebug cm-12.1
+cm_scorpion-userdebug cm-12.1
+cm_scorpion_windy-userdebug cm-12.1
 cm_shamu-userdebug cm-12.1
+cm_sirius-userdebug cm-12.1
 cm_spyder-userdebug cm-12.1
 cm_superior-userdebug cm-12.1
 cm_t6-userdebug cm-12.1
@@ -58,12 +63,12 @@ cm_xt897-userdebug cm-12.1
 cm_xt907-userdebug cm-12.1
 cm_xt925-userdebug cm-12.1
 cm_xt926-userdebug cm-12.1
+cm_z3-userdebug cm-12.1
+cm_z3c-userdebug cm-12.1
 
 # Daily cm-12.0
 cm_a5-userdebug cm-12.0
 cm_amami-userdebug cm-12.0
-cm_castor-userdebug cm-12.0
-cm_castor_windy-userdebug cm-12.0
 cm_d800-userdebug cm-12.0
 cm_d801-userdebug cm-12.0
 cm_d802-userdebug cm-12.0
@@ -95,11 +100,8 @@ cm_n5110-userdebug cm-12.0
 cm_nicki-userdebug cm-12.0
 cm_pollux-userdebug cm-12.0
 cm_pollux_windy-userdebug cm-12.0
-cm_scorpion-userdebug cm-12.0
-cm_scorpion_windy-userdebug cm-12.0
 cm_serrano3gxx-userdebug cm-12.0
 cm_serranoltexx-userdebug cm-12.0
-cm_sirius-userdebug cm-12.0
 cm_t0lte-userdebug cm-12.0
 cm_taoshan-userdebug cm-12.0
 cm_tf300t-userdebug cm-12.0
@@ -108,8 +110,6 @@ cm_togari_gpe-userdebug cm-12.0
 cm_trltespr-userdebug cm-12.0
 cm_trlteusc-userdebug cm-12.0
 cm_tsubasa-userdebug cm-12.0
-cm_z3-userdebug cm-12.0
-cm_z3c-userdebug cm-12.0
 
 # Weekly cm-11.0
 cm_a700-userdebug cm-11.0 W
