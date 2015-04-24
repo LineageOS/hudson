@@ -168,6 +168,7 @@
   {  "name": "One (T-Mobile)", "wiki_url": "https://wiki.cyanogenmod.org/w/m7tmo_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/m7.png", "oem": "HTC",  "model": "m7tmo"  },
   {  "name": "One (GSM)", "wiki_url": "https://wiki.cyanogenmod.org/w/m7ul_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/m7.png", "oem": "HTC",  "model": "m7ul"  },
   {  "name": "One (Verizon)", "wiki_url": "https://wiki.cyanogenmod.org/w/m7vzw_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "HTC",  "model": "m7vzw"  },
+  {  "name": "Desire Eye", "wiki_url": "https://wiki.cyanogenmod.org/w/Eyeul_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "HTC",  "model": "eyeul"  },
   {  "name": "One 2014", "wiki_url": "https://wiki.cyanogenmod.org/w/m8_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "HTC",  "model": "m8"  },
   {  "name": "One 2014 Dual Sim", "wiki_url": "https://wiki.cyanogenmod.org/w/m8dug_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "HTC",  "model": "m8dug"  },
   {  "name": "Galaxy Nexus (GSM)", "wiki_url": "https://wiki.cyanogenmod.org/w/maguro_Info", "brand": "Google",  "has_recovery": true,  "image_url": "/static/img/maguro.png", "oem": "Google",  "model": "maguro"  },
