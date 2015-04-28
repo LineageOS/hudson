@@ -9,6 +9,10 @@ cm_bacon-userdebug cm-12.1
 cm_castor-userdebug cm-12.1
 cm_castor_windy-userdebug cm-12.1
 cm_condor-userdebug cm-12.1
+cm_d2att-userdebug cm-12.1
+cm_d2spr-userdebug cm-12.1
+cm_d2tmo-userdebug cm-12.1
+cm_d2vzw-userdebug cm-12.1
 cm_deb-userdebug cm-12.1
 cm_dlx-userdebug cm-12.1
 cm_e975-userdebug cm-12.1
@@ -119,7 +123,6 @@ cm_apexqtmo-userdebug cm-11.0 W
 cm_aries-userdebug cm-11.0 W
 cm_captivatemtd-userdebug cm-11.0 W
 cm_crespo-userdebug cm-11.0 W
-cm_d2lte-userdebug cm-11.0 W
 cm_d710-userdebug cm-11.0 W
 cm_dogo-userdebug cm-11.0 W
 cm_e973-userdebug cm-11.0 W
