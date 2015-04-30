@@ -13,6 +13,10 @@ cm_d2att-userdebug cm-12.1
 cm_d2spr-userdebug cm-12.1
 cm_d2tmo-userdebug cm-12.1
 cm_d2vzw-userdebug cm-12.1
+cm_d850-userdebug cm-12.1
+cm_d851-userdebug cm-12.1
+cm_d852-userdebug cm-12.1
+cm_d855-userdebug cm-12.1
 cm_deb-userdebug cm-12.1
 cm_dlx-userdebug cm-12.1
 cm_e975-userdebug cm-12.1
@@ -94,10 +98,6 @@ cm_a5-userdebug cm-12.0
 cm_d800-userdebug cm-12.0
 cm_d801-userdebug cm-12.0
 cm_d802-userdebug cm-12.0
-cm_d850-userdebug cm-12.0
-cm_d851-userdebug cm-12.0
-cm_d852-userdebug cm-12.0
-cm_d855-userdebug cm-12.0
 cm_e970-userdebug cm-12.0
 cm_find5-userdebug cm-12.0
 cm_flounder-userdebug cm-12.0
