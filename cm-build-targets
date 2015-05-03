@@ -62,6 +62,8 @@ cm_picassowifi-userdebug cm-12.1
 cm_quark-userdebug cm-12.1
 cm_scorpion-userdebug cm-12.1
 cm_scorpion_windy-userdebug cm-12.1
+cm_serrano3gxx-userdebug cm-12.1
+cm_serranoltexx-userdebug cm-12.1
 cm_shamu-userdebug cm-12.1
 cm_sirius-userdebug cm-12.1
 cm_spyder-userdebug cm-12.1
@@ -110,8 +112,6 @@ cm_mint-userdebug cm-12.0
 cm_nicki-userdebug cm-12.0
 cm_pollux-userdebug cm-12.0
 cm_pollux_windy-userdebug cm-12.0
-cm_serrano3gxx-userdebug cm-12.0
-cm_serranoltexx-userdebug cm-12.0
 cm_taoshan-userdebug cm-12.0
 cm_trltespr-userdebug cm-12.0
 cm_trlteusc-userdebug cm-12.0
