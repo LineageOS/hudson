@@ -280,7 +280,7 @@
   {  "name": "One Max (Sprint)", "wiki_url": "https://wiki.cyanogenmod.org/w/t6spr_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "HTC",  "model": "t6spr"  },
   {  "name": "One Max (Verizon)", "wiki_url": "https://wiki.cyanogenmod.org/w/t6vzw_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "HTC",  "model": "t6vzw"  },
   {  "name": "Galaxy S Blaze 4G", "wiki_url": "https://wiki.cyanogenmod.org/w/t769_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/blaze.png", "oem": "Samsung",  "model": "t769"  },
-  {  "name": "Xperia L", "wiki_url": "https://wiki.cyanogenmod.org/w/taoshan_Info", "brand": "Sony",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Sony",  "model": "taoshan"  },
+  {  "name": "Xperia L", "wiki_url": "https://wiki.cyanogenmod.org/w/taoshan_Info", "brand": "Sony",  "has_recovery": true,  "image_url": "/static/img/taoshan.jpg", "oem": "Sony",  "model": "taoshan"  },
   {  "name": "Droid Bionic", "wiki_url": "https://wiki.cyanogenmod.org/w/targa_Info", "brand": "Motorola",  "has_recovery": false,  "image_url": "/static/img/targa.png", "oem": "Motorola",  "model": "targa"  },
   {  "name": "Galaxy Mini", "wiki_url": "https://wiki.cyanogenmod.org/w/tass_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/tass.png", "oem": "Samsung",  "model": "tass"  },
   {  "name": "Kindle Fire HD 7", "wiki_url": "https://wiki.cyanogenmod.org/w/tate_Info", "brand": "Amazon",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Amazon",  "model": "tate"  },
