@@ -82,6 +82,7 @@ cm_t0lte-userdebug cm-12.1
 cm_t6-userdebug cm-12.1
 cm_t6spr-userdebug cm-12.1
 cm_t6vzw-userdebug cm-12.1
+cm_taoshan-userdebug cm-12.1
 cm_targa-userdebug cm-12.1
 cm_tate-userdebug cm-12.1
 cm_tf300t-userdebug cm-12.1
@@ -124,7 +125,6 @@ cm_m7spr-userdebug cm-12.0
 cm_mint-userdebug cm-12.0
 cm_pollux-userdebug cm-12.0
 cm_pollux_windy-userdebug cm-12.0
-cm_taoshan-userdebug cm-12.0
 cm_trltespr-userdebug cm-12.0
 cm_trlteusc-userdebug cm-12.0
 cm_tsubasa-userdebug cm-12.0
