@@ -73,8 +73,6 @@ cm_serranoltexx-userdebug cm-12.1
 cm_shamu-userdebug cm-12.1
 cm_sirius-userdebug cm-12.1
 cm_spyder-userdebug cm-12.1
-cm_sprout4-userdebug cm-12.1
-cm_sprout8-userdebug cm-12.1
 cm_superior-userdebug cm-12.1
 cm_t0lte-userdebug cm-12.1
 cm_t6-userdebug cm-12.1
@@ -180,6 +178,7 @@ cm_p930-userdebug cm-11.0 W
 cm_r950-userdebug cm-11.0 W
 cm_sc02c-userdebug cm-11.0 W
 cm_skyrocket-userdebug cm-11.0 W
+cm_sprout-userdebug cm-11.0 W
 cm_t769-userdebug cm-11.0 W
 cm_tf700t-userdebug cm-11.0 W
 cm_tf701t-userdebug cm-11.0 W
