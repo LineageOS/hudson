@@ -115,23 +115,23 @@ xt926 userdebug cm-12.1
 z3 userdebug cm-12.1
 z3c userdebug cm-12.1
 
-# Daily cm-12.0
-a5 userdebug cm-12.0
-d800 userdebug cm-12.0
-d801 userdebug cm-12.0
-d802 userdebug cm-12.0
-e970 userdebug cm-12.0
-find5 userdebug cm-12.0
-jewel userdebug cm-12.0
-ks01lte userdebug cm-12.0
-ls970 userdebug cm-12.0
-ls980 userdebug cm-12.0
-m7spr userdebug cm-12.0
-mint userdebug cm-12.0
-taoshan userdebug cm-12.0
-trlteusc userdebug cm-12.0
-tsubasa userdebug cm-12.0
-vs980 userdebug cm-12.0
+# Weekly cm-12.0
+a5 userdebug cm-12.0 W
+d800 userdebug cm-12.0 W
+d801 userdebug cm-12.0 W
+d802 userdebug cm-12.0 W
+e970 userdebug cm-12.0 W
+find5 userdebug cm-12.0 W
+jewel userdebug cm-12.0 W
+ks01lte userdebug cm-12.0 W
+ls970 userdebug cm-12.0 W
+ls980 userdebug cm-12.0 W
+m7spr userdebug cm-12.0 W
+mint userdebug cm-12.0 W
+taoshan userdebug cm-12.0 W
+trlteusc userdebug cm-12.0 W
+tsubasa userdebug cm-12.0 W
+vs980 userdebug cm-12.0 W
 
 # Weekly cm-11.0
 a700 userdebug cm-11.0 W
