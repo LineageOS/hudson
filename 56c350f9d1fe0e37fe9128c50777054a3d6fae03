@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff0f0b1f_b0d2c533",
+        "filename": "cm-build-targets",
+        "patchSetId": 5
+      },
+      "lineNbr": 118,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2015-07-17T02:14:40Z",
+      "side": 1,
+      "message": "eyeul userdebug cm-12.1",
+      "range": {
+        "startLine": 118,
+        "startChar": 0,
+        "endLine": 118,
+        "endChar": 26
+      },
+      "revId": "56c350f9d1fe0e37fe9128c50777054a3d6fae03",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
