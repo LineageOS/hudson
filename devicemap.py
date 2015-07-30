@@ -7,7 +7,7 @@ devicemap = {
     'anzu': 'Sony Ericsson Xperia Arc',
     'aoba': 'Sony Xperia ion',
     'apexqtmo': 'Samsung Galaxy S Relay 4G',
-    'aries': 'Samsung Galaxy S',
+    'aries': 'Xiaomi Mi2',
     'asanti': 'Motorola Photon Q',
     'bacon': 'OnePlus One',
     'betelgeuse': 'Toshiba Folio 100',
