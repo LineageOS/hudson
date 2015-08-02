@@ -1,5 +1,5 @@
 # CM build target list
-# <device> <build_type> <version> [period: "D"aily, "W"eekly or "M"onthly]
+# <device> <build_type> <version> [period: "D"aily, "W"eekly]
 # Absence of a period indicates Daily (the default)
 
 # Daily cm-12.1
