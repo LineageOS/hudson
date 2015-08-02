@@ -13,6 +13,10 @@ d2att userdebug cm-12.1
 d2spr userdebug cm-12.1
 d2tmo userdebug cm-12.1
 d2vzw userdebug cm-12.1
+d800 userdebug cm-12.1
+d801 userdebug cm-12.1
+d802 userdebug cm-12.1
+d803 userdebug cm-12.1
 d850 userdebug cm-12.1
 d851 userdebug cm-12.1
 d852 userdebug cm-12.1
@@ -58,6 +62,7 @@ kltekdi userdebug cm-12.1
 kltespr userdebug cm-12.1
 l900 userdebug cm-12.1
 lettuce userdebug cm-12.1
+ls980 userdebug cm-12.1
 ls990 userdebug cm-12.1
 m7 userdebug cm-12.1
 m7vzw userdebug cm-12.1
@@ -108,6 +113,7 @@ v410 userdebug cm-12.1
 v500 userdebug cm-12.1
 victara userdebug cm-12.1
 ville userdebug cm-12.1
+vs980 userdebug cm-12.1
 vs985 userdebug cm-12.1
 xt897 userdebug cm-12.1
 xt907 userdebug cm-12.1
@@ -118,21 +124,16 @@ z3c userdebug cm-12.1
 
 # Weekly cm-12.0
 a5 userdebug cm-12.0 W
-d800 userdebug cm-12.0 W
-d801 userdebug cm-12.0 W
-d802 userdebug cm-12.0 W
 e970 userdebug cm-12.0 W
 find5 userdebug cm-12.0 W
 jewel userdebug cm-12.0 W
 ks01lte userdebug cm-12.0 W
 ls970 userdebug cm-12.0 W
-ls980 userdebug cm-12.0 W
 m7spr userdebug cm-12.0 W
 mint userdebug cm-12.0 W
 taoshan userdebug cm-12.0 W
 trlteusc userdebug cm-12.0 W
 tsubasa userdebug cm-12.0 W
-vs980 userdebug cm-12.0 W
 
 # Weekly cm-11.0
 a700 userdebug cm-11.0 W
