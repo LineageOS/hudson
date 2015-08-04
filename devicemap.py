@@ -17,6 +17,7 @@ devicemap = {
     'buzz': 'HTC Wildfire',
     'c660': 'LG Optimus Pro',
     'c800': 'LG myTouch Q',
+    'cancro': 'Xiaomi Mi3w and Mi4',
     'captivatemtd': 'Samsung Captivate',
     'castor': 'Sony Xperia Z2 Tablet (LTE)',
     'castor_windy': 'Sony Xperia Z2 Tablet (Wi-Fi)',
