@@ -170,6 +170,7 @@ devicemap = {
     'm7ul': 'HTC One (GSM)',
     'm7vzw': 'HTC One (Verizon)',
     'm8': 'HTC One (2014)',
+    'm8dug': 'HTC One (2014) Dual SIM',
     'maguro': 'Google Galaxy Nexus (GSM)',
     'mako': 'Google Nexus 4',
     'mango': 'Sony Ericsson Xperia Mini Pro',
