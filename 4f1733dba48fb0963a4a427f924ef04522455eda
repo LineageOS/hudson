@@ -22,6 +22,30 @@
       "revId": "4f1733dba48fb0963a4a427f924ef04522455eda",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f201791_b275299b",
+        "filename": "README.markdown",
+        "patchSetId": 7
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2015-08-21T14:33:45Z",
+      "side": 1,
+      "message": "Strange because when I installed git-review plugin I had to run \u0027git-review\u0027 because \u0027git review\u0027 didn\u0027t work.",
+      "parentUuid": "5f201791_f2496160",
+      "range": {
+        "startLine": 17,
+        "startChar": 7,
+        "endLine": 17,
+        "endChar": 8
+      },
+      "revId": "4f1733dba48fb0963a4a427f924ef04522455eda",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
