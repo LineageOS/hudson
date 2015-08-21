@@ -119,7 +119,7 @@
   {  "name": "Galaxy S II (AT&T)", "wiki_url": "https://wiki.cyanogenmod.org/w/i777_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/i777.png", "oem": "Samsung",  "model": "i777"  },
   {  "name": "Galaxy S II (Intl)", "wiki_url": "https://wiki.cyanogenmod.org/w/i9100_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/i9100.png", "oem": "Samsung",  "model": "i9100"  },
   {  "name": "Galaxy S II (G)", "wiki_url": "https://wiki.cyanogenmod.org/w/i9100g_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/i9100.png", "oem": "Samsung",  "model": "i9100g"  },
-  {  "name": "Galaxy RGSM)", "wiki_url": "https://wiki.cyanogenmod.org/w/i9103_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/i9103.png", "oem": "Samsung",  "model": "i9103"  },
+  {  "name": "Galaxy R (GSM)", "wiki_url": "https://wiki.cyanogenmod.org/w/i9103_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/i9103.png", "oem": "Samsung",  "model": "i9103"  },
   {  "name": "Galaxy Note 10.1 (Verizon)", "wiki_url": "https://wiki.cyanogenmod.org/w/i925_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Samsung",  "model": "i925"  },
   {  "name": "Galaxy S III (Intl)", "wiki_url": "https://wiki.cyanogenmod.org/w/i9300_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/i9300.png", "oem": "Samsung",  "model": "i9300"  },
   {  "name": "Galaxy S III (GSM LTE)", "wiki_url": "https://wiki.cyanogenmod.org/w/i9305_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/i9300.png", "oem": "Samsung",  "model": "i9305"  },
