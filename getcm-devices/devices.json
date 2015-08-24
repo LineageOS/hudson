@@ -152,7 +152,7 @@
   {  "name": "Galaxy S5 (Sprint)", "wiki_url": "https://wiki.cyanogenmod.org/w/kltespr_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Samsung",  "model": "kltespr"  },
   {  "name": "Galaxy S5 (US Cellular)", "wiki_url": "https://wiki.cyanogenmod.org/w/klteusc_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Samsung",  "model": "klteusc"  },
   {  "name": "Galaxy S5 (Verizon)", "wiki_url": "https://wiki.cyanogenmod.org/w/kltevzw_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Samsung",  "model": "kltevzw"  },
-  {  "name": "Galaxy S4", "wiki_url": "https://wiki.cyanogenmod.org/w/ks01lte_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Samsung",  "model": "ks01lte"  },
+  {  "name": "Galaxy S4 LTE-A", "wiki_url": "https://wiki.cyanogenmod.org/w/ks01lte_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/ks01lte.png", "oem": "Samsung",  "model": "ks01lte"  },
   {  "name": "G2 (Docomo)(GSM)", "wiki_url": "https://wiki.cyanogenmod.org/w/l01f_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "LG",  "model": "l01f"  },
   {  "name": "Galaxy Note II (Sprint)", "wiki_url": "https://wiki.cyanogenmod.org/w/l900_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/n7100.png", "oem": "Samsung",  "model": "l900"  },
   {  "name": "Legend", "wiki_url": "https://wiki.cyanogenmod.org/w/legend_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/legend.png", "oem": "HTC",  "model": "legend"  },
