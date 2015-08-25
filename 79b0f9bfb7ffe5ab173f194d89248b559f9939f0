@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f1d235d_0e24bfc5",
+        "filename": "getcm-devices/devices.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2015-08-25T02:25:22Z",
+      "side": 1,
+      "message": "All of your file extensions for this patch should be .png",
+      "range": {
+        "startLine": 79,
+        "startChar": 158,
+        "endLine": 79,
+        "endChar": 162
+      },
+      "revId": "79b0f9bfb7ffe5ab173f194d89248b559f9939f0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
