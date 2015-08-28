@@ -315,6 +315,7 @@
   {  "name": "Galaxy Note 4 (US Cellular)", "wiki_url": "https://wiki.cyanogenmod.org/w/trlteusc_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Samsung",  "model": "trlteusc"  },
   {  "name": "Galaxy Note 4 (Intl)", "wiki_url": "https://wiki.cyanogenmod.org/w/trltexx_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Samsung",  "model": "trltexx"  },
   {  "name": "Xperia V", "wiki_url": "https://wiki.cyanogenmod.org/w/tsubasa_Info", "brand": "Sony",  "has_recovery": true,  "image_url": "/static/img/tsubasa.png", "oem": "Sony",  "model": "tsubasa"  },
+  {  "name": "Snapto", "wiki_url": "https://wiki.cyanogenmod.org/w/g620_info", "brand": "Huawei",  "has_recovery": true,  "image_url": "no-image.jpg", "oem": "Huawei",  "model": "g620-a2"  },
   {  "name": "U8150", "wiki_url": "https://wiki.cyanogenmod.org/w/u8150_Info", "brand": "Huawei",  "has_recovery": true,  "image_url": "/static/img/u8150.png", "oem": "Huawei",  "model": "u8150"  },
   {  "name": "U8160", "wiki_url": "https://wiki.cyanogenmod.org/w/u8160_Info", "brand": "Huawei",  "has_recovery": true,  "image_url": "/static/img/u8160.png", "oem": "Huawei",  "model": "u8160"  },
   {  "name": "U8220", "wiki_url": "https://wiki.cyanogenmod.org/w/u8220_Info", "brand": "Huawei",  "has_recovery": true,  "image_url": "/static/img/u8220.png", "oem": "Huawei",  "model": "u8220"  },
