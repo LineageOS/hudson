@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f1d235d_0a470420",
+        "filename": "getcm-devices/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 360,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2015-08-29T01:42:23Z",
+      "side": 1,
+      "message": "Wrong model name (?)",
+      "range": {
+        "startLine": 360,
+        "startChar": 178,
+        "endLine": 360,
+        "endChar": 185
+      },
+      "revId": "e00b86b957913be6f204b709c41670fec74d0be7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_2a4ac026",
+        "filename": "getcm-devices/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 360,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2015-08-29T01:42:23Z",
+      "side": 1,
+      "message": "Wrong image",
+      "range": {
+        "startLine": 360,
+        "startChar": 139,
+        "endLine": 360,
+        "endChar": 147
+      },
+      "revId": "e00b86b957913be6f204b709c41670fec74d0be7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
