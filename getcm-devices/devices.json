@@ -44,6 +44,7 @@
   {  "name": "G3 (T-Mobile)", "wiki_url": "https://wiki.cyanogenmod.org/w/d851_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "LG",  "model": "d851"  },
   {  "name": "G3 (Canada)", "wiki_url": "https://wiki.cyanogenmod.org/w/d852_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "LG",  "model": "d852"  },
   {  "name": "G3 (Unlocked)", "wiki_url": "https://wiki.cyanogenmod.org/w/d855_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "LG",  "model": "d855"  },
+  {  "name": "G3 (Korea)", "wiki_url": "https://wiki.cyanogenmod.org/w/f400_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "LG",  "model": "f400"  },
   {  "name": "Nexus 7 2013 (4G)", "wiki_url": "https://wiki.cyanogenmod.org/w/deb_Info", "brand": "Google",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Google",  "model": "deb"  },
   {  "name": "Droid Eris", "wiki_url": "https://wiki.cyanogenmod.org/w/desirec_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/desirec.png", "oem": "HTC",  "model": "desirec"  },
   {  "name": "Droid DNA", "wiki_url": "https://wiki.cyanogenmod.org/w/dlx_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "HTC",  "model": "dlx"  },
