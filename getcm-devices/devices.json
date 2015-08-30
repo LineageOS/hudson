@@ -48,8 +48,6 @@
   {  "name": "Nexus 7 2013 (4G)", "wiki_url": "https://wiki.cyanogenmod.org/w/deb_Info", "brand": "Google",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Google",  "model": "deb"  },
   {  "name": "Droid Eris", "wiki_url": "https://wiki.cyanogenmod.org/w/desirec_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/desirec.png", "oem": "HTC",  "model": "desirec"  },
   {  "name": "Droid DNA", "wiki_url": "https://wiki.cyanogenmod.org/w/dlx_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "HTC",  "model": "dlx"  },
-  {  "name": "J Butterfly", "wiki_url": "https://wiki.cyanogenmod.org/w/dlxj_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "HTC",  "model": "dlxj"  },
-  {  "name": "Butterfly", "wiki_url": "https://wiki.cyanogenmod.org/w/dlxu_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "HTC",  "model": "dlxu"  },
   {  "name": "Xperia ZR", "wiki_url": "https://wiki.cyanogenmod.org/w/dogo_Info", "brand": "Sony",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Sony",  "model": "dogo"  },
   {  "name": "myTouch 4G Slide", "wiki_url": "https://wiki.cyanogenmod.org/w/doubleshot_Info", "brand": "T-Mobile",  "has_recovery": true,  "image_url": "/static/img/doubleshot.png", "oem": "T-Mobile",  "model": "doubleshot"  },
   {  "name": "Dream / Magic", "wiki_url": "https://wiki.cyanogenmod.org/w/dream_sapphire_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/dream.png", "oem": "HTC",  "model": "dream_sapphire"  },
