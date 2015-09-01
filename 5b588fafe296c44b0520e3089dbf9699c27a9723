@@ -22,6 +22,24 @@
       "revId": "5b588fafe296c44b0520e3089dbf9699c27a9723",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_ef729311",
+        "filename": "getcm-devices/devices.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2015-09-01T21:48:00Z",
+      "side": 1,
+      "message": "It should be just Moto E as it\u0027s the first gen.",
+      "parentUuid": "3f1d235d_ef1733ed",
+      "revId": "5b588fafe296c44b0520e3089dbf9699c27a9723",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
