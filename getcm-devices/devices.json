@@ -82,7 +82,7 @@
   {  "name": "Nexus 7 2013 (Wi-Fi)", "wiki_url": "https://wiki.cyanogenmod.org/w/flo_Info", "brand": "Google",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Google",  "model": "flo"  },
   {  "name": "Nexus 9", "wiki_url": "https://wiki.cyanogenmod.org/w/flounder_Info", "brand": "Google",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Google",  "model": "flounder"  },
   {  "name": "Nexus Player", "wiki_url": "https://wiki.cyanogenmod.org/w/fugu_Info", "brand": "Google",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Google",  "model": "fugu"  },
-  {  "name": "Snapto", "wiki_url": "https://wiki.cyanogenmod.org/w/g620_a2_info", "brand": "Huawei",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Huawei",  "model": "g620_a2"  },
+  {  "name": "SnapTo", "wiki_url": "https://wiki.cyanogenmod.org/w/g620_a2_Info", "brand": "Huawei",  "has_recovery": true,  "image_url": "/static/img/g620_a2.png", "oem": "Huawei",  "model": "g620_a2"  },
   {  "name": "Galaxy S II (Intl)", "wiki_url": "https://wiki.cyanogenmod.org/w/galaxys2_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/i9100.png", "oem": "Samsung",  "model": "galaxys2"  },
   {  "name": "Galaxy S II (AT&T)", "wiki_url": "https://wiki.cyanogenmod.org/w/galaxys2att_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/i777.png", "oem": "Samsung",  "model": "galaxys2att"  },
   {  "name": "Galaxy S (B)", "wiki_url": "https://wiki.cyanogenmod.org/w/galaxysbmtd_Info", "brand": "Samsung",  "has_recovery": false,  "image_url": "/static/img/galaxysmtd.png", "oem": "Samsung",  "model": "galaxysbmtd"  },
