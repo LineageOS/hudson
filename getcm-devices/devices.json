@@ -162,7 +162,7 @@
   {  "name": "One (GSM)", "wiki_url": "https://wiki.cyanogenmod.org/w/m7ul_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/m7.png", "oem": "HTC",  "model": "m7ul"  },
   {  "name": "One (Verizon)", "wiki_url": "https://wiki.cyanogenmod.org/w/m7vzw_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/m7.png", "oem": "HTC",  "model": "m7vzw"  },
   {  "name": "One 2014", "wiki_url": "https://wiki.cyanogenmod.org/w/m8_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/m8.png", "oem": "HTC",  "model": "m8"  },
-  {  "name": "One 2014 Dual SIM", "wiki_url": "https://wiki.cyanogenmod.org/w/m8dug_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/m8.png", "oem": "HTC",  "model": "m8dug"  },
+  {  "name": "One 2014 Dual SIM", "wiki_url": "https://wiki.cyanogenmod.org/w/m8d_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/m8.png", "oem": "HTC",  "model": "m8d"  },
   {  "name": "Galaxy Nexus (GSM)", "wiki_url": "https://wiki.cyanogenmod.org/w/maguro_Info", "brand": "Google",  "has_recovery": true,  "image_url": "/static/img/maguro.png", "oem": "Google",  "model": "maguro"  },
   {  "name": "Nexus 4", "wiki_url": "https://wiki.cyanogenmod.org/w/mako_Info", "brand": "Google",  "has_recovery": true,  "image_url": "/static/img/mako.png", "oem": "Google",  "model": "mako"  },
   {  "name": "Xperia Mini Pro", "wiki_url": "https://wiki.cyanogenmod.org/w/mango_Info", "brand": "Sony Ericsson",  "has_recovery": false,  "image_url": "/static/img/mango.png", "oem": "Sony Ericsson",  "model": "mango"  },
