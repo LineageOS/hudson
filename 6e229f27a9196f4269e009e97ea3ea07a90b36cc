@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f1d235d_f835adf8",
+        "filename": "getcm-devices/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2015-09-08T13:20:48Z",
+      "side": 1,
+      "message": "Abhisek, is it possible to rename the wiki URL as well?",
+      "range": {
+        "startLine": 165,
+        "startChar": 47,
+        "endLine": 165,
+        "endChar": 88
+      },
+      "revId": "6e229f27a9196f4269e009e97ea3ea07a90b36cc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
