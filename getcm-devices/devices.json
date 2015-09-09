@@ -179,6 +179,7 @@
   {  "name": "MSM8960 JB Bootloader", "wiki_url": "https://wiki.cyanogenmod.org/w/moto_msm8960_jbbl_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/moto_msm8960.png", "oem": "Motorola",  "model": "moto_msm8960_jbbl"  },
   {  "name": "X (Deprecated)", "wiki_url": "https://wiki.cyanogenmod.org/w/moto_msm8960dt_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Motorola",  "model": "moto_msm8960dt"  },
   {  "name": "Backflip", "wiki_url": "https://wiki.cyanogenmod.org/w/motus_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/motus.png", "oem": "Motorola",  "model": "motus"  },
+  {  "name": "Ascend Mate 2", "wiki_url": "https://wiki.cyanogenmod.org/w/mt2_Info", "brand": "Huawei",  "has_recovery": true,  "image_url": "/static/img/mt2.png", "oem": "Huawei",  "model": "mt2"  },
   {  "name": "N1", "wiki_url": "https://wiki.cyanogenmod.org/w/n1_Info", "brand": "Oppo",  "has_recovery": true,  "image_url": "/static/img/n1.png", "oem": "Oppo",  "model": "n1"  },
   {  "name": "N3", "wiki_url": "https://wiki.cyanogenmod.org/w/n3_Info", "brand": "Oppo",  "has_recovery": true,  "image_url": "/static/img/n3.png", "oem": "Oppo",  "model": "n3"  },
   {  "name": "Galaxy Note 8 (GSM)", "wiki_url": "https://wiki.cyanogenmod.org/w/n5100_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Samsung",  "model": "n5100"  },
