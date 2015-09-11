@@ -199,6 +199,7 @@
   {  "name": "Kindle Fire (1st gen)", "wiki_url": "https://wiki.cyanogenmod.org/w/otter_Info", "brand": "Amazon",  "has_recovery": true,  "image_url": "/static/img/otter.png", "oem": "Amazon",  "model": "otter"  },
   {  "name": "Kindle Fire (2nd gen)", "wiki_url": "https://wiki.cyanogenmod.org/w/otter2_Info", "brand": "Amazon",  "has_recovery": true,  "image_url": "/static/img/otter.png", "oem": "Amazon",  "model": "otter2"  },
   {  "name": "Kindle Fire (1Gen, custom bl)", "wiki_url": "https://wiki.cyanogenmod.org/w/otterx_Info", "brand": "Amazon",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Amazon",  "model": "otterx"  },
+  {  "name": "Moto E (2015)", "wiki_url": "https://wiki.cyanogenmod.org/w/otus_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Motorola",  "model": "otus"  },
   {  "name": "Nook HD+", "wiki_url": "https://wiki.cyanogenmod.org/w/ovation_Info", "brand": "Barnes & Noble",  "has_recovery": true,  "image_url": "/static/img/ovation.png", "oem": "Barnes & Noble",  "model": "ovation"  },
   {  "name": "Galaxy Tab (GSM)", "wiki_url": "https://wiki.cyanogenmod.org/w/p1_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/p1.png", "oem": "Samsung",  "model": "p1"  },
   {  "name": "Galaxy Tab (CDMA)", "wiki_url": "https://wiki.cyanogenmod.org/w/p1c_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/p1.png", "oem": "Samsung",  "model": "p1c"  },
