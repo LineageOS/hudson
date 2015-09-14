@@ -196,6 +196,7 @@
   {  "name": "ODROID-U2", "wiki_url": "https://wiki.cyanogenmod.org/w/odroidu2_Info", "brand": "Hardkernel",  "has_recovery": true,  "image_url": "/static/img/odroidu2.png", "oem": "Hardkernel",  "model": "odroidu2"  },
   {  "name": "Atrix 4G", "wiki_url": "https://wiki.cyanogenmod.org/w/olympus_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/olympus.png", "oem": "Motorola",  "model": "olympus"  },
   {  "name": "One", "wiki_url": "https://wiki.cyanogenmod.org/w/one_Info", "brand": "Geeksphone",  "has_recovery": true,  "image_url": "/static/img/one.png", "oem": "Geeksphone",  "model": "one"  },
+  {  "name": "Moto G (2015)", "wiki_url": "https://wiki.cyanogenmod.org/w/osprey_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/osprey.png", "oem": "Motorola",  "model": "osprey"  },
   {  "name": "Kindle Fire (1st gen)", "wiki_url": "https://wiki.cyanogenmod.org/w/otter_Info", "brand": "Amazon",  "has_recovery": true,  "image_url": "/static/img/otter.png", "oem": "Amazon",  "model": "otter"  },
   {  "name": "Kindle Fire (2nd gen)", "wiki_url": "https://wiki.cyanogenmod.org/w/otter2_Info", "brand": "Amazon",  "has_recovery": true,  "image_url": "/static/img/otter.png", "oem": "Amazon",  "model": "otter2"  },
   {  "name": "Kindle Fire (1Gen, custom bl)", "wiki_url": "https://wiki.cyanogenmod.org/w/otterx_Info", "brand": "Amazon",  "has_recovery": true,  "image_url": "/static/img/otter.png", "oem": "Amazon",  "model": "otterx"  },
