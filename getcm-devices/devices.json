@@ -25,6 +25,7 @@
   {  "name": "Live with Walkman", "wiki_url": "https://wiki.cyanogenmod.org/w/coconut_Info", "brand": "Sony Ericsson",  "has_recovery": false,  "image_url": "/static/img/coconut.png", "oem": "Sony Ericsson",  "model": "coconut"  },
   {  "name": "Moto E", "wiki_url": "https://wiki.cyanogenmod.org/w/condor_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/condor.png", "oem": "Motorola",  "model": "condor"  },
   {  "name": "Galaxy Ace", "wiki_url": "https://wiki.cyanogenmod.org/w/cooper_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/cooper.png", "oem": "Samsung",  "model": "cooper"  },
+  {  "name": "Swift", "wiki_url": "https://wiki.cyanogenmod.org/w/crackling_Info", "brand": "Wileyfox",  "has_recovery": true,  "image_url": "/static/img/crackling.png", "oem": "Wileyfox",  "model": "crackling"  },
   {  "name": "Nexus S", "wiki_url": "https://wiki.cyanogenmod.org/w/crespo_Info", "brand": "Google",  "has_recovery": true,  "image_url": "/static/img/crespo.png", "oem": "Google",  "model": "crespo"  },
   {  "name": "Nexus S 4G", "wiki_url": "https://wiki.cyanogenmod.org/w/crespo4g_Info", "brand": "Google",  "has_recovery": true,  "image_url": "/static/img/crespo.png", "oem": "Google",  "model": "crespo4g"  },
   {  "name": "Galaxy S III (AT&T)", "wiki_url": "https://wiki.cyanogenmod.org/w/d2att_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/i9300.png", "oem": "Samsung",  "model": "d2att"  },
