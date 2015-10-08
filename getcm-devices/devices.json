@@ -243,6 +243,7 @@
   {  "name": "Galaxy Note (AT&T)", "wiki_url": "https://wiki.cyanogenmod.org/w/quincyatt_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/i717.png", "oem": "Samsung",  "model": "quincyatt"  },
   {  "name": "Galaxy Note (T-Mobile)", "wiki_url": "https://wiki.cyanogenmod.org/w/quincytmo_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/t879.png", "oem": "Samsung",  "model": "quincytmo"  },
   {  "name": "Galaxy Note II (US Cellular)", "wiki_url": "https://wiki.cyanogenmod.org/w/r950_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/n7100.png", "oem": "Samsung",  "model": "r950"  },
+  {  "name": "R7 Plus", "wiki_url": "https://wiki.cyanogenmod.org/w/r7plus_Info", "brand": "Oppo",  "has_recovery": true,  "image_url": "/static/img/r7plus.png", "oem": "Oppo",  "model": "r7plus"  },
   {  "name": "Andromax Q", "wiki_url": "https://wiki.cyanogenmod.org/w/rendang_Info", "brand": "Smartfren",  "has_recovery": true,  "image_url": "/static/img/rendang.png", "oem": "Smartfren",  "model": "rendang"  },
   {  "name": "Xperia X10 Mini", "wiki_url": "https://wiki.cyanogenmod.org/w/robyn_Info", "brand": "Sony Ericsson",  "has_recovery": false,  "image_url": "/static/img/robyn.png", "oem": "Sony Ericsson",  "model": "robyn"  },
   {  "name": "Amaze 4G", "wiki_url": "https://wiki.cyanogenmod.org/w/ruby_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/ruby2.png", "oem": "HTC",  "model": "ruby"  },
