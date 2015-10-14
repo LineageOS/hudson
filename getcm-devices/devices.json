@@ -278,6 +278,7 @@
   {  "name": "Photon", "wiki_url": "https://wiki.cyanogenmod.org/w/sunfire_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/sunfire.png", "oem": "Motorola",  "model": "sunfire"  },
   {  "name": "Galaxy Premier", "wiki_url": "https://wiki.cyanogenmod.org/w/superior_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/superior.png", "oem": "Samsung",  "model": "superior"  },
   {  "name": "Evo 4G", "wiki_url": "https://wiki.cyanogenmod.org/w/supersonic_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/supersonic.png", "oem": "HTC",  "model": "supersonic"  },
+  {  "name": "Moto E LTE (2015)", "wiki_url": "https://wiki.cyanogenmod.org/w/surnia_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/surnia.png", "oem": "Motorola",  "model": "surnia"  },
   {  "name": "Galaxy Note II (GSM LTE)", "wiki_url": "https://wiki.cyanogenmod.org/w/t0lte_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/n7100.png", "oem": "Samsung",  "model": "t0lte"  },
   {  "name": "Galaxy Note II (AT&T)", "wiki_url": "https://wiki.cyanogenmod.org/w/t0lteatt_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/n7100.png", "oem": "Samsung",  "model": "t0lteatt"  },
   {  "name": "Galaxy Note II (T-Mobile)", "wiki_url": "https://wiki.cyanogenmod.org/w/t0ltetmo_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/n7100.png", "oem": "Samsung",  "model": "t0ltetmo"  },
