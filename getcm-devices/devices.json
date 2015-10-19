@@ -82,6 +82,7 @@
   {  "name": "Droid Incredible 4G LTE", "wiki_url": "https://wiki.cyanogenmod.org/w/fireball_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/fireball.png", "oem": "HTC",  "model": "fireball"  },
   {  "name": "Nexus 7 2013 (Wi-Fi)", "wiki_url": "https://wiki.cyanogenmod.org/w/flo_Info", "brand": "Google",  "has_recovery": true,  "image_url": "/static/img/deb.png", "oem": "Google",  "model": "flo"  },
   {  "name": "Nexus 9", "wiki_url": "https://wiki.cyanogenmod.org/w/flounder_Info", "brand": "Google",  "has_recovery": true,  "image_url": "/static/img/flounder.png", "oem": "Google",  "model": "flounder"  },
+  {  "name": "Nexus 9 LTE", "wiki_url": "https://wiki.cyanogenmod.org/w/flounder_Info", "brand": "Google",  "has_recovery": true,  "image_url": "/static/img/flounder.png", "oem": "Google",  "model": "flounder_lte"  },
   {  "name": "Nexus Player", "wiki_url": "https://wiki.cyanogenmod.org/w/fugu_Info", "brand": "Google",  "has_recovery": true,  "image_url": "/static/img/fugu.png", "oem": "Google",  "model": "fugu"  },
   {  "name": "SnapTo", "wiki_url": "https://wiki.cyanogenmod.org/w/g620_a2_Info", "brand": "Huawei",  "has_recovery": true,  "image_url": "/static/img/g620_a2.png", "oem": "Huawei",  "model": "g620_a2"  },
   {  "name": "Galaxy S II (Intl)", "wiki_url": "https://wiki.cyanogenmod.org/w/galaxys2_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/i9100.png", "oem": "Samsung",  "model": "galaxys2"  },
