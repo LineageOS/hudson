@@ -349,5 +349,7 @@
   {  "name": "Cliq XT", "wiki_url": "https://wiki.cyanogenmod.org/w/zeppelin_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/zeppelin.png", "oem": "Motorola",  "model": "zeppelin"  },
   {  "name": "Zero", "wiki_url": "https://wiki.cyanogenmod.org/w/zero_Info", "brand": "Geeksphone",  "has_recovery": true,  "image_url": "/static/img/zero.png", "oem": "Geeksphone",  "model": "zero"  },
   {  "name": "Xperia Play (GSM)", "wiki_url": "https://wiki.cyanogenmod.org/w/zeus_Info", "brand": "Sony Ericsson",  "has_recovery": false,  "image_url": "/static/img/zeus.png", "oem": "Sony Ericsson",  "model": "zeus"  },
-  {  "name": "Xperia Play (CDMA)", "wiki_url": "https://wiki.cyanogenmod.org/w/zeusc_Info", "brand": "Sony Ericsson",  "has_recovery": false,  "image_url": "/static/img/zeus.png", "oem": "Sony Ericsson",  "model": "zeusc"  }
+  {  "name": "Xperia Play (CDMA)", "wiki_url": "https://wiki.cyanogenmod.org/w/zeusc_Info", "brand": "Sony Ericsson",  "has_recovery": false,  "image_url": "/static/img/zeus.png", "oem": "Sony Ericsson",  "model": "zeusc"  },
+  {  "name": "G4 (T-Mobile)", "wiki_url": "https://wiki.cyanogenmod.org/w/h811_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/h811.png", "oem": "LG",  "model": "h811"  },
+  {  "name": "G4 (Intl)", "wiki_url": "https://wiki.cyanogenmod.org/w/h815_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/h815.png", "oem": "LG",  "model": "h815"  }
 ]
