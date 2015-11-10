@@ -96,6 +96,7 @@
   {  "name": "Xperia Neo", "wiki_url": "https://wiki.cyanogenmod.org/w/hallon_Info", "brand": "Sony Ericsson",  "has_recovery": false,  "image_url": "/static/img/hallon.png", "oem": "Sony Ericsson",  "model": "hallon"  },
   {  "name": "G4 (T-Mobile)", "wiki_url": "https://wiki.cyanogenmod.org/w/h811_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/h815.png", "oem": "LG",  "model": "h811"  },
   {  "name": "G4 (Intl)", "wiki_url": "https://wiki.cyanogenmod.org/w/h815_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/h815.png", "oem": "LG",  "model": "h815"  },
+  {  "name": "Z1", "wiki_url": "https://wiki.cyanogenmod.org/w/ham_Info", "brand": "ZUK",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Zuk",  "model": "ham"  },
   {  "name": "Nexus 5", "wiki_url": "https://wiki.cyanogenmod.org/w/hammerhead_Info", "brand": "Google",  "has_recovery": true,  "image_url": "/static/img/hammerhead.png", "oem": "Google",  "model": "hammerhead"  },
   {  "name": "Nexus 5 (CAF)", "wiki_url": "https://wiki.cyanogenmod.org/w/hammerheadcaf_Info", "brand": "Google",  "has_recovery": true,  "image_url": "/static/img/hammerhead.png", "oem": "Google",  "model": "hammerheadcaf"  },
   {  "name": "G Tablet", "wiki_url": "https://wiki.cyanogenmod.org/w/harmony_Info", "brand": "ViewSonic",  "has_recovery": true,  "image_url": "/static/img/a1002.png", "oem": "ViewSonic",  "model": "harmony"  },
