@@ -73,6 +73,7 @@
   {  "name": "One XL", "wiki_url": "https://wiki.cyanogenmod.org/w/evita_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/evita.png", "oem": "HTC",  "model": "evita"  },
   {  "name": "Galaxy Exhilarate", "wiki_url": "https://wiki.cyanogenmod.org/w/exhilarate_Info", "brand": "Samsung",  "has_recovery": false,  "image_url": "/static/img/exhilerate.png", "oem": "Samsung",  "model": "exhilarate"  },
   {  "name": "Galaxy Express (AT&T)", "wiki_url": "https://wiki.cyanogenmod.org/w/expressatt_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/i437.png", "oem": "Samsung",  "model": "expressatt"  },
+  {  "name": "Desire Eye", "wiki_url": "https://wiki.cyanogenmod.org/w/Eyeul_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "HTC",  "model": "eyeul"  },
   {  "name": "G3 (Korea)", "wiki_url": "https://wiki.cyanogenmod.org/w/f400_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/d850.png", "oem": "LG",  "model": "f400"  },
   {  "name": "Moto G", "wiki_url": "https://wiki.cyanogenmod.org/w/falcon_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/falcon.png", "oem": "Motorola",  "model": "falcon"  },
   {  "name": "Fascinate", "wiki_url": "https://wiki.cyanogenmod.org/w/fascinatemtd_Info", "brand": "Samsung",  "has_recovery": false,  "image_url": "/static/img/fascinatemtd.png", "oem": "Samsung",  "model": "fascinatemtd"  },
