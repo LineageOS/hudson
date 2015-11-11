@@ -263,6 +263,7 @@
   {  "name": "Droid X", "wiki_url": "https://wiki.cyanogenmod.org/w/shadow_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/shadow.png", "oem": "Motorola",  "model": "shadow"  },
   {  "name": "Xperia X8", "wiki_url": "https://wiki.cyanogenmod.org/w/shakira_Info", "brand": "Sony Ericsson",  "has_recovery": false,  "image_url": "/static/img/shakira.png", "oem": "Sony Ericsson",  "model": "shakira"  },
   {  "name": "Nexus 6", "wiki_url": "https://wiki.cyanogenmod.org/w/shamu_Info", "brand": "Google",  "has_recovery": true,  "image_url": "/static/img/shamu.png", "oem": "Google",  "model": "shamu"  },
+  {  "name": "Shield Tablet", "wiki_url": "https://wiki.cyanogenmod.org/w/shieldtablet_Info", "brand": "Nvidia",  "has_recovery": true,  "image_url": "/static/img/shieldtablet.png", "oem": "Nvidia",  "model": "shieldtablet"  },
   {  "name": "Droid", "wiki_url": "https://wiki.cyanogenmod.org/w/sholes_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/sholes.png", "oem": "Motorola",  "model": "sholes"  },
   {  "name": "Evo 3D (GSM)", "wiki_url": "https://wiki.cyanogenmod.org/w/shooteru_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/shooter.png", "oem": "HTC",  "model": "shooteru"  },
   {  "name": "Showcase", "wiki_url": "https://wiki.cyanogenmod.org/w/showcasemtd_Info", "brand": "Samsung",  "has_recovery": false,  "image_url": "/static/img/showcasemtd.png", "oem": "Samsung",  "model": "showcasemtd"  },
