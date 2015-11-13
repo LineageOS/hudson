@@ -251,6 +251,7 @@
   {  "name": "R7 Plus", "wiki_url": "https://wiki.cyanogenmod.org/w/r7plus_Info", "brand": "Oppo",  "has_recovery": true,  "image_url": "/static/img/r7plus.png", "oem": "Oppo",  "model": "r7plus"  },
   {  "name": "Andromax Q", "wiki_url": "https://wiki.cyanogenmod.org/w/rendang_Info", "brand": "Smartfren",  "has_recovery": true,  "image_url": "/static/img/rendang.png", "oem": "Smartfren",  "model": "rendang"  },
   {  "name": "Xperia X10 Mini", "wiki_url": "https://wiki.cyanogenmod.org/w/robyn_Info", "brand": "Sony Ericsson",  "has_recovery": false,  "image_url": "/static/img/robyn.png", "oem": "Sony Ericsson",  "model": "robyn"  },
+  {  "name": "Shield Portable", "wiki_url": "https://wiki.cyanogenmod.org/w/roth_Info", "brand": "Nvidia",  "has_recovery": false,  "image_url": "/static/img/roth.png", "oem": "Nvidia",  "model": "roth"  },
   {  "name": "Amaze 4G", "wiki_url": "https://wiki.cyanogenmod.org/w/ruby_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/ruby2.png", "oem": "HTC",  "model": "ruby"  },
   {  "name": "Galaxy Fit", "wiki_url": "https://wiki.cyanogenmod.org/w/s5670_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Samsung",  "model": "s5670"  },
   {  "name": "Desire S", "wiki_url": "https://wiki.cyanogenmod.org/w/saga_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/desires.png", "oem": "HTC",  "model": "saga"  },
