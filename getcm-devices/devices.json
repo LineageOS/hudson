@@ -127,6 +127,7 @@
   {  "name": "Droid Incredible", "wiki_url": "https://wiki.cyanogenmod.org/w/inc_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/inc.png", "oem": "HTC",  "model": "inc"  },
   {  "name": "Xperia Pro", "wiki_url": "https://wiki.cyanogenmod.org/w/iyokan_Info", "brand": "Sony Ericsson",  "has_recovery": false,  "image_url": "/static/img/iyokan.png", "oem": "Sony Ericsson",  "model": "iyokan"  },
   {  "name": "Galaxy S4 Active (Intl)", "wiki_url": "https://wiki.cyanogenmod.org/w/jactivelte_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/jactivelte.png", "oem": "Samsung",  "model": "jactivelte"  },
+  {  "name": "Yunique", "wiki_url": "https://wiki.cyanogenmod.org/w/jalebi_Info", "brand": "YU",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "YU",  "model": "jalebi"  },
   {  "name": "Kindle Fire HD 8.9", "wiki_url": "https://wiki.cyanogenmod.org/w/jem_Info", "brand": "Amazon",  "has_recovery": true,  "image_url": "/static/img/jem.png", "oem": "Amazon",  "model": "jem"  },
   {  "name": "Evo 4G LTE", "wiki_url": "https://wiki.cyanogenmod.org/w/jewel_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/jewel.png", "oem": "HTC",  "model": "jewel"  },
   {  "name": "Galaxy S4", "wiki_url": "https://wiki.cyanogenmod.org/w/jflte_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/jflte.png", "oem": "Samsung",  "model": "jflte"  },
