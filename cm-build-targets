@@ -2,10 +2,14 @@
 # <device> <build_type> <version> [period: "D"aily, "W"eekly or "M"onthly]
 # Absence of a period indicates Daily (the default)
 
+# Daily cm-13.0
+bacon userdebug cm-13.0
+h815 userdebug cm-13.0
+victara userdebug cm-13.0
+
 # Daily cm-12.1
 acclaim userdebug cm-12.1
 amami userdebug cm-12.1
-bacon userdebug cm-12.1
 cancro userdebug cm-12.1
 castor userdebug cm-12.1
 castor_windy userdebug cm-12.1
@@ -42,7 +46,6 @@ g620_a2 userdebug cm-12.1
 ghost userdebug cm-12.1
 grouper userdebug cm-12.1
 h811 userdebug cm-12.1
-h815 userdebug cm-12.1
 ham userdebug cm-12.1
 hammerhead userdebug cm-12.1
 hammerheadcaf userdebug cm-12.1
@@ -136,7 +139,6 @@ umts_spyder userdebug cm-12.1
 v400 userdebug cm-12.1
 v410 userdebug cm-12.1
 v500 userdebug cm-12.1
-victara userdebug cm-12.1
 ville userdebug cm-12.1
 vs980 userdebug cm-12.1
 vs985 userdebug cm-12.1
