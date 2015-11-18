@@ -240,6 +240,7 @@
   {  "name": "Optimus Black", "wiki_url": "https://wiki.cyanogenmod.org/w/p970_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/p970.png", "oem": "LG",  "model": "p970"  },
   {  "name": "Optimus 2X", "wiki_url": "https://wiki.cyanogenmod.org/w/p990_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/p990.png", "oem": "LG",  "model": "p990"  },
   {  "name": "G2x", "wiki_url": "https://wiki.cyanogenmod.org/w/p999_Info", "brand": "T-Mobile",  "has_recovery": true,  "image_url": "/static/img/p999.png", "oem": "T-Mobile",  "model": "p999"  },
+  {  "name": "Aquaris X5", "wiki_url": "https://wiki.cyanogenmod.org/w/paella_Info", "brand": "BQ",  "has_recovery": true,  "image_url": "/static/img/paella.png", "oem": "BQ",  "model": "paella"  },
   {  "name": "Nexus One", "wiki_url": "https://wiki.cyanogenmod.org/w/passion_Info", "brand": "Google",  "has_recovery": true,  "image_url": "/static/img/passion.png", "oem": "Google",  "model": "passion"  },
   {  "name": "Moto G 4G", "wiki_url": "https://wiki.cyanogenmod.org/w/peregrine_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/peregrine.png", "oem": "Motorola",  "model": "peregrine"  },
   {  "name": "Galaxy Tab Pro 10.1 (Wi-Fi)", "wiki_url": "https://wiki.cyanogenmod.org/w/picassowifi_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/picassowifi.png", "oem": "Samsung",  "model": "picassowifi"  },
