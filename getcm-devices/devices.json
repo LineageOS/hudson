@@ -143,7 +143,7 @@
   {  "name": "Defy", "wiki_url": "https://wiki.cyanogenmod.org/w/jordan_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/jordan.png", "oem": "Motorola",  "model": "jordan"  },
   {  "name": "Defy+", "wiki_url": "https://wiki.cyanogenmod.org/w/jordan_plus_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/jordan.png", "oem": "Motorola",  "model": "jordan_plus"  },
   {  "name": "Storm", "wiki_url": "https://wiki.cyanogenmod.org/w/kipper_Info", "brand": "Wileyfox",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Wileyfox",  "model": "kipper"  },
-  {  "name": "Galaxy Tab S 8.4 (Wifi)", "wiki_url": "https://wiki.cyanogenmod.org/w/klimtwifi_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/klimtwifi.png", "oem": "Samsung",  "model": "klimtwifi"  },
+  {  "name": "Galaxy Tab S 8.4 (Wifi)", "wiki_url": "https://wiki.cyanogenmod.org/w/klimtwifi_Info", "brand": "Samsung",  "has_recovery": false,  "image_url": "/static/img/klimtwifi.png", "oem": "Samsung",  "model": "klimtwifi"  },
   {  "name": "Galaxy S5", "wiki_url": "https://wiki.cyanogenmod.org/w/klte_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/klte.png", "oem": "Samsung",  "model": "klte"  },
   {  "name": "Galaxy S5 (China)", "wiki_url": "https://wiki.cyanogenmod.org/w/kltechn_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/klte.png", "oem": "Samsung",  "model": "kltechn"  },
   {  "name": "Galaxy S5 Duos (China)", "wiki_url": "https://wiki.cyanogenmod.org/w/kltechnduo_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/klte.png", "oem": "Samsung",  "model": "kltechnduo"  },
