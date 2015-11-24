@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff82abbf_8203da0d",
+        "filename": "cm-build-targets",
+        "patchSetId": 8
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2015-11-24T04:36:21Z",
+      "side": 1,
+      "message": "This shouldn\u0027t be in yet - how are you not breaking on http://review.cyanogenmod.org/#/c/120397/",
+      "range": {
+        "startLine": 5,
+        "startChar": 15,
+        "endLine": 6,
+        "endChar": 17
+      },
+      "revId": "f53893e6d82908b261097feb83f93261a02fd321",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
