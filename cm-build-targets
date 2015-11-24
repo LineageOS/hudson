@@ -3,7 +3,9 @@
 # Absence of a period indicates Daily (the default)
 
 # Daily cm-13.0
+angler userdebug cm-13.0
 bacon userdebug cm-13.0
+bullhead userdebug cm-13.0
 d852 userdebug cm-13.0
 deb userdebug cm-13.0
 flo userdebug cm-13.0
