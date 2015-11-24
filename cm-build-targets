@@ -13,6 +13,8 @@ d855 userdebug cm-13.0
 deb userdebug cm-13.0
 f400 userdebug cm-13.0
 falcon userdebug cm-13.0
+find7 userdebug cm-13.0
+find7s userdebug cm-13.0
 flo userdebug cm-13.0
 h815 userdebug cm-13.0
 hammerhead userdebug cm-13.0
@@ -51,8 +53,6 @@ dogo userdebug cm-12.1
 e975 userdebug cm-12.1
 e980 userdebug cm-12.1
 evita userdebug cm-12.1
-find7 userdebug cm-12.1
-find7s userdebug cm-12.1
 flounder userdebug cm-12.1
 flounder_lte userdebug cm-12.1
 fugu userdebug cm-12.1
