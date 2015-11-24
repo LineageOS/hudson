@@ -4,6 +4,7 @@
 
 # Daily cm-13.0
 bacon userdebug cm-13.0
+d801 userdebug cm-13.0
 d852 userdebug cm-13.0
 deb userdebug cm-13.0
 flo userdebug cm-13.0
@@ -28,7 +29,6 @@ d2spr userdebug cm-12.1
 d2tmo userdebug cm-12.1
 d2vzw userdebug cm-12.1
 d800 userdebug cm-12.1
-d801 userdebug cm-12.1
 d802 userdebug cm-12.1
 d803 userdebug cm-12.1
 d850 userdebug cm-12.1
