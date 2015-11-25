@@ -14,6 +14,7 @@ flo userdebug cm-13.0
 h815 userdebug cm-13.0
 m8 userdebug cm-13.0
 mondrianwifi userdebug cm-13.0
+tomato userdebug cm-13.0
 v400 userdebug cm-13.0
 v410 userdebug cm-13.0
 vs980 userdebug cm-13.0
@@ -138,7 +139,6 @@ tilapia userdebug cm-12.1
 titan userdebug cm-12.1
 togari userdebug cm-12.1
 togari_gpe userdebug cm-12.1
-tomato userdebug cm-12.1
 trltespr userdebug cm-12.1
 trltetmo userdebug cm-12.1
 trltexx userdebug cm-12.1
