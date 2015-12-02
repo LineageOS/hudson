@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf8cb3f7_9499d420",
+        "filename": "getcm-devices/devices.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2015-12-02T03:24:48Z",
+      "side": 1,
+      "message": "Your file is named lt03wifi.jpg. Make it transparent anyway.",
+      "revId": "d0f9bfc12524dc33857cfadf408bf5febd0d5043",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
