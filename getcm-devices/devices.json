@@ -12,6 +12,7 @@
   {  "name": "Blade", "wiki_url": "https://wiki.cyanogenmod.org/w/blade_Info", "brand": "ZTE",  "has_recovery": true,  "image_url": "/static/img/blade.png", "oem": "ZTE",  "model": "blade"  },
   {  "name": "Desire (GSM)", "wiki_url": "https://wiki.cyanogenmod.org/w/bravo_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/desire.png", "oem": "HTC",  "model": "bravo"  },
   {  "name": "Desire (CDMA)", "wiki_url": "https://wiki.cyanogenmod.org/w/bravoc_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/desire.png", "oem": "HTC",  "model": "bravoc"  },
+  {  "name": "Nexus 5X", "wiki_url": "https://wiki.cyanogenmod.org/w/bullhead_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/desire.png", "oem": "LG",  "model": "bullhead"  },
   {  "name": "Wildfire", "wiki_url": "https://wiki.cyanogenmod.org/w/buzz_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/buzz.png", "oem": "HTC",  "model": "buzz"  },
   {  "name": "Optimus Pro", "wiki_url": "https://wiki.cyanogenmod.org/w/c660_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/c660.png", "oem": "LG",  "model": "c660"  },
   {  "name": "myTouch Q", "wiki_url": "https://wiki.cyanogenmod.org/w/c800_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/c800.png", "oem": "LG",  "model": "c800"  },
