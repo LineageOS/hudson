@@ -201,7 +201,7 @@
   {  "name": "Galaxy Note 10.1 (Wi-Fi)", "wiki_url": "https://wiki.cyanogenmod.org/w/n8013_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/n8000_landscape.png", "oem": "Samsung",  "model": "n8013"  },
   {  "name": "Xperia M", "wiki_url": "https://wiki.cyanogenmod.org/w/nicki_Info", "brand": "Sony",  "has_recovery": true,  "image_url": "/static/img/nicki.png", "oem": "Sony",  "model": "nicki"  },
   {  "name": "Xperia S", "wiki_url": "https://wiki.cyanogenmod.org/w/nozomi_Info", "brand": "Sony",  "has_recovery": true,  "image_url": "/static/img/nozomi.png", "oem": "Sony",  "model": "nozomi"  },
-  {  "name": "Z9 Max", "wiki_url": "https://wiki.cyanogenmod.org/w/nx510j_Info", "brand": "Nubia",  "has_recovery": true,  "image_url": "/static/img/nx510j.png", "oem": "ZTE",  "model": "nx510j"  },
+  {  "name": "Z9 Max", "wiki_url": "https://wiki.cyanogenmod.org/w/nx510j_Info", "brand": "Nubia",  "has_recovery": true,  "image_url": "/static/img/nx510j.png", "oem": "Nubia",  "model": "nx510j"  },
   {  "name": "Droid Ultra/MAXX", "wiki_url": "https://wiki.cyanogenmod.org/w/obake_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/obake.png", "oem": "Motorola",  "model": "obake"  },
   {  "name": "Xperia ZL", "wiki_url": "https://wiki.cyanogenmod.org/w/odin_Info", "brand": "Sony",  "has_recovery": true,  "image_url": "/static/img/odin.png", "oem": "Sony",  "model": "odin"  },
   {  "name": "ODROID-U2", "wiki_url": "https://wiki.cyanogenmod.org/w/odroidu2_Info", "brand": "Hardkernel",  "has_recovery": true,  "image_url": "/static/img/odroidu2.png", "oem": "Hardkernel",  "model": "odroidu2"  },
