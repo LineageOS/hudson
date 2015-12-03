@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf8cb3f7_dd50dcd7",
+        "filename": "getcm-devices/devices.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 148,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2015-12-03T23:10:05Z",
+      "side": 1,
+      "message": "Alphabetic order",
+      "range": {
+        "startLine": 148,
+        "startChar": 222,
+        "endLine": 148,
+        "endChar": 233
+      },
+      "revId": "3d44d42024e7eab405bd46ea0a329dae70312170",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
