@@ -6,7 +6,10 @@
 angler userdebug cm-13.0
 bacon userdebug cm-13.0
 bullhead userdebug cm-13.0
+d800 userdebug cm-13.0
 d801 userdebug cm-13.0
+d802 userdebug cm-13.0
+d803 userdebug cm-13.0
 d851 userdebug cm-13.0
 d852 userdebug cm-13.0
 d855 userdebug cm-13.0
@@ -46,9 +49,6 @@ d2att userdebug cm-12.1
 d2spr userdebug cm-12.1
 d2tmo userdebug cm-12.1
 d2vzw userdebug cm-12.1
-d800 userdebug cm-12.1
-d802 userdebug cm-12.1
-d803 userdebug cm-12.1
 d850 userdebug cm-12.1
 dlx userdebug cm-12.1
 dogo userdebug cm-12.1
