@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1f9dbf25_de96a195",
+        "filename": "cm-build-targets",
+        "patchSetId": 2
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 7936
+      },
+      "writtenOn": "2015-12-14T03:34:11Z",
+      "side": 1,
+      "message": "Move it one line up, first d2att then d2vzw.",
+      "range": {
+        "startLine": 10,
+        "startChar": 0,
+        "endLine": 10,
+        "endChar": 23
+      },
+      "revId": "f9eda42fb3657eb617ff9a44328c02431ed13eb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
