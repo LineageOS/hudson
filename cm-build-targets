@@ -22,11 +22,14 @@ find7s userdebug cm-13.0
 flo userdebug cm-13.0
 flounder userdebug cm-13.0
 flounder_lte userdebug cm-13.0
+g2m userdebug cm-13.0
 h815 userdebug cm-13.0
 hammerhead userdebug cm-13.0
 hammerheadcaf userdebug cm-13.0
 himaul userdebug cm-13.0
 i9300 userdebug cm-13.0
+jag3gds userdebug cm-13.0
+jagnm userdebug cm-13.0
 jfltevzw userdebug cm-13.0
 l01f userdebug cm-13.0
 m8 userdebug cm-13.0
@@ -45,6 +48,8 @@ v410 userdebug cm-13.0
 vs980 userdebug cm-13.0
 vs985 userdebug cm-13.0
 victara userdebug cm-13.0
+w5 userdebug cm-13.0
+w7 userdebug cm-13.0
 
 # Daily cm-12.1
 acclaim userdebug cm-12.1
@@ -211,5 +216,4 @@ t769 userdebug cm-11.0 W
 tf700t userdebug cm-11.0 W
 tf701t userdebug cm-11.0 W
 vs920 userdebug cm-11.0 W
-w7 userdebug cm-11.0 W
 ypg1 userdebug cm-11.0 W
