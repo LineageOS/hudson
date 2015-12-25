@@ -3,10 +3,13 @@
 # Absence of a period indicates Daily (the default)
 
 # Daily cm-13.0
+acclaim userdebug cm-13.0
 angler userdebug cm-13.0
 bacon userdebug cm-13.0
 bullhead userdebug cm-13.0
 cancro userdebug cm-13.0
+condor userdebug cm-13.0
+crackling userdebug cm-13.0
 d2vzw userdebug cm-13.0
 d800 userdebug cm-13.0
 d801 userdebug cm-13.0
@@ -25,19 +28,28 @@ flounder userdebug cm-13.0
 flounder_lte userdebug cm-13.0
 g2m userdebug cm-13.0
 h815 userdebug cm-13.0
+ham userdebug cm-13.0
 hammerhead userdebug cm-13.0
-hammerheadcaf userdebug cm-13.0
+hiaeul userdebug cm-13.0
 himaul userdebug cm-13.0
 i9300 userdebug cm-13.0
 jag3gds userdebug cm-13.0
 jagnm userdebug cm-13.0
 jfltevzw userdebug cm-13.0
+jfltexx userdebug cm-13.0
+kipper userdebug cm-13.0
+klte userdebug cm-13.0
 kltechn userdebug cm-13.0
 kltechnduo userdebug cm-13.0
+klteduos userdebug cm-13.0
+kltekdi userdebug cm-13.0
+kltedv userdebug cm-13.0
+ks01lte userdebug cm-13.0
 l01f userdebug cm-13.0
 m8 userdebug cm-13.0
 m8d userdebug cm-13.0
 mako userdebug cm-13.0
+manta userdebug cm-13.0
 mondrianwifi userdebug cm-13.0
 nx510j userdebug cm-13.0
 otus userdebug cm-13.0
@@ -59,14 +71,11 @@ w5 userdebug cm-13.0
 w7 userdebug cm-13.0
 
 # Daily cm-12.1
-acclaim userdebug cm-12.1
 amami userdebug cm-12.1
 castor userdebug cm-12.1
 castor_windy userdebug cm-12.1
 chagallwifi userdebug cm-12.1
 cherry userdebug cm-12.1
-condor userdebug cm-12.1
-crackling userdebug cm-12.1
 d2att userdebug cm-12.1
 d2spr userdebug cm-12.1
 d2tmo userdebug cm-12.1
@@ -97,16 +106,9 @@ jem userdebug cm-12.1
 jflteatt userdebug cm-12.1
 jfltespr userdebug cm-12.1
 jfltetmo userdebug cm-12.1
-jfltexx userdebug cm-12.1
-kipper userdebug cm-12.1
 klimtlte userdebug cm-12.1
 klimtwifi userdebug cm-12.1
-klte userdebug cm-12.1
-klteduos userdebug cm-12.1
-kltedv userdebug cm-12.1
-kltekdi userdebug cm-12.1
 kltespr userdebug cm-12.1
-ks01lte userdebug cm-12.1
 l900 userdebug cm-12.1
 lettuce userdebug cm-12.1
 ls980 userdebug cm-12.1
@@ -114,7 +116,7 @@ ls990 userdebug cm-12.1
 lt03wifi userdebug cm-12.1
 m7 userdebug cm-12.1
 m7vzw userdebug cm-12.1
-manta userdebug cm-12.1
+maguro userdebug cm-12.1
 maserati userdebug cm-12.1
 mb886 userdebug cm-12.1
 mt2 userdebug cm-12.1
@@ -193,7 +195,6 @@ jflte userdebug cm-11.0 W
 klteusc userdebug cm-11.0 W
 kltevzw userdebug cm-11.0 W
 m4 userdebug cm-11.0 W
-maguro userdebug cm-11.0 W
 n1 userdebug cm-11.0 W
 n5120 userdebug cm-11.0 W
 n7000 userdebug cm-11.0 W
