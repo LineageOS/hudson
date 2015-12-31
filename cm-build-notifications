@@ -1,0 +1,5 @@
+# CM build notifications
+# <device> <email|username> ... <email|username>
+# When a build fails, emails will be sent to everyone on the list
+# IF username instead of email, will send to @cyanogenmod.org
+
