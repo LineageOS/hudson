@@ -108,6 +108,7 @@
   {  "name": "Hero (GSM)", "wiki_url": "https://wiki.cyanogenmod.org/w/hero_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/hero.png", "oem": "HTC",  "model": "hero"  },
   {  "name": "Hero (CDMA)", "wiki_url": "https://wiki.cyanogenmod.org/w/heroc_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/heroc.png", "oem": "HTC",  "model": "heroc"  },
   {  "name": "Xperia Arco S", "wiki_url": "https://wiki.cyanogenmod.org/w/hikari_Info", "brand": "Sony",  "has_recovery": true,  "image_url": "/static/img/hikari.png", "oem": "Sony",  "model": "hikari"  },
+  {  "name": "One A9 (GSM)", "wiki_url": "https://wiki.cyanogenmod.org/w/hiaeul_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/hiae.png", "oem": "HTC",  "model": "hiaeul"  },
   {  "name": "One M9 (GSM)", "wiki_url": "https://wiki.cyanogenmod.org/w/himaul_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/hima.png", "oem": "HTC",  "model": "himaul"  },
   {  "name": "Galaxy Note 3 (Unified)", "wiki_url": "https://wiki.cyanogenmod.org/w/hlte_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/hlte.png", "oem": "Samsung",  "model": "hlte"  },
   {  "name": "Galaxy Note 3 (Sprint)", "wiki_url": "https://wiki.cyanogenmod.org/w/hltespr_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/hlte.png", "oem": "Samsung",  "model": "hltespr"  },
