@@ -4,7 +4,7 @@
   {  "name": "Nook Tablet", "wiki_url": "https://wiki.cyanogenmod.org/w/acclaim_Info", "brand": "Barnes & Noble",  "has_recovery": true,  "image_url": "/static/img/acclaim.png", "oem": "Barnes & Noble",  "model": "acclaim"  },
   {  "name": "Desire HD / Inspire 4G", "wiki_url": "https://wiki.cyanogenmod.org/w/ace_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/ace.png", "oem": "HTC",  "model": "ace"  },
   {  "name": "Xperia Z1 Compact", "wiki_url": "https://wiki.cyanogenmod.org/w/amami_Info", "brand": "Sony",  "has_recovery": true,  "image_url": "/static/img/amami.png", "oem": "Sony",  "model": "amami"  },
-  {  "name": "Nexus 6P", "wiki_url": "https://wiki.cyanogenmod.org/w/angler_Info", "brand": "Google",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Google",  "model": "angler"  },
+  {  "name": "Nexus 6P", "wiki_url": "https://wiki.cyanogenmod.org/w/angler_Info", "brand": "Google",  "has_recovery": true,  "image_url": "/static/img/angler.png", "oem": "Google",  "model": "angler"  },
   {  "name": "Xperia Arc / Arc S", "wiki_url": "https://wiki.cyanogenmod.org/w/anzu_Info", "brand": "Sony Ericsson",  "has_recovery": false,  "image_url": "/static/img/anzu.png", "oem": "Sony Ericsson",  "model": "anzu"  },
   {  "name": "Xperia Ion", "wiki_url": "https://wiki.cyanogenmod.org/w/aoba_Info", "brand": "Sony",  "has_recovery": true,  "image_url": "/static/img/aoba.png", "oem": "Sony",  "model": "aoba"  },
   {  "name": "Galaxy S Relay 4G", "wiki_url": "https://wiki.cyanogenmod.org/w/apexqtmo_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/apexqtmo.png", "oem": "Samsung",  "model": "apexqtmo"  },
