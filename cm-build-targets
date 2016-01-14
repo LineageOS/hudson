@@ -3,6 +3,7 @@
 # Absence of a period indicates Daily (the default)
 
 # Daily cm-13.0
+acclaim userdebug cm-13.0
 angler userdebug cm-13.0
 bacon userdebug cm-13.0
 bullhead userdebug cm-13.0
@@ -67,7 +68,6 @@ w5 userdebug cm-13.0
 w7 userdebug cm-13.0
 
 # Daily cm-12.1
-acclaim userdebug cm-12.1
 amami userdebug cm-12.1
 castor userdebug cm-12.1
 castor_windy userdebug cm-12.1
