@@ -49,6 +49,7 @@ m8 userdebug cm-13.0
 m8d userdebug cm-13.0
 mako userdebug cm-13.0
 manta userdebug cm-13.0
+maserati userdebug cm-13.0
 mondrianwifi userdebug cm-13.0
 nx510j userdebug cm-13.0
 otus userdebug cm-13.0
@@ -59,8 +60,11 @@ serranoltexx userdebug cm-13.0
 shamu userdebug cm-13.0
 sprout4 userdebug cm-13.0
 sprout8 userdebug cm-13.0
+spyder userdebug cm-13.0
+targa userdebug cm-13.0
 thea userdebug cm-13.0
 titan userdebug cm-13.0
+umts_spyder userdebug cm-13.0
 v400 userdebug cm-13.0
 v410 userdebug cm-13.0
 vs980 userdebug cm-13.0
@@ -117,7 +121,6 @@ lt03wifi userdebug cm-12.1
 m7 userdebug cm-12.1
 m7vzw userdebug cm-12.1
 maguro userdebug cm-12.1
-maserati userdebug cm-12.1
 mb886 userdebug cm-12.1
 mt2 userdebug cm-12.1
 n3 userdebug cm-12.1
@@ -138,7 +141,6 @@ scorpion userdebug cm-12.1
 scorpion_windy userdebug cm-12.1
 shieldtablet userdebug cm-12.1
 sirius userdebug cm-12.1
-spyder userdebug cm-12.1
 superior userdebug cm-12.1
 surnia userdebug cm-12.1
 t0lte userdebug cm-12.1
@@ -146,7 +148,6 @@ t6 userdebug cm-12.1
 t6spr userdebug cm-12.1
 t6vzw userdebug cm-12.1
 taoshan userdebug cm-12.1
-targa userdebug cm-12.1
 tate userdebug cm-12.1
 tf300t userdebug cm-12.1
 tilapia userdebug cm-12.1
@@ -156,7 +157,6 @@ tomato userdebug cm-12.1
 trltespr userdebug cm-12.1
 trltetmo userdebug cm-12.1
 trltexx userdebug cm-12.1
-umts_spyder userdebug cm-12.1
 v500 userdebug cm-12.1
 ville userdebug cm-12.1
 xt897 userdebug cm-12.1
