@@ -364,6 +364,8 @@
   {  "name": "Droid RAZR HD (CDMA)", "wiki_url": "https://wiki.cyanogenmod.org/w/xt926_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/xt926.png", "oem": "Motorola",  "model": "xt926"  },
   {  "name": "Galaxy Player 4", "wiki_url": "https://wiki.cyanogenmod.org/w/ypg1_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/ypg1.png", "oem": "Samsung",  "model": "ypg1"  },
   {  "name": "Xperia Z", "wiki_url": "https://wiki.cyanogenmod.org/w/yuga_Info", "brand": "Sony",  "has_recovery": true,  "image_url": "/static/img/yuga.png", "oem": "Sony",  "model": "yuga"  },
+  {  "name": "Zenfone 2 (Z008-720p)", "wiki_url": "https://wiki.cyanogenmod.org/w/Z008_Info", "brand": "Asus", "has_recovery": true, "image_url": "/static/img/Z00A.png", "oem": "Asus", "model": "Z008" },
+  {  "name": "Zenfone 2 (Z00A-1080p)", "wiki_url": "https://wiki.cyanogenmod.org/w/Z00A_Info", "brand": "Asus", "has_recovery": true, "image_url": "/static/img/Z00A.png", "oem": "Asus", "model": "Z00A" },
   {  "name": "Zenfone 2 Laser/Selfie (1080p)", "wiki_url": "https://wiki.cyanogenmod.org/w/Z00T_Info", "brand": "Asus",  "has_recovery": true,  "image_url": "/static/img/Z00T.png", "oem": "Asus",  "model": "Z00T"  },
   {  "name": "Xperia Z3", "wiki_url": "https://wiki.cyanogenmod.org/w/z3_Info", "brand": "Sony",  "has_recovery": true,  "image_url": "/static/img/z3.png", "oem": "Sony",  "model": "z3"  },
   {  "name": "Xperia Z3 Compact", "wiki_url": "https://wiki.cyanogenmod.org/w/z3c_Info", "brand": "Sony",  "has_recovery": true,  "image_url": "/static/img/z3c.png", "oem": "Sony",  "model": "z3c"  },
