@@ -269,6 +269,7 @@
   {  "name": "Amaze 4G", "wiki_url": "https://wiki.cyanogenmod.org/w/ruby_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/ruby2.png", "oem": "HTC",  "model": "ruby"  },
   {  "name": "Galaxy Fit", "wiki_url": "https://wiki.cyanogenmod.org/w/s5670_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Samsung",  "model": "s5670"  },
   {  "name": "Desire S", "wiki_url": "https://wiki.cyanogenmod.org/w/saga_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/desires.png", "oem": "HTC",  "model": "saga"  },
+  {  "name": "Yutopia", "wiki_url": "https://wiki.cyanogenmod.org/w/sambar_Info", "brand": "YU",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "YU",  "model": "sambar"  },
   {  "name": "Xperia Active", "wiki_url": "https://wiki.cyanogenmod.org/w/satsuma_Info", "brand": "Sony Ericsson",  "has_recovery": false,  "image_url": "/static/img/satsuma.png", "oem": "Sony Ericsson",  "model": "satsuma"  },
   {  "name": "Galaxy S II SC-02C", "wiki_url": "https://wiki.cyanogenmod.org/w/sc02c_Info", "brand": "Samsung",  "has_recovery": false,  "image_url": "/static/img/i9100.png", "oem": "Samsung",  "model": "sc02c"  },
   {  "name": "Xperia Z3 Tablet Compact (LTE)", "wiki_url": "https://wiki.cyanogenmod.org/w/scorpion_Info", "brand": "Sony",  "has_recovery": true,  "image_url": "/static/img/no-image.jpg", "oem": "Sony",  "model": "scorpion"  },
