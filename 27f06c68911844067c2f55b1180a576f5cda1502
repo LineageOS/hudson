@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ffb9cba7_b8d71b24",
+        "filename": "getcm-devices/devices.json",
+        "patchSetId": 4
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 523
+      },
+      "writtenOn": "2016-02-13T00:57:08Z",
+      "side": 1,
+      "message": "https://wiki.cyanogenmod.org/w/h8901_Info \u003d\u003e\nhttps://wiki.cyanogenmod.org/w/h901_Info ?",
+      "range": {
+        "startLine": 103,
+        "startChar": 44,
+        "endLine": 103,
+        "endChar": 85
+      },
+      "revId": "27f06c68911844067c2f55b1180a576f5cda1502",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
