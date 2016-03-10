@@ -43,6 +43,7 @@ i9100 userdebug cm-13.0
 i9300 userdebug cm-13.0
 jag3gds userdebug cm-13.0
 jagnm userdebug cm-13.0
+jalebi userdebug cm-13.0
 jflteatt userdebug cm-13.0
 jfltespr userdebug cm-13.0
 jfltetmo userdebug cm-13.0
@@ -103,6 +104,7 @@ Z00A userdebug cm-13.0
 Z00L userdebug cm-13.0
 Z00T userdebug cm-13.0
 
+<<<<<<< HEAD
 # Weekly cm-12.1
 amami userdebug cm-12.1 W
 castor userdebug cm-12.1 W
@@ -127,7 +129,6 @@ i777 userdebug cm-12.1 W
 i925 userdebug cm-12.1 W
 i9500 userdebug cm-12.1 W
 jactivelte userdebug cm-12.1 W
-jalebi userdebug cm-12.1 W
 jem userdebug cm-12.1 W
 klimtlte userdebug cm-12.1 W
 klimtwifi userdebug cm-12.1 W
