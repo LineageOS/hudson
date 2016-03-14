@@ -38,6 +38,7 @@ flo userdebug cm-13.0
 flounder userdebug cm-13.0
 flounder_lte userdebug cm-13.0
 g2m userdebug cm-13.0
+ghost userdebug cm-13.0
 gts210ltexx userdebug cm-13.0
 gts210wifi userdebug cm-13.0
 h811 userdebug cm-13.0
@@ -152,7 +153,6 @@ e975 userdebug cm-12.1 W
 e980 userdebug cm-12.1 W
 evita userdebug cm-12.1 W
 g620_a2 userdebug cm-12.1 W
-ghost userdebug cm-12.1 W
 grouper userdebug cm-12.1 W
 hlte userdebug cm-12.1 W
 hltespr userdebug cm-12.1 W
