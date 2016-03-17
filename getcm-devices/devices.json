@@ -112,6 +112,7 @@
   {  "name": "One A9 (GSM International)", "wiki_url": "https://wiki.cyanogenmod.org/w/hiaeuhl_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/hiae.png", "oem": "HTC",  "model": "hiaeuhl"  },
   {  "name": "One A9 (GSM US)", "wiki_url": "https://wiki.cyanogenmod.org/w/hiaeul_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/hiae.png", "oem": "HTC",  "model": "hiaeul"  },
   {  "name": "One M9 (GSM)", "wiki_url": "https://wiki.cyanogenmod.org/w/himaul_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/hima.png", "oem": "HTC",  "model": "himaul"  },
+  {  "name": "One M9 (Verizon)", "wiki_url": "https://wiki.cyanogenmod.org/w/himawl_Info", "brand": "HTC",  "has_recovery": tru$
   {  "name": "Galaxy Note 3 (Unified)", "wiki_url": "https://wiki.cyanogenmod.org/w/hlte_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/hlte.png", "oem": "Samsung",  "model": "hlte"  },
   {  "name": "Galaxy Note 3 (Sprint)", "wiki_url": "https://wiki.cyanogenmod.org/w/hltespr_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/hlte.png", "oem": "Samsung",  "model": "hltespr"  },
   {  "name": "Galaxy Note 3 (T-Mobile)", "wiki_url": "https://wiki.cyanogenmod.org/w/hltetmo_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/hlte.png", "oem": "Samsung",  "model": "hltetmo"  },
