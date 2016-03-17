@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7faddb67_2fee8988",
+        "filename": "getcm-devices/devices.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 115,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2016-03-17T19:47:51Z",
+      "side": 1,
+      "message": "something went wrong here",
+      "revId": "e7049360f0610a41ff4d56870eb5d4a0555db40f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
