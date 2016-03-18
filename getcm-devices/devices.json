@@ -173,6 +173,7 @@
   {  "name": "Optimus G (Sprint)", "wiki_url": "https://wiki.cyanogenmod.org/w/ls970_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/e970.png", "oem": "LG",  "model": "ls970"  },
   {  "name": "G2 (Sprint)", "wiki_url": "https://wiki.cyanogenmod.org/w/ls980_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/d800.png", "oem": "LG",  "model": "ls980"  },
   {  "name": "G3 (Sprint)", "wiki_url": "https://wiki.cyanogenmod.org/w/ls990_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/d850.png", "oem": "LG",  "model": "ls990"  },
+  {  "name": "Galaxy Note 10.1 2014 (LTE)", "wiki_url": "https://wiki.cyanogenmod.org/w/lt03lte_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/lt03wifi.png", "oem": "Samsung",  "model": "lt03lte"  },
   {  "name": "Galaxy Note 10.1 2014 (WiFi)", "wiki_url": "https://wiki.cyanogenmod.org/w/lt03wifi_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/lt03wifi.png", "oem": "Samsung",  "model": "lt03wifi"  },
   {  "name": "One Mini", "wiki_url": "https://wiki.cyanogenmod.org/w/m4_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/m4.png", "oem": "HTC",  "model": "m4"  },
   {  "name": "One (GSM)", "wiki_url": "https://wiki.cyanogenmod.org/w/m7_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/m7.png", "oem": "HTC",  "model": "m7"  },
