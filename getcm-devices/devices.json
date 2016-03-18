@@ -174,6 +174,7 @@
   {  "name": "G2 (Sprint)", "wiki_url": "https://wiki.cyanogenmod.org/w/ls980_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/d800.png", "oem": "LG",  "model": "ls980"  },
   {  "name": "G3 (Sprint)", "wiki_url": "https://wiki.cyanogenmod.org/w/ls990_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/d850.png", "oem": "LG",  "model": "ls990"  },
   {  "name": "Galaxy Note 10.1 2014 (WiFi)", "wiki_url": "https://wiki.cyanogenmod.org/w/lt03wifi_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/lt03wifi.png", "oem": "Samsung",  "model": "lt03wifi"  },
+  {  "name": "Moto X Play", "wiki_url": "https://wiki.cyanogenmod.org/w/lux_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/lux.png", "oem": "Motorola",  "model": "lux"  },
   {  "name": "One Mini", "wiki_url": "https://wiki.cyanogenmod.org/w/m4_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/m4.png", "oem": "HTC",  "model": "m4"  },
   {  "name": "One (GSM)", "wiki_url": "https://wiki.cyanogenmod.org/w/m7_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/m7.png", "oem": "HTC",  "model": "m7"  },
   {  "name": "One (AT&T)", "wiki_url": "https://wiki.cyanogenmod.org/w/m7att_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/m7.png", "oem": "HTC",  "model": "m7att"  },
