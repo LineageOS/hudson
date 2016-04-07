@@ -99,82 +99,82 @@ Z00A userdebug cm-13.0
 Z00L userdebug cm-13.0
 Z00T userdebug cm-13.0
 
-# Daily cm-12.1
-amami userdebug cm-12.1
-castor userdebug cm-12.1
-castor_windy userdebug cm-12.1
-chagallwifi userdebug cm-12.1
-d850 userdebug cm-12.1
-dlx userdebug cm-12.1
-dogo userdebug cm-12.1
-e975 userdebug cm-12.1
-e980 userdebug cm-12.1
-evita userdebug cm-12.1
-g620_a2 userdebug cm-12.1
-ghost userdebug cm-12.1
-grouper userdebug cm-12.1
-hlte userdebug cm-12.1
-hltespr userdebug cm-12.1
-hltetmo userdebug cm-12.1
-honami userdebug cm-12.1
-huashan userdebug cm-12.1
-i605 userdebug cm-12.1
-i777 userdebug cm-12.1
-i925 userdebug cm-12.1
-i9500 userdebug cm-12.1
-jactivelte userdebug cm-12.1
-jalebi userdebug cm-12.1
-jem userdebug cm-12.1
-klimtlte userdebug cm-12.1
-klimtwifi userdebug cm-12.1
-kltedv userdebug cm-12.1
-kltespr userdebug cm-12.1
-l900 userdebug cm-12.1
-lettuce userdebug cm-12.1
-ls980 userdebug cm-12.1
-lt03wifi userdebug cm-12.1
-m7 userdebug cm-12.1
-m7vzw userdebug cm-12.1
-maguro userdebug cm-12.1
-mb886 userdebug cm-12.1
-n5100 userdebug cm-12.1
-n5110 userdebug cm-12.1
-obake userdebug cm-12.1
-odin userdebug cm-12.1
-paella userdebug cm-12.1
-picassowifi userdebug cm-12.1
-pollux userdebug cm-12.1
-pollux_windy userdebug cm-12.1
-rendang userdebug cm-12.1
-scorpion userdebug cm-12.1
-scorpion_windy userdebug cm-12.1
-shieldtablet userdebug cm-12.1
-sirius userdebug cm-12.1
-superior userdebug cm-12.1
-t0lte userdebug cm-12.1
-t6 userdebug cm-12.1
-t6spr userdebug cm-12.1
-t6vzw userdebug cm-12.1
-taoshan userdebug cm-12.1
-tate userdebug cm-12.1
-tf300t userdebug cm-12.1
-tf701t userdebug cm-12.1
-tilapia userdebug cm-12.1
-togari userdebug cm-12.1
-togari_gpe userdebug cm-12.1
-tomato userdebug cm-12.1
-trltespr userdebug cm-12.1
-trltetmo userdebug cm-12.1
-trltexx userdebug cm-12.1
-v500 userdebug cm-12.1
-ville userdebug cm-12.1
-xt907 userdebug cm-12.1
-xt925 userdebug cm-12.1
-xt926 userdebug cm-12.1
-yuga userdebug cm-12.1
-z3 userdebug cm-12.1
-z3c userdebug cm-12.1
-z3dual userdebug cm-12.1
+# Weekly cm-12.1
+amami userdebug cm-12.1 W
+castor userdebug cm-12.1 W
+castor_windy userdebug cm-12.1 W
+chagallwifi userdebug cm-12.1 W
+d850 userdebug cm-12.1 W
+dlx userdebug cm-12.1 W
+dogo userdebug cm-12.1 W
+e975 userdebug cm-12.1 W
+e980 userdebug cm-12.1 W
+evita userdebug cm-12.1 W
+g620_a2 userdebug cm-12.1 W
+ghost userdebug cm-12.1 W
+grouper userdebug cm-12.1 W
+hlte userdebug cm-12.1 W
+hltespr userdebug cm-12.1 W
+hltetmo userdebug cm-12.1 W
+honami userdebug cm-12.1 W
+huashan userdebug cm-12.1 W
+i605 userdebug cm-12.1 W
+i777 userdebug cm-12.1 W
+i925 userdebug cm-12.1 W
+i9500 userdebug cm-12.1 W
+jactivelte userdebug cm-12.1 W
+jalebi userdebug cm-12.1 W
+jem userdebug cm-12.1 W
+klimtlte userdebug cm-12.1 W
+klimtwifi userdebug cm-12.1 W
+kltedv userdebug cm-12.1 W
+kltespr userdebug cm-12.1 W
+l900 userdebug cm-12.1 W
+lettuce userdebug cm-12.1 W
+ls980 userdebug cm-12.1 W
+lt03wifi userdebug cm-12.1 W
+m7 userdebug cm-12.1 W
+m7vzw userdebug cm-12.1 W
+maguro userdebug cm-12.1 W
+mb886 userdebug cm-12.1 W
+n5100 userdebug cm-12.1 W
+n5110 userdebug cm-12.1 W
+obake userdebug cm-12.1 W
+odin userdebug cm-12.1 W
+paella userdebug cm-12.1 W
+picassowifi userdebug cm-12.1 W
+pollux userdebug cm-12.1 W
+pollux_windy userdebug cm-12.1 W
+rendang userdebug cm-12.1 W
+scorpion userdebug cm-12.1 W
+scorpion_windy userdebug cm-12.1 W
+shieldtablet userdebug cm-12.1 W
+sirius userdebug cm-12.1 W
+superior userdebug cm-12.1 W
+t0lte userdebug cm-12.1 W
+t6 userdebug cm-12.1 W
+t6spr userdebug cm-12.1 W
+t6vzw userdebug cm-12.1 W
+taoshan userdebug cm-12.1 W
+tate userdebug cm-12.1 W
+tf300t userdebug cm-12.1 W
+tf701t userdebug cm-12.1 W
+tilapia userdebug cm-12.1 W
+togari userdebug cm-12.1 W
+togari_gpe userdebug cm-12.1 W
+tomato userdebug cm-12.1 W
+trltespr userdebug cm-12.1 W
+trltetmo userdebug cm-12.1 W
+trltexx userdebug cm-12.1 W
+v500 userdebug cm-12.1 W
+ville userdebug cm-12.1 W
+xt907 userdebug cm-12.1 W
+xt925 userdebug cm-12.1 W
+xt926 userdebug cm-12.1 W
+yuga userdebug cm-12.1 W
+z3 userdebug cm-12.1 W
+z3c userdebug cm-12.1 W
+z3dual userdebug cm-12.1 W
 
 # Weekly cm-11.0
 a700 userdebug cm-11.0 W
