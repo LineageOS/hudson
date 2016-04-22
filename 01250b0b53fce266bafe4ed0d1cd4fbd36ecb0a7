@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5faad753_d94775bc",
+        "filename": "getcm-devices/devices.json",
+        "patchSetId": 6
+      },
+      "lineNbr": 222,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2016-04-22T14:57:27Z",
+      "side": 1,
+      "message": "OnePlus",
+      "range": {
+        "startLine": 222,
+        "startChar": 84,
+        "endLine": 222,
+        "endChar": 91
+      },
+      "revId": "01250b0b53fce266bafe4ed0d1cd4fbd36ecb0a7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
