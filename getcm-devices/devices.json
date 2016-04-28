@@ -1,5 +1,6 @@
 [
   {  "name": "Desire 816", "wiki_url": "https://wiki.cyanogenmod.org/w/a5_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/a5.png", "oem": "HTC",  "model": "a5"  },
+  {  "name": "Desire 816 Dual SIM", "wiki_url": "https://wiki.cyanogenmod.org/w/a5dwg_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/a5.png", "oem": "HTC",  "model": "a5dwg"  },
   {  "name": "Iconia Tab A700", "wiki_url": "https://wiki.cyanogenmod.org/w/a700_Info", "brand": "Acer",  "has_recovery": true,  "image_url": "/static/img/a700.png", "oem": "Acer",  "model": "a700"  },
   {  "name": "Nook Tablet", "wiki_url": "https://wiki.cyanogenmod.org/w/acclaim_Info", "brand": "Barnes & Noble",  "has_recovery": true,  "image_url": "/static/img/acclaim.png", "oem": "Barnes & Noble",  "model": "acclaim"  },
   {  "name": "Desire HD / Inspire 4G", "wiki_url": "https://wiki.cyanogenmod.org/w/ace_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/ace.png", "oem": "HTC",  "model": "ace"  },
