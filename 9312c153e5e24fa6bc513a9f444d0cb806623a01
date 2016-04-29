@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5faad753_9221c1a2",
+        "filename": "getcm-devices/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2016-04-29T23:51:33Z",
+      "side": 1,
+      "message": "should probably change this to Dual SIM",
+      "range": {
+        "startLine": 3,
+        "startChar": 25,
+        "endLine": 3,
+        "endChar": 33
+      },
+      "revId": "9312c153e5e24fa6bc513a9f444d0cb806623a01",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
