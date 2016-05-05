@@ -358,6 +358,7 @@
   {  "name": "G3 (Verizon)", "wiki_url": "https://wiki.cyanogenmod.org/w/vs985_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/d850.png", "oem": "LG",  "model": "vs985"  },
   {  "name": "Optimus L70", "wiki_url": "https://wiki.cyanogenmod.org/w/w5_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/w5.png", "oem": "LG",  "model": "w5"  },
   {  "name": "Optimus L90", "wiki_url": "https://wiki.cyanogenmod.org/w/w7_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/w7.png", "oem": "LG",  "model": "w7"  },
+  {  "name": "Wingtech WT88047", "wiki_url": "https://wiki.cyanogenmod.org/w/wt88047_Info", "brand": "Wingtech",  "has_recovery": true,  "image_url": "/static/img/wt88047.png", "oem": "Wingtech",  "model": "wt88047"  },
   {  "name": "Xoom (Wi-Fi)", "wiki_url": "https://wiki.cyanogenmod.org/w/wingray_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/wingray.png", "oem": "Motorola",  "model": "wingray"  },
   {  "name": "Moto X 2013 (T-Mobile)", "wiki_url": "https://wiki.cyanogenmod.org/w/xt1053_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/ghost.png", "oem": "Motorola",  "model": "xt1053"  },
   {  "name": "Moto X 2013 (AT&T)", "wiki_url": "https://wiki.cyanogenmod.org/w/xt1058_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/ghost.png", "oem": "Motorola",  "model": "xt1058"  },
