@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5faad753_d6087b29",
+        "filename": "getcm-devices/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 361,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2016-05-05T14:51:33Z",
+      "side": 1,
+      "message": "Should be just WT88047",
+      "range": {
+        "startLine": 361,
+        "startChar": 14,
+        "endLine": 361,
+        "endChar": 30
+      },
+      "revId": "bde2dcff4edd1351847793ba42aaffbef8922fd9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
