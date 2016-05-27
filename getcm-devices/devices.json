@@ -267,7 +267,7 @@
   {  "name": "Moto MAXX", "wiki_url": "https://wiki.cyanogenmod.org/w/quark_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/quark.png", "oem": "Motorola",  "model": "quark"  },
   {  "name": "Galaxy Note (AT&T)", "wiki_url": "https://wiki.cyanogenmod.org/w/quincyatt_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/i717.png", "oem": "Samsung",  "model": "quincyatt"  },
   {  "name": "Galaxy Note (T-Mobile)", "wiki_url": "https://wiki.cyanogenmod.org/w/quincytmo_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/t879.png", "oem": "Samsung",  "model": "quincytmo"  },
-  {  "name": "R5", "wiki_url": "https://wiki.cyanogenmod.org/w/r5_Info", "brand": "Oppo",  "has_recovery": true,  "image_url": "/static/img/r5.png", "oem": "Oppo",  "model": "r5"  },
+  {  "name": "R5/R5s (Intl)", "wiki_url": "https://wiki.cyanogenmod.org/w/r5_Info", "brand": "Oppo",  "has_recovery": true,  "image_url": "/static/img/r5.png", "oem": "Oppo",  "model": "r5"  },
   {  "name": "R7 Plus", "wiki_url": "https://wiki.cyanogenmod.org/w/r7plus_Info", "brand": "Oppo",  "has_recovery": true,  "image_url": "/static/img/r7plus.png", "oem": "Oppo",  "model": "r7plus"  },
   {  "name": "Galaxy Note II (US Cellular)", "wiki_url": "https://wiki.cyanogenmod.org/w/r950_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/n7100.png", "oem": "Samsung",  "model": "r950"  },
   {  "name": "Andromax Q", "wiki_url": "https://wiki.cyanogenmod.org/w/rendang_Info", "brand": "Smartfren",  "has_recovery": true,  "image_url": "/static/img/rendang.png", "oem": "Smartfren",  "model": "rendang"  },
