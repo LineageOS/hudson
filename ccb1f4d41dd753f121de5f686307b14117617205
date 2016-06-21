@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5faad753_a1489c86",
+        "filename": "cm-translation-targets",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2016-06-21T17:28:21Z",
+      "side": 1,
+      "message": "RM-165 (and RM-170) is what we used historically",
+      "range": {
+        "startLine": 8,
+        "startChar": 14,
+        "endLine": 8,
+        "endChar": 20
+      },
+      "revId": "ccb1f4d41dd753f121de5f686307b14117617205",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
