@@ -2,6 +2,29 @@
   "comments": [
     {
       "key": {
+        "uuid": "5faad753_01573028",
+        "filename": "cm-translation-targets",
+        "patchSetId": 2
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2016-06-21T17:29:17Z",
+      "side": 1,
+      "message": "Might as well start this as weekly?",
+      "range": {
+        "startLine": 5,
+        "startChar": 2,
+        "endLine": 5,
+        "endChar": 15
+      },
+      "revId": "ccb1f4d41dd753f121de5f686307b14117617205",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5faad753_a1489c86",
         "filename": "cm-translation-targets",
         "patchSetId": 2
