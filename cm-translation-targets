@@ -1,0 +1,13 @@
+# CM translation target list
+# <version> <release_target_version> <jira_ticket> [period: "D"aily, "W"eekly or "M"onthly]
+# Absence of a period indicates Daily (the default)
+
+# Daily cm-12.1
+cm-12.1 - - W
+cm-12.1 YOG4P RM-154 W
+cm-12.1 YOG7D RM-170 W
+
+# Daily cm-13.0
+cm-13.0 - -
+cm-13.0 ZNH0E RM-214
+cm-13.0 ZNH2K RM-231
