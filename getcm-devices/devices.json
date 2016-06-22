@@ -231,6 +231,7 @@
   {  "name": "Kindle Fire (1Gen, custom bl)", "wiki_url": "https://wiki.cyanogenmod.org/w/otterx_Info", "brand": "Amazon",  "has_recovery": true,  "image_url": "/static/img/otter.png", "oem": "Amazon",  "model": "otterx"  },
   {  "name": "Moto E (2015)", "wiki_url": "https://wiki.cyanogenmod.org/w/otus_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/otus.png", "oem": "Motorola",  "model": "otus"  },
   {  "name": "Nook HD+", "wiki_url": "https://wiki.cyanogenmod.org/w/ovation_Info", "brand": "Barnes & Noble",  "has_recovery": true,  "image_url": "/static/img/ovation.png", "oem": "Barnes & Noble",  "model": "ovation"  },
+  {  "name": "ZenPad 8.0 (Z380KL)", "wiki_url": "https://wiki.cyanogenmod.org/w/P024_Info", "brand": "Asus",  "has_recovery": true,  "image_url": "/static/img/P024.png", "oem": "Asus",  "model": "P024"  },
   {  "name": "Galaxy Tab (GSM)", "wiki_url": "https://wiki.cyanogenmod.org/w/p1_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/p1.png", "oem": "Samsung",  "model": "p1"  },
   {  "name": "Galaxy Tab (CDMA)", "wiki_url": "https://wiki.cyanogenmod.org/w/p1c_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/p1.png", "oem": "Samsung",  "model": "p1c"  },
   {  "name": "Galaxy Tab (P1000L)", "wiki_url": "https://wiki.cyanogenmod.org/w/p1l_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/p1.png", "oem": "Samsung",  "model": "p1l"  },
