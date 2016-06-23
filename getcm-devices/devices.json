@@ -100,6 +100,7 @@
   {  "name": "Moto X 2013", "wiki_url": "https://wiki.cyanogenmod.org/w/ghost_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/ghost.png", "oem": "Motorola",  "model": "ghost"  },
   {  "name": "myTouch 4G", "wiki_url": "https://wiki.cyanogenmod.org/w/glacier_Info", "brand": "T-Mobile",  "has_recovery": true,  "image_url": "/static/img/glacier.png", "oem": "T-Mobile",  "model": "glacier"  },
   {  "name": "Nexus 7 (Wi-Fi)", "wiki_url": "https://wiki.cyanogenmod.org/w/grouper_Info", "brand": "Google",  "has_recovery": true,  "image_url": "/static/img/grouper.png", "oem": "Google",  "model": "grouper"  },
+  {  "name": "Galaxy Tab S2 9.7 (LTE)", "wiki_url": "https://wiki.cyanogenmod.org/w/gts210ltexx_Info", "brand": "Samsung",  "has_recovery": false,  "image_url": "/static/img/gts2.png", "oem": "Samsung",  "model": "gts210ltexx"  },
   {  "name": "Xperia Neo V", "wiki_url": "https://wiki.cyanogenmod.org/w/haida_Info", "brand": "Sony Ericsson",  "has_recovery": false,  "image_url": "/static/img/haida.png", "oem": "Sony Ericsson",  "model": "haida"  },
   {  "name": "Xperia Neo", "wiki_url": "https://wiki.cyanogenmod.org/w/hallon_Info", "brand": "Sony Ericsson",  "has_recovery": false,  "image_url": "/static/img/hallon.png", "oem": "Sony Ericsson",  "model": "hallon"  },
   {  "name": "G4 (T-Mobile)", "wiki_url": "https://wiki.cyanogenmod.org/w/h811_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/h815.png", "oem": "LG",  "model": "h811"  },
