@@ -226,6 +226,7 @@
   {  "name": "Atrix 4G", "wiki_url": "https://wiki.cyanogenmod.org/w/olympus_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/olympus.png", "oem": "Motorola",  "model": "olympus"  },
   {  "name": "One", "wiki_url": "https://wiki.cyanogenmod.org/w/one_Info", "brand": "Geeksphone",  "has_recovery": true,  "image_url": "/static/img/one.png", "oem": "Geeksphone",  "model": "one"  },
   {  "name": "2", "wiki_url": "https://wiki.cyanogenmod.org/w/oneplus2_Info", "brand": "OnePlus",  "has_recovery": true,  "image_url": "/static/img/oneplus2.png", "oem": "OnePlus",  "model": "oneplus2"  },
+  {  "name": "3", "wiki_url": "https://wiki.cyanogenmod.org/w/oneplus3_Info", "brand": "OnePlus",  "has_recovery": true,  "image_url": "/static/img/oneplus2.png", "oem": "OnePlus",  "model": "oneplus3"  },
   {  "name": "X", "wiki_url": "https://wiki.cyanogenmod.org/w/onyx_Info", "brand": "OnePlus",  "has_recovery": true,  "image_url": "/static/img/onyx.png", "oem": "OnePlus",  "model": "onyx"  },
   {  "name": "Moto G (2015)", "wiki_url": "https://wiki.cyanogenmod.org/w/osprey_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/osprey.png", "oem": "Motorola",  "model": "osprey"  },
   {  "name": "Kindle Fire (1st gen)", "wiki_url": "https://wiki.cyanogenmod.org/w/otter_Info", "brand": "Amazon",  "has_recovery": true,  "image_url": "/static/img/otter.png", "oem": "Amazon",  "model": "otter"  },
