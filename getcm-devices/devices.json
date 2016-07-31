@@ -19,6 +19,7 @@
   {  "name": "Optimus Pro", "wiki_url": "https://wiki.cyanogenmod.org/w/c660_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/c660.png", "oem": "LG",  "model": "c660"  },
   {  "name": "myTouch Q", "wiki_url": "https://wiki.cyanogenmod.org/w/c800_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/c800.png", "oem": "LG",  "model": "c800"  },
   {  "name": "Mi3w and Mi4", "wiki_url": "https://wiki.cyanogenmod.org/w/cancro_Info", "brand": "Xiaomi",  "has_recovery": true,  "image_url": "/static/img/cancro.png", "oem": "Xiaomi",  "model": "cancro"  },
+  {  "name": "Redmi Note 3", "wiki_url": "https://wiki.cyanogenmod.org/w/kenzo_Info", "brand": "Xiaomi",  "has_recovery": true,  "image_url": "/static/img/kenzo.png", "oem": "Xiaomi",  "model": "kenzo"  },
   {  "name": "Captivate", "wiki_url": "https://wiki.cyanogenmod.org/w/captivatemtd_Info", "brand": "Samsung",  "has_recovery": false,  "image_url": "/static/img/captivatemtd.png", "oem": "Samsung",  "model": "captivatemtd"  },
   {  "name": "Xperia Z2 Tablet (LTE)", "wiki_url": "https://wiki.cyanogenmod.org/w/castor_Info", "brand": "Sony",  "has_recovery": true,  "image_url": "/static/img/castor.png", "oem": "Sony",  "model": "castor"  },
   {  "name": "Xperia Z2 Tablet (Wi-Fi)", "wiki_url": "https://wiki.cyanogenmod.org/w/castor_windy_Info", "brand": "Sony",  "has_recovery": true,  "image_url": "/static/img/castor.png", "oem": "Sony",  "model": "castor_windy"  },
