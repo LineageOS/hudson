@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fa4df85_8c7a2686",
+        "filename": "getcm-devices/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 141,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2016-08-16T02:04:54Z",
+      "side": 1,
+      "message": "https://wiki.cyanogenmod.org/w/s3ve3g_Info",
+      "range": {
+        "startLine": 141,
+        "startChar": 46,
+        "endLine": 141,
+        "endChar": 57
+      },
+      "revId": "e32a9a25d7e24398dbde22872dfed5c989e128b9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fa4df85_6c756a98",
+        "filename": "getcm-devices/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 141,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2016-08-16T02:04:54Z",
+      "side": 1,
+      "message": "needs a picture",
+      "range": {
+        "startLine": 141,
+        "startChar": 118,
+        "endLine": 141,
+        "endChar": 140
+      },
+      "revId": "e32a9a25d7e24398dbde22872dfed5c989e128b9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
