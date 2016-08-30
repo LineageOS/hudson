@@ -272,6 +272,7 @@
   {  "name": "Nexus One", "wiki_url": "https://wiki.cyanogenmod.org/w/passion_Info", "brand": "Google",  "has_recovery": true,  "image_url": "/static/img/passion.png", "oem": "Google",  "model": "passion"  },
   {  "name": "Moto G 4G", "wiki_url": "https://wiki.cyanogenmod.org/w/peregrine_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/peregrine.png", "oem": "Motorola",  "model": "peregrine"  },
   {  "name": "Galaxy Tab Pro 10.1 (Wi-Fi)", "wiki_url": "https://wiki.cyanogenmod.org/w/picassowifi_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/picassowifi.png", "oem": "Samsung",  "model": "picassowifi"  },
+  {  "name": "Aquaris M5", "wiki_url": "https://wiki.cyanogenmod.org/w/piccolo_Info", "brand": "BQ",  "has_recovery": true,  "image_url": "/static/img/piccolo.png", "oem": "BQ",  "model": "piccolo"  },
   {  "name": "Xperia Tablet Z", "wiki_url": "https://wiki.cyanogenmod.org/w/pollux_Info", "brand": "Sony",  "has_recovery": true,  "image_url": "/static/img/pollux.png", "oem": "Sony",  "model": "pollux"  },
   {  "name": "Xperia Tablet Z (Wi-Fi)", "wiki_url": "https://wiki.cyanogenmod.org/w/pollux_windy_Info", "brand": "Sony",  "has_recovery": true,  "image_url": "/static/img/pollux.png", "oem": "Sony",  "model": "pollux_windy"  },
   {  "name": "Sensation", "wiki_url": "https://wiki.cyanogenmod.org/w/pyramid_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/pyramid.png", "oem": "HTC",  "model": "pyramid"  },
