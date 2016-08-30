@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fa4df85_a2f02292",
+        "filename": "getcm-devices/devices.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 272,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2016-08-30T10:52:29Z",
+      "side": 1,
+      "message": "Model should be in alphabetical order, needs to go below picassowifi",
+      "revId": "e5aec3aa8f2c154b3671438e39d8fee379267917",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
