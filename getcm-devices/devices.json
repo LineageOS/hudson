@@ -362,6 +362,7 @@
   {  "name": "G-Pad 8.3", "wiki_url": "https://wiki.cyanogenmod.org/w/v500_Info", "brand": "LG",  "has_recovery": true,  "image_url": "/static/img/v500.png", "oem": "LG",  "model": "v500"  },
   {  "name": "V9", "wiki_url": "https://wiki.cyanogenmod.org/w/v9_Info", "brand": "ZTE",  "has_recovery": true,  "image_url": "/static/img/v9.png", "oem": "ZTE",  "model": "v9"  },
   {  "name": "Vega", "wiki_url": "https://wiki.cyanogenmod.org/w/vega_Info", "brand": "Advent",  "has_recovery": true,  "image_url": "/static/img/vega.png", "oem": "Advent",  "model": "vega"  },
+  {  "name": "Aquaris E5 4G", "wiki_url": "https://wiki.cyanogenmod.org/w/vegetalte_Info", "brand": "BQ",  "has_recovery": true,  "image_url": "/static/img/vegetalte.png", "oem": "BQ",  "model": "vegetalte"  },
   {  "name": "Vibrant", "wiki_url": "https://wiki.cyanogenmod.org/w/vibrantmtd_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/vibrantmtd.png", "oem": "Samsung",  "model": "vibrantmtd"  },
   {  "name": "Moto X 2014", "wiki_url": "https://wiki.cyanogenmod.org/w/victara_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/victara.png", "oem": "Motorola",  "model": "victara"  },
   {  "name": "One S", "wiki_url": "https://wiki.cyanogenmod.org/w/ville_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/ville.png", "oem": "HTC",  "model": "ville"  },
