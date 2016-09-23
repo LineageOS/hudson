@@ -98,6 +98,7 @@
   {  "name": "Galaxy S II (AT&T)", "wiki_url": "https://wiki.cyanogenmod.org/w/galaxys2att_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/i777.png", "oem": "Samsung",  "model": "galaxys2att"  },
   {  "name": "Galaxy S (B)", "wiki_url": "https://wiki.cyanogenmod.org/w/galaxysbmtd_Info", "brand": "Samsung",  "has_recovery": false,  "image_url": "/static/img/galaxysmtd.png", "oem": "Samsung",  "model": "galaxysbmtd"  },
   {  "name": "Galaxy S", "wiki_url": "https://wiki.cyanogenmod.org/w/galaxysmtd_Info", "brand": "Samsung",  "has_recovery": false,  "image_url": "/static/img/galaxysmtd.png", "oem": "Samsung",  "model": "galaxysmtd"  },
+  {  "name": "Mi5", "wiki_url": "https://wiki.cyanogenmod.org/w/gemini_Info", "brand": "Xiaomi",  "has_recovery": true,  "image_url": "/static/img/gemini.png", "oem": "Xiaomi",  "model": "gemini"  },
   {  "name": "Moto X 2013", "wiki_url": "https://wiki.cyanogenmod.org/w/ghost_Info", "brand": "Motorola",  "has_recovery": true,  "image_url": "/static/img/ghost.png", "oem": "Motorola",  "model": "ghost"  },
   {  "name": "myTouch 4G", "wiki_url": "https://wiki.cyanogenmod.org/w/glacier_Info", "brand": "T-Mobile",  "has_recovery": true,  "image_url": "/static/img/glacier.png", "oem": "T-Mobile",  "model": "glacier"  },
   {  "name": "Nexus 7 (Wi-Fi)", "wiki_url": "https://wiki.cyanogenmod.org/w/grouper_Info", "brand": "Google",  "has_recovery": true,  "image_url": "/static/img/grouper.png", "oem": "Google",  "model": "grouper"  },
