@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fa4df85_ca5f3070",
+        "filename": "getcm-devices/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 102,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2016-09-23T08:23:31Z",
+      "side": 1,
+      "message": "goes here. it\u0027s in code name order just like build-targets file",
+      "revId": "9bbd82d0b9ad028f5967af0265f6c3998d2673ac",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
