@@ -2,6 +2,26 @@
 # <device> <build_type> <version> [period: "D"aily, "W"eekly or "M"onthly]
 # Absence of a period indicates Daily (the default)
 
+# Nightly cm-14.1
+angler userdebug cm-14.1
+bullhead userdebug cm-14.1
+cancro userdebug cm-14.1
+d855 userdebug cm-14.1
+falcon userdebug cm-14.1
+h811 userdebug cm-14.1
+h815 userdebug cm-14.1
+klte userdebug cm-14.1
+kltedv userdebug cm-14.1
+kltespr userdebug cm-14.1
+klteusc userdebug cm-14.1
+kltevzw userdebug cm-14.1
+oneplus3 userdebug cm-14.1
+peregrine userdebug cm-14.1
+thea userdebug cm-14.1
+titan userdebug cm-14.1
+Z00L userdebug cm-14.1
+Z00T userdebug cm-14.1
+
 # Weekly cm-13.0
 a5dwg userdebug cm-13.0 W
 acclaim userdebug cm-13.0 W
