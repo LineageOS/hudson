@@ -2,14 +2,31 @@
 # <device> <build_type> <version> [period: "D"aily, "W"eekly or "M"onthly]
 # Absence of a period indicates Daily (the default)
 
+# Nightly cm-14.1
+angler userdebug cm-14.1
+bullhead userdebug cm-14.1
+cancro userdebug cm-14.1
+d855 userdebug cm-14.1
+falcon userdebug cm-14.1
+h811 userdebug cm-14.1
+h815 userdebug cm-14.1
+klte userdebug cm-14.1
+kltedv userdebug cm-14.1
+kltespr userdebug cm-14.1
+klteusc userdebug cm-14.1
+kltevzw userdebug cm-14.1
+oneplus3 userdebug cm-14.1
+peregrine userdebug cm-14.1
+thea userdebug cm-14.1
+titan userdebug cm-14.1
+Z00L userdebug cm-14.1
+Z00T userdebug cm-14.1
+
 # Weekly cm-13.0
 a5dwg userdebug cm-13.0 W
 acclaim userdebug cm-13.0 W
-angler userdebug cm-13.0 W
 apollo userdebug cm-13.0 W
 bacon userdebug cm-13.0 W
-bullhead userdebug cm-13.0 W
-cancro userdebug cm-13.0 W
 che10 userdebug cm-13.0 W
 cherry userdebug cm-13.0 W
 clark userdebug cm-13.0 W
@@ -26,12 +43,10 @@ d803 userdebug cm-13.0 W
 d850 userdebug cm-13.0 W
 d851 userdebug cm-13.0 W
 d852 userdebug cm-13.0 W
-d855 userdebug cm-13.0 W
 deb userdebug cm-13.0 W
 dogo userdebug cm-13.0 W
 ether userdebug cm-13.0 W
 f400 userdebug cm-13.0 W
-falcon userdebug cm-13.0 W
 find7 userdebug cm-13.0 W
 find7s userdebug cm-13.0 W
 flo userdebug cm-13.0 W
@@ -42,8 +57,6 @@ gemini userdebug cm-13.0 W
 ghost userdebug cm-13.0 W
 gts210ltexx userdebug cm-13.0 W
 gts210wifi userdebug cm-13.0 W
-h811 userdebug cm-13.0 W
-h815 userdebug cm-13.0 W
 ham userdebug cm-13.0 W
 hammerhead userdebug cm-13.0 W
 hayabusa userdebug cm-13.0 W
@@ -67,15 +80,10 @@ jfltexx userdebug cm-13.0 W
 kenzo userdebug cm-13.0 W
 kipper userdebug cm-13.0 W
 kiwi userdebug cm-13.0 W
-klte userdebug cm-13.0 W
 kltechn userdebug cm-13.0 W
 kltechnduo userdebug cm-13.0 W
 klteduos userdebug cm-13.0 W
-kltedv userdebug cm-13.0 W
 kltekdi userdebug cm-13.0 W
-kltespr userdebug cm-13.0 W
-klteusc userdebug cm-13.0 W
-kltevzw userdebug cm-13.0 W
 ks01lte userdebug cm-13.0 W
 l01f userdebug cm-13.0 W
 l900 userdebug cm-13.0 W
@@ -100,13 +108,11 @@ n5120 userdebug cm-13.0 W
 nicki userdebug cm-13.0 W
 odin userdebug cm-13.0 W
 oneplus2 userdebug cm-13.0 W
-oneplus3 userdebug cm-13.0 W
 onyx userdebug cm-13.0 W
 osprey userdebug cm-13.0 W
 otus userdebug cm-13.0 W
 P024 userdebug cm-13.0 W
 paella userdebug cm-13.0 W
-peregrine userdebug cm-13.0 W
 piccolo userdebug cm-13.0 W
 pollux userdebug cm-13.0 W
 pollux_windy userdebug cm-13.0 W
@@ -127,9 +133,7 @@ t0lte userdebug cm-13.0 W
 t6 userdebug cm-13.0 W
 taoshan userdebug cm-13.0 W
 targa userdebug cm-13.0 W
-thea userdebug cm-13.0 W
 thor userdebug cm-13.0 W
-titan userdebug cm-13.0 W
 tomato userdebug cm-13.0 W
 toro userdebug cm-13.0 W
 toroplus userdebug cm-13.0 W
@@ -147,5 +151,3 @@ xt897 userdebug cm-13.0 W
 yuga userdebug cm-13.0 W
 Z008 userdebug cm-13.0 W
 Z00A userdebug cm-13.0 W
-Z00L userdebug cm-13.0 W
-Z00T userdebug cm-13.0 W
