@@ -22,6 +22,12 @@ titan userdebug cm-14.1
 Z00L userdebug cm-14.1
 Z00T userdebug cm-14.1
 
+# Nightly cm-13.0
+gemini userdebug cm-13.0 D
+kiwi userdebug cm-13.0 D
+r5 userdebug cm-13.0 D
+r7plus userdebug cm-13.0 D
+
 # Weekly cm-13.0
 a5dwg userdebug cm-13.0 W
 acclaim userdebug cm-13.0 W
@@ -55,7 +61,6 @@ flo userdebug cm-13.0 W
 flounder userdebug cm-13.0 W
 flounder_lte userdebug cm-13.0 W
 g2m userdebug cm-13.0 W
-gemini userdebug cm-13.0 W
 ghost userdebug cm-13.0 W
 gts210ltexx userdebug cm-13.0 W
 gts210wifi userdebug cm-13.0 W
@@ -81,7 +86,6 @@ jfltevzw userdebug cm-13.0 W
 jfltexx userdebug cm-13.0 W
 kenzo userdebug cm-13.0 W
 kipper userdebug cm-13.0 W
-kiwi userdebug cm-13.0 W
 kltechn userdebug cm-13.0 W
 kltechnduo userdebug cm-13.0 W
 klteduos userdebug cm-13.0 W
@@ -121,8 +125,6 @@ pollux_windy userdebug cm-13.0 W
 porridge userdebug cm-13.0 W
 porridgek3 userdebug cm-13.0 W
 quark userdebug cm-13.0 W
-r5 userdebug cm-13.0 W
-r7plus userdebug cm-13.0 W
 roth userdebug cm-13.0 W
 sambar userdebug cm-13.0 W
 serrano3gxx userdebug cm-13.0 W
