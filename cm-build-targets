@@ -12,6 +12,7 @@ falcon userdebug cm-14.1
 flo userdebug cm-14.1
 h811 userdebug cm-14.1
 h815 userdebug cm-14.1
+hayabusa userdebug cm-14.1
 huashan userdebug cm-14.1
 klte userdebug cm-14.1
 kltechn userdebug cm-14.1
@@ -21,12 +22,14 @@ kltedv userdebug cm-14.1
 kltespr userdebug cm-14.1
 klteusc userdebug cm-14.1
 kltevzw userdebug cm-14.1
+mint userdebug cm-14.1
 oneplus2 userdebug cm-14.1
 oneplus3 userdebug cm-14.1
 osprey userdebug cm-14.1
 peregrine userdebug cm-14.1
 thea userdebug cm-14.1
 titan userdebug cm-14.1
+tsubasa userdebug cm-14.1
 Z00L userdebug cm-14.1
 Z00T userdebug cm-14.1
 
@@ -67,7 +70,6 @@ gts210ltexx userdebug cm-13.0
 gts210wifi userdebug cm-13.0
 ham userdebug cm-13.0
 hammerhead userdebug cm-13.0
-hayabusa userdebug cm-13.0
 hiaeuhl userdebug cm-13.0
 hiaeul userdebug cm-13.0
 himaul userdebug cm-13.0
@@ -102,7 +104,6 @@ maguro userdebug cm-13.0
 mako userdebug cm-13.0
 manta userdebug cm-13.0
 maserati userdebug cm-13.0
-mint userdebug cm-13.0
 mondrianwifi userdebug cm-13.0
 mt2 userdebug cm-13.0
 n3 userdebug cm-13.0
@@ -140,7 +141,6 @@ thor userdebug cm-13.0
 tomato userdebug cm-13.0
 toro userdebug cm-13.0
 toroplus userdebug cm-13.0
-tsubasa userdebug cm-13.0
 umts_spyder userdebug cm-13.0
 v400 userdebug cm-13.0
 v410 userdebug cm-13.0
