@@ -43,6 +43,8 @@ osprey userdebug cm-14.1
 P024 userdebug cm-14.1
 peregrine userdebug cm-14.1
 piccolo userdebug cm-14.1
+r5 userdebug cm-14.1
+r7plus userdebug cm-14.1
 shamu userdebug cm-14.1
 thea userdebug cm-14.1
 titan userdebug cm-14.1
@@ -131,8 +133,6 @@ pollux_windy userdebug cm-13.0 W
 porridge userdebug cm-13.0 W
 porridgek3 userdebug cm-13.0 W
 quark userdebug cm-13.0 W
-r5 userdebug cm-13.0 W
-r7plus userdebug cm-13.0 W
 roth userdebug cm-13.0 W
 sambar userdebug cm-13.0 W
 serrano3gxx userdebug cm-13.0 W
