@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f681702_72bd9167",
+        "filename": "cm-build-targets",
+        "patchSetId": 2
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2016-11-26T17:51:48Z",
+      "side": 1,
+      "message": "We need to learn the ABC ...",
+      "range": {
+        "startLine": 47,
+        "startChar": 0,
+        "endLine": 48,
+        "endChar": 21
+      },
+      "revId": "b0dc45b31300c35f5e510f9da02a303d9f372998",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
