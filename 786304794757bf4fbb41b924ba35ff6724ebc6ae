@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f681702_255f4342",
+        "filename": "cm-build-targets",
+        "patchSetId": 2
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2016-12-01T17:29:12Z",
+      "side": 1,
+      "message": "Remove completely, don\u0027t move to weeklies",
+      "range": {
+        "startLine": 103,
+        "startChar": 0,
+        "endLine": 103,
+        "endChar": 23
+      },
+      "revId": "786304794757bf4fbb41b924ba35ff6724ebc6ae",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
