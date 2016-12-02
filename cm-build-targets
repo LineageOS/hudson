@@ -16,6 +16,8 @@ d855 userdebug cm-14.1
 deb userdebug cm-14.1
 ether userdebug cm-14.1
 falcon userdebug cm-14.1
+find7 userdebug cm-14.1
+find7s userdebug cm-14.1
 flo userdebug cm-14.1
 h811 userdebug cm-14.1
 h815 userdebug cm-14.1
@@ -41,6 +43,7 @@ m8 userdebug cm-14.1
 m8d userdebug cm-14.1
 mako userdebug cm-14.1
 mint userdebug cm-14.1
+n3 userdebug cm-14.1
 nicki userdebug cm-14.1
 oneplus2 userdebug cm-14.1
 oneplus3 userdebug cm-14.1
@@ -83,8 +86,6 @@ espresso3g userdebug cm-13.0 W
 espressowifi userdebug cm-13.0 W
 f400 userdebug cm-13.0 W
 ferrari userdebug cm-13.0 W
-find7 userdebug cm-13.0 W
-find7s userdebug cm-13.0 W
 flounder userdebug cm-13.0 W
 flounder_lte userdebug cm-13.0 W
 g2m userdebug cm-13.0 W
@@ -121,7 +122,6 @@ manta userdebug cm-13.0 W
 maserati userdebug cm-13.0 W
 mondrianwifi userdebug cm-13.0 W
 mt2 userdebug cm-13.0 W
-n3 userdebug cm-13.0 W
 n5100 userdebug cm-13.0 W
 n5110 userdebug cm-13.0 W
 n5120 userdebug cm-13.0 W
