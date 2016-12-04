@@ -136,6 +136,7 @@
   {  "name": "Xperia Z1", "wiki_url": "https://wiki.cyanogenmod.org/w/honami_Info", "brand": "Sony",  "has_recovery": true,  "image_url": "/static/img/honami.png", "oem": "Sony",  "model": "honami"  },
   {  "name": "Xperia SP", "wiki_url": "https://wiki.cyanogenmod.org/w/huashan_Info", "brand": "Sony",  "has_recovery": true,  "image_url": "/static/img/huashan.png", "oem": "Sony",  "model": "huashan"  },
   {  "name": "Nook HD", "wiki_url": "https://wiki.cyanogenmod.org/w/hummingbird_Info", "brand": "Barnes & Noble",  "has_recovery": true,  "image_url": "/static/img/hummingbird.png", "oem": "Barnes & Noble",  "model": "hummingbird"  },
+  {  "name": "Mi Max", "wiki_url": "https://wiki.cyanogenmod.org/w/hydrogen_Info", "brand": "Xiaomi", "has_recovery": true, "image_url": "/static/img/hydrogen.png", "oem": "Xiaomi", "model": "hydrogen" },
   {  "name": "Galaxy Note II (Verizon)", "wiki_url": "https://wiki.cyanogenmod.org/w/i605_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/n7100.png", "oem": "Samsung",  "model": "i605"  },
   {  "name": "Galaxy S II (AT&T)", "wiki_url": "https://wiki.cyanogenmod.org/w/i777_Info", "brand": "Samsung",  "has_recovery": false,  "image_url": "/static/img/i777.png", "oem": "Samsung",  "model": "i777"  },
   {  "name": "Galaxy S II (Intl)", "wiki_url": "https://wiki.cyanogenmod.org/w/i9100_Info", "brand": "Samsung",  "has_recovery": false,  "image_url": "/static/img/i9100.png", "oem": "Samsung",  "model": "i9100"  },
