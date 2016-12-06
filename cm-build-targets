@@ -19,6 +19,7 @@ falcon userdebug cm-14.1
 find7 userdebug cm-14.1
 find7s userdebug cm-14.1
 flo userdebug cm-14.1
+gemini userdebug cm-14.1
 h811 userdebug cm-14.1
 h815 userdebug cm-14.1
 hammerhead userdebug cm-14.1
@@ -95,7 +96,6 @@ ferrari userdebug cm-13.0 W
 flounder userdebug cm-13.0 W
 flounder_lte userdebug cm-13.0 W
 g2m userdebug cm-13.0 W
-gemini userdebug cm-13.0 W
 ghost userdebug cm-13.0 W
 gts210ltexx userdebug cm-13.0 W
 gts210wifi userdebug cm-13.0 W
