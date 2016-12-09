@@ -146,6 +146,7 @@
   {  "name": "Galaxy S III (Intl)", "wiki_url": "https://wiki.cyanogenmod.org/w/i9300_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/i9300.png", "oem": "Samsung",  "model": "i9300"  },
   {  "name": "Galaxy S III (GSM LTE)", "wiki_url": "https://wiki.cyanogenmod.org/w/i9305_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/i9300.png", "oem": "Samsung",  "model": "i9305"  },
   {  "name": "Galaxy S4 (non-LTE)", "wiki_url": "https://wiki.cyanogenmod.org/w/i9500_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/jflte.png", "oem": "Samsung",  "model": "i9500"  },
+  {  "name": "Benefit A3", "wiki_url": "https://wiki.cyanogenmod.org/w/peach_Info", "brand": "ARK",  "has_recovery": true,  "image_url": "/static/img/peach.png", "oem": "ARK",  "model": "peach"  },
   {  "name": "Redmi 3/Prime", "wiki_url": "https://wiki.cyanogenmod.org/w/ido_Info", "brand": "Xiaomi",  "has_recovery": true,  "image_url": "/static/img/ido.png", "oem": "Xiaomi",  "model": "ido"  },
   {  "name": "Droid Incredible", "wiki_url": "https://wiki.cyanogenmod.org/w/inc_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/inc.png", "oem": "HTC",  "model": "inc"  },
   {  "name": "Xperia Pro", "wiki_url": "https://wiki.cyanogenmod.org/w/iyokan_Info", "brand": "Sony Ericsson",  "has_recovery": false,  "image_url": "/static/img/iyokan.png", "oem": "Sony Ericsson",  "model": "iyokan"  },
