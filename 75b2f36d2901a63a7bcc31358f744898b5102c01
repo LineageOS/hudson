@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f681702_24ef2585",
+        "filename": "README.markdown",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 7880
+      },
+      "writtenOn": "2016-12-09T04:05:59Z",
+      "side": 0,
+      "message": "Why not number these steps as well, to make it more explicit that it\u0027s a list of steps?",
+      "range": {
+        "startLine": 6,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 39
+      },
+      "revId": "75b2f36d2901a63a7bcc31358f744898b5102c01",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
