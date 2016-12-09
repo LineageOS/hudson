@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f681702_6400fd35",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 7880
+      },
+      "writtenOn": "2016-12-09T04:06:57Z",
+      "side": 1,
+      "message": "Inset a newline in between, otherwise Gerrit doesn\u0027t format this well.",
+      "revId": "8795c8a5641fa8d9e58a8a62691e1f9bddc93464",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
