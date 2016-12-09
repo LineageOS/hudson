@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f681702_dfbc3cbd",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 5
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 7880
+      },
+      "writtenOn": "2016-12-09T11:07:57Z",
+      "side": 1,
+      "message": "Can we use a verb more descriptive than \u0027update\u0027 here? Improve, clarify, or something that explains that this commit makes the README easier to follow and clearer.",
+      "revId": "f1bd984f40b206885c67e93c181b36483fd6a1e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f681702_3fb290e7",
+        "filename": "README.markdown",
+        "patchSetId": 5
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 7880
+      },
+      "writtenOn": "2016-12-09T11:07:57Z",
+      "side": 1,
+      "message": "The imperative mood seems better here: \"Sort device listings in cm-build-targets and devices.json alphanumerically by codename.\"",
+      "revId": "f1bd984f40b206885c67e93c181b36483fd6a1e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
