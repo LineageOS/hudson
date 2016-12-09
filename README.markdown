@@ -3,9 +3,9 @@
 This repository is preconfigured to use the git-review plugin. More information can be found at:
 https://pypi.python.org/pypi/git-review
 
-Edit cm-build-targets with your device codename and branch.  
+Edit cm-build-targets with your device codename and branch. Sorted alphanumerically by codename.  
 Add a PNG 109x124 image of your device to getcm-devices/static/img directory.  
-Add your device's information to devices.json.  
+Add your device's information to devices.json. Sorted alphanumerically by codename.  
 Submit a change to gerrit for review.  
 
 You can upload your change to gerrit with commands like these:
