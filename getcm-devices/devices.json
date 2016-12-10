@@ -178,6 +178,7 @@
   {  "name": "Galaxy S5 Duos", "wiki_url": "https://wiki.cyanogenmod.org/w/klteduos_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/klte.png", "oem": "Samsung",  "model": "klteduos"  },
   {  "name": "Galaxy S5 (Vodafone)", "wiki_url": "https://wiki.cyanogenmod.org/w/kltedv_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/klte.png", "oem": "Samsung",  "model": "kltedv"  },
   {  "name": "Galaxy S5 (AU)", "wiki_url": "https://wiki.cyanogenmod.org/w/kltekdi_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/klte.png", "oem": "Samsung",  "model": "kltekdi"  },
+  {  "name": "Galaxy S5 (Korea)", "wiki_url": "https://wiki.cyanogenmod.org/w/Kltekor_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/klte.png", "oem": "Samsung",  "model": "kltekor"  },
   {  "name": "Galaxy S5 (Sprint)", "wiki_url": "https://wiki.cyanogenmod.org/w/kltespr_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/klte.png", "oem": "Samsung",  "model": "kltespr"  },
   {  "name": "Galaxy S5 (US Cellular)", "wiki_url": "https://wiki.cyanogenmod.org/w/klteusc_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/klte.png", "oem": "Samsung",  "model": "klteusc"  },
   {  "name": "Galaxy S5 (Verizon)", "wiki_url": "https://wiki.cyanogenmod.org/w/kltevzw_Info", "brand": "Samsung",  "has_recovery": true,  "image_url": "/static/img/klte.png", "oem": "Samsung",  "model": "kltevzw"  },
