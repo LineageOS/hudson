@@ -16,6 +16,24 @@
       "revId": "c1c9f74bcce62608705bfa89de4328550528cc3c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f681702_10ccd55f",
+        "filename": "getcm-devices/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 282,
+      "author": {
+        "id": 15835
+      },
+      "writtenOn": "2016-12-13T15:29:51Z",
+      "side": 1,
+      "message": "I\u0027ve update this file. Check it",
+      "parentUuid": "5f681702_d0ea5daa",
+      "revId": "c1c9f74bcce62608705bfa89de4328550528cc3c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
