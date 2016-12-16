@@ -5,6 +5,7 @@
 # Nightly cm-14.1
 acclaim userdebug cm-14.1
 angler userdebug cm-14.1
+apollo userdebug cm-14.1
 armani userdebug cm-14.1
 bacon userdebug cm-14.1
 bullhead userdebug cm-14.1
@@ -70,6 +71,7 @@ surnia userdebug cm-14.1
 t6 userdebug cm-14.1
 t6vzw userdebug cm-14.1
 thea userdebug cm-14.1
+thor userdebug cm-14.1
 titan userdebug cm-14.1
 tsubasa userdebug cm-14.1
 v410 userdebug cm-14.1
@@ -85,7 +87,6 @@ kiwi userdebug cm-13.0
 
 # Weekly cm-13.0
 a5dwg userdebug cm-13.0 W
-apollo userdebug cm-13.0 W
 che10 userdebug cm-13.0 W
 cherry userdebug cm-13.0 W
 crackling userdebug cm-13.0 W
@@ -152,7 +153,6 @@ spyder userdebug cm-13.0 W
 t0lte userdebug cm-13.0 W
 taoshan userdebug cm-13.0 W
 targa userdebug cm-13.0 W
-thor userdebug cm-13.0 W
 tomato userdebug cm-13.0 W
 toro userdebug cm-13.0 W
 toroplus userdebug cm-13.0 W
