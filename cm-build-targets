@@ -86,7 +86,11 @@ Z00L userdebug cm-14.1
 Z00T userdebug cm-14.1
 
 # Nightly cm-13.0
+i9305 userdebug cm-13.0
 kiwi userdebug cm-13.0
+n5100 userdebug cm-13.0
+n5110 userdebug cm-13.0
+n5120 userdebug cm-13.0
 peach userdebug cm-13.0
 
 # Weekly cm-13.0
@@ -116,7 +120,6 @@ himawl userdebug cm-13.0 W
 i605 userdebug cm-13.0 W
 i9100 userdebug cm-13.0 W
 i925 userdebug cm-13.0 W
-i9305 userdebug cm-13.0 W
 jalebi userdebug cm-13.0 W
 jflteatt userdebug cm-13.0 W
 jfltespr userdebug cm-13.0 W
@@ -136,9 +139,6 @@ manta userdebug cm-13.0 W
 maserati userdebug cm-13.0 W
 mondrianwifi userdebug cm-13.0 W
 mt2 userdebug cm-13.0 W
-n5100 userdebug cm-13.0 W
-n5110 userdebug cm-13.0 W
-n5120 userdebug cm-13.0 W
 odin userdebug cm-13.0 W
 paella userdebug cm-13.0 W
 pollux userdebug cm-13.0 W
