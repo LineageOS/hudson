@@ -12,6 +12,7 @@
   {  "name": "Kindle Fire HDX 8.9 (3rd gen)", "wiki_url": "https://wiki.cyanogenmod.org/w/apollo_Info", "brand": "Amazon",  "has_recovery": true,  "image_url": "/static/img/apollo.png", "oem": "Amazon",  "model": "apollo"  },
   {  "name": "Mi2", "wiki_url": "https://wiki.cyanogenmod.org/w/aries_Info", "brand": "Xiaomi",  "has_recovery": true,  "image_url": "/static/img/aries.png", "oem": "Xiaomi",  "model": "aries"  },
   {  "name": "Redmi 1S", "wiki_url": "https://wiki.cyanogenmod.org/w/armani_Info", "brand": "Xiaomi",  "has_recovery": true,  "image_url": "/static/img/armani.png", "oem": "Xiaomi",  "model": "armani"  },
+  {  "name": "Moto G4/G4 Plus", "wiki_url": "https://wiki.cyanogenmod.org/w/athene_Info", "brand": "Motorola", "has_recovery": true, "image_url": "/static/img/athene.png", "oem": "Motorola", "model": "athene"  },
   {  "name": "One", "wiki_url": "https://wiki.cyanogenmod.org/w/bacon_Info", "brand": "OnePlus",  "has_recovery": true,  "image_url": "/static/img/bacon.png", "oem": "OnePlus",  "model": "bacon"  },
   {  "name": "Blade", "wiki_url": "https://wiki.cyanogenmod.org/w/blade_Info", "brand": "ZTE",  "has_recovery": true,  "image_url": "/static/img/blade.png", "oem": "ZTE",  "model": "blade"  },
   {  "name": "Desire (GSM)", "wiki_url": "https://wiki.cyanogenmod.org/w/bravo_Info", "brand": "HTC",  "has_recovery": true,  "image_url": "/static/img/desire.png", "oem": "HTC",  "model": "bravo"  },
