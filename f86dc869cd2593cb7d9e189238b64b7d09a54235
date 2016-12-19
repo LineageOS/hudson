@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f681702_f54934d0",
+        "filename": "getcm-devices/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 415,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2016-12-19T14:28:24Z",
+      "side": 1,
+      "message": "whitespace change or something?",
+      "revId": "f86dc869cd2593cb7d9e189238b64b7d09a54235",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f681702_d544f8b9",
+        "filename": "getcm-devices/static/img/athene.png",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2016-12-19T14:28:24Z",
+      "side": 1,
+      "message": "this image size is wrong",
+      "revId": "f86dc869cd2593cb7d9e189238b64b7d09a54235",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
