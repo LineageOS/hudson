@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f681702_7437dde4",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2016-12-22T21:27:06Z",
+      "side": 1,
+      "message": "this isn\u0027t really necessary in a git commit message",
+      "range": {
+        "startLine": 9,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 40
+      },
+      "revId": "703dc88e9cdf3f89694a693480d29ff2627c4e62",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f681702_342605b9",
+        "filename": "cm-build-targets",
+        "patchSetId": 2
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2016-12-22T21:27:06Z",
+      "side": 1,
+      "message": "flounder comes before gemini alphabetically",
+      "revId": "703dc88e9cdf3f89694a693480d29ff2627c4e62",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
