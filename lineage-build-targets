@@ -2,5 +2,29 @@
 # <device> <build_type> <branch name> [period: "W"eekly] <Day: 1 Monday - 7 Sunday>
 
 # Weekly cm-14.1
+angler userdebug cm-14.1 W 1
+bacon userdebug cm-14.1 W 1
+bullhead userdebug cm-14.1 W 1
+che10 userdebug cm-14.1 W 1
+cherry userdebug cm-14.1 W 1
+falcon userdebug cm-14.1 W 1
+flo userdebug cm-14.1 W 1
+gemini userdebug cm-14.1 W 1
+hammerhead userdebug cm-14.1 W 1
+hayabusa userdebug cm-14.1 W 1
+huashan userdebug cm-14.1 W 1
+i9300 userdebug cm-14.1 W 1
+mako userdebug cm-14.1 W 1
+mint userdebug cm-14.1 W 1
+mt2 userdebug cm-14.1 W 1
+nicki userdebug cm-14.1 W 1
+oneplus3 userdebug cm-14.1 W 1
+peregrine userdebug cm-14.1 W 1
+seed userdebug cm-14.1 W 1
+thea userdebug cm-14.1 W 1
+titan userdebug cm-14.1 W 1
+tsubasa userdebug cm-14.1 W 1
+Z00L userdebug cm-14.1 W 1
+Z00T userdebug cm-14.1 W 1
 
 # Weekly cm-13.0
