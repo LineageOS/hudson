@@ -1,0 +1,6 @@
+# LineageOS build target list
+# <device> <build_type> <branch name> [period: "W"eekly] <Day: 1 Monday - 7 Sunday>
+
+# Weekly cm-14.1
+
+# Weekly cm-13.0
