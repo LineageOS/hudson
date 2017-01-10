@@ -1,0 +1,165 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa3479d7_3bad7232",
+        "filename": "README.markdown",
+        "patchSetId": 3
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 4123
+      },
+      "writtenOn": "2017-01-10T11:01:16Z",
+      "side": 1,
+      "message": "whitespace",
+      "range": {
+        "startLine": 6,
+        "startChar": 85,
+        "endLine": 6,
+        "endChar": 87
+      },
+      "revId": "889323e93649a0df7c7f51d48aa0141e4cf3c5af",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa3479d7_bbc162e6",
+        "filename": "README.markdown",
+        "patchSetId": 3
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 4123
+      },
+      "writtenOn": "2017-01-10T11:01:16Z",
+      "side": 1,
+      "message": "whitespace",
+      "range": {
+        "startLine": 7,
+        "startChar": 6,
+        "endLine": 7,
+        "endChar": 8
+      },
+      "revId": "889323e93649a0df7c7f51d48aa0141e4cf3c5af",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa3479d7_9bb69e89",
+        "filename": "README.markdown",
+        "patchSetId": 3
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 4123
+      },
+      "writtenOn": "2017-01-10T11:01:16Z",
+      "side": 1,
+      "message": "whitespace",
+      "range": {
+        "startLine": 8,
+        "startChar": 67,
+        "endLine": 8,
+        "endChar": 69
+      },
+      "revId": "889323e93649a0df7c7f51d48aa0141e4cf3c5af",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa3479d7_fba6ca52",
+        "filename": "README.markdown",
+        "patchSetId": 3
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 4123
+      },
+      "writtenOn": "2017-01-10T11:01:16Z",
+      "side": 1,
+      "message": "starting here until end of line 2, and all of line 3 seem to be italic.",
+      "range": {
+        "startLine": 9,
+        "startChar": 24,
+        "endLine": 9,
+        "endChar": 39
+      },
+      "revId": "889323e93649a0df7c7f51d48aa0141e4cf3c5af",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa3479d7_1baaae19",
+        "filename": "README.markdown",
+        "patchSetId": 3
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 4123
+      },
+      "writtenOn": "2017-01-10T11:01:16Z",
+      "side": 1,
+      "message": "instructions*",
+      "range": {
+        "startLine": 9,
+        "startChar": 60,
+        "endLine": 9,
+        "endChar": 71
+      },
+      "revId": "889323e93649a0df7c7f51d48aa0141e4cf3c5af",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa3479d7_5bb0368b",
+        "filename": "README.markdown",
+        "patchSetId": 3
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 4123
+      },
+      "writtenOn": "2017-01-10T11:01:16Z",
+      "side": 1,
+      "message": "whitespace",
+      "range": {
+        "startLine": 9,
+        "startChar": 78,
+        "endLine": 9,
+        "endChar": 80
+      },
+      "revId": "889323e93649a0df7c7f51d48aa0141e4cf3c5af",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa3479d7_7bbbfa72",
+        "filename": "README.markdown",
+        "patchSetId": 3
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 4123
+      },
+      "writtenOn": "2017-01-10T11:01:16Z",
+      "side": 1,
+      "message": "whitespace",
+      "range": {
+        "startLine": 10,
+        "startChar": 44,
+        "endLine": 10,
+        "endChar": 46
+      },
+      "revId": "889323e93649a0df7c7f51d48aa0141e4cf3c5af",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
