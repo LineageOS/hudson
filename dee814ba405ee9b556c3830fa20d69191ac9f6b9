@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa3479d7_54f2409b",
+        "filename": "README.markdown",
+        "patchSetId": 5
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2017-01-11T22:41:26Z",
+      "side": 1,
+      "message": "Markdown allows backslash escaping the underscore. Should increase compatibility with more parsers.",
+      "range": {
+        "startLine": 9,
+        "startChar": 23,
+        "endLine": 9,
+        "endChar": 24
+      },
+      "revId": "dee814ba405ee9b556c3830fa20d69191ac9f6b9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
