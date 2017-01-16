@@ -1,5 +1,5 @@
 [gerrit]
-host=review.cyanogenmod.org
+host=review.lineageos.org
 port=29418
-project=CyanogenMod/hudson
+project=LineageOS/hudson
 defaultbranch=master
