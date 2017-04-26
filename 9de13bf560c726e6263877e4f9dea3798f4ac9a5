@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a486d77_17ece4c6",
+        "filename": "lineage-build-targets",
+        "patchSetId": 2
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 17401
+      },
+      "writtenOn": "2017-04-26T03:55:55Z",
+      "side": 1,
+      "message": "shouldnt this be on line 51 instead to keep the list alphabetically ?",
+      "range": {
+        "startLine": 46,
+        "startChar": 0,
+        "endLine": 46,
+        "endChar": 26
+      },
+      "revId": "9de13bf560c726e6263877e4f9dea3798f4ac9a5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
