@@ -93,8 +93,8 @@ lettuce userdebug cm-14.1 W 3
 ls990 userdebug cm-14.1 W 3
 ls997 userdebug cm-14.1 W 3
 lt02ltespr userdebug cm-14.1 W 3
+lt03lte userdebug cm-14.1 W 3
 
-lt03lte userdebug cm-14.1 W 4
 lux userdebug cm-14.1 W 4
 m8 userdebug cm-14.1 W 4
 m8d userdebug cm-14.1 W 4
@@ -122,10 +122,10 @@ pme userdebug cm-14.1 W 4
 r5 userdebug cm-14.1 W 4
 r7plus userdebug cm-14.1 W 4
 s2 userdebug cm-14.1 W 4
+seed userdebug cm-14.1 W 4
+serrano3gxx userdebug cm-14.1 W 4
+serranodsdd userdebug cm-14.1 W 4
 
-seed userdebug cm-14.1 W 5
-serrano3gxx userdebug cm-14.1 W 5
-serranodsdd userdebug cm-14.1 W 5
 serranoltexx userdebug cm-14.1 W 5
 shamu userdebug cm-14.1 W 5
 surnia userdebug cm-14.1 W 5
