@@ -43,6 +43,7 @@
   {  "model": "flounder", "oem": "Google", "name": "Nexus 9 (Wi-Fi)"},
   {  "model": "flounder_lte", "oem": "Google", "name": "Nexus 9 (LTE)"},
   {  "model": "foster", "oem": "Nvidia", "name": "Shield Android TV"},
+  {  "model": "fugu", "oem": "Asus", "name": "Nexus Player"},
   {  "model": "g2m", "oem": "LG", "name": "G2 Mini"},
   {  "model": "gemini", "oem": "Xiaomi", "name": "Mi 5"},
   {  "model": "ghost", "oem": "Motorola", "name": "Moto X 2013"},
