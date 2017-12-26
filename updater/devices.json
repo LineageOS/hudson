@@ -162,6 +162,7 @@
   {  "model": "shamu", "oem": "Google", "name": "Nexus 6"},
   {  "model": "shieldtablet", "oem": "Nvidia", "name": "Shield Tablet"},
   {  "model": "spyder", "oem": "Motorola", "name": "Droid Razr", "has_recovery": false},
+  {  "model": "sumire", "oem": "Sony", "name": "Xperia Z5"},
   {  "model": "surnia", "oem": "Motorola", "name": "Moto E LTE (2015)"},
   {  "model": "suzuran", "oem": "Sony", "name": "Xperia Z5 Compact"},
   {  "model": "t0lte", "oem": "Samsung", "name": "Galaxy Note II (GSM LTE)"},
