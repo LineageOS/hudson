@@ -107,6 +107,7 @@
   {  "model": "kltedv", "oem": "Samsung", "name": "Galaxy S5 LTE (G900I/P)"},
   {  "model": "kltekdi", "oem": "Samsung", "name": "Galaxy S5 LTE (SCL23)"},
   {  "model": "kltekor", "oem": "Samsung", "name": "Galaxy S5 LTE (G900K/L/S)"},
+  {  "model": "kltesprsports", "oem": "Samsung", "name": "Galaxy S5 Sport (SM-G860P)"},
   {  "model": "ks01lte", "oem": "Samsung", "name": "Galaxy S4 LTE-A"},
   {  "model": "lentislte", "oem": "Samsung", "name": "Galaxy S5 LTE-A"},
   {  "model": "lettuce", "oem": "YU", "name": "Yuphoria"},
