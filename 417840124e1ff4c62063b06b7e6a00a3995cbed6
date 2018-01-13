@@ -1,0 +1,22 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "425b7d6f_34e7d256",
+        "filename": "updater/device_deps.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 1479,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2018-01-13T08:41:22Z",
+      "side": 1,
+      "message": "Has this been done by hand?",
+      "parentUuid": "",
+      "revId": "417840124e1ff4c62063b06b7e6a00a3995cbed6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
