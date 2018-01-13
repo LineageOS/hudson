@@ -363,9 +363,6 @@
         "android_external_stlport",
         "android_kernel_google_msm"
     ],
-    "devicesettings": [
-        "android_packages_resources_devicesettings"
-    ],
     "dlx": [
         "android_device_htc_dlx",
         "android_device_htc_msm8960-common",
@@ -713,6 +710,7 @@
         "android_kernel_samsung_gts2"
     ],
     "h811": [
+        "android_device_lge_common",
         "android_device_lge_g4-common",
         "android_device_lge_h811",
         "android_device_qcom_common",
@@ -723,6 +721,7 @@
         "android_packages_resources_devicesettings"
     ],
     "h815": [
+        "android_device_lge_common",
         "android_device_lge_g4-common",
         "android_device_lge_h815",
         "android_device_qcom_common",
@@ -797,6 +796,17 @@
     "h918": [
         "android_device_lge_common",
         "android_device_lge_h918",
+        "android_device_lge_msm8996-common",
+        "android_device_lge_v20-common",
+        "android_device_qcom_common",
+        "android_kernel_lge_msm8996",
+        "android_vendor_nxp-nfc_opensource_Nfc",
+        "android_vendor_nxp-nfc_opensource_frameworks",
+        "android_vendor_nxp-nfc_opensource_libnfc-nci"
+    ],
+    "h990": [
+        "android_device_lge_common",
+        "android_device_lge_h990",
         "android_device_lge_msm8996-common",
         "android_device_lge_v20-common",
         "android_device_qcom_common",
@@ -900,6 +910,7 @@
         "android_device_htc_himaul",
         "android_device_qcom_common",
         "android_kernel_htc_msm8994",
+        "android_packages_apps_FlipFlap",
         "android_packages_resources_devicesettings"
     ],
     "himawhl": [
@@ -907,6 +918,7 @@
         "android_device_htc_himawhl",
         "android_device_qcom_common",
         "android_kernel_htc_msm8994",
+        "android_packages_apps_FlipFlap",
         "android_packages_resources_devicesettings"
     ],
     "himawl": [
@@ -914,6 +926,7 @@
         "android_device_htc_himawl",
         "android_device_qcom_common",
         "android_kernel_htc_msm8994",
+        "android_packages_apps_FlipFlap",
         "android_packages_resources_devicesettings"
     ],
     "hlte": [
@@ -1476,6 +1489,10 @@
         "android_kernel_samsung_smdk4412",
         "android_packages_apps_SamsungServiceMode"
     ],
+    "land": [
+        "android_device_qcom_common",
+        "android_device_xiaomi_land"
+    ],
     "lentislte": [
         "android_device_qcom_common",
         "android_device_samsung_apq8084-common",
@@ -1640,6 +1657,20 @@
         "android_external_jhead",
         "android_kernel_motorola_omap4-common",
         "android_packages_resources_devicesettings"
+    ],
+    "mata": [
+        "android_device_essential_mata",
+        "android_device_essential_mata_data-ipa-cfg-mgr",
+        "android_device_essential_mata_gps",
+        "android_kernel_essential_msm8998",
+        "android_kernel_essential_msm8998_drivers_staging_fw-api",
+        "android_kernel_essential_msm8998_drivers_staging_qca-wifi-host-cmn",
+        "android_kernel_essential_msm8998_drivers_staging_qcacld-3.0",
+        "android_vendor_nxp-nfc_opensource_Nfc",
+        "android_vendor_nxp-nfc_opensource_frameworks",
+        "android_vendor_nxp-nfc_opensource_libnfc-nci",
+        "android_vendor_qcom_opensource_fst-manager",
+        "android_vendor_qcom_opensource_location"
     ],
     "mb886": [
         "android_device_motorola_mb886",
@@ -2234,6 +2265,13 @@
         "android_external_bson",
         "android_kernel_motorola_msm8916",
         "android_packages_resources_devicesettings"
+    ],
+    "suzu": [
+        "android_device_qcom_common",
+        "android_device_sony_common",
+        "android_device_sony_suzu",
+        "android_hardware_sony_timekeep",
+        "android_kernel_sony_msm8994"
     ],
     "suzuran": [
         "android_device_qcom_common",
