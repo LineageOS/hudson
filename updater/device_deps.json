@@ -1476,6 +1476,11 @@
         "android_kernel_samsung_smdk4412",
         "android_packages_apps_SamsungServiceMode"
     ],
+    "land": [
+        "android_device_qcom_common",
+        "android_device_xiaomi_land",
+        "android_kernel_xiaomi_msm8937"
+    ],
     "lentislte": [
         "android_device_qcom_common",
         "android_device_samsung_apq8084-common",
