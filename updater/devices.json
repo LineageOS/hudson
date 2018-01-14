@@ -200,5 +200,6 @@
   {  "model": "Z00D", "oem": "Asus", "name": "Zenfone 2 (Z00D)"},
   {  "model": "Z00L", "oem": "Asus", "name": "Zenfone 2 Laser (720p)"},
   {  "model": "Z00T", "oem": "Asus", "name": "Zenfone 2 Laser/Selfie (1080p)"},
+  {  "model": "zerofltexx", "oem": "Samsung", "name": "Galaxy S6"},
   {  "model": "zl1", "oem": "LeEco", "name": "Le Pro 3"}
 ]
