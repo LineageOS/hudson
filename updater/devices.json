@@ -49,8 +49,6 @@
   {  "model": "ghost", "oem": "Motorola", "name": "Moto X 2013"},
   {  "model": "gohan", "oem": "BQ", "name": "Aquaris X5 Plus"},
   {  "model": "griffin", "oem": "Motorola", "name": "Moto Z"},
-  {  "model": "gtelwifiue", "oem": "Samsung", "name": "Galaxy Tab E 9.6 (Wi-Fi)"},
-  {  "model": "gtesqltespr", "oem": "Samsung", "name": "Galaxy Tab E 8.0 (LTE)"},
   {  "model": "gts210ltexx", "oem": "Samsung", "name": "Galaxy Tab S2 9.7 (LTE)"},
   {  "model": "gts210vewifi", "oem": "Samsung", "name": "Galaxy Tab S2 9.7 2016 (Wi-Fi)"},
   {  "model": "gts210wifi", "oem": "Samsung", "name": "Galaxy Tab S2 9.7 (Wi-Fi)"},
