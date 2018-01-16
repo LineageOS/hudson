@@ -363,6 +363,9 @@
         "android_external_stlport",
         "android_kernel_google_msm"
     ],
+    "devicesettings": [
+        "android_packages_resources_devicesettings"
+    ],
     "dlx": [
         "android_device_htc_dlx",
         "android_device_htc_msm8960-common",
@@ -1491,7 +1494,8 @@
     ],
     "land": [
         "android_device_qcom_common",
-        "android_device_xiaomi_land"
+        "android_device_xiaomi_land",
+        "android_kernel_xiaomi_msm8937"
     ],
     "lentislte": [
         "android_device_qcom_common",
