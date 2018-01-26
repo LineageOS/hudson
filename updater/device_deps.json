@@ -363,6 +363,9 @@
         "android_external_stlport",
         "android_kernel_google_msm"
     ],
+    "devicesettings": [
+        "android_packages_resources_devicesettings"
+    ],
     "dlx": [
         "android_device_htc_dlx",
         "android_device_htc_msm8960-common",
@@ -999,11 +1002,8 @@
         "android_packages_resources_devicesettings"
     ],
     "hydrogen": [
-        "android_device_qcom_common",
         "android_device_xiaomi_hydrogen",
-        "android_device_xiaomi_msm8956-common",
-        "android_kernel_xiaomi_msm8956",
-        "android_packages_resources_devicesettings"
+        "android_device_xiaomi_msm8956-common"
     ],
     "i605": [
         "android_device_samsung_i605",
@@ -1279,11 +1279,8 @@
         "android_packages_resources_devicesettings"
     ],
     "kenzo": [
-        "android_device_qcom_common",
         "android_device_xiaomi_kenzo",
-        "android_device_xiaomi_msm8956-common",
-        "android_kernel_xiaomi_msm8956",
-        "android_packages_resources_devicesettings"
+        "android_device_xiaomi_msm8956-common"
     ],
     "kingdom": [
         "android_device_lenovo_kingdom",
@@ -1301,8 +1298,6 @@
     "kiwi": [
         "android_device_huawei_kiwi",
         "android_device_qcom_common",
-        "android_external_sony_boringssl-compat",
-        "android_external_stlport",
         "android_kernel_huawei_kiwi",
         "android_packages_apps_FlipFlap",
         "android_packages_resources_devicesettings"
@@ -1491,7 +1486,8 @@
     ],
     "land": [
         "android_device_qcom_common",
-        "android_device_xiaomi_land"
+        "android_device_xiaomi_land",
+        "android_kernel_xiaomi_msm8937"
     ],
     "lentislte": [
         "android_device_qcom_common",
@@ -2807,6 +2803,18 @@
     "zerofltexx": [
         "android_device_samsung_zero-common",
         "android_device_samsung_zerofltexx",
+        "android_external_stlport",
+        "android_hardware_samsung",
+        "android_hardware_samsung_slsi-cm_exynos",
+        "android_hardware_samsung_slsi-cm_exynos5",
+        "android_hardware_samsung_slsi-cm_exynos7420",
+        "android_hardware_samsung_slsi-cm_openmax",
+        "android_kernel_samsung_exynos7420",
+        "android_packages_apps_SamsungServiceMode"
+    ],
+    "zeroltexx": [
+        "android_device_samsung_zero-common",
+        "android_device_samsung_zeroltexx",
         "android_external_stlport",
         "android_hardware_samsung",
         "android_hardware_samsung_slsi-cm_exynos",
