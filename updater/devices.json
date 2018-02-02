@@ -178,6 +178,7 @@
   {  "model": "toro", "oem": "Google", "name": "Galaxy Nexus (VZW)"},
   {  "model": "toroplus", "oem": "Google", "name": "Galaxy Nexus (Sprint)"},
   {  "model": "tsubasa", "oem": "Sony", "name": "Xperia V"},
+  {  "model": "tulip", "oem": "ZTE", "name": "Axon 7 Mini"},
   {  "model": "umts_spyder", "oem": "Motorola", "name": "Razr", "has_recovery": false},
   {  "model": "us996", "oem": "LG", "name": "V20 (GSM Unlocked)"},
   {  "model": "us997", "oem": "LG", "name": "G6 (US)"},
