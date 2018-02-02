@@ -2085,7 +2085,11 @@
     ],
     "roth": [
         "android_device_nvidia_roth",
+        "android_device_nvidia_shield-common",
+        "android_hardware_nvidia_libstagefrighthw",
+        "android_hardware_nvidia_power",
         "android_hardware_nvidia_sensors",
+        "android_hardware_nvidia_thermal",
         "android_kernel_nvidia_roth"
     ],
     "rs988": [
