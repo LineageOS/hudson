@@ -162,6 +162,7 @@
   {  "model": "r7sf", "oem": "OPPO", "name": "R7s (R7sf Intl)"},
   {  "model": "roth", "oem": "Nvidia", "name": "Shield Portable", "has_recovery": false},
   {  "model": "s2", "oem": "LeEco", "name": "Le 2"},
+  {  "model": "sagit", "oem": "Xiaomi", "name": "Mi 6"},
   {  "model": "scorpio", "oem": "Xiaomi", "name": "Mi Note 2"},
   {  "model": "seed", "oem": "Google", "name": "Android One 2nd gen"},
   {  "model": "serrano3gxx", "oem": "Samsung", "name": "Galaxy S4 Mini (3G)"},
