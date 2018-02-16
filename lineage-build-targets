@@ -1,16 +1,27 @@
 # LineageOS build target list
 # <device> <build_type> <branch name> [period: "W"eekly] <Day: 1 Monday - 7 Sunday>
 
+# Weekly lineage-15.1
+angler userdebug lineage-15.1 W 1
+bullhead userdebug lineage-15.1 W 1
+capricorn userdebug lineage-15.1 W 1
+cheeseburger userdebug lineage-15.1 W 1
+dumpling userdebug lineage-15.1 W 1
+foster userdebug lineage-15.1 W 1
+gemini userdebug lineage-15.1 W 1
+gts210vewifi userdebug lineage-15.1 W 1
+gts28vewifi userdebug lineage-15.1 W 1
+natrium userdebug lineage-15.1 W 1
+oneplus3 userdebug lineage-15.1 W 1
+zl1 userdebug lineage-15.1 W 1
+
 # Weekly cm-14.1
 addison userdebug cm-14.1 W 1
-angler userdebug cm-14.1 W 1
 armani userdebug cm-14.1 W 1
 athene userdebug cm-14.1 W 1
 axon7 userdebug cm-14.1 W 1
 bacon userdebug cm-14.1 W 1
-bullhead userdebug cm-14.1 W 1
 cancro userdebug cm-14.1 W 1
-capricorn userdebug cm-14.1 W 1
 chagallwifi userdebug cm-14.1 W 1
 che10 userdebug cm-14.1 W 1
 cheeseburger userdebug cm-14.1 W 1
@@ -39,18 +50,14 @@ find7s userdebug cm-14.1 W 2
 flo userdebug cm-14.1 W 2
 flounder userdebug cm-14.1 W 2
 flounder_lte userdebug cm-14.1 W 2
-foster userdebug cm-14.1 W 2
 fugu userdebug cm-14.1 W 2
 g2m userdebug cm-14.1 W 2
-gemini userdebug cm-14.1 W 2
 gohan userdebug cm-14.1 W 2
 griffin userdebug cm-14.1 W 2
 gtelwifiue userdebug cm-14.1 W 2
 gtesqltespr userdebug cm-14.1 W 2
 gts210ltexx userdebug cm-14.1 W 2
-gts210vewifi userdebug cm-14.1 W 2
 gts210wifi userdebug cm-14.1 W 2
-gts28vewifi userdebug cm-14.1 W 2
 h830 userdebug cm-14.1 W 2
 h850 userdebug cm-14.1 W 2
 h870 userdebug cm-14.1 W 2
@@ -121,12 +128,10 @@ n3 userdebug cm-14.1 W 4
 n5100 userdebug cm-14.1 W 4
 n5110 userdebug cm-14.1 W 4
 n5120 userdebug cm-14.1 W 4
-natrium userdebug cm-14.1 W 4
 
 nx512j userdebug cm-14.1 W 5
 odin userdebug cm-14.1 W 5
 oneplus2 userdebug cm-14.1 W 5
-oneplus3 userdebug cm-14.1 W 5
 onyx userdebug cm-14.1 W 5
 osprey userdebug cm-14.1 W 5
 otus userdebug cm-14.1 W 5
