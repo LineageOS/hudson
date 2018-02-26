@@ -10,6 +10,7 @@
   {  "model": "cancro", "oem": "Xiaomi", "name": "Mi 3w and Mi 4"},
   {  "model": "capricorn", "oem": "Xiaomi", "name": "Mi 5s"},
   {  "model": "chagallwifi", "oem": "Samsung", "name": "Galaxy Tab S 10.5 (Wi-Fi)"},
+  {  "model": "chaozu", "oem": "BQ", "name": "Aquaris U"},
   {  "model": "che10", "oem": "Huawei", "name": "Honor 4x (China Telecom)"},
   {  "model": "cherry", "oem": "Huawei", "name": "Honor 4/4x"},
   {  "model": "cheeseburger", "oem": "OnePlus", "name": "5"},
