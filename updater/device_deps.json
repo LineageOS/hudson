@@ -191,6 +191,12 @@
         "android_kernel_samsung_exynos5420",
         "android_packages_resources_devicesettings"
     ],
+    "chaozu": [
+        "android_device_bq_chaozu",
+        "android_device_qcom_common",
+        "android_kernel_bq_msm8937",
+        "android_device_bq_msm8937-common",
+    ],
     "che10": [
         "android_device_cyanogen_msm8916-common",
         "android_device_huawei_che10",
@@ -2383,7 +2389,8 @@
     "tenshi": [
         "android_device_bq_tenshi",
         "android_device_qcom_common",
-        "android_kernel_bq_msm8937"
+        "android_kernel_bq_msm8937",
+        "android_device_bq_msm8937-common",
     ],
     "tf300t": [
         "android_device_asus_tf300t",
