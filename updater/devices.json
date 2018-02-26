@@ -31,6 +31,7 @@
   {  "model": "deb", "oem": "Google", "name": "Nexus 7 2013 (4G)"},
   {  "model": "dogo", "oem": "Sony", "name": "Xperia ZR"},
   {  "model": "dragon", "oem": "Google", "name": "Pixel C"},
+  {  "model": "dumpling", "oem": "OnePlus", "name": "5T"},
   {  "model": "espresso3g", "oem": "Samsung", "name": "Galaxy Tab 2 7.0 / 10.1 (GSM)"},
   {  "model": "espressowifi", "oem": "Samsung", "name": "Galaxy Tab 2 7.0 / 10.1 (Wi-Fi)"},
   {  "model": "ether", "oem": "Nextbit", "name": "Robin"},
