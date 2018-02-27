@@ -60,6 +60,18 @@
         "android_external_stlport",
         "android_kernel_htc_msm8974"
     ],
+    "a5y17lte": [
+        "android_device_samsung_a5y17lte",
+        "android_device_samsung_universal7880-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_universal7880"
+    ],
+    "a7y17lte": [
+        "android_device_samsung_a7y17lte",
+        "android_device_samsung_universal7880-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_universal7880"
+    ],
     "acclaim": [
         "android_device_bn_acclaim",
         "android_kernel_bn_acclaim"
@@ -191,6 +203,15 @@
         "android_kernel_samsung_exynos5420",
         "android_packages_resources_devicesettings"
     ],
+    "chaozu": [
+        "android_device_bq_chaozu",
+        "android_device_bq_msm8937-common",
+        "android_device_qcom_common",
+        "android_kernel_bq_msm8937",
+        "android_vendor_nxp-nfc_opensource_Nfc",
+        "android_vendor_nxp-nfc_opensource_frameworks",
+        "android_vendor_nxp-nfc_opensource_libnfc-nci"
+    ],
     "che10": [
         "android_device_cyanogen_msm8916-common",
         "android_device_huawei_che10",
@@ -218,6 +239,7 @@
     "chiron": [
         "android_device_qcom_common",
         "android_device_xiaomi_chiron",
+        "android_device_xiaomi_msm8998-common",
         "android_kernel_xiaomi_msm8998",
         "android_packages_resources_devicesettings",
         "android_vendor_nxp-nfc_opensource_Nfc",
@@ -2123,6 +2145,7 @@
     ],
     "sagit": [
         "android_device_qcom_common",
+        "android_device_xiaomi_msm8998-common",
         "android_device_xiaomi_sagit",
         "android_kernel_xiaomi_msm8998",
         "android_packages_resources_devicesettings",
@@ -2381,6 +2404,7 @@
         "android_packages_resources_devicesettings"
     ],
     "tenshi": [
+        "android_device_bq_msm8937-common",
         "android_device_bq_tenshi",
         "android_device_qcom_common",
         "android_kernel_bq_msm8937"
@@ -2530,6 +2554,12 @@
         "android_hardware_sony_DASH",
         "android_hardware_sony_thermanager",
         "android_kernel_sony_msm8x60",
+        "android_packages_resources_devicesettings"
+    ],
+    "tulip": [
+        "android_device_qcom_common",
+        "android_device_zte_tulip",
+        "android_kernel_zte_msm8952",
         "android_packages_resources_devicesettings"
     ],
     "tuna": [
