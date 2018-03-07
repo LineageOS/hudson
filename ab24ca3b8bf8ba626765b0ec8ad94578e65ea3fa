@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "c8573818_6801be76",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2018-03-07T03:53:48Z",
+      "side": 1,
+      "message": "cool story br0",
+      "revId": "ab24ca3b8bf8ba626765b0ec8ad94578e65ea3fa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
