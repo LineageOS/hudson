@@ -669,67 +669,53 @@
         "android_packages_resources_devicesettings"
     ],
     "h830": [
+        "android_device_lge_common",
         "android_device_lge_g5-common",
-        "android_device_lge_h830"
+        "android_device_lge_h830",
+        "android_device_lge_msm8996-common",
+        "android_kernel_lge_msm8996"
     ],
     "h850": [
+        "android_device_lge_common",
         "android_device_lge_g5-common",
-        "android_device_lge_h850"
+        "android_device_lge_h850",
+        "android_device_lge_msm8996-common",
+        "android_kernel_lge_msm8996"
     ],
     "h870": [
         "android_device_lge_common",
         "android_device_lge_g6-common",
         "android_device_lge_h870",
         "android_device_lge_msm8996-common",
-        "android_device_qcom_common",
-        "android_kernel_lge_msm8996",
-        "android_vendor_nxp-nfc_opensource_Nfc",
-        "android_vendor_nxp-nfc_opensource_frameworks",
-        "android_vendor_nxp-nfc_opensource_libnfc-nci"
+        "android_kernel_lge_msm8996"
     ],
     "h872": [
         "android_device_lge_common",
         "android_device_lge_g6-common",
         "android_device_lge_h872",
         "android_device_lge_msm8996-common",
-        "android_device_qcom_common",
-        "android_kernel_lge_msm8996",
-        "android_vendor_nxp-nfc_opensource_Nfc",
-        "android_vendor_nxp-nfc_opensource_frameworks",
-        "android_vendor_nxp-nfc_opensource_libnfc-nci"
+        "android_kernel_lge_msm8996"
     ],
     "h910": [
         "android_device_lge_common",
         "android_device_lge_h910",
         "android_device_lge_msm8996-common",
         "android_device_lge_v20-common",
-        "android_device_qcom_common",
-        "android_kernel_lge_msm8996",
-        "android_vendor_nxp-nfc_opensource_Nfc",
-        "android_vendor_nxp-nfc_opensource_frameworks",
-        "android_vendor_nxp-nfc_opensource_libnfc-nci"
+        "android_kernel_lge_msm8996"
     ],
     "h918": [
         "android_device_lge_common",
         "android_device_lge_h918",
         "android_device_lge_msm8996-common",
         "android_device_lge_v20-common",
-        "android_device_qcom_common",
-        "android_kernel_lge_msm8996",
-        "android_vendor_nxp-nfc_opensource_Nfc",
-        "android_vendor_nxp-nfc_opensource_frameworks",
-        "android_vendor_nxp-nfc_opensource_libnfc-nci"
+        "android_kernel_lge_msm8996"
     ],
     "h990": [
         "android_device_lge_common",
         "android_device_lge_h990",
         "android_device_lge_msm8996-common",
         "android_device_lge_v20-common",
-        "android_device_qcom_common",
-        "android_kernel_lge_msm8996",
-        "android_vendor_nxp-nfc_opensource_Nfc",
-        "android_vendor_nxp-nfc_opensource_frameworks",
-        "android_vendor_nxp-nfc_opensource_libnfc-nci"
+        "android_kernel_lge_msm8996"
     ],
     "ha3g": [
         "android_device_samsung_exynos5420-common",
@@ -922,7 +908,6 @@
         "android_external_stlport",
         "android_hardware_samsung",
         "android_kernel_samsung_smdk4412",
-        "android_packages_apps_SamsungServiceMode",
         "android_packages_resources_devicesettings"
     ],
     "i925": [
@@ -1383,11 +1368,7 @@
         "android_device_lge_ls997",
         "android_device_lge_msm8996-common",
         "android_device_lge_v20-common",
-        "android_device_qcom_common",
-        "android_kernel_lge_msm8996",
-        "android_vendor_nxp-nfc_opensource_Nfc",
-        "android_vendor_nxp-nfc_opensource_frameworks",
-        "android_vendor_nxp-nfc_opensource_libnfc-nci"
+        "android_kernel_lge_msm8996"
     ],
     "lt02ltespr": [
         "android_device_samsung_lt02lte-common",
@@ -1838,8 +1819,11 @@
         "android_kernel_nvidia_roth"
     ],
     "rs988": [
+        "android_device_lge_common",
         "android_device_lge_g5-common",
-        "android_device_lge_rs988"
+        "android_device_lge_msm8996-common",
+        "android_device_lge_rs988",
+        "android_kernel_lge_msm8996"
     ],
     "s2": [
         "android_device_leeco_s2",
@@ -2154,22 +2138,14 @@
         "android_device_lge_msm8996-common",
         "android_device_lge_us996",
         "android_device_lge_v20-common",
-        "android_device_qcom_common",
-        "android_kernel_lge_msm8996",
-        "android_vendor_nxp-nfc_opensource_Nfc",
-        "android_vendor_nxp-nfc_opensource_frameworks",
-        "android_vendor_nxp-nfc_opensource_libnfc-nci"
+        "android_kernel_lge_msm8996"
     ],
     "us997": [
         "android_device_lge_common",
         "android_device_lge_g6-common",
         "android_device_lge_msm8996-common",
         "android_device_lge_us997",
-        "android_device_qcom_common",
-        "android_kernel_lge_msm8996",
-        "android_vendor_nxp-nfc_opensource_Nfc",
-        "android_vendor_nxp-nfc_opensource_frameworks",
-        "android_vendor_nxp-nfc_opensource_libnfc-nci"
+        "android_kernel_lge_msm8996"
     ],
     "v1awifi": [
         "android_device_samsung_exynos5420-common",
@@ -2249,6 +2225,12 @@
         "android_external_stlport",
         "android_kernel_htc_msm8960"
     ],
+    "vk810": [
+        "android_device_lge_gpad83-common",
+        "android_device_lge_vk810",
+        "android_device_qcom_common",
+        "android_kernel_lge_v500"
+    ],
     "vs980": [
         "android_device_lge_g2-common",
         "android_device_lge_vs980",
@@ -2269,11 +2251,7 @@
         "android_device_lge_msm8996-common",
         "android_device_lge_v20-common",
         "android_device_lge_vs995",
-        "android_device_qcom_common",
-        "android_kernel_lge_msm8996",
-        "android_vendor_nxp-nfc_opensource_Nfc",
-        "android_vendor_nxp-nfc_opensource_frameworks",
-        "android_vendor_nxp-nfc_opensource_libnfc-nci"
+        "android_kernel_lge_msm8996"
     ],
     "w5": [
         "android_device_lge_msm8226-common",
@@ -2397,7 +2375,6 @@
         "android_hardware_samsung_slsi-cm_exynos7420",
         "android_hardware_samsung_slsi-cm_openmax",
         "android_kernel_samsung_exynos7420",
-        "android_packages_apps_SamsungServiceMode",
         "android_packages_resources_devicesettings"
     ],
     "zerofltexx": [
@@ -2410,7 +2387,6 @@
         "android_hardware_samsung_slsi-cm_exynos7420",
         "android_hardware_samsung_slsi-cm_openmax",
         "android_kernel_samsung_exynos7420",
-        "android_packages_apps_SamsungServiceMode",
         "android_packages_resources_devicesettings"
     ],
     "zeroltexx": [
@@ -2423,7 +2399,6 @@
         "android_hardware_samsung_slsi-cm_exynos7420",
         "android_hardware_samsung_slsi-cm_openmax",
         "android_kernel_samsung_exynos7420",
-        "android_packages_apps_SamsungServiceMode",
         "android_packages_resources_devicesettings"
     ],
     "zl1": [
