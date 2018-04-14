@@ -196,10 +196,7 @@
         "android_device_xiaomi_chiron",
         "android_device_xiaomi_msm8998-common",
         "android_kernel_xiaomi_msm8998",
-        "android_packages_resources_devicesettings",
-        "android_vendor_nxp-nfc_opensource_Nfc",
-        "android_vendor_nxp-nfc_opensource_frameworks",
-        "android_vendor_nxp-nfc_opensource_libnfc-nci"
+        "android_packages_resources_devicesettings"
     ],
     "clark": [
         "android_device_motorola_clark",
@@ -709,6 +706,12 @@
         "android_device_lge_msm8996-common",
         "android_device_lge_v20-common",
         "android_kernel_lge_msm8996"
+    ],
+    "h930": [
+        "android_device_lge_common",
+        "android_device_lge_h930",
+        "android_device_lge_joan-common",
+        "android_kernel_lge_msm8998"
     ],
     "h990": [
         "android_device_lge_common",
@@ -1455,8 +1458,7 @@
     ],
     "mako": [
         "android_device_lge_mako",
-        "android_external_stlport",
-        "lge-kernel-mako"
+        "android_kernel_lge_mako"
     ],
     "manta": [
         "android_device_samsung_manta",
@@ -1828,7 +1830,6 @@
     "s2": [
         "android_device_leeco_s2",
         "android_device_qcom_common",
-        "android_hardware_sony_thermanager",
         "android_kernel_leeco_msm8976",
         "android_packages_resources_devicesettings"
     ],
@@ -1837,10 +1838,7 @@
         "android_device_xiaomi_msm8998-common",
         "android_device_xiaomi_sagit",
         "android_kernel_xiaomi_msm8998",
-        "android_packages_resources_devicesettings",
-        "android_vendor_nxp-nfc_opensource_Nfc",
-        "android_vendor_nxp-nfc_opensource_frameworks",
-        "android_vendor_nxp-nfc_opensource_libnfc-nci"
+        "android_packages_resources_devicesettings"
     ],
     "sailfish": [
         "android_device_google_marlin",
@@ -2043,7 +2041,10 @@
         "android_kernel_motorola_mt6735"
     ],
     "taimen": [
-        "android_device_google_taimen"
+        "android_device_google_taimen",
+        "android_device_google_wahoo",
+        "android_device_qcom_common",
+        "android_kernel_google_wahoo"
     ],
     "taoshan": [
         "android_device_qcom_common",
