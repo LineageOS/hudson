@@ -1,0 +1,879 @@
+{
+  "A6020": {
+    "repository": "android_device_lenovo_A6020",
+    "target_path": "device/lenovo/A6020"
+  },
+  "a5y17lte": {
+    "repository": "android_device_samsung_a5y17lte",
+    "target_path": "device/samsung/a5y17lte"
+  },
+  "a7y17lte": {
+    "repository": "android_device_samsung_a7y17lte",
+    "target_path": "device/samsung/a7y17lte"
+  },
+  "addison": {
+    "repository": "android_device_motorola_addison",
+    "target_path": "device/motorola/addison"
+  },
+  "angler": {
+    "repository": "android_device_google_angler",
+    "target_path": "device/google/angler"
+  },
+  "armani": {
+    "repository": "android_device_xiaomi_armani",
+    "target_path": "device/xiaomi/armani"
+  },
+  "athene": {
+    "repository": "android_device_motorola_athene",
+    "target_path": "device/motorola/athene"
+  },
+  "axon7": {
+    "repository": "android_device_zte_axon7",
+    "target_path": "device/zte/axon7"
+  },
+  "bacon": {
+    "repository": "android_device_oneplus_bacon",
+    "target_path": "device/oneplus/bacon"
+  },
+  "bullhead": {
+    "repository": "android_device_google_bullhead",
+    "target_path": "device/google/bullhead"
+  },
+  "cancro": {
+    "repository": "android_device_xiaomi_cancro",
+    "target_path": "device/xiaomi/cancro"
+  },
+  "capricorn": {
+    "repository": "android_device_xiaomi_capricorn",
+    "target_path": "device/xiaomi/capricorn"
+  },
+  "chagallwifi": {
+    "repository": "android_device_samsung_chagallwifi",
+    "target_path": "device/samsung/chagallwifi"
+  },
+  "chaozu": {
+    "repository": "android_device_bq_chaozu",
+    "target_path": "device/bq/chaozu"
+  },
+  "che10": {
+    "repository": "android_device_huawei_che10",
+    "target_path": "device/huawei/che10"
+  },
+  "cherry": {
+    "repository": "android_device_huawei_cherry",
+    "target_path": "device/huawei/cherry"
+  },
+  "cheeseburger": {
+    "repository": "android_device_oneplus_cheeseburger",
+    "target_path": "device/oneplus/cheeseburger"
+  },
+  "chiron": {
+    "repository": "android_device_xiaomi_chiron",
+    "target_path": "device/xiaomi/chiron"
+  },
+  "clark": {
+    "repository": "android_device_motorola_clark",
+    "target_path": "device/motorola/clark"
+  },
+  "condor": {
+    "repository": "android_device_motorola_condor",
+    "target_path": "device/motorola/condor"
+  },
+  "crackling": {
+    "repository": "android_device_wileyfox_crackling",
+    "target_path": "device/wileyfox/crackling"
+  },
+  "d2att": {
+    "repository": "android_device_samsung_d2att",
+    "target_path": "device/samsung/d2att"
+  },
+  "d2spr": {
+    "repository": "android_device_samsung_d2spr",
+    "target_path": "device/samsung/d2spr"
+  },
+  "d2tmo": {
+    "repository": "android_device_samsung_d2tmo",
+    "target_path": "device/samsung/d2tmo"
+  },
+  "d2vzw": {
+    "repository": "android_device_samsung_d2vzw",
+    "target_path": "device/samsung/d2vzw"
+  },
+  "d800": {
+    "repository": "android_device_lg_d800",
+    "target_path": "device/lg/d800"
+  },
+  "d801": {
+    "repository": "android_device_lg_d801",
+    "target_path": "device/lg/d801"
+  },
+  "d802": {
+    "repository": "android_device_lg_d802",
+    "target_path": "device/lg/d802"
+  },
+  "d803": {
+    "repository": "android_device_lg_d803",
+    "target_path": "device/lg/d803"
+  },
+  "d850": {
+    "repository": "android_device_lg_d850",
+    "target_path": "device/lg/d850"
+  },
+  "d851": {
+    "repository": "android_device_lg_d851",
+    "target_path": "device/lg/d851"
+  },
+  "d852": {
+    "repository": "android_device_lg_d852",
+    "target_path": "device/lg/d852"
+  },
+  "d855": {
+    "repository": "android_device_lg_d855",
+    "target_path": "device/lg/d855"
+  },
+  "deb": {
+    "repository": "android_device_google_deb",
+    "target_path": "device/google/deb"
+  },
+  "dogo": {
+    "repository": "android_device_sony_dogo",
+    "target_path": "device/sony/dogo"
+  },
+  "dragon": {
+    "repository": "android_device_google_dragon",
+    "target_path": "device/google/dragon"
+  },
+  "dumpling": {
+    "repository": "android_device_oneplus_dumpling",
+    "target_path": "device/oneplus/dumpling"
+  },
+  "espresso3g": {
+    "repository": "android_device_samsung_espresso3g",
+    "target_path": "device/samsung/espresso3g"
+  },
+  "espressowifi": {
+    "repository": "android_device_samsung_espressowifi",
+    "target_path": "device/samsung/espressowifi"
+  },
+  "ether": {
+    "repository": "android_device_nextbit_ether",
+    "target_path": "device/nextbit/ether"
+  },
+  "FP2": {
+    "repository": "android_device_fairphone_FP2",
+    "target_path": "device/fairphone/FP2"
+  },
+  "f400": {
+    "repository": "android_device_lg_f400",
+    "target_path": "device/lg/f400"
+  },
+  "falcon": {
+    "repository": "android_device_motorola_falcon",
+    "target_path": "device/motorola/falcon"
+  },
+  "find7": {
+    "repository": "android_device_oppo_find7",
+    "target_path": "device/oppo/find7"
+  },
+  "find7s": {
+    "repository": "android_device_oppo_find7s",
+    "target_path": "device/oppo/find7s"
+  },
+  "flo": {
+    "repository": "android_device_google_flo",
+    "target_path": "device/google/flo"
+  },
+  "flounder": {
+    "repository": "android_device_google_flounder",
+    "target_path": "device/google/flounder"
+  },
+  "flounder_lte": {
+    "repository": "android_device_google_flounder_lte",
+    "target_path": "device/google/flounder_lte"
+  },
+  "foster": {
+    "repository": "android_device_nvidia_foster",
+    "target_path": "device/nvidia/foster"
+  },
+  "fugu": {
+    "repository": "android_device_google_fugu",
+    "target_path": "device/google/fugu"
+  },
+  "g2m": {
+    "repository": "android_device_lg_g2m",
+    "target_path": "device/lg/g2m"
+  },
+  "gemini": {
+    "repository": "android_device_xiaomi_gemini",
+    "target_path": "device/xiaomi/gemini"
+  },
+  "ghost": {
+    "repository": "android_device_motorola_ghost",
+    "target_path": "device/motorola/ghost"
+  },
+  "gohan": {
+    "repository": "android_device_bq_gohan",
+    "target_path": "device/bq/gohan"
+  },
+  "griffin": {
+    "repository": "android_device_motorola_griffin",
+    "target_path": "device/motorola/griffin"
+  },
+  "gtelwifiue": {
+    "repository": "android_device_samsung_gtelwifiue",
+    "target_path": "device/samsung/gtelwifiue"
+  },
+  "gtesqltespr": {
+    "repository": "android_device_samsung_gtesqltespr",
+    "target_path": "device/samsung/gtesqltespr"
+  },
+  "gts210ltexx": {
+    "repository": "android_device_samsung_gts210ltexx",
+    "target_path": "device/samsung/gts210ltexx"
+  },
+  "gts210vewifi": {
+    "repository": "android_device_samsung_gts210vewifi",
+    "target_path": "device/samsung/gts210vewifi"
+  },
+  "gts210wifi": {
+    "repository": "android_device_samsung_gts210wifi",
+    "target_path": "device/samsung/gts210wifi"
+  },
+  "gts28vewifi": {
+    "repository": "android_device_samsung_gts28vewifi",
+    "target_path": "device/samsung/gts28vewifi"
+  },
+  "h811": {
+    "repository": "android_device_lg_h811",
+    "target_path": "device/lg/h811"
+  },
+  "h815": {
+    "repository": "android_device_lg_h815",
+    "target_path": "device/lg/h815"
+  },
+  "h830": {
+    "repository": "android_device_lg_h830",
+    "target_path": "device/lg/h830"
+  },
+  "h850": {
+    "repository": "android_device_lg_h850",
+    "target_path": "device/lg/h850"
+  },
+  "h870": {
+    "repository": "android_device_lg_h870",
+    "target_path": "device/lg/h870"
+  },
+  "h910": {
+    "repository": "android_device_lg_h910",
+    "target_path": "device/lg/h910"
+  },
+  "h918": {
+    "repository": "android_device_lg_h918",
+    "target_path": "device/lg/h918"
+  },
+  "ha3g": {
+    "repository": "android_device_samsung_ha3g",
+    "target_path": "device/samsung/ha3g"
+  },
+  "ham": {
+    "repository": "android_device_zuk_ham",
+    "target_path": "device/zuk/ham"
+  },
+  "hammerhead": {
+    "repository": "android_device_google_hammerhead",
+    "target_path": "device/google/hammerhead"
+  },
+  "harpia": {
+    "repository": "android_device_motorola_harpia",
+    "target_path": "device/motorola/harpia"
+  },
+  "hayabusa": {
+    "repository": "android_device_sony_hayabusa",
+    "target_path": "device/sony/hayabusa"
+  },
+  "hero2lte": {
+    "repository": "android_device_samsung_hero2lte",
+    "target_path": "device/samsung/hero2lte"
+  },
+  "herolte": {
+    "repository": "android_device_samsung_herolte",
+    "target_path": "device/samsung/herolte"
+  },
+  "hiaeuhl": {
+    "repository": "android_device_htc_hiaeuhl",
+    "target_path": "device/htc/hiaeuhl"
+  },
+  "hiaeul": {
+    "repository": "android_device_htc_hiaeul",
+    "target_path": "device/htc/hiaeul"
+  },
+  "himaul": {
+    "repository": "android_device_htc_himaul",
+    "target_path": "device/htc/himaul"
+  },
+  "himawl": {
+    "repository": "android_device_htc_himawl",
+    "target_path": "device/htc/himawl"
+  },
+  "hlte": {
+    "repository": "android_device_samsung_hlte",
+    "target_path": "device/samsung/hlte"
+  },
+  "hltetmo": {
+    "repository": "android_device_samsung_hltetmo",
+    "target_path": "device/samsung/hltetmo"
+  },
+  "huashan": {
+    "repository": "android_device_sony_huashan",
+    "target_path": "device/sony/huashan"
+  },
+  "hydrogen": {
+    "repository": "android_device_xiaomi_hydrogen",
+    "target_path": "device/xiaomi/hydrogen"
+  },
+  "i9100": {
+    "repository": "android_device_samsung_i9100",
+    "target_path": "device/samsung/i9100"
+  },
+  "i9300": {
+    "repository": "android_device_samsung_i9300",
+    "target_path": "device/samsung/i9300"
+  },
+  "i9305": {
+    "repository": "android_device_samsung_i9305",
+    "target_path": "device/samsung/i9305"
+  },
+  "ido": {
+    "repository": "android_device_xiaomi_ido",
+    "target_path": "device/xiaomi/ido"
+  },
+  "ivy": {
+    "repository": "android_device_sony_ivy",
+    "target_path": "device/sony/ivy"
+  },
+  "jag3gds": {
+    "repository": "android_device_lg_jag3gds",
+    "target_path": "device/lg/jag3gds"
+  },
+  "jagnm": {
+    "repository": "android_device_lg_jagnm",
+    "target_path": "device/lg/jagnm"
+  },
+  "jalebi": {
+    "repository": "android_device_yu_jalebi",
+    "target_path": "device/yu/jalebi"
+  },
+  "jfltevzw": {
+    "repository": "android_device_samsung_jfltevzw",
+    "target_path": "device/samsung/jfltevzw"
+  },
+  "jfltexx": {
+    "repository": "android_device_samsung_jfltexx",
+    "target_path": "device/samsung/jfltexx"
+  },
+  "k3gxx": {
+    "repository": "android_device_samsung_k3gxx",
+    "target_path": "device/samsung/k3gxx"
+  },
+  "karin": {
+    "repository": "android_device_sony_karin",
+    "target_path": "device/sony/karin"
+  },
+  "karin_windy": {
+    "repository": "android_device_sony_karin_windy",
+    "target_path": "device/sony/karin_windy"
+  },
+  "kccat6": {
+    "repository": "android_device_samsung_kccat6",
+    "target_path": "device/samsung/kccat6"
+  },
+  "kenzo": {
+    "repository": "android_device_xiaomi_kenzo",
+    "target_path": "device/xiaomi/kenzo"
+  },
+  "kingdom": {
+    "repository": "android_device_lenovo_kingdom",
+    "target_path": "device/lenovo/kingdom"
+  },
+  "kipper": {
+    "repository": "android_device_wileyfox_kipper",
+    "target_path": "device/wileyfox/kipper"
+  },
+  "kiwi": {
+    "repository": "android_device_huawei_kiwi",
+    "target_path": "device/huawei/kiwi"
+  },
+  "klimtwifi": {
+    "repository": "android_device_samsung_klimtwifi",
+    "target_path": "device/samsung/klimtwifi"
+  },
+  "klte": {
+    "repository": "android_device_samsung_klte",
+    "target_path": "device/samsung/klte"
+  },
+  "kltechn": {
+    "repository": "android_device_samsung_kltechn",
+    "target_path": "device/samsung/kltechn"
+  },
+  "kltechnduo": {
+    "repository": "android_device_samsung_kltechnduo",
+    "target_path": "device/samsung/kltechnduo"
+  },
+  "klteduos": {
+    "repository": "android_device_samsung_klteduos",
+    "target_path": "device/samsung/klteduos"
+  },
+  "kltedv": {
+    "repository": "android_device_samsung_kltedv",
+    "target_path": "device/samsung/kltedv"
+  },
+  "kltekdi": {
+    "repository": "android_device_samsung_kltekdi",
+    "target_path": "device/samsung/kltekdi"
+  },
+  "kltekor": {
+    "repository": "android_device_samsung_kltekor",
+    "target_path": "device/samsung/kltekor"
+  },
+  "kltesprsports": {
+    "repository": "android_device_samsung_kltesprsports",
+    "target_path": "device/samsung/kltesprsports"
+  },
+  "ks01lte": {
+    "repository": "android_device_samsung_ks01lte",
+    "target_path": "device/samsung/ks01lte"
+  },
+  "kuntao": {
+    "repository": "android_device_lenovo_kuntao",
+    "target_path": "device/lenovo/kuntao"
+  },
+  "land": {
+    "repository": "android_device_xiaomi_land",
+    "target_path": "device/xiaomi/land"
+  },
+  "lentislte": {
+    "repository": "android_device_samsung_lentislte",
+    "target_path": "device/samsung/lentislte"
+  },
+  "lettuce": {
+    "repository": "android_device_yu_lettuce",
+    "target_path": "device/yu/lettuce"
+  },
+  "libra": {
+    "repository": "android_device_xiaomi_libra",
+    "target_path": "device/xiaomi/libra"
+  },
+  "lithium": {
+    "repository": "android_device_xiaomi_lithium",
+    "target_path": "device/xiaomi/lithium"
+  },
+  "ls990": {
+    "repository": "android_device_lg_ls990",
+    "target_path": "device/lg/ls990"
+  },
+  "ls997": {
+    "repository": "android_device_lg_ls997",
+    "target_path": "device/lg/ls997"
+  },
+  "lt02ltespr": {
+    "repository": "android_device_samsung_lt02ltespr",
+    "target_path": "device/samsung/lt02ltespr"
+  },
+  "lt03lte": {
+    "repository": "android_device_samsung_lt03lte",
+    "target_path": "device/samsung/lt03lte"
+  },
+  "lux": {
+    "repository": "android_device_motorola_lux",
+    "target_path": "device/motorola/lux"
+  },
+  "m216": {
+    "repository": "android_device_lg_m216",
+    "target_path": "device/lg/m216"
+  },
+  "m7": {
+    "repository": "android_device_htc_m7",
+    "target_path": "device/htc/m7"
+  },
+  "m7vzw": {
+    "repository": "android_device_htc_m7vzw",
+    "target_path": "device/htc/m7vzw"
+  },
+  "m8": {
+    "repository": "android_device_htc_m8",
+    "target_path": "device/htc/m8"
+  },
+  "m8d": {
+    "repository": "android_device_htc_m8d",
+    "target_path": "device/htc/m8d"
+  },
+  "maguro": {
+    "repository": "android_device_google_maguro",
+    "target_path": "device/google/maguro"
+  },
+  "mako": {
+    "repository": "android_device_google_mako",
+    "target_path": "device/google/mako"
+  },
+  "manta": {
+    "repository": "android_device_google_manta",
+    "target_path": "device/google/manta"
+  },
+  "maserati": {
+    "repository": "android_device_motorola_maserati",
+    "target_path": "device/motorola/maserati"
+  },
+  "merlin": {
+    "repository": "android_device_motorola_merlin",
+    "target_path": "device/motorola/merlin"
+  },
+  "mido": {
+    "repository": "android_device_xiaomi_mido",
+    "target_path": "device/xiaomi/mido"
+  },
+  "mint": {
+    "repository": "android_device_sony_mint",
+    "target_path": "device/sony/mint"
+  },
+  "mondrianwifi": {
+    "repository": "android_device_samsung_mondrianwifi",
+    "target_path": "device/samsung/mondrianwifi"
+  },
+  "mt2": {
+    "repository": "android_device_huawei_mt2",
+    "target_path": "device/huawei/mt2"
+  },
+  "n1awifi": {
+    "repository": "android_device_samsung_n1awifi",
+    "target_path": "device/samsung/n1awifi"
+  },
+  "n2awifi": {
+    "repository": "android_device_samsung_n2awifi",
+    "target_path": "device/samsung/n2awifi"
+  },
+  "n3": {
+    "repository": "android_device_oppo_n3",
+    "target_path": "device/oppo/n3"
+  },
+  "n5100": {
+    "repository": "android_device_samsung_n5100",
+    "target_path": "device/samsung/n5100"
+  },
+  "n5110": {
+    "repository": "android_device_samsung_n5110",
+    "target_path": "device/samsung/n5110"
+  },
+  "n5120": {
+    "repository": "android_device_samsung_n5120",
+    "target_path": "device/samsung/n5120"
+  },
+  "natrium": {
+    "repository": "android_device_xiaomi_natrium",
+    "target_path": "device/xiaomi/natrium"
+  },
+  "nicki": {
+    "repository": "android_device_sony_nicki",
+    "target_path": "device/sony/nicki"
+  },
+  "nx512j": {
+    "repository": "android_device_nubia_nx512j",
+    "target_path": "device/nubia/nx512j"
+  },
+  "odin": {
+    "repository": "android_device_sony_odin",
+    "target_path": "device/sony/odin"
+  },
+  "oneplus2": {
+    "repository": "android_device_oneplus_oneplus2",
+    "target_path": "device/oneplus/oneplus2"
+  },
+  "oneplus3": {
+    "repository": "android_device_oneplus_oneplus3",
+    "target_path": "device/oneplus/oneplus3"
+  },
+  "onyx": {
+    "repository": "android_device_oneplus_onyx",
+    "target_path": "device/oneplus/onyx"
+  },
+  "osprey": {
+    "repository": "android_device_motorola_osprey",
+    "target_path": "device/motorola/osprey"
+  },
+  "otus": {
+    "repository": "android_device_motorola_otus",
+    "target_path": "device/motorola/otus"
+  },
+  "P024": {
+    "repository": "android_device_asus_P024",
+    "target_path": "device/asus/P024"
+  },
+  "paella": {
+    "repository": "android_device_bq_paella",
+    "target_path": "device/bq/paella"
+  },
+  "peach": {
+    "repository": "android_device_ark_peach",
+    "target_path": "device/ark/peach"
+  },
+  "peregrine": {
+    "repository": "android_device_motorola_peregrine",
+    "target_path": "device/motorola/peregrine"
+  },
+  "piccolo": {
+    "repository": "android_device_bq_piccolo",
+    "target_path": "device/bq/piccolo"
+  },
+  "pme": {
+    "repository": "android_device_htc_pme",
+    "target_path": "device/htc/pme"
+  },
+  "pollux": {
+    "repository": "android_device_sony_pollux",
+    "target_path": "device/sony/pollux"
+  },
+  "pollux_windy": {
+    "repository": "android_device_sony_pollux_windy",
+    "target_path": "device/sony/pollux_windy"
+  },
+  "r5": {
+    "repository": "android_device_oppo_r5",
+    "target_path": "device/oppo/r5"
+  },
+  "r7plus": {
+    "repository": "android_device_oppo_r7plus",
+    "target_path": "device/oppo/r7plus"
+  },
+  "r7sf": {
+    "repository": "android_device_oppo_r7sf",
+    "target_path": "device/oppo/r7sf"
+  },
+  "roth": {
+    "repository": "android_device_nvidia_roth",
+    "target_path": "device/nvidia/roth"
+  },
+  "s2": {
+    "repository": "android_device_leeco_s2",
+    "target_path": "device/leeco/s2"
+  },
+  "sagit": {
+    "repository": "android_device_xiaomi_sagit",
+    "target_path": "device/xiaomi/sagit"
+  },
+  "scorpio": {
+    "repository": "android_device_xiaomi_scorpio",
+    "target_path": "device/xiaomi/scorpio"
+  },
+  "seed": {
+    "repository": "android_device_google_seed",
+    "target_path": "device/google/seed"
+  },
+  "serrano3gxx": {
+    "repository": "android_device_samsung_serrano3gxx",
+    "target_path": "device/samsung/serrano3gxx"
+  },
+  "serranodsdd": {
+    "repository": "android_device_samsung_serranodsdd",
+    "target_path": "device/samsung/serranodsdd"
+  },
+  "serranoltexx": {
+    "repository": "android_device_samsung_serranoltexx",
+    "target_path": "device/samsung/serranoltexx"
+  },
+  "shamu": {
+    "repository": "android_device_google_shamu",
+    "target_path": "device/google/shamu"
+  },
+  "shieldtablet": {
+    "repository": "android_device_nvidia_shieldtablet",
+    "target_path": "device/nvidia/shieldtablet"
+  },
+  "spyder": {
+    "repository": "android_device_motorola_spyder",
+    "target_path": "device/motorola/spyder"
+  },
+  "star2lte": {
+    "repository": "android_device_samsung_star2lte",
+    "target_path": "device/samsung/star2lte"
+  },
+  "starlte": {
+    "repository": "android_device_samsung_starlte",
+    "target_path": "device/samsung/starlte"
+  },
+  "sumire": {
+    "repository": "android_device_sony_sumire",
+    "target_path": "device/sony/sumire"
+  },
+  "surnia": {
+    "repository": "android_device_motorola_surnia",
+    "target_path": "device/motorola/surnia"
+  },
+  "suzuran": {
+    "repository": "android_device_sony_suzuran",
+    "target_path": "device/sony/suzuran"
+  },
+  "t0lte": {
+    "repository": "android_device_samsung_t0lte",
+    "target_path": "device/samsung/t0lte"
+  },
+  "t0ltekor": {
+    "repository": "android_device_samsung_t0ltekor",
+    "target_path": "device/samsung/t0ltekor"
+  },
+  "t6": {
+    "repository": "android_device_htc_t6",
+    "target_path": "device/htc/t6"
+  },
+  "t6vzw": {
+    "repository": "android_device_htc_t6vzw",
+    "target_path": "device/htc/t6vzw"
+  },
+  "taoshan": {
+    "repository": "android_device_sony_taoshan",
+    "target_path": "device/sony/taoshan"
+  },
+  "targa": {
+    "repository": "android_device_motorola_targa",
+    "target_path": "device/motorola/targa"
+  },
+  "tenshi": {
+    "repository": "android_device_bq_tenshi",
+    "target_path": "device/bq/tenshi"
+  },
+  "thea": {
+    "repository": "android_device_motorola_thea",
+    "target_path": "device/motorola/thea"
+  },
+  "titan": {
+    "repository": "android_device_motorola_titan",
+    "target_path": "device/motorola/titan"
+  },
+  "tomato": {
+    "repository": "android_device_yu_tomato",
+    "target_path": "device/yu/tomato"
+  },
+  "toro": {
+    "repository": "android_device_google_toro",
+    "target_path": "device/google/toro"
+  },
+  "toroplus": {
+    "repository": "android_device_google_toroplus",
+    "target_path": "device/google/toroplus"
+  },
+  "tsubasa": {
+    "repository": "android_device_sony_tsubasa",
+    "target_path": "device/sony/tsubasa"
+  },
+  "tulip": {
+    "repository": "android_device_zte_tulip",
+    "target_path": "device/zte/tulip"
+  },
+  "umts_spyder": {
+    "repository": "android_device_motorola_umts_spyder",
+    "target_path": "device/motorola/umts_spyder"
+  },
+  "us996": {
+    "repository": "android_device_lg_us996",
+    "target_path": "device/lg/us996"
+  },
+  "us997": {
+    "repository": "android_device_lg_us997",
+    "target_path": "device/lg/us997"
+  },
+  "v1awifi": {
+    "repository": "android_device_samsung_v1awifi",
+    "target_path": "device/samsung/v1awifi"
+  },
+  "v400": {
+    "repository": "android_device_lg_v400",
+    "target_path": "device/lg/v400"
+  },
+  "v410": {
+    "repository": "android_device_lg_v410",
+    "target_path": "device/lg/v410"
+  },
+  "v480": {
+    "repository": "android_device_lg_v480",
+    "target_path": "device/lg/v480"
+  },
+  "v500": {
+    "repository": "android_device_lg_v500",
+    "target_path": "device/lg/v500"
+  },
+  "v521": {
+    "repository": "android_device_lg_v521",
+    "target_path": "device/lg/v521"
+  },
+  "vegetalte": {
+    "repository": "android_device_bq_vegetalte",
+    "target_path": "device/bq/vegetalte"
+  },
+  "victara": {
+    "repository": "android_device_motorola_victara",
+    "target_path": "device/motorola/victara"
+  },
+  "vs985": {
+    "repository": "android_device_lg_vs985",
+    "target_path": "device/lg/vs985"
+  },
+  "vs995": {
+    "repository": "android_device_lg_vs995",
+    "target_path": "device/lg/vs995"
+  },
+  "w5": {
+    "repository": "android_device_lg_w5",
+    "target_path": "device/lg/w5"
+  },
+  "w7": {
+    "repository": "android_device_lg_w7",
+    "target_path": "device/lg/w7"
+  },
+  "wt88047": {
+    "repository": "android_device_wingtech_wt88047",
+    "target_path": "device/wingtech/wt88047"
+  },
+  "x2": {
+    "repository": "android_device_leeco_x2",
+    "target_path": "device/leeco/x2"
+  },
+  "xt897": {
+    "repository": "android_device_motorola_xt897",
+    "target_path": "device/motorola/xt897"
+  },
+  "yuga": {
+    "repository": "android_device_sony_yuga",
+    "target_path": "device/sony/yuga"
+  },
+  "Z008": {
+    "repository": "android_device_asus_Z008",
+    "target_path": "device/asus/Z008"
+  },
+  "Z00A": {
+    "repository": "android_device_asus_Z00A",
+    "target_path": "device/asus/Z00A"
+  },
+  "Z00D": {
+    "repository": "android_device_asus_Z00D",
+    "target_path": "device/asus/Z00D"
+  },
+  "Z00L": {
+    "repository": "android_device_asus_Z00L",
+    "target_path": "device/asus/Z00L"
+  },
+  "Z00T": {
+    "repository": "android_device_asus_Z00T",
+    "target_path": "device/asus/Z00T"
+  },
+  "zerofltexx": {
+    "repository": "android_device_samsung_zerofltexx",
+    "target_path": "device/samsung/zerofltexx"
+  },
+  "zeroltexx": {
+    "repository": "android_device_samsung_zeroltexx",
+    "target_path": "device/samsung/zeroltexx"
+  },
+  "zl1": {
+    "repository": "android_device_leeco_zl1",
+    "target_path": "device/leeco/zl1"
+  }
+}
+
