@@ -23,3 +23,10 @@ devices.json is an array of objects, each with several fields:
 * `name`: the user-friendly name of the device - e.g. `Galaxy S III (International)`.
 * `has_recovery`: (*optional*) whether or not the device has a separate recovery partition. Defaults to `true`.
 
+### roomservice-main-device-repos.json
+`roomservice-main-device-repos.json` is used by roomservice to figure out the
+initial repository to download for a specific device. It is used for non-deps-only
+mode downloading during lunch targets. Only the main repository should be specified
+(the respository where the `AndroidProducts.mk` and `lineage.dependencies` files for
+the device reside). All further repositories are downloaded by roomservice through
+the regular process of processing `lineage.dependencies`.
