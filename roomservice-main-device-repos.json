@@ -100,36 +100,36 @@
     "target_path": "device/samsung/d2vzw"
   },
   "d800": {
-    "repository": "android_device_lg_d800",
-    "target_path": "device/lg/d800"
+    "repository": "android_device_lge_d800",
+    "target_path": "device/lge/d800"
   },
   "d801": {
-    "repository": "android_device_lg_d801",
-    "target_path": "device/lg/d801"
+    "repository": "android_device_lge_d801",
+    "target_path": "device/lge/d801"
   },
   "d802": {
-    "repository": "android_device_lg_d802",
-    "target_path": "device/lg/d802"
+    "repository": "android_device_lge_d802",
+    "target_path": "device/lge/d802"
   },
   "d803": {
-    "repository": "android_device_lg_d803",
-    "target_path": "device/lg/d803"
+    "repository": "android_device_lge_d803",
+    "target_path": "device/lge/d803"
   },
   "d850": {
-    "repository": "android_device_lg_d850",
-    "target_path": "device/lg/d850"
+    "repository": "android_device_lge_d850",
+    "target_path": "device/lge/d850"
   },
   "d851": {
-    "repository": "android_device_lg_d851",
-    "target_path": "device/lg/d851"
+    "repository": "android_device_lge_d851",
+    "target_path": "device/lge/d851"
   },
   "d852": {
-    "repository": "android_device_lg_d852",
-    "target_path": "device/lg/d852"
+    "repository": "android_device_lge_d852",
+    "target_path": "device/lge/d852"
   },
   "d855": {
-    "repository": "android_device_lg_d855",
-    "target_path": "device/lg/d855"
+    "repository": "android_device_lge_d855",
+    "target_path": "device/lge/d855"
   },
   "deb": {
     "repository": "android_device_asus_deb",
@@ -164,8 +164,8 @@
     "target_path": "device/fairphone/FP2"
   },
   "f400": {
-    "repository": "android_device_lg_f400",
-    "target_path": "device/lg/f400"
+    "repository": "android_device_lge_f400",
+    "target_path": "device/lge/f400"
   },
   "falcon": {
     "repository": "android_device_motorola_falcon",
@@ -200,8 +200,8 @@
     "target_path": "device/asus/fugu"
   },
   "g2m": {
-    "repository": "android_device_lg_g2m",
-    "target_path": "device/lg/g2m"
+    "repository": "android_device_lge_g2m",
+    "target_path": "device/lge/g2m"
   },
   "gemini": {
     "repository": "android_device_xiaomi_gemini",
@@ -244,32 +244,32 @@
     "target_path": "device/samsung/gts28vewifi"
   },
   "h811": {
-    "repository": "android_device_lg_h811",
-    "target_path": "device/lg/h811"
+    "repository": "android_device_lge_h811",
+    "target_path": "device/lge/h811"
   },
   "h815": {
-    "repository": "android_device_lg_h815",
-    "target_path": "device/lg/h815"
+    "repository": "android_device_lge_h815",
+    "target_path": "device/lge/h815"
   },
   "h830": {
-    "repository": "android_device_lg_h830",
-    "target_path": "device/lg/h830"
+    "repository": "android_device_lge_h830",
+    "target_path": "device/lge/h830"
   },
   "h850": {
-    "repository": "android_device_lg_h850",
-    "target_path": "device/lg/h850"
+    "repository": "android_device_lge_h850",
+    "target_path": "device/lge/h850"
   },
   "h870": {
-    "repository": "android_device_lg_h870",
-    "target_path": "device/lg/h870"
+    "repository": "android_device_lge_h870",
+    "target_path": "device/lge/h870"
   },
   "h910": {
-    "repository": "android_device_lg_h910",
-    "target_path": "device/lg/h910"
+    "repository": "android_device_lge_h910",
+    "target_path": "device/lge/h910"
   },
   "h918": {
-    "repository": "android_device_lg_h918",
-    "target_path": "device/lg/h918"
+    "repository": "android_device_lge_h918",
+    "target_path": "device/lge/h918"
   },
   "ha3g": {
     "repository": "android_device_samsung_ha3g",
@@ -352,12 +352,12 @@
     "target_path": "device/sony/ivy"
   },
   "jag3gds": {
-    "repository": "android_device_lg_jag3gds",
-    "target_path": "device/lg/jag3gds"
+    "repository": "android_device_lge_jag3gds",
+    "target_path": "device/lge/jag3gds"
   },
   "jagnm": {
-    "repository": "android_device_lg_jagnm",
-    "target_path": "device/lg/jagnm"
+    "repository": "android_device_lge_jagnm",
+    "target_path": "device/lge/jagnm"
   },
   "jalebi": {
     "repository": "android_device_yu_jalebi",
@@ -468,12 +468,12 @@
     "target_path": "device/xiaomi/lithium"
   },
   "ls990": {
-    "repository": "android_device_lg_ls990",
-    "target_path": "device/lg/ls990"
+    "repository": "android_device_lge_ls990",
+    "target_path": "device/lge/ls990"
   },
   "ls997": {
-    "repository": "android_device_lg_ls997",
-    "target_path": "device/lg/ls997"
+    "repository": "android_device_lge_ls997",
+    "target_path": "device/lge/ls997"
   },
   "lt02ltespr": {
     "repository": "android_device_samsung_lt02ltespr",
@@ -488,8 +488,8 @@
     "target_path": "device/motorola/lux"
   },
   "m216": {
-    "repository": "android_device_lg_m216",
-    "target_path": "device/lg/m216"
+    "repository": "android_device_lge_m216",
+    "target_path": "device/lge/m216"
   },
   "m7": {
     "repository": "android_device_htc_m7",
@@ -772,36 +772,36 @@
     "target_path": "device/motorola/umts_spyder"
   },
   "us996": {
-    "repository": "android_device_lg_us996",
-    "target_path": "device/lg/us996"
+    "repository": "android_device_lge_us996",
+    "target_path": "device/lge/us996"
   },
   "us997": {
-    "repository": "android_device_lg_us997",
-    "target_path": "device/lg/us997"
+    "repository": "android_device_lge_us997",
+    "target_path": "device/lge/us997"
   },
   "v1awifi": {
     "repository": "android_device_samsung_v1awifi",
     "target_path": "device/samsung/v1awifi"
   },
   "v400": {
-    "repository": "android_device_lg_v400",
-    "target_path": "device/lg/v400"
+    "repository": "android_device_lge_v400",
+    "target_path": "device/lge/v400"
   },
   "v410": {
-    "repository": "android_device_lg_v410",
-    "target_path": "device/lg/v410"
+    "repository": "android_device_lge_v410",
+    "target_path": "device/lge/v410"
   },
   "v480": {
-    "repository": "android_device_lg_v480",
-    "target_path": "device/lg/v480"
+    "repository": "android_device_lge_v480",
+    "target_path": "device/lge/v480"
   },
   "v500": {
-    "repository": "android_device_lg_v500",
-    "target_path": "device/lg/v500"
+    "repository": "android_device_lge_v500",
+    "target_path": "device/lge/v500"
   },
   "v521": {
-    "repository": "android_device_lg_v521",
-    "target_path": "device/lg/v521"
+    "repository": "android_device_lge_v521",
+    "target_path": "device/lge/v521"
   },
   "vegetalte": {
     "repository": "android_device_bq_vegetalte",
@@ -812,20 +812,20 @@
     "target_path": "device/motorola/victara"
   },
   "vs985": {
-    "repository": "android_device_lg_vs985",
-    "target_path": "device/lg/vs985"
+    "repository": "android_device_lge_vs985",
+    "target_path": "device/lge/vs985"
   },
   "vs995": {
-    "repository": "android_device_lg_vs995",
-    "target_path": "device/lg/vs995"
+    "repository": "android_device_lge_vs995",
+    "target_path": "device/lge/vs995"
   },
   "w5": {
-    "repository": "android_device_lg_w5",
-    "target_path": "device/lg/w5"
+    "repository": "android_device_lge_w5",
+    "target_path": "device/lge/w5"
   },
   "w7": {
-    "repository": "android_device_lg_w7",
-    "target_path": "device/lg/w7"
+    "repository": "android_device_lge_w7",
+    "target_path": "device/lge/w7"
   },
   "wt88047": {
     "repository": "android_device_wingtech_wt88047",
