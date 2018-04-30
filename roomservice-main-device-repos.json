@@ -16,8 +16,8 @@
     "target_path": "device/motorola/addison"
   },
   "angler": {
-    "repository": "android_device_google_angler",
-    "target_path": "device/google/angler"
+    "repository": "android_device_huawei_angler",
+    "target_path": "device/huawei/angler"
   },
   "armani": {
     "repository": "android_device_xiaomi_armani",
@@ -36,8 +36,8 @@
     "target_path": "device/oneplus/bacon"
   },
   "bullhead": {
-    "repository": "android_device_google_bullhead",
-    "target_path": "device/google/bullhead"
+    "repository": "android_device_lge_bullhead",
+    "target_path": "device/lge/bullhead"
   },
   "cancro": {
     "repository": "android_device_xiaomi_cancro",
@@ -132,8 +132,8 @@
     "target_path": "device/lg/d855"
   },
   "deb": {
-    "repository": "android_device_google_deb",
-    "target_path": "device/google/deb"
+    "repository": "android_device_asus_deb",
+    "target_path": "device/asus/deb"
   },
   "dogo": {
     "repository": "android_device_sony_dogo",
@@ -180,24 +180,24 @@
     "target_path": "device/oppo/find7s"
   },
   "flo": {
-    "repository": "android_device_google_flo",
-    "target_path": "device/google/flo"
+    "repository": "android_device_asus_flo",
+    "target_path": "device/asus/flo"
   },
   "flounder": {
-    "repository": "android_device_google_flounder",
-    "target_path": "device/google/flounder"
+    "repository": "android_device_htc_flounder",
+    "target_path": "device/htc/flounder"
   },
   "flounder_lte": {
-    "repository": "android_device_google_flounder_lte",
-    "target_path": "device/google/flounder_lte"
+    "repository": "android_device_htc_flounder_lte",
+    "target_path": "device/htc/flounder_lte"
   },
   "foster": {
     "repository": "android_device_nvidia_foster",
     "target_path": "device/nvidia/foster"
   },
   "fugu": {
-    "repository": "android_device_google_fugu",
-    "target_path": "device/google/fugu"
+    "repository": "android_device_asus_fugu",
+    "target_path": "device/asus/fugu"
   },
   "g2m": {
     "repository": "android_device_lg_g2m",
@@ -280,8 +280,8 @@
     "target_path": "device/zuk/ham"
   },
   "hammerhead": {
-    "repository": "android_device_google_hammerhead",
-    "target_path": "device/google/hammerhead"
+    "repository": "android_device_lge_hammerhead",
+    "target_path": "device/lge/hammerhead"
   },
   "harpia": {
     "repository": "android_device_motorola_harpia",
@@ -508,16 +508,16 @@
     "target_path": "device/htc/m8d"
   },
   "maguro": {
-    "repository": "android_device_google_maguro",
-    "target_path": "device/google/maguro"
+    "repository": "android_device_samsung_maguro",
+    "target_path": "device/samsung/maguro"
   },
   "mako": {
-    "repository": "android_device_google_mako",
-    "target_path": "device/google/mako"
+    "repository": "android_device_lge_mako",
+    "target_path": "device/lge/mako"
   },
   "manta": {
-    "repository": "android_device_google_manta",
-    "target_path": "device/google/manta"
+    "repository": "android_device_samsung_manta",
+    "target_path": "device/samsung/manta"
   },
   "maserati": {
     "repository": "android_device_motorola_maserati",
@@ -680,8 +680,8 @@
     "target_path": "device/samsung/serranoltexx"
   },
   "shamu": {
-    "repository": "android_device_google_shamu",
-    "target_path": "device/google/shamu"
+    "repository": "android_device_moto_shamu",
+    "target_path": "device/moto/shamu"
   },
   "shieldtablet": {
     "repository": "android_device_nvidia_shieldtablet",
@@ -752,12 +752,12 @@
     "target_path": "device/yu/tomato"
   },
   "toro": {
-    "repository": "android_device_google_toro",
-    "target_path": "device/google/toro"
+    "repository": "android_device_samsung_toro",
+    "target_path": "device/samsung/toro"
   },
   "toroplus": {
-    "repository": "android_device_google_toroplus",
-    "target_path": "device/google/toroplus"
+    "repository": "android_device_samsung_toroplus",
+    "target_path": "device/samsung/toroplus"
   },
   "tsubasa": {
     "repository": "android_device_sony_tsubasa",
