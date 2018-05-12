@@ -183,6 +183,7 @@
   {  "model": "t6vzw", "oem": "HTC", "name": "One Max (VZW)"},
   {  "model": "taoshan", "oem": "Sony", "name": "Xperia L"},
   {  "model": "targa", "oem": "Motorola", "name": "Droid Bionic", "has_recovery": false},
+  {  "model": "tissot", "oem": "Xiaomi", "name": "Mi A1"},
   {  "model": "tenshi", "oem": "BQ", "name": "Aquaris U Plus"},
   {  "model": "thea", "oem": "Motorola", "name": "Moto G 4G 2014"},
   {  "model": "titan", "oem": "Motorola", "name": "Moto G 2014"},
