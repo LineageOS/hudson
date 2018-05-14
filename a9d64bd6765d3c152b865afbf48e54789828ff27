@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4177800f_96c937d9",
+        "filename": "updater/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 186,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2018-05-14T10:17:15Z",
+      "side": 1,
+      "message": "ti comes after te and th.",
+      "revId": "a9d64bd6765d3c152b865afbf48e54789828ff27",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
