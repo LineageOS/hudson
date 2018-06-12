@@ -19,6 +19,22 @@
         "android_device_qcom_common",
         "android_kernel_asus_P024"
     ],
+    "YTX703F": [
+        "android_device_lenovo_YTX703-common",
+        "android_device_lenovo_YTX703F",
+        "android_device_qcom_common",
+        "android_hardware_sony_timekeep",
+        "android_kernel_lenovo_msm8976",
+        "android_packages_resources_devicesettings"
+    ],
+    "YTX703L": [
+        "android_device_lenovo_YTX703-common",
+        "android_device_lenovo_YTX703L",
+        "android_device_qcom_common",
+        "android_hardware_sony_timekeep",
+        "android_kernel_lenovo_msm8976",
+        "android_packages_resources_devicesettings"
+    ],
     "Z008": [
         "android_device_asus_Z008",
         "android_device_asus_mofd-common",
@@ -117,6 +133,18 @@
         "android_device_oppo_msm8974-common",
         "android_kernel_oppo_msm8974",
         "android_packages_resources_devicesettings"
+    ],
+    "bardock": [
+        "android_device_bq_bardock",
+        "android_device_bq_msm8953-common",
+        "android_device_qcom_common",
+        "android_kernel_bq_msm8953"
+    ],
+    "bardockpro": [
+        "android_device_bq_bardockpro",
+        "android_device_bq_msm8953-common",
+        "android_device_qcom_common",
+        "android_kernel_bq_msm8953"
     ],
     "bullhead": [
         "android_device_lge_bullhead",
@@ -1306,7 +1334,6 @@
     ],
     "kuntao": [
         "android_device_lenovo_kuntao",
-        "android_device_qcom_common",
         "android_kernel_lenovo_msm8953"
     ],
     "l01f": [
@@ -1527,7 +1554,8 @@
         "android_device_huawei_mt2",
         "android_device_qcom_common",
         "android_external_sony_boringssl-compat",
-        "android_kernel_huawei_msm8928"
+        "android_kernel_huawei_msm8928",
+        "android_packages_apps_FlipFlap"
     ],
     "muskie": [
         "android_device_google_muskie",
@@ -1862,7 +1890,7 @@
         "android_kernel_google_seed"
     ],
     "sepolicy": [
-        "android_device_lineage_sepolicy"
+        "android_device_qcom_sepolicy"
     ],
     "serrano3gxx": [
         "android_device_samsung_msm8930-common",
