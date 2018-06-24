@@ -157,6 +157,7 @@
   {  "model": "peach", "oem": "ARK", "name": "Benefit A3"},
   {  "model": "peregrine", "oem": "Motorola", "name": "Moto G 4G"},
   {  "model": "piccolo", "oem": "BQ", "name": "Aquaris M5"},
+  {  "model": "pioneer", "oem": "Sony", "name": "Xperia XA2"},
   {  "model": "pme", "oem": "HTC", "name": "10"},
   {  "model": "pollux", "oem": "Sony", "name": "Xperia Tablet Z LTE"},
   {  "model": "pollux_windy", "oem": "Sony", "name": "Xperia Tablet Z Wi-Fi"},
