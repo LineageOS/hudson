@@ -142,6 +142,7 @@
   {  "model": "n5100", "oem": "Samsung", "name": "Galaxy Note 8 (GSM)"},
   {  "model": "n5110", "oem": "Samsung", "name": "Galaxy Note 8 (Wi-Fi)"},
   {  "model": "n5120", "oem": "Samsung", "name": "Galaxy Note 8 (LTE)"},
+  {  "model": "nash", "oem": "Motorola", "name": "Moto Z2 Force"},
   {  "model": "natrium", "oem": "Xiaomi", "name": "Mi 5s Plus"},
   {  "model": "nicki", "oem": "Sony", "name": "Xperia M"},
   {  "model": "nx512j", "oem": "Nubia", "name": "Nubia Z9 Max"},
