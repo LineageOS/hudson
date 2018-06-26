@@ -103,6 +103,7 @@
   {  "model": "kiwi", "oem": "Huawei", "name": "Honor 5X"},
   {  "model": "klimtwifi", "oem": "Samsung", "name": "Galaxy Tab S 8.4 (Wi-Fi)"},
   {  "model": "klte", "oem": "Samsung", "name": "Galaxy S5 LTE (G900AZ/F/M/R4/R7/T/V/W8,S902L)"},
+  {  "model": "klteactivexx", "oem": "Samsung", "name": "Galaxy S5 Active (SM-G870F)"},
   {  "model": "kltechn", "oem": "Samsung", "name": "Galaxy S5 LTE (G9006V/8V)"},
   {  "model": "kltechnduo", "oem": "Samsung", "name": "Galaxy S5 LTE Duos (G9006W/8W)"},
   {  "model": "klteduos", "oem": "Samsung", "name": "Galaxy S5 LTE Duos (G900FD/MD)"},
