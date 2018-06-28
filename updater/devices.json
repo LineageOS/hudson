@@ -206,6 +206,7 @@
   {  "model": "vs995", "oem": "LG", "name": "V20 (VZW)"},
   {  "model": "w5", "oem": "LG", "name": "Optimus L70"},
   {  "model": "w7", "oem": "LG", "name": "Optimus L90"},
+  {  "model": "whyred", "oem": "Xiaomi", "name": "Redmi Note 5 Pro"},
   {  "model": "wt88047", "oem": "Wingtech", "name": "Redmi 2"},
   {  "model": "x2", "oem": "LeEco", "name": "Le Max 2"},
   {  "model": "xt897", "oem": "Motorola", "name": "Photon Q"},
