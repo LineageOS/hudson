@@ -61,13 +61,17 @@
         "android_device_asus_Z00L",
         "android_device_asus_msm8916-common",
         "android_device_qcom_common",
-        "android_kernel_asus_msm8916"
+        "android_kernel_asus_msm8916",
+        "android_external_sony_boringssl-compat",
+        "android_packages_resources_devicesettings"
     ],
     "Z00T": [
         "android_device_asus_Z00T",
         "android_device_asus_msm8916-common",
         "android_device_qcom_common",
-        "android_kernel_asus_msm8916"
+        "android_kernel_asus_msm8916",
+        "android_external_sony_boringssl-compat",
+        "android_packages_resources_devicesettings"
     ],
     "a5y17lte": [
         "android_device_samsung_a5y17lte",
