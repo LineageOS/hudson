@@ -22,6 +22,30 @@
       "revId": "aa70090e5c9c011771df66277136dbb98d1fa701",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c6845a7a_f6b0dbf9",
+        "filename": "lineage-build-targets",
+        "patchSetId": 3
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2018-06-29T02:51:06Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1bb968ec_078142fc",
+      "range": {
+        "startLine": 22,
+        "startChar": 15,
+        "endLine": 22,
+        "endChar": 22
+      },
+      "revId": "aa70090e5c9c011771df66277136dbb98d1fa701",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
