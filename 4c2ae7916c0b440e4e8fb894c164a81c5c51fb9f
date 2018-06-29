@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "398e1c0c_7511932b",
+        "filename": "lineage-build-targets",
+        "patchSetId": 2
+      },
+      "lineNbr": 188,
+      "author": {
+        "id": 18486
+      },
+      "writtenOn": "2018-06-29T03:27:29Z",
+      "side": 1,
+      "message": "build target is in wrong section",
+      "range": {
+        "startLine": 188,
+        "startChar": 17,
+        "endLine": 188,
+        "endChar": 29
+      },
+      "revId": "4c2ae7916c0b440e4e8fb894c164a81c5c51fb9f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
