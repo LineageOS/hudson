@@ -209,6 +209,7 @@
   {  "model": "w7", "oem": "LG", "name": "Optimus L90"},
   {  "model": "wt88047", "oem": "Wingtech", "name": "Redmi 2"},
   {  "model": "x2", "oem": "LeEco", "name": "Le Max 2"},
+  {  "model": "X00TD", "oem": "Asus", "name": "Zenfone Max Pro M1"},
   {  "model": "xt897", "oem": "Motorola", "name": "Photon Q"},
   {  "model": "yuga", "oem": "Sony", "name": "Xperia Z"},
   {  "model": "Z008", "oem": "Asus", "name": "Zenfone 2 (720p)"},
