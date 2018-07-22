@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5c6928dd_0c7c8366",
+        "filename": "lineage-build-targets",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 13589
+      },
+      "writtenOn": "2018-07-22T21:40:33Z",
+      "side": 1,
+      "message": "That\u0027s new",
+      "range": {
+        "startLine": 13,
+        "startChar": 14,
+        "endLine": 13,
+        "endChar": 21
+      },
+      "revId": "24b9af18593d65f9f1e75873f7ee19f990b7a94a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
