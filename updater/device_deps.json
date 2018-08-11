@@ -1355,9 +1355,10 @@
         "android_packages_resources_devicesettings"
     ],
     "land": [
-        "android_device_qcom_common",
+        "android_device_xiaomi_msm8937-common",
         "android_device_xiaomi_land",
-        "android_kernel_xiaomi_msm8937"
+        "android_kernel_xiaomi_msm8937",
+        "android_packages_resources_devicesettings"
     ],
     "lentislte": [
         "android_device_qcom_common",
@@ -1876,6 +1877,12 @@
         "android_device_qcom_common",
         "android_device_yu_sambar",
         "android_kernel_cyanogen_msm8994"
+    ],
+    "santoni": [
+        "android_device_xiaomi_msm8937-common",
+        "android_device_xiaomi_santoni",
+        "android_kernel_xiaomi_msm8937",
+        "android_packages_resources_devicesettings"
     ],
     "scorpio": [
         "android_device_xiaomi_msm8996-common",
