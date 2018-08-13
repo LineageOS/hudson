@@ -168,6 +168,7 @@
   {  "model": "r7plus", "oem": "OPPO", "name": "R7 Plus (R7plusf Intl)"},
   {  "model": "r7sf", "oem": "OPPO", "name": "R7s (R7sf Intl)"},
   {  "model": "roth", "oem": "Nvidia", "name": "Shield Portable", "has_recovery": false},
+  { "model": "riva", "oem": "Xiaomi", "name": "Redmi 5A"},
   {  "model": "s2", "oem": "LeEco", "name": "Le 2"},
   {  "model": "sagit", "oem": "Xiaomi", "name": "Mi 6"},
   {  "model": "sailfish", "oem": "Google", "name": "Pixel"},
