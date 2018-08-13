@@ -31,6 +31,8 @@ griffin userdebug lineage-15.1 N
 gts210vewifi userdebug lineage-15.1 N
 gts28vewifi userdebug lineage-15.1 N
 ham userdebug lineage-15.1 N
+hayabusa userdebug lineage-15.1 N
+huashan userdebug lineage-15.1 N
 jason userdebug lineage-15.1 N
 kccat6 userdebug lineage-15.1 N
 kipper userdebug lineage-15.1 N
@@ -50,6 +52,7 @@ lithium userdebug lineage-15.1 N
 mako userdebug lineage-15.1 N
 marlin userdebug lineage-15.1 N
 mido userdebug lineage-15.1 N
+mint userdebug lineage-15.1 N
 nash userdebug lineage-15.1 N
 natrium userdebug lineage-15.1 N
 oneplus2 userdebug lineage-15.1 N
@@ -68,6 +71,7 @@ shamu userdebug lineage-15.1 N
 star2lte userdebug lineage-15.1 N
 starlte userdebug lineage-15.1 N
 tissot userdebug lineage-15.1 N
+tsubasa userdebug lineage-15.1 N
 wt88047 userdebug lineage-15.1 N
 X00TD userdebug lineage-15.1 N
 x2 userdebug lineage-15.1 N
@@ -98,12 +102,10 @@ h910 userdebug cm-14.1 M
 h918 userdebug cm-14.1 M
 hammerhead userdebug cm-14.1 M
 harpia userdebug cm-14.1 M
-hayabusa userdebug cm-14.1 M
 hero2lte userdebug cm-14.1 M
 herolte userdebug cm-14.1 M
 hlte userdebug cm-14.1 M
 hltetmo userdebug cm-14.1 M
-huashan userdebug cm-14.1 M
 i9100 userdebug cm-14.1 M
 i9300 userdebug cm-14.1 M
 ido userdebug cm-14.1 M
@@ -127,7 +129,6 @@ m8 userdebug cm-14.1 M
 m8d userdebug cm-14.1 M
 maserati userdebug cm-14.1 M
 merlin userdebug cm-14.1 M
-mint userdebug cm-14.1 M
 n1awifi userdebug cm-14.1 M
 n2awifi userdebug cm-14.1 M
 nx512j userdebug cm-14.1 M
@@ -151,7 +152,6 @@ targa userdebug cm-14.1 M
 thea userdebug cm-14.1 M
 tenshi userdebug cm-14.1 M
 titan userdebug cm-14.1 M
-tsubasa userdebug cm-14.1 M
 tulip userdebug cm-14.1 M
 umts_spyder userdebug cm-14.1 M
 us996 userdebug cm-14.1 M
