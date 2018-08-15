@@ -19,6 +19,7 @@ d801 userdebug lineage-15.1 N
 d802 userdebug lineage-15.1 N
 d803 userdebug lineage-15.1 N
 discovery userdebug lineage-15.1 N
+dogo userdebug lineage-15.1 N
 dragon userdebug lineage-15.1 N
 dumpling userdebug lineage-15.1 N
 ether userdebug lineage-15.1 N
@@ -55,10 +56,13 @@ mido userdebug lineage-15.1 N
 mint userdebug lineage-15.1 N
 nash userdebug lineage-15.1 N
 natrium userdebug lineage-15.1 N
+odin userdebug lineage-15.1 N
 oneplus2 userdebug lineage-15.1 N
 oneplus3 userdebug lineage-15.1 N
 payton userdebug lineage-15.1 N
 pioneer userdebug lineage-15.1 N
+pollux userdebug lineage-15.1 N
+pollux_windy userdebug lineage-15.1 N
 r5 userdebug lineage-15.1 N
 r7sf userdebug lineage-15.1 N
 r7plus userdebug lineage-15.1 N
@@ -77,6 +81,7 @@ X00TD userdebug lineage-15.1 N
 x2 userdebug lineage-15.1 N
 YTX703F userdebug lineage-15.1 N
 YTX703L userdebug lineage-15.1 N
+yuga userdebug lineage-15.1 N
 zl1 userdebug lineage-15.1 N
 
 # Monthly cm-14.1
@@ -88,7 +93,6 @@ chagalllte userdebug cm-14.1 M
 chagallwifi userdebug cm-14.1 M
 chaozu userdebug cm-14.1 M
 condor userdebug cm-14.1 M
-dogo userdebug cm-14.1 M
 falcon userdebug cm-14.1 M
 flo userdebug cm-14.1 M
 flounder userdebug cm-14.1 M
@@ -132,15 +136,12 @@ merlin userdebug cm-14.1 M
 n1awifi userdebug cm-14.1 M
 n2awifi userdebug cm-14.1 M
 nx512j userdebug cm-14.1 M
-odin userdebug cm-14.1 M
 osprey userdebug cm-14.1 M
 otus userdebug cm-14.1 M
 P024 userdebug cm-14.1 M
 paella userdebug cm-14.1 M
 peregrine userdebug cm-14.1 M
 piccolo userdebug cm-14.1 M
-pollux userdebug cm-14.1 M
-pollux_windy userdebug cm-14.1 M
 seed userdebug cm-14.1 M
 shieldtablet userdebug cm-14.1 M
 spyder userdebug cm-14.1 M
@@ -164,6 +165,5 @@ vs995 userdebug cm-14.1 M
 w5 userdebug cm-14.1 M
 w7 userdebug cm-14.1 M
 xt897 userdebug cm-14.1 M
-yuga userdebug cm-14.1 M
 zerofltexx userdebug cm-14.1 M
 zeroltexx userdebug cm-14.1 M
