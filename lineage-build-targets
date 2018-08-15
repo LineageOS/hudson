@@ -8,6 +8,7 @@ bullhead userdebug lineage-15.1 W 1
 capricorn userdebug lineage-15.1 W 1
 cheeseburger userdebug lineage-15.1 W 1
 chiron userdebug lineage-15.1 W 1
+dogo userdebug lineage-15.1 W 1
 dragon userdebug lineage-15.1 W 1
 dumpling userdebug lineage-15.1 W 1
 FP2 userdebug lineage-15.1 W 1
@@ -39,9 +40,12 @@ mido userdebug lineage-15.1 W 2
 mint userdebug lineage-15.1 W 2
 nash userdebug lineage-15.1 W 2
 natrium userdebug lineage-15.1 W 2
+odin userdebug lineage-15.1 W 2
 oneplus2 userdebug lineage-15.1 W 2
 oneplus3 userdebug lineage-15.1 W 2
 pioneer userdebug lineage-15.1 W 2
+pollux userdebug lineage-15.1 W 2
+pollux_windy userdebug lineage-15.1 W 2
 r5 userdebug lineage-15.1 W 2
 r7sf userdebug lineage-15.1 W 2
 r7plus userdebug lineage-15.1 W 2
@@ -56,6 +60,7 @@ tsubasa userdebug lineage-15.1 W 2
 whyred userdebug lineage-15.1 W 2
 wt88047 userdebug lineage-15.1 W 2
 x2 userdebug lineage-15.1 W 2
+yuga userdebug lineage-15.1 W 2
 zl1 userdebug lineage-15.1 W 2
 
 # Weekly cm-14.1
@@ -82,7 +87,6 @@ d851 userdebug cm-14.1 W 3
 d852 userdebug cm-14.1 W 3
 d855 userdebug cm-14.1 W 3
 deb userdebug cm-14.1 W 3
-dogo userdebug cm-14.1 W 3
 ether userdebug cm-14.1 W 3
 f400 userdebug cm-14.1 W 3
 falcon userdebug cm-14.1 W 3
@@ -149,7 +153,6 @@ n5100 userdebug cm-14.1 W 6
 n5110 userdebug cm-14.1 W 6
 n5120 userdebug cm-14.1 W 6
 nx512j userdebug cm-14.1 W 6
-odin userdebug cm-14.1 W 6
 onyx userdebug cm-14.1 W 6
 osprey userdebug cm-14.1 W 6
 otus userdebug cm-14.1 W 6
@@ -158,8 +161,6 @@ paella userdebug cm-14.1 W 6
 peregrine userdebug cm-14.1 W 6
 piccolo userdebug cm-14.1 W 6
 pme userdebug cm-14.1 W 6
-pollux userdebug cm-14.1 W 6
-pollux_windy userdebug cm-14.1 W 6
 s2 userdebug cm-14.1 W 6
 seed userdebug cm-14.1 W 6
 shieldtablet userdebug cm-14.1 W 6
@@ -191,6 +192,5 @@ vs995 userdebug cm-14.1 W 7
 w5 userdebug cm-14.1 W 7
 w7 userdebug cm-14.1 W 7
 xt897 userdebug cm-14.1 W 7
-yuga userdebug cm-14.1 W 7
 zerofltexx userdebug cm-14.1 W 7
 zeroltexx userdebug cm-14.1 W 7
