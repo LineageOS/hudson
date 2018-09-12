@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "072c4b6e_537f7c64",
+        "filename": "updater/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2018-09-12T03:34:19Z",
+      "side": 1,
+      "message": "payton should go after paella and before peach",
+      "range": {
+        "startLine": 165,
+        "startChar": 0,
+        "endLine": 165,
+        "endChar": 13
+      },
+      "revId": "6f0b4b050ddcf9be3a6e810d650e83d2eaec0849",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
