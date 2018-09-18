@@ -10,7 +10,6 @@
     ],
     "FP2": [
         "android_device_fairphone_FP2",
-        "android_device_qcom_common",
         "android_kernel_fairphone_msm8974",
         "android_packages_resources_devicesettings"
     ],
@@ -18,6 +17,10 @@
         "android_device_asus_P024",
         "android_device_qcom_common",
         "android_kernel_asus_P024"
+    ],
+    "X00TD": [
+        "android_device_asus_X00TD",
+        "android_kernel_asus_sdm660"
     ],
     "YTX703F": [
         "android_device_lenovo_YTX703-common",
@@ -60,14 +63,14 @@
     "Z00L": [
         "android_device_asus_Z00L",
         "android_device_asus_msm8916-common",
-        "android_device_qcom_common",
-        "android_kernel_asus_msm8916"
+        "android_kernel_asus_msm8916",
+        "android_packages_resources_devicesettings"
     ],
     "Z00T": [
         "android_device_asus_Z00T",
         "android_device_asus_msm8916-common",
-        "android_device_qcom_common",
-        "android_kernel_asus_msm8916"
+        "android_kernel_asus_msm8916",
+        "android_packages_resources_devicesettings"
     ],
     "a5y17lte": [
         "android_device_samsung_a5y17lte",
@@ -92,6 +95,14 @@
         "android_device_qcom_common",
         "android_external_bson",
         "android_kernel_motorola_msm8953",
+        "android_packages_resources_devicesettings"
+    ],
+    "albus": [
+        "android_device_motorola_albus",
+        "android_hardware_qcom_audio",
+        "android_hardware_qcom_display",
+        "android_hardware_qcom_media",
+        "android_kernel_motorola_msm8996",
         "android_packages_resources_devicesettings"
     ],
     "angler": [
@@ -122,10 +133,7 @@
         "android_device_zte_axon7",
         "android_kernel_zte_msm8996",
         "android_packages_apps_FlipFlap",
-        "android_packages_resources_devicesettings",
-        "android_vendor_nxp-nfc_opensource_Nfc",
-        "android_vendor_nxp-nfc_opensource_frameworks",
-        "android_vendor_nxp-nfc_opensource_libnfc-nci"
+        "android_packages_resources_devicesettings"
     ],
     "bacon": [
         "android_device_oneplus_bacon",
@@ -174,6 +182,18 @@
         "android_hardware_sony_thermanager",
         "android_kernel_sony_msm8974"
     ],
+    "chagalllte": [
+        "android_device_samsung_chagalllte",
+        "android_device_samsung_exynos5420-common",
+        "android_external_stlport",
+        "android_hardware_samsung",
+        "android_hardware_samsung_slsi-cm_exynos",
+        "android_hardware_samsung_slsi-cm_exynos5",
+        "android_hardware_samsung_slsi-cm_exynos5420",
+        "android_hardware_samsung_slsi-cm_openmax",
+        "android_kernel_samsung_exynos5420",
+        "android_packages_resources_devicesettings"
+    ],
     "chagallwifi": [
         "android_device_samsung_chagallwifi",
         "android_device_samsung_exynos5420-common",
@@ -199,7 +219,6 @@
         "android_device_cyanogen_msm8916-common",
         "android_device_huawei_che10",
         "android_device_huawei_msm8916-common",
-        "android_device_qcom_common",
         "android_kernel_huawei_msm8916"
     ],
     "cheeseburger": [
@@ -213,7 +232,6 @@
         "android_device_cyanogen_msm8916-common",
         "android_device_huawei_cherry",
         "android_device_huawei_msm8916-common",
-        "android_device_qcom_common",
         "android_kernel_huawei_msm8916"
     ],
     "chiron": [
@@ -238,7 +256,6 @@
     ],
     "crackling": [
         "android_device_cyanogen_msm8916-common",
-        "android_device_qcom_common",
         "android_device_wileyfox_crackling",
         "android_kernel_cyanogen_msm8916"
     ],
@@ -297,28 +314,36 @@
         "android_device_lge_g2-common",
         "android_device_qcom_common",
         "android_external_sony_boringssl-compat",
-        "android_kernel_lge_msm8974"
+        "android_kernel_lge_msm8974",
+        "android_packages_apps_FlipFlap",
+        "android_packages_resources_devicesettings"
     ],
     "d801": [
         "android_device_lge_d801",
         "android_device_lge_g2-common",
         "android_device_qcom_common",
         "android_external_sony_boringssl-compat",
-        "android_kernel_lge_msm8974"
+        "android_kernel_lge_msm8974",
+        "android_packages_apps_FlipFlap",
+        "android_packages_resources_devicesettings"
     ],
     "d802": [
         "android_device_lge_d802",
         "android_device_lge_g2-common",
         "android_device_qcom_common",
         "android_external_sony_boringssl-compat",
-        "android_kernel_lge_msm8974"
+        "android_kernel_lge_msm8974",
+        "android_packages_apps_FlipFlap",
+        "android_packages_resources_devicesettings"
     ],
     "d803": [
         "android_device_lge_d803",
         "android_device_lge_g2-common",
         "android_device_qcom_common",
         "android_external_sony_boringssl-compat",
-        "android_kernel_lge_msm8974"
+        "android_kernel_lge_msm8974",
+        "android_packages_apps_FlipFlap",
+        "android_packages_resources_devicesettings"
     ],
     "d850": [
         "android_device_lge_d850",
@@ -360,14 +385,26 @@
     "devicesettings": [
         "android_packages_resources_devicesettings"
     ],
+    "dipper": [
+        "android_device_xiaomi_dipper",
+        "android_device_xiaomi_sdm845-common",
+        "android_kernel_xiaomi_sdm845"
+    ],
+    "discovery": [
+        "android_device_sony_discovery",
+        "android_device_sony_nile-common",
+        "android_hardware_sony_macaddrsetup",
+        "android_kernel_sony_sdm660"
+    ],
     "dogo": [
         "android_device_qcom_common",
         "android_device_sony_common",
         "android_device_sony_dogo",
         "android_device_sony_fusion3-common",
-        "android_external_stlport",
+        "android_hardware_sony_DASH",
         "android_hardware_sony_thermanager",
-        "android_kernel_sony_apq8064"
+        "android_kernel_sony_apq8064",
+        "android_packages_resources_devicesettings"
     ],
     "dragon": [
         "android_device_google_dragon",
@@ -382,6 +419,12 @@
     ],
     "emulatorx86": [
         "android_device_generic_emulatorx86"
+    ],
+    "enchilada": [
+        "android_device_oneplus_enchilada",
+        "android_device_oneplus_sdm845-common",
+        "android_kernel_oneplus_sdm845",
+        "android_packages_resources_devicesettings"
     ],
     "espresso3g": [
         "android_device_samsung_espresso3g",
@@ -431,7 +474,6 @@
     ],
     "ferrari": [
         "android_device_cyanogen_msm8916-common",
-        "android_device_qcom_common",
         "android_device_xiaomi_ferrari",
         "android_external_stlport",
         "android_kernel_xiaomi_ferrari",
@@ -592,7 +634,6 @@
         "android_packages_resources_devicesettings"
     ],
     "gts210velte": [
-        "android_device_qcom_common",
         "android_device_samsung_gts210velte",
         "android_device_samsung_msm8976-common",
         "android_hardware_samsung",
@@ -601,7 +642,6 @@
         "android_packages_resources_devicesettings"
     ],
     "gts210vewifi": [
-        "android_device_qcom_common",
         "android_device_samsung_gts210vewifi",
         "android_device_samsung_msm8976-common",
         "android_hardware_samsung",
@@ -632,7 +672,6 @@
         "android_packages_resources_devicesettings"
     ],
     "gts28velte": [
-        "android_device_qcom_common",
         "android_device_samsung_gts28velte",
         "android_device_samsung_msm8976-common",
         "android_hardware_samsung",
@@ -641,7 +680,6 @@
         "android_packages_resources_devicesettings"
     ],
     "gts28vewifi": [
-        "android_device_qcom_common",
         "android_device_samsung_gts28vewifi",
         "android_device_samsung_msm8976-common",
         "android_hardware_samsung",
@@ -661,7 +699,6 @@
         "android_packages_resources_devicesettings"
     ],
     "h3gduoschn": [
-        "android_device_qcom_common",
         "android_device_samsung_h3gduoschn",
         "android_device_samsung_hlte-common",
         "android_device_samsung_msm8974-common",
@@ -761,7 +798,6 @@
         "android_packages_resources_devicesettings"
     ],
     "ham": [
-        "android_device_qcom_common",
         "android_device_zuk_ham",
         "android_kernel_cyanogen_msm8974",
         "android_packages_resources_devicesettings"
@@ -846,6 +882,13 @@
         "android_packages_apps_FlipFlap",
         "android_packages_resources_devicesettings"
     ],
+    "hima": [
+        "android_device_htc_hima",
+        "android_device_qcom_common",
+        "android_kernel_htc_msm8994",
+        "android_packages_apps_FlipFlap",
+        "android_packages_resources_devicesettings"
+    ],
     "himaul": [
         "android_device_htc_hima-common",
         "android_device_htc_himaul",
@@ -863,7 +906,6 @@
         "android_packages_resources_devicesettings"
     ],
     "hlte": [
-        "android_device_qcom_common",
         "android_device_samsung_hlte",
         "android_device_samsung_hlte-common",
         "android_device_samsung_msm8974-common",
@@ -874,7 +916,6 @@
         "android_packages_resources_devicesettings"
     ],
     "hltechn": [
-        "android_device_qcom_common",
         "android_device_samsung_hlte-common",
         "android_device_samsung_hltechn",
         "android_device_samsung_msm8974-common",
@@ -885,7 +926,6 @@
         "android_packages_resources_devicesettings"
     ],
     "hltekor": [
-        "android_device_qcom_common",
         "android_device_samsung_hlte-common",
         "android_device_samsung_hltekor",
         "android_device_samsung_msm8974-common",
@@ -896,7 +936,6 @@
         "android_packages_resources_devicesettings"
     ],
     "hltetmo": [
-        "android_device_qcom_common",
         "android_device_samsung_hlte-common",
         "android_device_samsung_hltetmo",
         "android_device_samsung_msm8974-common",
@@ -1027,9 +1066,18 @@
     ],
     "jalebi": [
         "android_device_cyanogen_msm8916-common",
-        "android_device_qcom_common",
         "android_device_yu_jalebi",
         "android_kernel_cyanogen_msm8916"
+    ],
+    "jasmine": [
+        "android_device_qcom_common",
+        "android_device_zte_jasmine",
+        "android_kernel_zte_msm8952"
+    ],
+    "jason": [
+        "android_device_xiaomi_jason",
+        "android_kernel_xiaomi_jason",
+        "android_packages_resources_devicesettings"
     ],
     "jewel": [
         "android_device_htc_jewel",
@@ -1164,7 +1212,6 @@
     ],
     "kipper": [
         "android_device_cyanogen_msm8916-common",
-        "android_device_qcom_common",
         "android_device_wileyfox_kipper",
         "android_kernel_cyanogen_msm8916"
     ],
@@ -1191,7 +1238,6 @@
         "android_packages_resources_devicesettings"
     ],
     "klte": [
-        "android_device_qcom_common",
         "android_device_samsung_klte",
         "android_device_samsung_klte-common",
         "android_device_samsung_msm8974-common",
@@ -1202,7 +1248,6 @@
         "android_packages_resources_devicesettings"
     ],
     "klteactivexx": [
-        "android_device_qcom_common",
         "android_device_samsung_klte-common",
         "android_device_samsung_klteactivexx",
         "android_device_samsung_msm8974-common",
@@ -1213,7 +1258,6 @@
         "android_packages_resources_devicesettings"
     ],
     "kltechn": [
-        "android_device_qcom_common",
         "android_device_samsung_klte-common",
         "android_device_samsung_kltechn",
         "android_device_samsung_msm8974-common",
@@ -1224,7 +1268,6 @@
         "android_packages_resources_devicesettings"
     ],
     "kltechnduo": [
-        "android_device_qcom_common",
         "android_device_samsung_klte-common",
         "android_device_samsung_kltechnduo",
         "android_device_samsung_msm8974-common",
@@ -1235,7 +1278,6 @@
         "android_packages_resources_devicesettings"
     ],
     "klteduos": [
-        "android_device_qcom_common",
         "android_device_samsung_klte-common",
         "android_device_samsung_klteduos",
         "android_device_samsung_msm8974-common",
@@ -1246,7 +1288,6 @@
         "android_packages_resources_devicesettings"
     ],
     "kltedv": [
-        "android_device_qcom_common",
         "android_device_samsung_klte-common",
         "android_device_samsung_kltedv",
         "android_device_samsung_msm8974-common",
@@ -1257,7 +1298,6 @@
         "android_packages_resources_devicesettings"
     ],
     "kltekdi": [
-        "android_device_qcom_common",
         "android_device_samsung_klte-common",
         "android_device_samsung_kltekdi",
         "android_device_samsung_msm8974-common",
@@ -1268,7 +1308,6 @@
         "android_packages_resources_devicesettings"
     ],
     "kltekor": [
-        "android_device_qcom_common",
         "android_device_samsung_klte-common",
         "android_device_samsung_kltekor",
         "android_device_samsung_msm8974-common",
@@ -1279,7 +1318,6 @@
         "android_packages_resources_devicesettings"
     ],
     "kltespr": [
-        "android_device_qcom_common",
         "android_device_samsung_klte-common",
         "android_device_samsung_kltespr",
         "android_device_samsung_msm8974-common",
@@ -1290,7 +1328,6 @@
         "android_packages_resources_devicesettings"
     ],
     "kltesprsports": [
-        "android_device_qcom_common",
         "android_device_samsung_klte-common",
         "android_device_samsung_kltesprsports",
         "android_device_samsung_msm8974-common",
@@ -1301,7 +1338,6 @@
         "android_packages_resources_devicesettings"
     ],
     "klteusc": [
-        "android_device_qcom_common",
         "android_device_samsung_klte-common",
         "android_device_samsung_klteusc",
         "android_device_samsung_msm8974-common",
@@ -1312,7 +1348,6 @@
         "android_packages_resources_devicesettings"
     ],
     "kltevzw": [
-        "android_device_qcom_common",
         "android_device_samsung_klte-common",
         "android_device_samsung_kltevzw",
         "android_device_samsung_msm8974-common",
@@ -1323,7 +1358,6 @@
         "android_packages_resources_devicesettings"
     ],
     "ks01lte": [
-        "android_device_qcom_common",
         "android_device_samsung_ks01lte",
         "android_device_samsung_msm8974-common",
         "android_device_samsung_qcom-common",
@@ -1341,7 +1375,9 @@
         "android_device_lge_l01f",
         "android_device_qcom_common",
         "android_external_sony_boringssl-compat",
-        "android_kernel_lge_msm8974"
+        "android_kernel_lge_msm8974",
+        "android_packages_apps_FlipFlap",
+        "android_packages_resources_devicesettings"
     ],
     "l900": [
         "android_device_samsung_l900",
@@ -1355,9 +1391,10 @@
         "android_packages_resources_devicesettings"
     ],
     "land": [
-        "android_device_qcom_common",
         "android_device_xiaomi_land",
-        "android_kernel_xiaomi_msm8937"
+        "android_device_xiaomi_msm8937-common",
+        "android_kernel_xiaomi_msm8937",
+        "android_packages_resources_devicesettings"
     ],
     "lentislte": [
         "android_device_qcom_common",
@@ -1371,12 +1408,10 @@
     ],
     "lettuce": [
         "android_device_cyanogen_msm8916-common",
-        "android_device_qcom_common",
         "android_device_yu_lettuce",
         "android_kernel_cyanogen_msm8916"
     ],
     "libra": [
-        "android_device_qcom_common",
         "android_device_xiaomi_libra",
         "android_kernel_xiaomi_msm8992"
     ],
@@ -1391,7 +1426,9 @@
         "android_device_lge_ls980",
         "android_device_qcom_common",
         "android_external_sony_boringssl-compat",
-        "android_kernel_lge_msm8974"
+        "android_kernel_lge_msm8974",
+        "android_packages_apps_FlipFlap",
+        "android_packages_resources_devicesettings"
     ],
     "ls990": [
         "android_device_lge_g3-common",
@@ -1418,7 +1455,6 @@
         "android_packages_resources_devicesettings"
     ],
     "lt03lte": [
-        "android_device_qcom_common",
         "android_device_samsung_lt03lte",
         "android_device_samsung_msm8974-common",
         "android_device_samsung_qcom-common",
@@ -1541,7 +1577,6 @@
         "android_packages_resources_devicesettings"
     ],
     "mondrianwifi": [
-        "android_device_qcom_common",
         "android_device_samsung_mondrianwifi",
         "android_device_samsung_msm8974-common",
         "android_device_samsung_qcom-common",
@@ -1555,7 +1590,8 @@
         "android_device_qcom_common",
         "android_external_sony_boringssl-compat",
         "android_kernel_huawei_msm8928",
-        "android_packages_apps_FlipFlap"
+        "android_packages_apps_FlipFlap",
+        "android_packages_resources_devicesettings"
     ],
     "muskie": [
         "android_device_google_muskie",
@@ -1707,9 +1743,10 @@
         "android_device_sony_common",
         "android_device_sony_fusion3-common",
         "android_device_sony_odin",
-        "android_external_stlport",
+        "android_hardware_sony_DASH",
         "android_hardware_sony_thermanager",
-        "android_kernel_sony_apq8064"
+        "android_kernel_sony_apq8064",
+        "android_packages_resources_devicesettings"
     ],
     "oneplus2": [
         "android_device_oneplus_oneplus2",
@@ -1750,6 +1787,13 @@
         "android_device_qcom_common",
         "android_kernel_bq_msm8939"
     ],
+    "payton": [
+        "android_device_motorola_payton",
+        "android_device_motorola_sdm660-common",
+        "android_external_bson",
+        "android_kernel_motorola_msm8998",
+        "android_packages_resources_devicesettings"
+    ],
     "peach": [
         "android_device_ark_msm8916-common",
         "android_device_ark_peach",
@@ -1769,6 +1813,12 @@
         "android_device_qcom_common",
         "android_kernel_bq_msm8939"
     ],
+    "pioneer": [
+        "android_device_sony_nile-common",
+        "android_device_sony_pioneer",
+        "android_hardware_sony_macaddrsetup",
+        "android_kernel_sony_sdm660"
+    ],
     "pme": [
         "android_device_htc_pme",
         "android_device_qcom_common",
@@ -1779,15 +1829,21 @@
         "android_vendor_nxp-nfc_opensource_frameworks",
         "android_vendor_nxp-nfc_opensource_libnfc-nci"
     ],
+    "polaris": [
+        "android_device_xiaomi_polaris",
+        "android_device_xiaomi_sdm845-common",
+        "android_kernel_xiaomi_sdm845"
+    ],
     "pollux": [
         "android_device_qcom_common",
         "android_device_sony_common",
         "android_device_sony_fusion3-common",
         "android_device_sony_pollux",
         "android_device_sony_pollux-common",
-        "android_external_stlport",
+        "android_hardware_sony_DASH",
         "android_hardware_sony_thermanager",
-        "android_kernel_sony_apq8064"
+        "android_kernel_sony_apq8064",
+        "android_packages_resources_devicesettings"
     ],
     "pollux_windy": [
         "android_device_qcom_common",
@@ -1795,9 +1851,10 @@
         "android_device_sony_fusion3-common",
         "android_device_sony_pollux-common",
         "android_device_sony_pollux_windy",
-        "android_external_stlport",
+        "android_hardware_sony_DASH",
         "android_hardware_sony_thermanager",
-        "android_kernel_sony_apq8064"
+        "android_kernel_sony_apq8064",
+        "android_packages_resources_devicesettings"
     ],
     "potter": [
         "android_device_motorola_potter"
@@ -1813,7 +1870,6 @@
         "android_device_oppo_msm8939-common",
         "android_device_oppo_r5",
         "android_external_sony_boringssl-compat",
-        "android_external_stlport",
         "android_kernel_oppo_msm8939",
         "android_packages_resources_devicesettings"
     ],
@@ -1877,6 +1933,12 @@
         "android_device_yu_sambar",
         "android_kernel_cyanogen_msm8994"
     ],
+    "santoni": [
+        "android_device_xiaomi_msm8937-common",
+        "android_device_xiaomi_santoni",
+        "android_kernel_xiaomi_msm8937",
+        "android_packages_resources_devicesettings"
+    ],
     "scorpio": [
         "android_device_xiaomi_msm8996-common",
         "android_device_xiaomi_scorpio",
@@ -1886,11 +1948,10 @@
     "seed": [
         "android_device_cyanogen_msm8916-common",
         "android_device_google_seed",
-        "android_device_qcom_common",
         "android_kernel_google_seed"
     ],
     "sepolicy": [
-        "android_device_qcom_sepolicy"
+        "android_device_lineage_sepolicy"
     ],
     "serrano3gxx": [
         "android_device_samsung_msm8930-common",
@@ -2138,7 +2199,6 @@
     ],
     "tomato": [
         "android_device_cyanogen_msm8916-common",
-        "android_device_qcom_common",
         "android_device_yu_tomato",
         "android_kernel_cyanogen_msm8916"
     ],
@@ -2282,7 +2342,9 @@
         "android_device_lge_vs980",
         "android_device_qcom_common",
         "android_external_sony_boringssl-compat",
-        "android_kernel_lge_msm8974"
+        "android_kernel_lge_msm8974",
+        "android_packages_apps_FlipFlap",
+        "android_packages_resources_devicesettings"
     ],
     "vs985": [
         "android_device_lge_g3-common",
@@ -2321,11 +2383,14 @@
         "android_device_qcom_common",
         "android_kernel_google_wahoo"
     ],
+    "whyred": [
+        "android_device_xiaomi_whyred",
+        "android_kernel_xiaomi_sdm660",
+        "android_packages_resources_devicesettings"
+    ],
     "wt88047": [
         "android_device_cyanogen_msm8916-common",
-        "android_device_qcom_common",
         "android_device_wingtech_wt88047",
-        "android_external_stlport",
         "android_kernel_wingtech_msm8916"
     ],
     "x2": [
@@ -2370,9 +2435,10 @@
         "android_device_sony_common",
         "android_device_sony_fusion3-common",
         "android_device_sony_yuga",
-        "android_external_stlport",
+        "android_hardware_sony_DASH",
         "android_hardware_sony_thermanager",
-        "android_kernel_sony_apq8064"
+        "android_kernel_sony_apq8064",
+        "android_packages_resources_devicesettings"
     ],
     "z3": [
         "android_device_qcom_common",
