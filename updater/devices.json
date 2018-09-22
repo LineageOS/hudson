@@ -96,6 +96,7 @@
   {  "model": "jagnm", "oem": "LG", "name": "G3 Beat"},
   {  "model": "jalebi", "oem": "YU", "name": "Yunique"},
   {  "model": "jasmine", "oem": "ZTE", "name": "Trek 2 HD"},
+  {  "model": "jason", "oem": "Xiaomi", "name": "Mi Note 3"},
   {  "model": "jfltevzw", "oem": "Samsung", "name": "Galaxy S4 (VZW)"},
   {  "model": "jfltexx", "oem": "Samsung", "name": "Galaxy S4 (GT-I9505/G, SGH-M919)"},
   {  "model": "k3gxx", "oem": "Samsung", "name": "Galaxy S5 (International 3G)"},
