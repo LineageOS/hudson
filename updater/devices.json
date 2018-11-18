@@ -235,4 +235,4 @@
   {  "model": "zerofltexx", "oem": "Samsung", "name": "Galaxy S6"},
   {  "model": "zeroltexx", "oem": "Samsung", "name": "Galaxy S6 Edge"},
   {  "model": "zl1", "oem": "LeEco", "name": "Le Pro 3"}
-]
+  {  "model": "markw", "oem":"Xiaomi", "name": " Redmi 4 Prime"}
