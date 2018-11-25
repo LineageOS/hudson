@@ -1,0 +1,4 @@
+# LineageOS build target list
+# <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
+
+bacon userdebug lineage-15.1 W
