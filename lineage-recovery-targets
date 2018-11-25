@@ -1,0 +1,5 @@
+# LineageOS build target list
+# <device> <build_type> <branch name> <type ("N"ormal, "A"/B>
+
+bacon userdebug lineage-15.1 N
+mata userdebug lineage-15.1 A
