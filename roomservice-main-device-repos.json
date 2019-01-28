@@ -1,0 +1,38 @@
+{
+  "beryllium": {
+    "repository": "android_device_xiaomi_beryllium",
+    "target_path": "device/xiaomi/beryllium"
+  },
+  "blueline": {
+    "repository": "android_device_google_crosshatch",
+    "target_path": "device/google/crosshatch"
+  },
+  "crosshatch": {
+    "repository": "android_device_google_crosshatch",
+    "target_path": "device/google/crosshatch"
+  },
+  "marlin": {
+    "repository": "android_device_google_marlin",
+    "target_path": "device/google/marlin"
+  },
+  "mata": {
+    "repository": "android_device_essential_mata",
+    "target_path": "device/essential/mata"
+  },
+  "polaris": {
+    "repository": "android_device_xiaomi_polaris",
+    "target_path": "device/xiaomi/polaris"
+  },
+  "sailfish": {
+    "repository": "android_device_google_marlin",
+    "target_path": "device/google/marlin"
+  },
+  "taimen": {
+    "repository": "android_device_google_taimen",
+    "target_path": "device/google/taimen"
+  },
+  "walleye": {
+    "repository": "android_device_google_muskie",
+    "target_path": "device/google/muskie"
+  }
+}
