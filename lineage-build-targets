@@ -1,6 +1,18 @@
 # LineageOS build target list
 # <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
 
+# Nightly lineage-16.0
+beryllium userdebug lineage-16.0 N
+blueline userdebug lineage-16.0 N
+crosshatch userdebug lineage-16.0 N
+enchilada userdebug lineage-16.0 N
+marlin userdebug lineage-16.0 N
+mata userdebug lineage-16.0 N
+polaris userdebug lineage-16.0 N
+sailfish userdebug lineage-16.0 N
+taimen userdebug lineage-16.0 N
+walleye userdebug lineage-16.0 N
+
 # Nightly lineage-15.1
 angler userdebug lineage-15.1 N
 axon7 userdebug lineage-15.1 N
@@ -52,7 +64,6 @@ lentislte userdebug lineage-15.1 N
 lettuce userdebug lineage-15.1 N
 lithium userdebug lineage-15.1 N
 mako userdebug lineage-15.1 N
-marlin userdebug lineage-15.1 N
 mido userdebug lineage-15.1 N
 mint userdebug lineage-15.1 N
 nash userdebug lineage-15.1 N
@@ -69,7 +80,6 @@ r7sf userdebug lineage-15.1 N
 r7plus userdebug lineage-15.1 N
 s2 userdebug lineage-15.1 N
 sagit userdebug lineage-15.1 N
-sailfish userdebug lineage-15.1 N
 santoni userdebug lineage-15.1 N
 scorpio userdebug lineage-15.1 N
 shamu userdebug lineage-15.1 N
