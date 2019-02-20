@@ -1,173 +1,106 @@
 # LineageOS build target list
 # <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
 
-# Nightly lineage-15.1
-angler userdebug lineage-15.1 N
-axon7 userdebug lineage-15.1 N
-bacon userdebug lineage-15.1 N
-bardock userdebug lineage-15.1 N
-bardockpro userdebug lineage-15.1 N
-bullhead userdebug lineage-15.1 N
-capricorn userdebug lineage-15.1 N
-che10 userdebug lineage-15.1 N
-cheeseburger userdebug lineage-15.1 N
-cherry userdebug lineage-15.1 N
-chiron userdebug lineage-15.1 N
-crackling userdebug lineage-15.1 N
-d800 userdebug lineage-15.1 N
-d801 userdebug lineage-15.1 N
-d802 userdebug lineage-15.1 N
-d803 userdebug lineage-15.1 N
-d850 userdebug lineage-15.1 N
-d851 userdebug lineage-15.1 N
-d852 userdebug lineage-15.1 N
-d855 userdebug lineage-15.1 N
-discovery userdebug lineage-15.1 N
-dogo userdebug lineage-15.1 N
-dragon userdebug lineage-15.1 N
-dumpling userdebug lineage-15.1 N
-ether userdebug lineage-15.1 N
-f400 userdebug lineage-15.1 N
-FP2 userdebug lineage-15.1 N
-find7 userdebug lineage-15.1 N
-foster userdebug lineage-15.1 N
-fugu userdebug lineage-15.1 N
-gemini userdebug lineage-15.1 N
-griffin userdebug lineage-15.1 N
-gts210vewifi userdebug lineage-15.1 N
-gts28vewifi userdebug lineage-15.1 N
-ham userdebug lineage-15.1 N
-hayabusa userdebug lineage-15.1 N
-huashan userdebug lineage-15.1 N
-jason userdebug lineage-15.1 N
-kccat6 userdebug lineage-15.1 N
-kipper userdebug lineage-15.1 N
-kiwi userdebug lineage-15.1 N
-klte userdebug lineage-15.1 N
-klteactivexx userdebug lineage-15.1 N
-kltechn userdebug lineage-15.1 N
-kltechnduo userdebug lineage-15.1 N
-klteduos userdebug lineage-15.1 N
-kltedv userdebug lineage-15.1 N
-kltekdi userdebug lineage-15.1 N
-kltekor userdebug lineage-15.1 N
-kuntao userdebug lineage-15.1 N
-land userdebug lineage-15.1 N
-lentislte userdebug lineage-15.1 N
-lettuce userdebug lineage-15.1 N
-ls990 userdebug lineage-15.1 N
-lithium userdebug lineage-15.1 N
-mako userdebug lineage-15.1 N
-marlin userdebug lineage-15.1 N
-mido userdebug lineage-15.1 N
-mint userdebug lineage-15.1 N
-nash userdebug lineage-15.1 N
-natrium userdebug lineage-15.1 N
-odin userdebug lineage-15.1 N
-oneplus2 userdebug lineage-15.1 N
-oneplus3 userdebug lineage-15.1 N
-payton userdebug lineage-15.1 N
-pioneer userdebug lineage-15.1 N
-pollux userdebug lineage-15.1 N
-pollux_windy userdebug lineage-15.1 N
-r5 userdebug lineage-15.1 N
-r7sf userdebug lineage-15.1 N
-r7plus userdebug lineage-15.1 N
-s2 userdebug lineage-15.1 N
-sagit userdebug lineage-15.1 N
-sailfish userdebug lineage-15.1 N
-santoni userdebug lineage-15.1 N
-scorpio userdebug lineage-15.1 N
-shamu userdebug lineage-15.1 N
-star2lte userdebug lineage-15.1 N
-starlte userdebug lineage-15.1 N
-tissot userdebug lineage-15.1 N
-vs985 userdebug lineage-15.1 N
-tsubasa userdebug lineage-15.1 N
-wt88047 userdebug lineage-15.1 N
-X00TD userdebug lineage-15.1 N
-x2 userdebug lineage-15.1 N
-YTX703F userdebug lineage-15.1 N
-YTX703L userdebug lineage-15.1 N
-yuga userdebug lineage-15.1 N
-zl1 userdebug lineage-15.1 N
+# Nightly lineage-16.0
+bacon userdebug lineage-16.0 N
+berkeley userdebug lineage-16.0 N
+beryllium userdebug lineage-16.0 N
+charlotte userdebug lineage-16.0 N
+cheeseburger userdebug lineage-16.0 N
+discovery userdebug lineage-16.0 N
+dumpling userdebug lineage-16.0 N
+find7 userdebug lineage-16.0 N
+gts210vewifi userdebug lineage-16.0 N
+gts28vewifi userdebug lineage-16.0 N
+ham userdebug lineage-16.0 N
+jason userdebug lineage-16.0 N
+klte userdebug lineage-16.0 N
+klteactivexx userdebug lineage-16.0 N
+kltechn userdebug lineage-16.0 N
+kltechnduo userdebug lineage-16.0 N
+klteduos userdebug lineage-16.0 N
+kltedv userdebug lineage-16.0 N
+kltekdi userdebug lineage-16.0 N
+kltekor userdebug lineage-16.0 N
+oneplus3 userdebug lineage-16.0 N
+shamu userdebug lineage-16.0 N
+nash userdebug lineage-16.0 N
+payton userdebug lineage-16.0 N
+pioneer userdebug lineage-16.0 N
+polaris userdebug lineage-16.0 N
+x2 userdebug lineage-16.0 N
+zl1 userdebug lineage-16.0 N
 
-# Monthly cm-14.1
-a5y17lte userdebug cm-14.1 M
-a7y17lte userdebug cm-14.1 M
-addison userdebug cm-14.1 M
-cancro userdebug cm-14.1 M
-chagalllte userdebug cm-14.1 M
-chagallwifi userdebug cm-14.1 M
-chaozu userdebug cm-14.1 M
-falcon userdebug cm-14.1 M
-flo userdebug cm-14.1 M
-flounder userdebug cm-14.1 M
-flounder_lte userdebug cm-14.1 M
-g2m userdebug cm-14.1 M
-gohan userdebug cm-14.1 M
-h830 userdebug cm-14.1 M
-h850 userdebug cm-14.1 M
-h870 userdebug cm-14.1 M
-h910 userdebug cm-14.1 M
-h918 userdebug cm-14.1 M
-hammerhead userdebug cm-14.1 M
-harpia userdebug cm-14.1 M
-hero2lte userdebug cm-14.1 M
-herolte userdebug cm-14.1 M
-hlte userdebug cm-14.1 M
-hltetmo userdebug cm-14.1 M
-i9300 userdebug cm-14.1 M
-ido userdebug cm-14.1 M
-ivy userdebug cm-14.1 M
-jag3gds userdebug cm-14.1 M
-jagnm userdebug cm-14.1 M
-jasmine userdebug cm-14.1 M
-jfltevzw userdebug cm-14.1 M
-jfltexx userdebug cm-14.1 M
-karin userdebug cm-14.1 M
-karin_windy userdebug cm-14.1 M
-kingdom userdebug cm-14.1 M
-klimtwifi userdebug cm-14.1 M
-kltesprsports userdebug cm-14.1 M
-libra userdebug cm-14.1 M
-ls997 userdebug cm-14.1 M
-lt02ltespr userdebug cm-14.1 M
-lux userdebug cm-14.1 M
-m8 userdebug cm-14.1 M
-m8d userdebug cm-14.1 M
-maserati userdebug cm-14.1 M
-merlin userdebug cm-14.1 M
-n1awifi userdebug cm-14.1 M
-n2awifi userdebug cm-14.1 M
-nx512j userdebug cm-14.1 M
-osprey userdebug cm-14.1 M
-P024 userdebug cm-14.1 M
-paella userdebug cm-14.1 M
-peregrine userdebug cm-14.1 M
-piccolo userdebug cm-14.1 M
-seed userdebug cm-14.1 M
-shieldtablet userdebug cm-14.1 M
-spyder userdebug cm-14.1 M
-sumire userdebug cm-14.1 M
-surnia userdebug cm-14.1 M
-suzuran userdebug cm-14.1 M
-t0lte userdebug cm-14.1 M
-targa userdebug cm-14.1 M
-thea userdebug cm-14.1 M
-tenshi userdebug cm-14.1 M
-titan userdebug cm-14.1 M
-tulip userdebug cm-14.1 M
-umts_spyder userdebug cm-14.1 M
-us996 userdebug cm-14.1 M
-us997 userdebug cm-14.1 M
-v1awifi userdebug cm-14.1 M
-v480 userdebug cm-14.1 M
-vegetalte userdebug cm-14.1 M
-victara userdebug cm-14.1 M
-vs995 userdebug cm-14.1 M
-w5 userdebug cm-14.1 M
-w7 userdebug cm-14.1 M
-xt897 userdebug cm-14.1 M
-zerofltexx userdebug cm-14.1 M
-zeroltexx userdebug cm-14.1 M
+# Weekly lineage-15.1
+angler userdebug lineage-15.1 W 1
+axon7 userdebug lineage-15.1 W 1
+bardock userdebug lineage-15.1 W 1
+bardockpro userdebug lineage-15.1 W 1
+bullhead userdebug lineage-15.1 W 1
+capricorn userdebug lineage-15.1 W 1
+che10 userdebug lineage-15.1 W 1
+cherry userdebug lineage-15.1 W 1
+chiron userdebug lineage-15.1 W 1
+
+crackling userdebug lineage-15.1 W 2
+d800 userdebug lineage-15.1 W 2
+d801 userdebug lineage-15.1 W 2
+d802 userdebug lineage-15.1 W 2
+d803 userdebug lineage-15.1 W 2
+d850 userdebug lineage-15.1 W 2
+d851 userdebug lineage-15.1 W 2
+d852 userdebug lineage-15.1 W 2
+d855 userdebug lineage-15.1 W 2
+dogo userdebug lineage-15.1 W 2
+
+dragon userdebug lineage-15.1 W 3
+ether userdebug lineage-15.1 W 3
+f400 userdebug lineage-15.1 W 3
+FP2 userdebug lineage-15.1 W 3
+foster userdebug lineage-15.1 W 3
+fugu userdebug lineage-15.1 W 3
+gemini userdebug lineage-15.1 W 3
+griffin userdebug lineage-15.1 W 3
+hayabusa userdebug lineage-15.1 W 3
+
+huashan userdebug lineage-15.1 W 4
+kccat6 userdebug lineage-15.1 W 4
+kipper userdebug lineage-15.1 W 4
+kiwi userdebug lineage-15.1 W 4
+kuntao userdebug lineage-15.1 W 4
+land userdebug lineage-15.1 W 4
+lentislte userdebug lineage-15.1 W 4
+lettuce userdebug lineage-15.1 W 4
+ls990 userdebug lineage-15.1 W 4
+lithium userdebug lineage-15.1 W 4
+
+mako userdebug lineage-15.1 W 5
+marlin userdebug lineage-15.1 W 5
+mido userdebug lineage-15.1 W 5
+mint userdebug lineage-15.1 W 5
+natrium userdebug lineage-15.1 W 5
+odin userdebug lineage-15.1 W 5
+oneplus2 userdebug lineage-15.1 W 5
+pollux userdebug lineage-15.1 W 5
+pollux_windy userdebug lineage-15.1 W 5
+r5 userdebug lineage-15.1 W 5
+
+r7sf userdebug lineage-15.1 W 6
+r7plus userdebug lineage-15.1 W 6
+s2 userdebug lineage-15.1 W 6
+sagit userdebug lineage-15.1 W 6
+sailfish userdebug lineage-15.1 W 6
+santoni userdebug lineage-15.1 W 6
+scorpio userdebug lineage-15.1 W 6
+shamu userdebug lineage-15.1 W 6
+star2lte userdebug lineage-15.1 W 6
+starlte userdebug lineage-15.1 W 6
+
+tissot userdebug lineage-15.1 W 7
+vs985 userdebug lineage-15.1 W 7
+tsubasa userdebug lineage-15.1 W 7
+wt88047 userdebug lineage-15.1 W 7
+X00TD userdebug lineage-15.1 W 7
+YTX703F userdebug lineage-15.1 W 7
+YTX703L userdebug lineage-15.1 W 7
+yuga userdebug lineage-15.1 W 7
