@@ -1,6 +1,36 @@
 # LineageOS build target list
 # <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
 
+# Nightly lineage-16.0
+bacon userdebug lineage-16.0 N
+berkeley userdebug lineage-16.0 N
+beryllium userdebug lineage-16.0 N
+charlotte userdebug lineage-16.0 N
+cheeseburger userdebug lineage-16.0 N
+discovery userdebug lineage-16.0 N
+dumpling userdebug lineage-16.0 N
+find7 userdebug lineage-16.0 N
+gts210vewifi userdebug lineage-16.0 N
+gts28vewifi userdebug lineage-16.0 N
+ham userdebug lineage-16.0 N
+jason userdebug lineage-16.0 N
+klte userdebug lineage-16.0 N
+klteactivexx userdebug lineage-16.0 N
+kltechn userdebug lineage-16.0 N
+kltechnduo userdebug lineage-16.0 N
+klteduos userdebug lineage-16.0 N
+kltedv userdebug lineage-16.0 N
+kltekdi userdebug lineage-16.0 N
+kltekor userdebug lineage-16.0 N
+oneplus3 userdebug lineage-16.0 N
+shamu userdebug lineage-16.0 N
+nash userdebug lineage-16.0 N
+payton userdebug lineage-16.0 N
+pioneer userdebug lineage-16.0 N
+polaris userdebug lineage-16.0 N
+x2 userdebug lineage-16.0 N
+zl1 userdebug lineage-16.0 N
+
 # Weekly lineage-15.1
 angler userdebug lineage-15.1 W
 axon7 userdebug lineage-15.1 W
