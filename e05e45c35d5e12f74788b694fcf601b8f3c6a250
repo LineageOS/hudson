@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "a5e48af9_b7325d65",
+        "filename": "lineage-build-targets",
+        "patchSetId": 24
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 15246
+      },
+      "writtenOn": "2019-02-26T19:47:22Z",
+      "side": 1,
+      "message": "shamu\u0027s added to the lineage-16.0 list above.  Should it also be removed from lineage-15.1 here, or is this intentional?",
+      "revId": "e05e45c35d5e12f74788b694fcf601b8f3c6a250",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
