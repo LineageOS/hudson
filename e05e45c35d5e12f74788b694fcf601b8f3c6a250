@@ -16,6 +16,24 @@
       "revId": "e05e45c35d5e12f74788b694fcf601b8f3c6a250",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "74fcfd7c_5a11c31a",
+        "filename": "lineage-build-targets",
+        "patchSetId": 24
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 15246
+      },
+      "writtenOn": "2019-02-26T19:52:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a5e48af9_b7325d65",
+      "revId": "e05e45c35d5e12f74788b694fcf601b8f3c6a250",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
