@@ -40,6 +40,7 @@
   {  "model": "d852", "oem": "LG", "name": "G3 (Canada)"},
   {  "model": "d855", "oem": "LG", "name": "G3 (Unlocked)"},
   {  "model": "deb", "oem": "Google", "name": "Nexus 7 2013 (4G)"},
+  {  "model": "dipper", "oem": "Xiaomi", "name": "Mi 8"},
   {  "model": "discovery", "oem": "Sony", "name": "Xperia XA2 Ultra"},
   {  "model": "dogo", "oem": "Sony", "name": "Xperia ZR"},
   {  "model": "dragon", "oem": "Google", "name": "Pixel C"},
