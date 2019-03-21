@@ -5,6 +5,7 @@
 bacon userdebug lineage-16.0 N
 berkeley userdebug lineage-16.0 N
 beryllium userdebug lineage-16.0 N
+capricorn userdebug lineage-16.0 N
 charlotte userdebug lineage-16.0 N
 cheeseburger userdebug lineage-16.0 N
 dipper userdebug lineage-16.0 N
@@ -12,6 +13,7 @@ discovery userdebug lineage-16.0 N
 dumpling userdebug lineage-16.0 N
 ether userdebug lineage-16.0 N
 find7 userdebug lineage-16.0 N
+gemini userdebug lineage-16.0 N
 griffin userdebug lineage-16.0 N
 gts210vewifi userdebug lineage-16.0 N
 gts28vewifi userdebug lineage-16.0 N
@@ -26,7 +28,9 @@ klteduos userdebug lineage-16.0 N
 kltedv userdebug lineage-16.0 N
 kltekdi userdebug lineage-16.0 N
 kltekor userdebug lineage-16.0 N
+lithium userdebug lineage-16.0 N
 marlin userdebug lineage-16.0 N
+natrium userdebug lineage-16.0 N
 lentislte userdebug lineage-16.0 N
 nash userdebug lineage-16.0 N
 oneplus2 userdebug lineage-16.0 N
@@ -35,6 +39,7 @@ payton userdebug lineage-16.0 N
 pioneer userdebug lineage-16.0 N
 polaris userdebug lineage-16.0 N
 sailfish userdebug lineage-16.0 N
+scorpio userdebug lineage-16.0 N
 shamu userdebug lineage-16.0 N
 tissot userdebug lineage-16.0 N
 x2 userdebug lineage-16.0 N
@@ -48,7 +53,6 @@ axon7 userdebug lineage-15.1 W
 bardock userdebug lineage-15.1 W
 bardockpro userdebug lineage-15.1 W
 bullhead userdebug lineage-15.1 W
-capricorn userdebug lineage-15.1 W
 che10 userdebug lineage-15.1 W
 cherry userdebug lineage-15.1 W
 chiron userdebug lineage-15.1 W
@@ -68,7 +72,6 @@ f400 userdebug lineage-15.1 W
 FP2 userdebug lineage-15.1 W
 foster userdebug lineage-15.1 W
 fugu userdebug lineage-15.1 W
-gemini userdebug lineage-15.1 W
 hayabusa userdebug lineage-15.1 W
 huashan userdebug lineage-15.1 W
 kipper userdebug lineage-15.1 W
@@ -77,11 +80,9 @@ kuntao userdebug lineage-15.1 W
 land userdebug lineage-15.1 W
 lettuce userdebug lineage-15.1 W
 ls990 userdebug lineage-15.1 W
-lithium userdebug lineage-15.1 W
 mako userdebug lineage-15.1 W
 mido userdebug lineage-15.1 W
 mint userdebug lineage-15.1 W
-natrium userdebug lineage-15.1 W
 odin userdebug lineage-15.1 W
 oneplus2 userdebug lineage-15.1 W
 pollux userdebug lineage-15.1 W
@@ -92,7 +93,6 @@ r7plus userdebug lineage-15.1 W
 s2 userdebug lineage-15.1 W
 sagit userdebug lineage-15.1 W
 santoni userdebug lineage-15.1 W
-scorpio userdebug lineage-15.1 W
 shamu userdebug lineage-15.1 W
 star2lte userdebug lineage-15.1 W
 starlte userdebug lineage-15.1 W
