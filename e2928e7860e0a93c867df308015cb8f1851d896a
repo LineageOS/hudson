@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "a3be9f94_9730910e",
+        "filename": "lineage-build-targets",
+        "patchSetId": 2
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2019-03-21T13:42:10Z",
+      "side": 1,
+      "message": "goes after nash.\na previous change put lentislte in wrong order.",
+      "range": {
+        "startLine": 33,
+        "startChar": 0,
+        "endLine": 33,
+        "endChar": 7
+      },
+      "revId": "e2928e7860e0a93c867df308015cb8f1851d896a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
