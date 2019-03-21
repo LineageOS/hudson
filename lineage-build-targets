@@ -11,6 +11,7 @@ dipper userdebug lineage-16.0 N
 discovery userdebug lineage-16.0 N
 dumpling userdebug lineage-16.0 N
 ether userdebug lineage-16.0 N
+f1f userdebug lineage-16.0 N
 find7 userdebug lineage-16.0 N
 griffin userdebug lineage-16.0 N
 gts210vewifi userdebug lineage-16.0 N
@@ -34,6 +35,9 @@ oneplus3 userdebug lineage-16.0 N
 payton userdebug lineage-16.0 N
 pioneer userdebug lineage-16.0 N
 polaris userdebug lineage-16.0 N
+r5 userdebug lineage-16.0 W
+r7sf userdebug lineage-16.0 W
+r7plus userdebug lineage-16.0 W
 sailfish userdebug lineage-16.0 N
 shamu userdebug lineage-16.0 N
 tissot userdebug lineage-16.0 N
@@ -86,9 +90,6 @@ odin userdebug lineage-15.1 W
 oneplus2 userdebug lineage-15.1 W
 pollux userdebug lineage-15.1 W
 pollux_windy userdebug lineage-15.1 W
-r5 userdebug lineage-15.1 W
-r7sf userdebug lineage-15.1 W
-r7plus userdebug lineage-15.1 W
 s2 userdebug lineage-15.1 W
 sagit userdebug lineage-15.1 W
 santoni userdebug lineage-15.1 W
