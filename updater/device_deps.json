@@ -67,6 +67,9 @@
         "android_device_huawei_angler",
         "android_kernel_huawei_angler"
     ],
+    "atv": [
+        "android_device_google_atv"
+    ],
     "axon7": [
         "android_device_qcom_common",
         "android_device_zte_axon7",
@@ -105,8 +108,7 @@
         "android_packages_resources_devicesettings"
     ],
     "bullhead": [
-        "android_device_lge_bullhead",
-        "android_kernel_lge_bullhead"
+        "android_device_lge_bullhead"
     ],
     "capricorn": [
         "android_device_xiaomi_capricorn",
@@ -229,6 +231,9 @@
         "android_device_asus_flo",
         "android_kernel_google_msm"
     ],
+    "devicesettings": [
+        "android_packages_resources_devicesettings"
+    ],
     "dipper": [
         "android_device_xiaomi_dipper",
         "android_device_xiaomi_sdm845-common",
@@ -239,10 +244,10 @@
         "android_device_sony_discovery",
         "android_device_sony_nile-common",
         "android_hardware_sony_macaddrsetup",
+        "android_hardware_sony_simdetect",
         "android_kernel_sony_sdm660"
     ],
     "dogo": [
-        "android_device_qcom_common",
         "android_device_sony_common",
         "android_device_sony_dogo",
         "android_device_sony_fusion3-common",
@@ -276,7 +281,6 @@
     ],
     "ether": [
         "android_device_nextbit_ether",
-        "android_device_qcom_common",
         "android_kernel_nextbit_msm8992"
     ],
     "f1f": [
@@ -337,6 +341,9 @@
         "android_device_xiaomi_msm8996-common",
         "android_kernel_xiaomi_msm8996",
         "android_packages_resources_devicesettings"
+    ],
+    "goldfish": [
+        "android_device_generic_goldfish"
     ],
     "griffin": [
         "android_device_motorola_griffin",
@@ -485,7 +492,6 @@
         "android_kernel_lge_hammerhead"
     ],
     "hayabusa": [
-        "android_device_qcom_common",
         "android_device_sony_blue-common",
         "android_device_sony_common",
         "android_device_sony_hayabusa",
@@ -518,7 +524,6 @@
     ],
     "hiae": [
         "android_device_htc_hiae",
-        "android_device_qcom_common",
         "android_kernel_htc_msm8952",
         "android_packages_apps_FlipFlap",
         "android_packages_resources_devicesettings"
@@ -549,7 +554,6 @@
     ],
     "hima": [
         "android_device_htc_hima",
-        "android_device_qcom_common",
         "android_kernel_htc_msm8994",
         "android_packages_apps_FlipFlap",
         "android_packages_resources_devicesettings"
@@ -611,7 +615,6 @@
         "android_packages_resources_devicesettings"
     ],
     "huashan": [
-        "android_device_qcom_common",
         "android_device_sony_common",
         "android_device_sony_huashan",
         "android_hardware_sony_DASH",
@@ -625,6 +628,7 @@
         "android_external_stlport",
         "android_hardware_samsung",
         "android_kernel_samsung_smdk4412",
+        "android_packages_apps_SamsungServiceMode",
         "android_packages_resources_devicesettings"
     ],
     "jalebi": [
@@ -867,7 +871,6 @@
         "android_packages_resources_devicesettings"
     ],
     "mint": [
-        "android_device_qcom_common",
         "android_device_sony_blue-common",
         "android_device_sony_common",
         "android_device_sony_mint",
@@ -879,7 +882,6 @@
     "muskie": [
         "android_device_google_muskie",
         "android_device_google_wahoo",
-        "android_device_qcom_common",
         "android_kernel_google_wahoo"
     ],
     "n3": [
@@ -910,7 +912,6 @@
         "android_kernel_nubia_msm8939"
     ],
     "odin": [
-        "android_device_qcom_common",
         "android_device_sony_common",
         "android_device_sony_fusion3-common",
         "android_device_sony_odin",
@@ -967,6 +968,7 @@
         "android_device_sony_nile-common",
         "android_device_sony_pioneer",
         "android_hardware_sony_macaddrsetup",
+        "android_hardware_sony_simdetect",
         "android_kernel_sony_sdm660"
     ],
     "polaris": [
@@ -976,7 +978,6 @@
         "android_packages_resources_devicesettings"
     ],
     "pollux": [
-        "android_device_qcom_common",
         "android_device_sony_common",
         "android_device_sony_fusion3-common",
         "android_device_sony_pollux",
@@ -987,7 +988,6 @@
         "android_packages_resources_devicesettings"
     ],
     "pollux_windy": [
-        "android_device_qcom_common",
         "android_device_sony_common",
         "android_device_sony_fusion3-common",
         "android_device_sony_pollux-common",
@@ -1078,6 +1078,12 @@
         "android_device_google_seed",
         "android_kernel_google_seed"
     ],
+    "sepolicy": [
+        "android_device_lineage_sepolicy"
+    ],
+    "sepolicy-legacy": [
+        "android_device_qcom_sepolicy-legacy"
+    ],
     "serrano3gxx": [
         "android_device_samsung_msm8930-common",
         "android_device_samsung_qcom-common",
@@ -1137,7 +1143,6 @@
     "taimen": [
         "android_device_google_taimen",
         "android_device_google_wahoo",
-        "android_device_qcom_common",
         "android_kernel_google_wahoo"
     ],
     "tissot": [
@@ -1163,7 +1168,6 @@
         "android_packages_resources_devicesettings"
     ],
     "tsubasa": [
-        "android_device_qcom_common",
         "android_device_sony_blue-common",
         "android_device_sony_common",
         "android_device_sony_tsubasa",
@@ -1212,7 +1216,8 @@
     "victara": [
         "android_device_motorola_victara",
         "android_kernel_motorola_msm8974",
-        "android_packages_resources_devicesettings"
+        "android_packages_resources_devicesettings",
+        "android_system_qcom"
     ],
     "vk810": [
         "android_device_lge_gpad83-common",
@@ -1243,7 +1248,6 @@
     ],
     "wahoo": [
         "android_device_google_wahoo",
-        "android_device_qcom_common",
         "android_kernel_google_wahoo"
     ],
     "whyred": [
@@ -1263,7 +1267,6 @@
         "android_packages_resources_devicesettings"
     ],
     "yuga": [
-        "android_device_qcom_common",
         "android_device_sony_common",
         "android_device_sony_fusion3-common",
         "android_device_sony_yuga",
