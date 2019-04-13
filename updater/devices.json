@@ -49,6 +49,7 @@
   {  "model": "espressowifi", "oem": "Samsung", "name": "Galaxy Tab 2 7.0 / 10.1 (Wi-Fi)"},
   {  "model": "ether", "oem": "Nextbit", "name": "Robin"},
   {  "model": "FP2", "oem": "Fairphone", "name": "Fairphone 2"},
+  {  "model": "f1f", "oem": "OPPO", "name": "F1 (International)"},
   {  "model": "f400", "oem": "LG", "name": "G3 (Korea)"},
   {  "model": "falcon", "oem": "Motorola", "name": "Moto G"},
   {  "model": "find7", "oem": "OPPO", "name": "Find 7a"},
