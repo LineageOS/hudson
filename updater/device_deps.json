@@ -170,29 +170,9 @@
         "android_kernel_samsung_universal9810",
         "android_packages_resources_devicesettings"
     ],
-    "d800": [
-        "android_device_lge_d800",
-        "android_device_lge_g2-common",
-        "android_external_sony_boringssl-compat",
-        "android_kernel_lge_msm8974"
-    ],
-    "d801": [
-        "android_device_lge_d801",
-        "android_device_lge_g2-common",
-        "android_external_sony_boringssl-compat",
-        "android_kernel_lge_msm8974"
-    ],
-    "d802": [
-        "android_device_lge_d802",
-        "android_device_lge_g2-common",
-        "android_external_sony_boringssl-compat",
-        "android_kernel_lge_msm8974"
-    ],
     "d803": [
         "android_device_lge_d803",
-        "android_device_lge_g2-common",
-        "android_external_sony_boringssl-compat",
-        "android_kernel_lge_msm8974"
+        "android_device_lge_g2-common"
     ],
     "d850": [
         "android_device_lge_d850",
@@ -243,15 +223,6 @@
         "android_hardware_sony_macaddrsetup",
         "android_hardware_sony_simdetect",
         "android_kernel_sony_sdm660"
-    ],
-    "dogo": [
-        "android_device_sony_common",
-        "android_device_sony_dogo",
-        "android_device_sony_fusion3-common",
-        "android_hardware_sony_DASH",
-        "android_hardware_sony_thermanager",
-        "android_kernel_sony_apq8064",
-        "android_packages_resources_devicesettings"
     ],
     "dragon": [
         "android_device_google_dragon",
@@ -323,15 +294,10 @@
     ],
     "foster": [
         "android_device_nvidia_foster",
-        "android_device_nvidia_shield-common",
-        "android_hardware_nvidia_libstagefrighthw",
-        "android_hardware_nvidia_power",
-        "android_hardware_nvidia_thermal",
-        "android_kernel_nvidia_shield"
+        "android_device_nvidia_t210-common"
     ],
     "fugu": [
-        "android_device_asus_fugu",
-        "android_kernel_asus_fugu"
+        "android_device_asus_fugu"
     ],
     "gemini": [
         "android_device_xiaomi_gemini",
@@ -484,10 +450,6 @@
         "android_kernel_cyanogen_msm8974",
         "android_packages_resources_devicesettings"
     ],
-    "hammerhead": [
-        "android_device_lge_hammerhead",
-        "android_kernel_lge_hammerhead"
-    ],
     "hayabusa": [
         "android_device_sony_blue-common",
         "android_device_sony_common",
@@ -609,14 +571,6 @@
         "android_hardware_samsung",
         "android_kernel_samsung_msm8974",
         "android_packages_apps_FlipFlap",
-        "android_packages_resources_devicesettings"
-    ],
-    "huashan": [
-        "android_device_sony_common",
-        "android_device_sony_huashan",
-        "android_hardware_sony_DASH",
-        "android_hardware_sony_thermanager",
-        "android_kernel_sony_msm8960t",
         "android_packages_resources_devicesettings"
     ],
     "i9100": [
@@ -777,7 +731,8 @@
     ],
     "kuntao": [
         "android_device_lenovo_kuntao",
-        "android_kernel_lenovo_msm8953"
+        "android_kernel_lenovo_msm8953",
+        "android_packages_resources_devicesettings"
     ],
     "land": [
         "android_device_xiaomi_land",
@@ -811,9 +766,7 @@
     ],
     "ls980": [
         "android_device_lge_g2-common",
-        "android_device_lge_ls980",
-        "android_external_sony_boringssl-compat",
-        "android_kernel_lge_msm8974"
+        "android_device_lge_ls980"
     ],
     "ls990": [
         "android_device_lge_g3-common",
@@ -1028,12 +981,7 @@
     ],
     "roth": [
         "android_device_nvidia_roth",
-        "android_device_nvidia_shield-common",
-        "android_hardware_nvidia_libstagefrighthw",
-        "android_hardware_nvidia_power",
-        "android_hardware_nvidia_sensors",
-        "android_hardware_nvidia_thermal",
-        "android_kernel_nvidia_roth"
+        "android_device_nvidia_t114-common"
     ],
     "rs988": [
         "android_device_lge_common",
@@ -1075,47 +1023,17 @@
         "android_device_google_seed",
         "android_kernel_google_seed"
     ],
-    "serrano3gxx": [
-        "android_device_samsung_msm8930-common",
-        "android_device_samsung_qcom-common",
-        "android_device_samsung_serrano-common",
-        "android_device_samsung_serrano3gxx",
-        "android_hardware_samsung",
-        "android_kernel_samsung_msm8930-common",
-        "android_packages_apps_FlipFlap",
-        "android_packages_resources_devicesettings"
-    ],
     "serranodsdd": [
-        "android_device_samsung_msm8930-common",
-        "android_device_samsung_qcom-common",
         "android_device_samsung_serrano-common",
-        "android_device_samsung_serranodsdd",
-        "android_hardware_samsung",
-        "android_kernel_samsung_msm8930-common",
-        "android_packages_apps_FlipFlap",
-        "android_packages_resources_devicesettings"
-    ],
-    "serranoltexx": [
-        "android_device_samsung_msm8930-common",
-        "android_device_samsung_qcom-common",
-        "android_device_samsung_serrano-common",
-        "android_device_samsung_serranoltexx",
-        "android_hardware_samsung",
-        "android_kernel_samsung_msm8930-common",
-        "android_packages_apps_FlipFlap",
-        "android_packages_resources_devicesettings"
+        "android_device_samsung_serranodsdd"
     ],
     "shamu": [
         "android_device_moto_shamu",
         "android_kernel_moto_shamu"
     ],
     "shieldtablet": [
-        "android_device_nvidia_shield-common",
         "android_device_nvidia_shieldtablet",
-        "android_hardware_nvidia_libstagefrighthw",
-        "android_hardware_nvidia_power",
-        "android_hardware_nvidia_thermal",
-        "android_kernel_nvidia_shield"
+        "android_device_nvidia_t124-common"
     ],
     "star2lte": [
         "android_device_samsung_star2lte",
@@ -1187,12 +1105,6 @@
         "android_device_lge_us997",
         "android_kernel_lge_msm8996"
     ],
-    "v500": [
-        "android_device_lge_gpad83-common",
-        "android_device_lge_v500",
-        "android_device_qcom_common",
-        "android_kernel_lge_v500"
-    ],
     "v521": [
         "android_device_lge_common",
         "android_device_lge_v521",
@@ -1215,12 +1127,6 @@
         "android_device_lge_vk810",
         "android_device_qcom_common",
         "android_kernel_lge_v500"
-    ],
-    "vs980": [
-        "android_device_lge_g2-common",
-        "android_device_lge_vs980",
-        "android_external_sony_boringssl-compat",
-        "android_kernel_lge_msm8974"
     ],
     "vs985": [
         "android_device_lge_g3-common",
