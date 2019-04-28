@@ -22,6 +22,30 @@
       "revId": "10c70063c6c0d22c53cb39ebd988f5f5c7e6dc47",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "1dae3d2f_c97789d6",
+        "filename": "lineage-build-targets",
+        "patchSetId": 1
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 8752
+      },
+      "writtenOn": "2019-04-28T19:46:15Z",
+      "side": 1,
+      "message": "Not yet, since development calmed already down and I expect not much changes (means no troubles) on this line in case BQ provides some new firmware releases (which is used to update kernel/blobs). Later when LOS 16 is a little bit matured for these devices I\u0027ll provide another change request to remove los 15.1 from weekly building process.",
+      "parentUuid": "63bfde96_b6ef8066",
+      "range": {
+        "startLine": 67,
+        "startChar": 0,
+        "endLine": 68,
+        "endChar": 35
+      },
+      "revId": "10c70063c6c0d22c53cb39ebd988f5f5c7e6dc47",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
     }
   ]
 }
