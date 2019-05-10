@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "02f7d69b_a1f421c6",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2019-05-10T00:15:11Z",
+      "side": 1,
+      "message": "Should change this to jasmine_sprout since jasmine is a different device",
+      "range": {
+        "startLine": 7,
+        "startChar": 18,
+        "endLine": 7,
+        "endChar": 25
+      },
+      "revId": "d9c6840834326a56625322a6b0106602f79a4ed3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "90ba5746_41d4903f",
+        "filename": "updater/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 105,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2019-05-10T00:15:11Z",
+      "side": 1,
+      "message": "missing quotation here, at the beginning.",
+      "range": {
+        "startLine": 105,
+        "startChar": 57,
+        "endLine": 105,
+        "endChar": 62
+      },
+      "revId": "d9c6840834326a56625322a6b0106602f79a4ed3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "f239d363_a6f8c839",
+        "filename": "updater/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 229,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2019-05-10T00:15:11Z",
+      "side": 1,
+      "message": "Shouldn\u0027t this be a lower case \u0027i\u0027, like \u0027Mi\u0027?",
+      "range": {
+        "startLine": 229,
+        "startChar": 49,
+        "endLine": 229,
+        "endChar": 51
+      },
+      "revId": "d9c6840834326a56625322a6b0106602f79a4ed3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
