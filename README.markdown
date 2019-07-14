@@ -1,3 +1,4 @@
+**_(forked 2019-Jul-13: to watch for `bonito` or `sargo` devices)_**
 # Adding or updating a device
 
 This repository is preconfigured to use the git-review plugin. More information can be found at:
