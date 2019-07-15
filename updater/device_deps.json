@@ -87,13 +87,11 @@
     "bardock": [
         "android_device_bq_bardock",
         "android_device_bq_msm8953-common",
-        "android_device_qcom_common",
         "android_kernel_bq_msm8953"
     ],
     "bardockpro": [
         "android_device_bq_bardockpro",
         "android_device_bq_msm8953-common",
-        "android_device_qcom_common",
         "android_kernel_bq_msm8953"
     ],
     "berkeley": [
@@ -106,6 +104,15 @@
         "android_device_xiaomi_sdm845-common",
         "android_kernel_xiaomi_sdm845",
         "android_packages_resources_devicesettings"
+    ],
+    "blueline": [
+        "android_device_google_blueline",
+        "android_device_google_crosshatch",
+        "android_kernel_google_crosshatch"
+    ],
+    "bonito": [
+        "android_device_google_bonito",
+        "android_kernel_google_bonito"
     ],
     "bullhead": [
         "android_device_lge_bullhead"
@@ -140,6 +147,11 @@
         "android_device_huawei_cherry",
         "android_device_huawei_msm8916-common",
         "android_kernel_huawei_msm8916"
+    ],
+    "cheryl": [
+        "android_device_razer_cheryl",
+        "android_kernel_razer_msm8998",
+        "android_packages_resources_devicesettings"
     ],
     "chiron": [
         "android_device_xiaomi_chiron",
@@ -622,10 +634,17 @@
     "i9100": [
         "android_device_samsung_galaxys2-common",
         "android_device_samsung_i9100",
-        "android_external_stlport",
         "android_hardware_samsung",
         "android_kernel_samsung_smdk4412",
-        "android_packages_apps_SamsungServiceMode",
+        "android_packages_resources_devicesettings"
+    ],
+    "jactivelte": [
+        "android_device_samsung_jactivelte",
+        "android_device_samsung_jf-common",
+        "android_device_samsung_qcom-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_jf",
+        "android_packages_apps_FlipFlap",
         "android_packages_resources_devicesettings"
     ],
     "jalebi": [
@@ -633,29 +652,42 @@
         "android_device_yu_jalebi",
         "android_kernel_cyanogen_msm8916"
     ],
+    "jasmine_sprout": [
+        "android_device_xiaomi_jasmine_sprout",
+        "android_device_xiaomi_wayne-common",
+        "android_kernel_xiaomi_sdm660",
+        "android_packages_resources_devicesettings"
+    ],
     "jason": [
         "android_device_xiaomi_jason",
         "android_kernel_xiaomi_jason",
         "android_packages_resources_devicesettings"
     ],
+    "jfltespr": [
+        "android_device_samsung_jf-common",
+        "android_device_samsung_jfltespr",
+        "android_device_samsung_qcom-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_jf",
+        "android_packages_apps_FlipFlap",
+        "android_packages_resources_devicesettings"
+    ],
     "jfltevzw": [
-        "android_device_qcom_common",
         "android_device_samsung_jf-common",
         "android_device_samsung_jfltevzw",
         "android_device_samsung_qcom-common",
-        "android_external_stlport",
         "android_hardware_samsung",
         "android_kernel_samsung_jf",
+        "android_packages_apps_FlipFlap",
         "android_packages_resources_devicesettings"
     ],
     "jfltexx": [
-        "android_device_qcom_common",
         "android_device_samsung_jf-common",
         "android_device_samsung_jfltexx",
         "android_device_samsung_qcom-common",
-        "android_external_stlport",
         "android_hardware_samsung",
         "android_kernel_samsung_jf",
+        "android_packages_apps_FlipFlap",
         "android_packages_resources_devicesettings"
     ],
     "kccat6": [
@@ -777,7 +809,8 @@
     ],
     "kuntao": [
         "android_device_lenovo_kuntao",
-        "android_kernel_lenovo_msm8953"
+        "android_kernel_lenovo_msm8953",
+        "android_packages_resources_devicesettings"
     ],
     "land": [
         "android_device_xiaomi_land",
@@ -1064,6 +1097,11 @@
         "android_kernel_xiaomi_msm8937",
         "android_packages_resources_devicesettings"
     ],
+    "sargo": [
+        "android_device_google_bonito",
+        "android_device_google_sargo",
+        "android_kernel_google_bonito"
+    ],
     "scorpio": [
         "android_device_xiaomi_msm8996-common",
         "android_device_xiaomi_scorpio",
@@ -1210,6 +1248,10 @@
         "android_packages_resources_devicesettings",
         "android_system_qcom"
     ],
+    "violet": [
+        "android_device_xiaomi_violet",
+        "android_packages_resources_devicesettings"
+    ],
     "vk810": [
         "android_device_lge_gpad83-common",
         "android_device_lge_vk810",
@@ -1241,6 +1283,18 @@
         "android_device_google_wahoo",
         "android_kernel_google_wahoo"
     ],
+    "walleye": [
+        "android_device_google_muskie",
+        "android_device_google_wahoo",
+        "android_device_google_walleye",
+        "android_kernel_google_wahoo"
+    ],
+    "wayne": [
+        "android_device_xiaomi_wayne",
+        "android_device_xiaomi_wayne-common",
+        "android_kernel_xiaomi_sdm660",
+        "android_packages_resources_devicesettings"
+    ],
     "whyred": [
         "android_device_xiaomi_whyred",
         "android_kernel_xiaomi_sdm660",
@@ -1264,6 +1318,12 @@
         "android_hardware_sony_DASH",
         "android_hardware_sony_thermanager",
         "android_kernel_sony_apq8064",
+        "android_packages_resources_devicesettings"
+    ],
+    "z2_plus": [
+        "android_device_zuk_msm8996-common",
+        "android_device_zuk_z2_plus",
+        "android_kernel_zuk_msm8996",
         "android_packages_resources_devicesettings"
     ],
     "zangya": [
