@@ -2,6 +2,8 @@
 # <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
 
 # Nightly lineage-16.0
+a5y17lte userdebug lineage-16.0 N
+a7y17lte userdebug lineage-16.0 N
 bacon userdebug lineage-16.0 N
 bardock userdebug lineage-16.0 N
 bardockpro userdebug lineage-16.0 N
