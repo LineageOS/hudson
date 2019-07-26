@@ -142,6 +142,14 @@
         "android_kernel_oneplus_msm8998",
         "android_packages_resources_devicesettings"
     ],
+    "chef": [
+        "android_device_motorola_chef",
+        "android_device_motorola_sdm660-common",
+        "android_external_bson",
+        "android_kernel_motorola_msm8998",
+        "android_packages_resources_devicesettings",
+        "android_system_qcom"
+    ],
     "cherry": [
         "android_device_cyanogen_msm8916-common",
         "android_device_huawei_cherry",

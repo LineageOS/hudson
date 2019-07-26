@@ -23,6 +23,7 @@
   {  "model": "che10", "oem": "Huawei", "name": "Honor 4x (China Telecom)"},
   {  "model": "cherry", "oem": "Huawei", "name": "Honor 4/4x"},
   {  "model": "cheeseburger", "oem": "OnePlus", "name": "5"},
+  {  "model": "chef", "oem": "Motorola", "name": "Motorola One Power"},
   {  "model": "chiron", "oem": "Xiaomi", "name": "Mi MIX 2"},
   {  "model": "clark", "oem": "Motorola", "name": "Moto X Pure (2015)"},
   {  "model": "condor", "oem": "Motorola", "name": "Moto E"},
