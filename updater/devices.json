@@ -91,6 +91,8 @@
   {  "model": "himaul", "oem": "HTC", "name": "One M9 (GSM)"},
   {  "model": "himawl", "oem": "HTC", "name": "One M9 (VZW)"},
   {  "model": "hlte", "oem": "Samsung", "name": "Galaxy Note 3 LTE (N9005/P)"},
+  {  "model": "hltechn", "oem": "Samsung", "name": "Galaxy Note 3 LTE (N9008V)"},
+  {  "model": "hltekor", "oem": "Samsung", "name": "Galaxy Note 3 LTE (N900K/L/S)"},
   {  "model": "hltetmo", "oem": "Samsung", "name": "Galaxy Note 3 LTE (N900T/V/W8)"},
   {  "model": "huashan", "oem": "Sony", "name": "Xperia SP"},
   {  "model": "hydrogen", "oem": "Xiaomi", "name": "Mi Max"},
