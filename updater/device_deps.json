@@ -4,6 +4,10 @@
         "android_kernel_fairphone_msm8974",
         "android_packages_resources_devicesettings"
     ],
+    "I01WD": [
+        "android_device_asus_I01WD",
+        "android_kernel_asus_sm8150"
+    ],
     "X00TD": [
         "android_device_asus_X00TD",
         "android_kernel_asus_sdm660"
@@ -32,6 +36,11 @@
         "android_device_asus_Z00T",
         "android_device_asus_msm8916-common",
         "android_kernel_asus_msm8916",
+        "android_packages_resources_devicesettings"
+    ],
+    "Z01R": [
+        "android_device_asus_Z01R",
+        "android_kernel_asus_sdm845",
         "android_packages_resources_devicesettings"
     ],
     "a5y17lte": [
@@ -66,9 +75,6 @@
     "angler": [
         "android_device_huawei_angler",
         "android_kernel_huawei_angler"
-    ],
-    "atv": [
-        "android_device_google_atv"
     ],
     "axon7": [
         "android_device_qcom_common",
@@ -663,6 +669,15 @@
         "android_kernel_xiaomi_jason",
         "android_packages_resources_devicesettings"
     ],
+    "jflteatt": [
+        "android_device_samsung_jf-common",
+        "android_device_samsung_jflteatt",
+        "android_device_samsung_qcom-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_jf",
+        "android_packages_apps_FlipFlap",
+        "android_packages_resources_devicesettings"
+    ],
     "jfltespr": [
         "android_device_samsung_jf-common",
         "android_device_samsung_jfltespr",
@@ -688,6 +703,15 @@
         "android_hardware_samsung",
         "android_kernel_samsung_jf",
         "android_packages_apps_FlipFlap",
+        "android_packages_resources_devicesettings"
+    ],
+    "jfvelte": [
+        "android_device_qcom_common",
+        "android_device_samsung_jfvelte",
+        "android_device_samsung_qcom-common",
+        "android_external_stlport",
+        "android_hardware_samsung",
+        "android_kernel_samsung_jf",
         "android_packages_resources_devicesettings"
     ],
     "kccat6": [
@@ -1250,6 +1274,7 @@
     ],
     "violet": [
         "android_device_xiaomi_violet",
+        "android_kernel_xiaomi_violet",
         "android_packages_resources_devicesettings"
     ],
     "vk810": [
