@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "09812dd9_64a086f0",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 10
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2019-08-17T00:34:33Z",
+      "side": 1,
+      "message": "this change doesn\u0027t add SGH-I337M, so this is wrong.\nside note: you removed it from the wiki 2 days ago.  so that needs to be fixed.\nhttps://github.com/LineageOS/lineage_wiki/blob/master/_data/devices/jfltexx.yml#L23",
+      "range": {
+        "startLine": 9,
+        "startChar": 36,
+        "endLine": 9,
+        "endChar": 60
+      },
+      "revId": "091bc6604a1e4091f46539292ebedcc21d3df739",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
