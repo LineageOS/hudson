@@ -2,6 +2,8 @@
 # <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
 
 # Nightly lineage-16.0
+a3xelte userdebug lineage-16.0 N
+a5xelte userdebug lineage-16.0 N
 a5y17lte userdebug lineage-16.0 N
 a7y17lte userdebug lineage-16.0 N
 bacon userdebug lineage-16.0 N
@@ -62,6 +64,7 @@ pioneer userdebug lineage-16.0 N
 r5 userdebug lineage-16.0 N
 r7sf userdebug lineage-16.0 N
 r7plus userdebug lineage-16.0 N
+s5neolte userdebug lineage-16.0 N
 sailfish userdebug lineage-16.0 N
 shamu userdebug lineage-16.0 N
 X00TD userdebug lineage-16.0 N
