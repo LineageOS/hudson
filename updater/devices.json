@@ -55,6 +55,7 @@
   {  "model": "FP2", "oem": "Fairphone", "name": "Fairphone 2"},
   {  "model": "f1f", "oem": "OPPO", "name": "F1 (F1f Intl)"},
   {  "model": "f400", "oem": "LG", "name": "G3 (Korea)"},
+  {  "model": "fajita", "oem": "OnePlus", "name": "6T"},
   {  "model": "falcon", "oem": "Motorola", "name": "Moto G"},
   {  "model": "find7", "oem": "OPPO", "name": "Find 7a"},
   {  "model": "find7s", "oem": "OPPO", "name": "Find 7s"},
