@@ -8,6 +8,21 @@
         "android_device_asus_I01WD",
         "android_kernel_asus_sm8150"
     ],
+    "TB8703": [
+        "android_device_lenovo_TB8703",
+        "android_device_lenovo_tb-common",
+        "android_kernel_lenovo_msm8953"
+    ],
+    "TB8704": [
+        "android_device_lenovo_TB8704",
+        "android_device_lenovo_tb-common",
+        "android_kernel_lenovo_msm8953"
+    ],
+    "TBX704": [
+        "android_device_lenovo_TBX704",
+        "android_device_lenovo_tb-common",
+        "android_kernel_lenovo_msm8953"
+    ],
     "X00TD": [
         "android_device_asus_X00TD",
         "android_kernel_asus_sdm660"
@@ -41,6 +56,20 @@
     "Z01R": [
         "android_device_asus_Z01R",
         "android_kernel_asus_sdm845",
+        "android_packages_resources_devicesettings"
+    ],
+    "a3xelte": [
+        "android_device_samsung_a3xelte",
+        "android_device_samsung_universal7580-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_universal7580",
+        "android_packages_resources_devicesettings"
+    ],
+    "a5xelte": [
+        "android_device_samsung_a5xelte",
+        "android_device_samsung_universal7580-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_universal7580",
         "android_packages_resources_devicesettings"
     ],
     "a5y17lte": [
@@ -410,6 +439,13 @@
         "android_kernel_samsung_msm8976",
         "android_packages_resources_devicesettings"
     ],
+    "gts4lvwifi": [
+        "android_device_samsung_gts4lv-common",
+        "android_device_samsung_gts4lvwifi",
+        "android_device_samsung_qcom-common",
+        "android_hardware_samsung",
+        "android_packages_resources_devicesettings"
+    ],
     "h3gduoschn": [
         "android_device_samsung_h3gduoschn",
         "android_device_samsung_hlte-common",
@@ -706,12 +742,12 @@
         "android_packages_resources_devicesettings"
     ],
     "jfvelte": [
-        "android_device_qcom_common",
+        "android_device_samsung_jf-common",
         "android_device_samsung_jfvelte",
         "android_device_samsung_qcom-common",
-        "android_external_stlport",
         "android_hardware_samsung",
         "android_kernel_samsung_jf",
+        "android_packages_apps_FlipFlap",
         "android_packages_resources_devicesettings"
     ],
     "kccat6": [
@@ -1102,6 +1138,13 @@
     "s2": [
         "android_device_leeco_s2",
         "android_kernel_leeco_msm8976",
+        "android_packages_resources_devicesettings"
+    ],
+    "s5neolte": [
+        "android_device_samsung_s5neolte",
+        "android_device_samsung_universal7580-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_universal7580",
         "android_packages_resources_devicesettings"
     ],
     "sagit": [
