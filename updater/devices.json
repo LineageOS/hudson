@@ -75,6 +75,7 @@
   {  "model": "gts210vewifi", "oem": "Samsung", "name": "Galaxy Tab S2 9.7 2016 (Wi-Fi)"},
   {  "model": "gts210wifi", "oem": "Samsung", "name": "Galaxy Tab S2 9.7 (Wi-Fi)"},
   {  "model": "gts28vewifi", "oem": "Samsung", "name": "Galaxy Tab S2 8.0 2016 (Wi-Fi)"},
+  {  "model": "guacamole", "oem": "OnePlus", "name": "7 Pro"},
   {  "model": "h811", "oem": "LG", "name": "G4 (TMO)"},
   {  "model": "h815", "oem": "LG", "name": "G4 (Intl)"},
   {  "model": "h830", "oem": "LG", "name": "G5 (TMO)"},
