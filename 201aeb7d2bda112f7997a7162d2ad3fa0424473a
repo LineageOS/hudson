@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4ca8409a_877d0cfa",
+        "filename": "lineage-build-targets",
+        "patchSetId": 1
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2019-10-11T14:33:58Z",
+      "side": 1,
+      "message": "needs to go up one line. ze comes before zl",
+      "range": {
+        "startLine": 101,
+        "startChar": 0,
+        "endLine": 101,
+        "endChar": 33
+      },
+      "revId": "201aeb7d2bda112f7997a7162d2ad3fa0424473a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "e4e5a893_2e287e5b",
+        "filename": "updater/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 261,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2019-10-11T14:33:58Z",
+      "side": 1,
+      "message": "this needs to go up a few lines. zen comes before zer and zl",
+      "range": {
+        "startLine": 261,
+        "startChar": 0,
+        "endLine": 261,
+        "endChar": 79
+      },
+      "revId": "201aeb7d2bda112f7997a7162d2ad3fa0424473a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
