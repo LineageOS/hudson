@@ -257,5 +257,6 @@
   {  "model": "z2_plus", "oem": "Zuk", "name": "Zuk Z2 Plus"},
   {  "model": "zerofltexx", "oem": "Samsung", "name": "Galaxy S6"},
   {  "model": "zeroltexx", "oem": "Samsung", "name": "Galaxy S6 Edge"},
-  {  "model": "zl1", "oem": "LeEco", "name": "Le Pro 3"}
+  {  "model": "zl1", "oem": "LeEco", "name": "Le Pro 3"},
+  {  "model": "zenfone3", "oem": "Asus", "name": "Zenfone 3 (ZE520KL/ZE552KL)"}
 ]
