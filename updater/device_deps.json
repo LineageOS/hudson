@@ -241,10 +241,23 @@
         "android_external_sony_boringssl-compat",
         "android_kernel_lge_msm8974"
     ],
+    "d805": [
+        "android_device_lge_d802",
+        "android_device_lge_d805",
+        "android_device_lge_g2-common",
+        "android_external_sony_boringssl-compat",
+        "android_kernel_lge_msm8974"
+    ],
+    "d806": [
+        "android_device_lge_d802",
+        "android_device_lge_d806",
+        "android_device_lge_g2-common",
+        "android_external_sony_boringssl-compat",
+        "android_kernel_lge_msm8974"
+    ],
     "d850": [
         "android_device_lge_d850",
         "android_device_lge_g3-common",
-        "android_device_qcom_common",
         "android_kernel_lge_g3",
         "android_packages_apps_FlipFlap",
         "android_packages_resources_devicesettings"
@@ -252,7 +265,6 @@
     "d851": [
         "android_device_lge_d851",
         "android_device_lge_g3-common",
-        "android_device_qcom_common",
         "android_kernel_lge_g3",
         "android_packages_apps_FlipFlap",
         "android_packages_resources_devicesettings"
@@ -260,7 +272,6 @@
     "d852": [
         "android_device_lge_d852",
         "android_device_lge_g3-common",
-        "android_device_qcom_common",
         "android_kernel_lge_g3",
         "android_packages_apps_FlipFlap",
         "android_packages_resources_devicesettings"
@@ -268,7 +279,6 @@
     "d855": [
         "android_device_lge_d855",
         "android_device_lge_g3-common",
-        "android_device_qcom_common",
         "android_kernel_lge_g3",
         "android_packages_apps_FlipFlap",
         "android_packages_resources_devicesettings"
@@ -337,12 +347,12 @@
     "f400": [
         "android_device_lge_f400",
         "android_device_lge_g3-common",
-        "android_device_qcom_common",
         "android_kernel_lge_g3",
         "android_packages_apps_FlipFlap",
         "android_packages_resources_devicesettings"
     ],
     "fajita": [
+        "android_device_oneplus_common",
         "android_device_oneplus_fajita",
         "android_device_oneplus_sdm845-common",
         "android_kernel_oneplus_sdm845",
@@ -444,6 +454,14 @@
         "android_device_samsung_gts4lvwifi",
         "android_device_samsung_qcom-common",
         "android_hardware_samsung",
+        "android_kernel_samsung_sdm670",
+        "android_packages_resources_devicesettings"
+    ],
+    "guacamole": [
+        "android_device_oneplus_common",
+        "android_device_oneplus_guacamole",
+        "android_device_oneplus_sm8150-common",
+        "android_kernel_oneplus_sm8150",
         "android_packages_resources_devicesettings"
     ],
     "h3gduoschn": [
@@ -911,7 +929,6 @@
     "ls990": [
         "android_device_lge_g3-common",
         "android_device_lge_ls990",
-        "android_device_qcom_common",
         "android_kernel_lge_g3",
         "android_packages_apps_FlipFlap",
         "android_packages_resources_devicesettings"
@@ -1272,6 +1289,12 @@
         "android_kernel_sony_msm8x60",
         "android_packages_resources_devicesettings"
     ],
+    "twolip": [
+        "android_device_xiaomi_sdm660-common",
+        "android_device_xiaomi_twolip",
+        "android_kernel_xiaomi_sdm660",
+        "android_packages_resources_devicesettings"
+    ],
     "ursa": [
         "android_device_xiaomi_sdm845-common",
         "android_device_xiaomi_ursa",
@@ -1335,7 +1358,6 @@
     "vs985": [
         "android_device_lge_g3-common",
         "android_device_lge_vs985",
-        "android_device_qcom_common",
         "android_kernel_lge_g3",
         "android_packages_apps_FlipFlap",
         "android_packages_resources_devicesettings"
@@ -1394,6 +1416,30 @@
         "android_kernel_zuk_msm8996",
         "android_packages_resources_devicesettings"
     ],
+    "z3": [
+        "android_device_qcom_common",
+        "android_device_sony_common",
+        "android_device_sony_msm8974-common",
+        "android_device_sony_shinano-common",
+        "android_device_sony_z3",
+        "android_external_stlport",
+        "android_hardware_broadcom_fm",
+        "android_hardware_sony_macaddrsetup",
+        "android_hardware_sony_thermanager",
+        "android_kernel_sony_msm8974"
+    ],
+    "z3c": [
+        "android_device_qcom_common",
+        "android_device_sony_common",
+        "android_device_sony_msm8974-common",
+        "android_device_sony_shinano-common",
+        "android_device_sony_z3c",
+        "android_external_stlport",
+        "android_hardware_broadcom_fm",
+        "android_hardware_sony_macaddrsetup",
+        "android_hardware_sony_thermanager",
+        "android_kernel_sony_msm8974"
+    ],
     "zangya": [
         "android_device_bq_sdm660-common",
         "android_device_bq_zangya",
@@ -1404,6 +1450,11 @@
         "android_device_bq_sdm660-common",
         "android_device_bq_zangyapro",
         "android_kernel_bq_sdm660",
+        "android_packages_resources_devicesettings"
+    ],
+    "zenfone3": [
+        "android_device_asus_zenfone3",
+        "android_kernel_asus_msm8953",
         "android_packages_resources_devicesettings"
     ],
     "zerofltexx": [
