@@ -196,6 +196,8 @@
   {  "model": "r7sf", "oem": "OPPO", "name": "R7s (R7sf Intl)"},
   {  "model": "roth", "oem": "Nvidia", "name": "Shield Portable", "has_recovery": false},
   {  "model": "s2", "oem": "LeEco", "name": "Le 2"},
+  {  "model": "s3ve3gjv", "oem": "Samsung", "name": "Galaxy S3 Neo"},
+  {  "model": "s3ve3gxx", "oem": "Samsung", "name": "Galaxy S3 Neo (IMX)"},
   {  "model": "s5neolte", "oem": "Samsung", "name": "Galaxy S5 Neo"},
   {  "model": "sagit", "oem": "Xiaomi", "name": "Mi 6"},
   {  "model": "sailfish", "oem": "Google", "name": "Pixel"},
