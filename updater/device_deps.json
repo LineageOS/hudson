@@ -1,4 +1,9 @@
 {
+    "Amber": [
+        "android_device_yandex_Amber",
+        "android_kernel_yandex_sdm660",
+        "android_packages_resources_devicesettings"
+    ],
     "FP2": [
         "android_device_fairphone_FP2",
         "android_kernel_fairphone_msm8974",
@@ -25,6 +30,10 @@
     ],
     "X00TD": [
         "android_device_asus_X00TD",
+        "android_kernel_asus_sdm660"
+    ],
+    "X01BD": [
+        "android_device_asus_X01BD",
         "android_kernel_asus_sdm660"
     ],
     "YTX703F": [
@@ -150,7 +159,8 @@
         "android_kernel_google_bonito"
     ],
     "bullhead": [
-        "android_device_lge_bullhead"
+        "android_device_lge_bullhead",
+        "android_kernel_lge_bullhead"
     ],
     "capricorn": [
         "android_device_xiaomi_capricorn",
@@ -221,39 +231,51 @@
         "android_device_lge_d800",
         "android_device_lge_g2-common",
         "android_external_sony_boringssl-compat",
-        "android_kernel_lge_msm8974"
+        "android_kernel_lge_msm8974",
+        "android_packages_apps_FlipFlap",
+        "android_packages_resources_devicesettings"
     ],
     "d801": [
         "android_device_lge_d801",
         "android_device_lge_g2-common",
         "android_external_sony_boringssl-compat",
-        "android_kernel_lge_msm8974"
+        "android_kernel_lge_msm8974",
+        "android_packages_apps_FlipFlap",
+        "android_packages_resources_devicesettings"
     ],
     "d802": [
         "android_device_lge_d802",
         "android_device_lge_g2-common",
         "android_external_sony_boringssl-compat",
-        "android_kernel_lge_msm8974"
+        "android_kernel_lge_msm8974",
+        "android_packages_apps_FlipFlap",
+        "android_packages_resources_devicesettings"
     ],
     "d803": [
         "android_device_lge_d803",
         "android_device_lge_g2-common",
         "android_external_sony_boringssl-compat",
-        "android_kernel_lge_msm8974"
+        "android_kernel_lge_msm8974",
+        "android_packages_apps_FlipFlap",
+        "android_packages_resources_devicesettings"
     ],
     "d805": [
         "android_device_lge_d802",
         "android_device_lge_d805",
         "android_device_lge_g2-common",
         "android_external_sony_boringssl-compat",
-        "android_kernel_lge_msm8974"
+        "android_kernel_lge_msm8974",
+        "android_packages_apps_FlipFlap",
+        "android_packages_resources_devicesettings"
     ],
     "d806": [
         "android_device_lge_d802",
         "android_device_lge_d806",
         "android_device_lge_g2-common",
         "android_external_sony_boringssl-compat",
-        "android_kernel_lge_msm8974"
+        "android_kernel_lge_msm8974",
+        "android_packages_apps_FlipFlap",
+        "android_packages_resources_devicesettings"
     ],
     "d850": [
         "android_device_lge_d850",
@@ -924,7 +946,9 @@
         "android_device_lge_g2-common",
         "android_device_lge_ls980",
         "android_external_sony_boringssl-compat",
-        "android_kernel_lge_msm8974"
+        "android_kernel_lge_msm8974",
+        "android_packages_apps_FlipFlap",
+        "android_packages_resources_devicesettings"
     ],
     "ls990": [
         "android_device_lge_g3-common",
@@ -974,7 +998,7 @@
     "mido": [
         "android_device_xiaomi_mido",
         "android_device_xiaomi_msm8953-common",
-        "android_kernel_xiaomi_msm8953",
+        "android_kernel_xiaomi_mido",
         "android_packages_resources_devicesettings"
     ],
     "mint": [
@@ -1155,6 +1179,26 @@
     "s2": [
         "android_device_leeco_s2",
         "android_kernel_leeco_msm8976",
+        "android_packages_resources_devicesettings"
+    ],
+    "s3ve3gjv": [
+        "android_device_samsung_msm8226-common",
+        "android_device_samsung_qcom-common",
+        "android_device_samsung_s3ve3g-common",
+        "android_device_samsung_s3ve3gjv",
+        "android_hardware_samsung",
+        "android_kernel_samsung_msm8226",
+        "android_packages_apps_FlipFlap",
+        "android_packages_resources_devicesettings"
+    ],
+    "s3ve3gxx": [
+        "android_device_samsung_msm8226-common",
+        "android_device_samsung_qcom-common",
+        "android_device_samsung_s3ve3g-common",
+        "android_device_samsung_s3ve3gxx",
+        "android_hardware_samsung",
+        "android_kernel_samsung_msm8226",
+        "android_packages_apps_FlipFlap",
         "android_packages_resources_devicesettings"
     ],
     "s5neolte": [
@@ -1353,7 +1397,9 @@
         "android_device_lge_g2-common",
         "android_device_lge_vs980",
         "android_external_sony_boringssl-compat",
-        "android_kernel_lge_msm8974"
+        "android_kernel_lge_msm8974",
+        "android_packages_apps_FlipFlap",
+        "android_packages_resources_devicesettings"
     ],
     "vs985": [
         "android_device_lge_g3-common",
@@ -1417,27 +1463,25 @@
         "android_packages_resources_devicesettings"
     ],
     "z3": [
-        "android_device_qcom_common",
         "android_device_sony_common",
         "android_device_sony_msm8974-common",
         "android_device_sony_shinano-common",
         "android_device_sony_z3",
-        "android_external_stlport",
         "android_hardware_broadcom_fm",
         "android_hardware_sony_macaddrsetup",
         "android_hardware_sony_thermanager",
+        "android_hardware_sony_timekeep",
         "android_kernel_sony_msm8974"
     ],
     "z3c": [
-        "android_device_qcom_common",
         "android_device_sony_common",
         "android_device_sony_msm8974-common",
         "android_device_sony_shinano-common",
         "android_device_sony_z3c",
-        "android_external_stlport",
         "android_hardware_broadcom_fm",
         "android_hardware_sony_macaddrsetup",
         "android_hardware_sony_thermanager",
+        "android_hardware_sony_timekeep",
         "android_kernel_sony_msm8974"
     ],
     "zangya": [
