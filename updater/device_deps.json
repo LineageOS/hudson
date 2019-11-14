@@ -1160,6 +1160,14 @@
         "android_kernel_oppo_msm8939",
         "android_packages_resources_devicesettings"
     ],
+    "river": [
+        "android_device_motorola_river",
+        "android_device_motorola_sdm632-common",
+        "android_external_bson",
+        "android_kernel_motorola_sdm632",
+        "android_packages_resources_devicesettings",
+        "android_system_qcom"
+    ],
     "roth": [
         "android_device_nvidia_roth",
         "android_device_nvidia_shield-common",
@@ -1179,6 +1187,16 @@
     "s2": [
         "android_device_leeco_s2",
         "android_kernel_leeco_msm8976",
+        "android_packages_resources_devicesettings"
+    ],
+    "s3ve3gds": [
+        "android_device_samsung_msm8226-common",
+        "android_device_samsung_qcom-common",
+        "android_device_samsung_s3ve3g-common",
+        "android_device_samsung_s3ve3gds",
+        "android_hardware_samsung",
+        "android_kernel_samsung_msm8226",
+        "android_packages_apps_FlipFlap",
         "android_packages_resources_devicesettings"
     ],
     "s3ve3gjv": [
