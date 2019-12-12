@@ -262,6 +262,8 @@
   {  "model": "Z00T", "oem": "Asus", "name": "Zenfone 2 Laser/Selfie (1080p)"},
   {  "model": "z2_plus", "oem": "Zuk", "name": "Zuk Z2 Plus"},
   {  "model": "z3c", "oem": "Sony", "name": "Xperia Z3 Compact"},
+  {  "model": "zangya", "oem": "BQ", "name": "Aquaris X2"},
+  {  "model": "zangyapro", "oem": "BQ", "name": "Aquaris X2 Pro"},
   {  "model": "zenfone3", "oem": "Asus", "name": "Zenfone 3 (ZE520KL/ZE552KL)"},
   {  "model": "zerofltexx", "oem": "Samsung", "name": "Galaxy S6"},
   {  "model": "zeroltexx", "oem": "Samsung", "name": "Galaxy S6 Edge"},
