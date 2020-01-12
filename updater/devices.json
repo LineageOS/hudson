@@ -250,7 +250,7 @@
   {  "model": "wt88047", "oem": "Wingtech", "name": "Redmi 2"},
   {  "model": "X00TD", "oem": "Asus", "name": "Zenfone Max Pro M1"},
   {  "model": "X01BD", "oem": "Asus", "name": "Zenfone Max Pro M2"},
-  {  "model": "x2", "oem": "LeEco", "name": "Le Max 2"},
+  {  "model": "x2", "oem": "LeEco", "name": "Le Max 2", "lineage_recovery": true},
   {  "model": "xt897", "oem": "Motorola", "name": "Photon Q"},
   {  "model": "YTX703F", "oem": "Lenovo", "name": "Yoga Tab 3 Plus Wi-Fi"},
   {  "model": "YTX703L", "oem": "Lenovo", "name": "Yoga Tab 3 Plus LTE"},
@@ -267,5 +267,5 @@
   {  "model": "zenfone3", "oem": "Asus", "name": "Zenfone 3 (ZE520KL/ZE552KL)"},
   {  "model": "zerofltexx", "oem": "Samsung", "name": "Galaxy S6"},
   {  "model": "zeroltexx", "oem": "Samsung", "name": "Galaxy S6 Edge"},
-  {  "model": "zl1", "oem": "LeEco", "name": "Le Pro 3"}
+  {  "model": "zl1", "oem": "LeEco", "name": "Le Pro 3", "lineage_recovery": true}
 ]
