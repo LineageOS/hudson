@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3e6f0770_c4f5ab1e",
+        "filename": "lineage-build-targets",
+        "patchSetId": 3
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 18586
+      },
+      "writtenOn": "2020-01-29T09:04:16Z",
+      "side": 1,
+      "message": "polaris should be on 17.1 nightlies as well right ?",
+      "range": {
+        "startLine": 17,
+        "startChar": 31,
+        "endLine": 17,
+        "endChar": 32
+      },
+      "revId": "64fb2e3f68b4f87379c2ef531f10b63309f4babe",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
