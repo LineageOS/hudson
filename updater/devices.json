@@ -45,6 +45,7 @@
   {  "model": "d851", "oem": "LG", "name": "G3 (TMO)", "lineage_recovery": true},
   {  "model": "d852", "oem": "LG", "name": "G3 (Canada)", "lineage_recovery": true},
   {  "model": "d855", "oem": "LG", "name": "G3 (Unlocked)", "lineage_recovery": true},
+  {  "model": "davinci", "oem": "Xiaomi", "name": "Redmi K20", "lineage_recovery": true},
   {  "model": "deb", "oem": "Google", "name": "Nexus 7 2013 (4G)"},
   {  "model": "dipper", "oem": "Xiaomi", "name": "Mi 8", "lineage_recovery": true},
   {  "model": "discovery", "oem": "Sony", "name": "Xperia XA2 Ultra", "lineage_recovery": true},
