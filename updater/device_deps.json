@@ -13,6 +13,11 @@
         "android_device_asus_I01WD",
         "android_kernel_asus_sm8150"
     ],
+    "RMX1851": [
+        "android_device_realme_RMX1851",
+        "android_kernel_realme_sdm710",
+        "android_packages_resources_devicesettings"
+    ],
     "TB8703": [
         "android_device_lenovo_TB8703",
         "android_device_lenovo_tb-common",
@@ -1041,6 +1046,12 @@
         "android_external_sony_boringssl-compat",
         "android_external_stlport",
         "android_kernel_nubia_msm8939"
+    ],
+    "nx563j": [
+        "android_device_nubia_msm8998-common",
+        "android_device_nubia_nx563j",
+        "android_kernel_nubia_msm8998",
+        "android_packages_resources_devicesettings"
     ],
     "odin": [
         "android_device_sony_common",
