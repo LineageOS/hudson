@@ -141,6 +141,7 @@
   {  "model": "ks01lte", "oem": "Samsung", "name": "Galaxy S4 LTE-A"},
   {  "model": "kuntao", "oem": "Lenovo", "name": "P2 (P2a42 Intl)"},
   {  "model": "land", "oem": "Xiaomi", "name": "Redmi 3S/3X"},
+  {  "model": "lake", "oem": "Motorola", "name": "Moto G7 Plus", "lineage_recovery": true},
   {  "model": "lentislte", "oem": "Samsung", "name": "Galaxy S5 LTE-A"},
   {  "model": "lettuce", "oem": "YU", "name": "Yuphoria"},
   {  "model": "libra", "oem": "Xiaomi", "name": "Mi 4c"},
