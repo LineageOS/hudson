@@ -22,6 +22,24 @@
       "revId": "cf510beb57e377f10e450051a41a6e26eb12284b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "4a891a3e_271ae84b",
+        "filename": "updater/devices.json",
+        "patchSetId": 44
+      },
+      "lineNbr": 193,
+      "author": {
+        "id": 18205
+      },
+      "writtenOn": "2020-03-17T23:37:06Z",
+      "side": 1,
+      "message": "Bruno I pointed out some patchset ago that all devices should get a download link to Lineage Recovery (that\u0027s what the property controls) as it\u0027s now mandatory per charter to have it work. You\u0027re still free to advertise TWRP instead in wiki, as already is.",
+      "parentUuid": "06cf9369_85a1300c",
+      "revId": "cf510beb57e377f10e450051a41a6e26eb12284b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
