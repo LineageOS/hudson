@@ -40,6 +40,24 @@
       "revId": "cf510beb57e377f10e450051a41a6e26eb12284b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3c269f07_142fbf8c",
+        "filename": "updater/devices.json",
+        "patchSetId": 44
+      },
+      "lineNbr": 193,
+      "author": {
+        "id": 18205
+      },
+      "writtenOn": "2020-03-17T23:40:36Z",
+      "side": 1,
+      "message": "Also the setting really should be defaulted to true for 17.1 targets, but I think it was made explicit till zif gets that sorted out on the download portal side",
+      "parentUuid": "",
+      "revId": "cf510beb57e377f10e450051a41a6e26eb12284b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
