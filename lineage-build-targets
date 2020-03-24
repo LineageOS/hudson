@@ -1,6 +1,27 @@
 # LineageOS build target list
 # <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
 
+# Nightly 17.1
+d800 userdebug lineage-17.1 N
+d801 userdebug lineage-17.1 N
+d802 userdebug lineage-17.1 N
+d803 userdebug lineage-17.1 N
+d850 userdebug lineage-17.1 N
+d851 userdebug lineage-17.1 N
+d852 userdebug lineage-17.1 N
+d855 userdebug lineage-17.1 N
+f400 userdebug lineage-17.1 N
+griffin userdebug lineage-17.1 N
+jactivelte userdebug lineage-17.1 N
+jflteatt userdebug lineage-17.1 N
+jfltespr userdebug lineage-17.1 N
+jfltevzw userdebug lineage-17.1 N
+jfltexx userdebug lineage-17.1 N
+jfvelte userdebug lineage-17.1 N
+m8 userdebug lineage-17.1 N
+m8d userdebug lineage-17.1 N
+vs985 userdebug lineage-17.1 N
+
 # Nightly lineage-16.0
 a3xelte userdebug lineage-16.0 N
 a5xelte userdebug lineage-16.0 N
@@ -18,26 +39,16 @@ cheeseburger userdebug lineage-16.0 N
 cheryl userdebug lineage-16.0 N
 chiron userdebug lineage-16.0 N
 crackling userdebug lineage-16.0 N
-d800 userdebug lineage-16.0 N
-d801 userdebug lineage-16.0 N
-d802 userdebug lineage-16.0 N
-d803 userdebug lineage-16.0 N
-d850 userdebug lineage-16.0 N
-d851 userdebug lineage-16.0 N
-d852 userdebug lineage-16.0 N
-d855 userdebug lineage-16.0 N
 dipper userdebug lineage-16.0 N
 discovery userdebug lineage-16.0 N
 dumpling userdebug lineage-16.0 N
 enchilada userdebug lineage-16.0 N
 ether userdebug lineage-16.0 N
 f1f userdebug lineage-16.0 N
-f400 userdebug lineage-16.0 N
 fajita userdebug lineage-16.0 N
 find7 userdebug lineage-16.0 N
 FP2 userdebug lineage-16.0 N
 gemini userdebug lineage-16.0 N
-griffin userdebug lineage-16.0 N
 gts210vewifi userdebug lineage-16.0 N
 gts28vewifi userdebug lineage-16.0 N
 guacamole userdebug lineage-16.0 N
@@ -47,13 +58,7 @@ hltechn userdebug lineage-16.0 N
 hltekor userdebug lineage-16.0 N
 hltetmo userdebug lineage-16.0 N
 I01WD userdebug lineage-16.0 N
-jactivelte userdebug lineage-16.0 N
 jason userdebug lineage-16.0 N
-jflteatt userdebug lineage-16.0 N
-jfltespr userdebug lineage-16.0 N
-jfltevzw userdebug lineage-16.0 N
-jfltexx userdebug lineage-16.0 N
-jfvelte userdebug lineage-16.0 N
 kccat6 userdebug lineage-16.0 N
 kiwi userdebug lineage-16.0 N
 klte userdebug lineage-16.0 N
@@ -69,8 +74,6 @@ land userdebug lineage-16.0 N
 lentislte userdebug lineage-16.0 N
 lithium userdebug lineage-16.0 N
 ls990 userdebug lineage-16.0 N
-m8 userdebug lineage-16.0 N
-m8d userdebug lineage-16.0 N
 marlin userdebug lineage-16.0 N
 mata userdebug lineage-16.0 N
 mido userdebug lineage-16.0 N
@@ -99,7 +102,6 @@ scorpio userdebug lineage-16.0 N
 shamu userdebug lineage-16.0 N
 tissot userdebug lineage-16.0 N
 victara userdebug lineage-16.0 N
-vs985 userdebug lineage-16.0 N
 X00TD userdebug lineage-16.0 N
 X01BD userdebug lineage-16.0 N
 x2 userdebug lineage-16.0 N
