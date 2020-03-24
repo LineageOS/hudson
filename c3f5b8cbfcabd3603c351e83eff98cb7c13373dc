@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "72f661c9_a1f72220",
+        "filename": "lineage-build-targets",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2020-03-24T22:11:13Z",
+      "side": 1,
+      "message": "This one can ship in the first batch since it\u0027s msm8974.",
+      "range": {
+        "startLine": 21,
+        "startChar": 0,
+        "endLine": 21,
+        "endChar": 28
+      },
+      "revId": "c3f5b8cbfcabd3603c351e83eff98cb7c13373dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
