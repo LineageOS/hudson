@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "37d1eafa_371ef117",
+        "filename": "updater/devices.json",
+        "patchSetId": 4
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 18970
+      },
+      "writtenOn": "2020-03-26T23:36:18Z",
+      "side": 1,
+      "message": "I\u0027m not used to doing this so I hope I did this right. From what I can see here, \u0027f400\u0027 and \u0027fajita\u0027 appear to have duplicate definitions (and conflicting in the case of \u0027fajita\u0027) above and below this comment",
+      "revId": "cbce8136cc9dfc936e73fdd753932c8fc1627369",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
