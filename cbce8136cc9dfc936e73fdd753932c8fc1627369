@@ -16,6 +16,24 @@
       "revId": "cbce8136cc9dfc936e73fdd753932c8fc1627369",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "9de7ea76_914b0b21",
+        "filename": "updater/devices.json",
+        "patchSetId": 4
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2020-03-28T15:56:23Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "37d1eafa_371ef117",
+      "revId": "cbce8136cc9dfc936e73fdd753932c8fc1627369",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
