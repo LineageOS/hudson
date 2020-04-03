@@ -10,16 +10,11 @@ d800 userdebug lineage-17.1 N
 d801 userdebug lineage-17.1 N
 d802 userdebug lineage-17.1 N
 d803 userdebug lineage-17.1 N
-d850 userdebug lineage-17.1 N
-d851 userdebug lineage-17.1 N
-d852 userdebug lineage-17.1 N
-d855 userdebug lineage-17.1 N
 dipper userdebug lineage-17.1 N
 discovery userdebug lineage-17.1 N
 enchilada userdebug lineage-17.1 N
 evert userdebug lineage-17.1 N
 FP2 userdebug lineage-17.1 N
-f400 userdebug lineage-17.1 N
 fajita userdebug lineage-17.1 N
 guacamole userdebug lineage-17.1 N
 griffin userdebug lineage-17.1 N
@@ -51,7 +46,6 @@ river userdebug lineage-17.1 N
 rs988 userdebug lineage-17.1 N
 sagit userdebug lineage-17.1 N
 us996 userdebug lineage-17.1 N
-vs985 userdebug lineage-17.1 N
 vs995 userdebug lineage-17.1 N
 z2_plus userdebug lineage-17.1 N
 
@@ -67,9 +61,14 @@ capricorn userdebug lineage-16.0 W
 charlotte userdebug lineage-16.0 W
 cheeseburger userdebug lineage-16.0 W
 crackling userdebug lineage-16.0 W
+d850 userdebug lineage-16.0 W
+d851 userdebug lineage-16.0 W
+d852 userdebug lineage-16.0 W
+d855 userdebug lineage-16.0 W
 dumpling userdebug lineage-16.0 W
 ether userdebug lineage-16.0 W
 f1f userdebug lineage-16.0 W
+f400 userdebug lineage-16.0 W
 find7 userdebug lineage-16.0 W
 gemini userdebug lineage-16.0 W
 gts210vewifi userdebug lineage-16.0 W
@@ -115,6 +114,7 @@ scorpio userdebug lineage-16.0 W
 shamu userdebug lineage-16.0 W
 tissot userdebug lineage-16.0 W
 victara userdebug lineage-16.0 W
+vs985 userdebug lineage-16.0 W
 X00TD userdebug lineage-16.0 W
 X01BD userdebug lineage-16.0 W
 x2 userdebug lineage-16.0 W
