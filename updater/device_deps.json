@@ -21,6 +21,10 @@
         "android_device_nokia_sdm660-common",
         "android_kernel_nokia_sdm660"
     ],
+    "RMX1801": [
+        "android_device_realme_RMX1801",
+        "android_kernel_realme_sdm660"
+    ],
     "RMX1851": [
         "android_device_realme_RMX1851",
         "android_kernel_realme_sdm710",
@@ -84,6 +88,10 @@
         "android_device_samsung_a3xelte",
         "android_device_samsung_universal7580-common",
         "android_hardware_samsung",
+        "android_hardware_samsung_slsi_exynos",
+        "android_hardware_samsung_slsi_exynos5",
+        "android_hardware_samsung_slsi_exynos7580",
+        "android_hardware_samsung_slsi_openmax",
         "android_kernel_samsung_universal7580",
         "android_packages_resources_devicesettings"
     ],
@@ -91,6 +99,10 @@
         "android_device_samsung_a5xelte",
         "android_device_samsung_universal7580-common",
         "android_hardware_samsung",
+        "android_hardware_samsung_slsi_exynos",
+        "android_hardware_samsung_slsi_exynos5",
+        "android_hardware_samsung_slsi_exynos7580",
+        "android_hardware_samsung_slsi_openmax",
         "android_kernel_samsung_universal7580",
         "android_packages_resources_devicesettings"
     ],
@@ -315,9 +327,9 @@
         "android_packages_resources_devicesettings"
     ],
     "davinci": [
-        "android_device_xiaomi_common",
         "android_device_xiaomi_davinci",
         "android_device_xiaomi_sm6150-common",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_sm6150"
     ],
     "deb": [
@@ -1130,9 +1142,9 @@
         "android_packages_resources_devicesettings"
     ],
     "phoenix": [
-        "android_device_xiaomi_common",
         "android_device_xiaomi_phoenix",
         "android_device_xiaomi_sm6150-common",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_sm6150"
     ],
     "piccolo": [
@@ -1267,6 +1279,10 @@
         "android_device_samsung_s5neolte",
         "android_device_samsung_universal7580-common",
         "android_hardware_samsung",
+        "android_hardware_samsung_slsi_exynos",
+        "android_hardware_samsung_slsi_exynos5",
+        "android_hardware_samsung_slsi_exynos7580",
+        "android_hardware_samsung_slsi_openmax",
         "android_kernel_samsung_universal7580",
         "android_packages_resources_devicesettings"
     ],
