@@ -2,6 +2,7 @@
 # <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
 
 # Nightly 17.1
+Amber userdebug lineage-17.1 N
 bardock userdebug lineage-17.1 N
 bardockpro userdebug lineage-17.1 N
 beryllium userdebug lineage-17.1 N
@@ -66,7 +67,6 @@ a3xelte userdebug lineage-16.0 W
 a5xelte userdebug lineage-16.0 W
 a5y17lte userdebug lineage-16.0 W
 a7y17lte userdebug lineage-16.0 W
-Amber userdebug lineage-16.0 W
 bacon userdebug lineage-16.0 W
 berkeley userdebug lineage-16.0 W
 capricorn userdebug lineage-16.0 W
