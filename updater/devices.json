@@ -144,7 +144,7 @@
   {  "model": "kltekor", "oem": "Samsung", "name": "Galaxy S5 LTE (G900K/L/S)"},
   {  "model": "kltesprsports", "oem": "Samsung", "name": "Galaxy S5 Sport (SM-G860P)"},
   {  "model": "ks01lte", "oem": "Samsung", "name": "Galaxy S4 LTE-A"},
-  {  "model": "kuntao", "oem": "Lenovo", "name": "P2 (P2a42 Intl)"},
+  {  "model": "kuntao", "oem": "Lenovo", "name": "P2 (P2a42 Intl)", "lineage_recovery": true},
   {  "model": "lake", "oem": "Motorola", "name": "Moto G7 Plus", "lineage_recovery": true},
   {  "model": "land", "oem": "Xiaomi", "name": "Redmi 3S/3X"},
   {  "model": "lentislte", "oem": "Samsung", "name": "Galaxy S5 LTE-A"},
