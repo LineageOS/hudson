@@ -185,7 +185,7 @@
   {  "model": "nx512j", "oem": "Nubia", "name": "Nubia Z9 Max"},
   {  "model": "nx563j", "oem": "Nubia", "name": "Nubia Z17", "lineage_recovery": true},
   {  "model": "odin", "oem": "Sony", "name": "Xperia ZL"},
-  {  "model": "oneplus2", "oem": "OnePlus", "name": "2"},
+  {  "model": "oneplus2", "oem": "OnePlus", "name": "2", "lineage_recovery": true},
   {  "model": "oneplus3", "oem": "OnePlus", "name": "3 / 3T", "lineage_recovery": true},
   {  "model": "onyx", "oem": "OnePlus", "name": "X"},
   {  "model": "osprey", "oem": "Motorola", "name": "Moto G (2015)"},
