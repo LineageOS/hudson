@@ -165,7 +165,7 @@
   {  "model": "mako", "oem": "Google", "name": "Nexus 4"},
   {  "model": "manta", "oem": "Google", "name": "Nexus 10"},
   {  "model": "marlin", "oem": "Google", "name": "Pixel XL", "lineage_recovery": true},
-  {  "model": "mata", "oem": "Essential", "name": "PH-1"},
+  {  "model": "mata", "oem": "Essential", "name": "PH-1", "lineage_recovery": true},
   {  "model": "maserati", "oem": "Motorola", "name": "Droid 4"},
   {  "model": "merlin", "oem": "Motorola", "name": "Moto G3 Turbo"},
   {  "model": "mermaid", "oem": "Sony", "name": "Xperia 10 Plus", "lineage_recovery": true},
