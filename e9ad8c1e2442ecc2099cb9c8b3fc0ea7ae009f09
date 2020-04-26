@@ -22,6 +22,30 @@
       "revId": "e9ad8c1e2442ecc2099cb9c8b3fc0ea7ae009f09",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "1d90ca12_f7208b4a",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2020-04-26T21:01:02Z",
+      "side": 1,
+      "message": "Unnecessary. Headlines for this repo have often been whimsical.",
+      "parentUuid": "9b8f86b9_22c577b5",
+      "range": {
+        "startLine": 7,
+        "startChar": 8,
+        "endLine": 7,
+        "endChar": 21
+      },
+      "revId": "e9ad8c1e2442ecc2099cb9c8b3fc0ea7ae009f09",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
     }
   ]
 }
