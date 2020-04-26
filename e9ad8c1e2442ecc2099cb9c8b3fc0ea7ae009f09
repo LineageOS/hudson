@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9b8f86b9_22c577b5",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 24812
+      },
+      "writtenOn": "2020-04-26T20:24:36Z",
+      "side": 1,
+      "message": "Promote mata to 17.1\n\n* I\u0027m Essential\n\nFor title consistency with other commits like https://review.lineageos.org/c/LineageOS/hudson/+/273189 or https://review.lineageos.org/c/LineageOS/hudson/+/272641",
+      "range": {
+        "startLine": 7,
+        "startChar": 8,
+        "endLine": 7,
+        "endChar": 21
+      },
+      "revId": "e9ad8c1e2442ecc2099cb9c8b3fc0ea7ae009f09",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
