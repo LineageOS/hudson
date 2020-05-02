@@ -119,7 +119,7 @@
   {  "model": "jalebi", "oem": "YU", "name": "Yunique"},
   {  "model": "jasmine", "oem": "ZTE", "name": "Trek 2 HD"},
   {  "model": "jasmine_sprout", "oem": "Xiaomi", "name": "Mi A2", "lineage_recovery": true},
-  {  "model": "jason", "oem": "Xiaomi", "name": "Mi Note 3"},
+  {  "model": "jason", "oem": "Xiaomi", "name": "Mi Note 3", "lineage_recovery": true},
   {  "model": "jflteatt", "oem": "Samsung", "name": "Galaxy S4 (SGH-I337)", "lineage_recovery": true},
   {  "model": "jfltespr", "oem": "Samsung", "name": "Galaxy S4 (SCH-R970/C/X,SPH-L720)", "lineage_recovery": true},
   {  "model": "jfltevzw", "oem": "Samsung", "name": "Galaxy S4 (SCH-I545)", "lineage_recovery": true},
