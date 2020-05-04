@@ -31,7 +31,7 @@
   {  "model": "chiron", "oem": "Xiaomi", "name": "Mi MIX 2", "lineage_recovery": true},
   {  "model": "clark", "oem": "Motorola", "name": "Moto X Pure (2015)"},
   {  "model": "condor", "oem": "Motorola", "name": "Moto E"},
-  {  "model": "crackling", "oem": "Wileyfox", "name": "Swift"},
+  {  "model": "crackling", "oem": "Wileyfox", "name": "Swift", "lineage_recovery": true},
   {  "model": "crownlte", "oem": "Samsung", "name": "Galaxy Note 9", "lineage_recovery": true},
   {  "model": "d2att", "oem": "Samsung", "name": "Galaxy S III (AT&T)"},
   {  "model": "d2spr", "oem": "Samsung", "name": "Galaxy S III (Sprint)"},
