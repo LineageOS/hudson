@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5b533cee_93da1cfa",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 24812
+      },
+      "writtenOn": "2020-05-05T21:17:53Z",
+      "side": 1,
+      "message": "hudson: \u0027b\u0027 is cool too\n\n* Add OnePlus 7 guacamoleb",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 23
+      },
+      "revId": "34e51a68b7f2a921f319e3936c07e09dc617b6a7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
