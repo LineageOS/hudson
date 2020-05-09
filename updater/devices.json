@@ -255,7 +255,7 @@
   {  "model": "v500", "oem": "LG", "name": "G Pad 8.3"},
   {  "model": "v521", "oem": "LG", "name": "G Pad X 8.0 (TMO)"},
   {  "model": "vegetalte", "oem": "BQ", "name": "Aquaris E5 4G"},
-  {  "model": "victara", "oem": "Motorola", "name": "Moto X 2014"},
+  {  "model": "victara", "oem": "Motorola", "name": "Moto X 2014", "lineage_recovery": true},
   {  "model": "violet", "oem": "Xiaomi", "name": "Redmi Note 7 Pro"},
   {  "model": "voyager", "oem": "Sony", "name": "Xperia XA2 Plus", "lineage_recovery": true},
   {  "model": "vs985", "oem": "LG", "name": "G3 (VZW)", "lineage_recovery": true},
