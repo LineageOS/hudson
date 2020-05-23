@@ -265,7 +265,7 @@
   {  "model": "w5", "oem": "LG", "name": "Optimus L70"},
   {  "model": "w7", "oem": "LG", "name": "Optimus L90"},
   {  "model": "wayne", "oem": "Xiaomi", "name": "Mi 6X", "lineage_recovery": true},
-  {  "model": "whyred", "oem": "Xiaomi", "name": "Redmi Note 5 Pro"},
+  {  "model": "whyred", "oem": "Xiaomi", "name": "Redmi Note 5 Pro", "lineage_recovery": true},
   {  "model": "wt88047", "oem": "Wingtech", "name": "Redmi 2", "lineage_recovery": true},
   {  "model": "X00TD", "oem": "Asus", "name": "Zenfone Max Pro M1"},
   {  "model": "X01BD", "oem": "Asus", "name": "Zenfone Max Pro M2"},
