@@ -2,6 +2,8 @@
 # <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
 
 # Nightly 17.1
+a3xelte userdebug lineage-17.1 N
+a5xelte userdebug lineage-17.1 N
 Amber userdebug lineage-17.1 N
 bardock userdebug lineage-17.1 N
 bardockpro userdebug lineage-17.1 N
@@ -61,6 +63,7 @@ pioneer userdebug lineage-17.1 N
 polaris userdebug lineage-17.1 N
 river userdebug lineage-17.1 N
 rs988 userdebug lineage-17.1 N
+s5neolte userdebug lineage-17.1 N
 sagit userdebug lineage-17.1 N
 sailfish userdebug lineage-17.1 N
 shamu userdebug lineage-17.1 N
@@ -79,8 +82,6 @@ z2_plus userdebug lineage-17.1 N
 zl1 userdebug lineage-17.1 N
 
 # Weekly lineage-16.0
-a3xelte userdebug lineage-16.0 W
-a5xelte userdebug lineage-16.0 W
 a5y17lte userdebug lineage-16.0 W
 a7y17lte userdebug lineage-16.0 W
 bacon userdebug lineage-16.0 W
@@ -125,7 +126,6 @@ s2 userdebug lineage-16.0 W
 s3ve3gds userdebug lineage-16.0 W
 s3ve3gjv userdebug lineage-16.0 W
 s3ve3gxx userdebug lineage-16.0 W
-s5neolte userdebug lineage-16.0 W
 santoni userdebug lineage-16.0 W
 scorpio userdebug lineage-16.0 W
 X00TD userdebug lineage-16.0 W
