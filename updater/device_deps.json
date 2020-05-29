@@ -142,6 +142,7 @@
     "beryllium": [
         "android_device_xiaomi_beryllium",
         "android_device_xiaomi_sdm845-common",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_sdm845"
     ],
     "blueline": [
@@ -305,6 +306,7 @@
     "dipper": [
         "android_device_xiaomi_dipper",
         "android_device_xiaomi_sdm845-common",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_sdm845"
     ],
     "discovery": [
@@ -337,6 +339,7 @@
     "equuleus": [
         "android_device_xiaomi_equuleus",
         "android_device_xiaomi_sdm845-common",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_sdm845"
     ],
     "ether": [
@@ -349,6 +352,15 @@
         "android_external_bson",
         "android_kernel_motorola_msm8998",
         "android_system_qcom"
+    ],
+    "eyeul": [
+        "android_device_htc_eyeul",
+        "android_device_htc_msm8974-common",
+        "android_external_sony_boringssl-compat",
+        "android_hardware_sony_thermanager",
+        "android_kernel_htc_msm8974",
+        "android_packages_apps_FlipFlap",
+        "android_packages_resources_devicesettings"
     ],
     "f1f": [
         "android_device_oppo_common",
@@ -447,6 +459,12 @@
     "guacamole": [
         "android_device_oneplus_common",
         "android_device_oneplus_guacamole",
+        "android_device_oneplus_sm8150-common",
+        "android_kernel_oneplus_sm8150"
+    ],
+    "guacamoleb": [
+        "android_device_oneplus_common",
+        "android_device_oneplus_guacamoleb",
         "android_device_oneplus_sm8150-common",
         "android_kernel_oneplus_sm8150"
     ],
@@ -605,14 +623,14 @@
     ],
     "jasmine_sprout": [
         "android_device_xiaomi_jasmine_sprout",
+        "android_device_xiaomi_sdm660-common",
         "android_device_xiaomi_wayne-common",
-        "android_kernel_xiaomi_sdm660",
-        "android_packages_resources_devicesettings"
+        "android_kernel_xiaomi_sdm660"
     ],
     "jason": [
         "android_device_xiaomi_jason",
-        "android_kernel_xiaomi_jason",
-        "android_packages_resources_devicesettings"
+        "android_device_xiaomi_sdm660-common",
+        "android_kernel_xiaomi_sdm660"
     ],
     "jetson": [
         "android_device_nvidia_jetson",
@@ -762,6 +780,11 @@
         "android_kernel_xiaomi_msm8937",
         "android_packages_resources_devicesettings"
     ],
+    "lavender": [
+        "android_device_xiaomi_lavender",
+        "android_device_xiaomi_sdm660-common",
+        "android_kernel_xiaomi_sdm660"
+    ],
     "lentislte": [
         "android_device_samsung_apq8084-common",
         "android_device_samsung_lentislte",
@@ -848,6 +871,15 @@
         "android_kernel_sony_msm8x60",
         "android_packages_resources_devicesettings"
     ],
+    "ms013g": [
+        "android_device_samsung_ms01-common",
+        "android_device_samsung_ms013g",
+        "android_device_samsung_msm8226-common",
+        "android_device_samsung_qcom-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_msm8226",
+        "android_packages_apps_FlipFlap"
+    ],
     "muskie": [
         "android_device_google_muskie",
         "android_device_google_wahoo",
@@ -874,8 +906,7 @@
     "nx563j": [
         "android_device_nubia_msm8998-common",
         "android_device_nubia_nx563j",
-        "android_kernel_nubia_msm8998",
-        "android_packages_resources_devicesettings"
+        "android_kernel_nubia_msm8998"
     ],
     "odin": [
         "android_device_sony_common",
@@ -886,9 +917,14 @@
         "android_kernel_sony_apq8064",
         "android_packages_resources_devicesettings"
     ],
+    "onclite": [
+        "android_device_xiaomi_onclite",
+        "android_kernel_xiaomi_onclite"
+    ],
     "oneplus2": [
         "android_device_oneplus_oneplus2",
         "android_device_oppo_common",
+        "android_hardware_sony_timekeep",
         "android_kernel_oneplus_msm8994"
     ],
     "oneplus3": [
@@ -906,6 +942,7 @@
     "perseus": [
         "android_device_xiaomi_perseus",
         "android_device_xiaomi_sdm845-common",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_sdm845"
     ],
     "phoenix": [
@@ -924,6 +961,7 @@
     "polaris": [
         "android_device_xiaomi_polaris",
         "android_device_xiaomi_sdm845-common",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_sdm845"
     ],
     "pollux": [
@@ -1136,12 +1174,12 @@
     "twolip": [
         "android_device_xiaomi_sdm660-common",
         "android_device_xiaomi_twolip",
-        "android_kernel_xiaomi_sdm660",
-        "android_packages_resources_devicesettings"
+        "android_kernel_xiaomi_sdm660"
     ],
     "ursa": [
         "android_device_xiaomi_sdm845-common",
         "android_device_xiaomi_ursa",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_sdm845"
     ],
     "us996": [
@@ -1165,8 +1203,8 @@
     ],
     "victara": [
         "android_device_motorola_victara",
+        "android_external_bson",
         "android_kernel_motorola_msm8974",
-        "android_packages_resources_devicesettings",
         "android_system_qcom"
     ],
     "violet": [
@@ -1210,20 +1248,39 @@
         "android_kernel_google_wahoo"
     ],
     "wayne": [
+        "android_device_xiaomi_sdm660-common",
         "android_device_xiaomi_wayne",
         "android_device_xiaomi_wayne-common",
-        "android_kernel_xiaomi_sdm660",
-        "android_packages_resources_devicesettings"
+        "android_kernel_xiaomi_sdm660"
+    ],
+    "whyred": [
+        "android_device_xiaomi_sdm660-common",
+        "android_device_xiaomi_whyred",
+        "android_kernel_xiaomi_sdm660"
     ],
     "wt88047": [
         "android_device_cyanogen_msm8916-common",
         "android_device_wingtech_wt88047",
         "android_kernel_wingtech_msm8916"
     ],
+    "x1q": [
+        "android_device_samsung_slsi_sepolicy",
+        "android_device_samsung_sm8250-common",
+        "android_device_samsung_x1q",
+        "android_hardware_samsung",
+        "android_kernel_samsung_sm8250"
+    ],
     "x2": [
         "android_device_leeco_msm8996-common",
         "android_device_leeco_x2",
         "android_kernel_leeco_msm8996"
+    ],
+    "y2q": [
+        "android_device_samsung_slsi_sepolicy",
+        "android_device_samsung_sm8250-common",
+        "android_device_samsung_y2q",
+        "android_hardware_samsung",
+        "android_kernel_samsung_sm8250"
     ],
     "yuga": [
         "android_device_sony_common",
@@ -1261,6 +1318,13 @@
         "android_hardware_sony_thermanager",
         "android_hardware_sony_timekeep",
         "android_kernel_sony_msm8974"
+    ],
+    "z3q": [
+        "android_device_samsung_slsi_sepolicy",
+        "android_device_samsung_sm8250-common",
+        "android_device_samsung_z3q",
+        "android_hardware_samsung",
+        "android_kernel_samsung_sm8250"
     ],
     "zangya": [
         "android_device_bq_sdm660-common",
