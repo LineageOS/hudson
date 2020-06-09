@@ -312,6 +312,7 @@
     "discovery": [
         "android_device_sony_discovery",
         "android_device_sony_nile-common",
+        "android_hardware_sony_SonyOpenTelephony",
         "android_hardware_sony_macaddrsetup",
         "android_hardware_sony_simdetect",
         "android_kernel_sony_sdm660"
@@ -532,6 +533,14 @@
         "android_packages_resources_devicesettings",
         "android_system_qcom"
     ],
+    "harpia": [
+        "android_device_motorola_harpia",
+        "android_device_motorola_msm8916-common",
+        "android_external_bson",
+        "android_hardware_sony_timekeep",
+        "android_kernel_motorola_msm8916",
+        "android_system_qcom"
+    ],
     "hayabusa": [
         "android_device_sony_blue-common",
         "android_device_sony_common",
@@ -689,6 +698,7 @@
     "kirin": [
         "android_device_sony_kirin",
         "android_device_sony_nile-common",
+        "android_hardware_sony_SonyOpenTelephony",
         "android_hardware_sony_macaddrsetup",
         "android_hardware_sony_simdetect",
         "android_kernel_sony_sdm660"
@@ -822,6 +832,14 @@
         "android_device_lge_v20-common",
         "android_kernel_lge_msm8996"
     ],
+    "lux": [
+        "android_device_motorola_lux",
+        "android_device_motorola_msm8916-common",
+        "android_external_bson",
+        "android_hardware_sony_timekeep",
+        "android_kernel_motorola_msm8916",
+        "android_system_qcom"
+    ],
     "m8": [
         "android_device_htc_m8",
         "android_device_htc_m8-common",
@@ -849,9 +867,18 @@
         "android_kernel_essential_msm8998",
         "android_packages_resources_devicesettings"
     ],
+    "merlin": [
+        "android_device_motorola_merlin",
+        "android_device_motorola_msm8916-common",
+        "android_external_bson",
+        "android_hardware_sony_timekeep",
+        "android_kernel_motorola_msm8916",
+        "android_system_qcom"
+    ],
     "mermaid": [
         "android_device_sony_mermaid",
         "android_device_sony_nile-common",
+        "android_hardware_sony_SonyOpenTelephony",
         "android_hardware_sony_macaddrsetup",
         "android_hardware_sony_simdetect",
         "android_kernel_sony_sdm660"
@@ -932,6 +959,14 @@
         "android_device_oppo_common",
         "android_kernel_oneplus_msm8996"
     ],
+    "osprey": [
+        "android_device_motorola_msm8916-common",
+        "android_device_motorola_osprey",
+        "android_external_bson",
+        "android_hardware_sony_timekeep",
+        "android_kernel_motorola_msm8916",
+        "android_system_qcom"
+    ],
     "payton": [
         "android_device_motorola_payton",
         "android_device_motorola_sdm660-common",
@@ -954,6 +989,7 @@
     "pioneer": [
         "android_device_sony_nile-common",
         "android_device_sony_pioneer",
+        "android_hardware_sony_SonyOpenTelephony",
         "android_hardware_sony_macaddrsetup",
         "android_hardware_sony_simdetect",
         "android_kernel_sony_sdm660"
@@ -1015,6 +1051,12 @@
         "android_external_bson",
         "android_kernel_motorola_sdm632",
         "android_system_qcom"
+    ],
+    "rosy": [
+        "android_device_xiaomi_msm8953-common",
+        "android_device_xiaomi_rosy",
+        "android_kernel_xiaomi_rosy",
+        "android_packages_resources_devicesettings"
     ],
     "roth": [
         "android_device_nvidia_roth",
@@ -1143,6 +1185,14 @@
         "android_hardware_samsung",
         "android_kernel_samsung_universal9810"
     ],
+    "surnia": [
+        "android_device_motorola_msm8916-common",
+        "android_device_motorola_surnia",
+        "android_external_bson",
+        "android_hardware_sony_timekeep",
+        "android_kernel_motorola_msm8916",
+        "android_system_qcom"
+    ],
     "taimen": [
         "android_device_google_taimen",
         "android_device_google_wahoo",
@@ -1215,6 +1265,7 @@
     "voyager": [
         "android_device_sony_nile-common",
         "android_device_sony_voyager",
+        "android_hardware_sony_SonyOpenTelephony",
         "android_hardware_sony_macaddrsetup",
         "android_hardware_sony_simdetect",
         "android_kernel_sony_sdm660"
