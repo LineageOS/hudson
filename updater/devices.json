@@ -114,6 +114,7 @@
   {  "model": "i9305", "oem": "Samsung", "name": "Galaxy S III (GSM LTE)"},
   {  "model": "ido", "oem": "Xiaomi", "name": "Redmi 3/Prime"},
   {  "model": "ivy", "oem": "Sony", "name": "Xperia Z3+"},
+  {  "model": "j7elte", "oem": "Samsung", "name": "Galaxy J7", "lineage_recovery": true},
   {  "model": "jactivelte", "oem": "Samsung", "name": "Galaxy S4 Active (GT-I9295)", "lineage_recovery": true},
   {  "model": "jag3gds", "oem": "LG", "name": "G3 S"},
   {  "model": "jagnm", "oem": "LG", "name": "G3 Beat"},
