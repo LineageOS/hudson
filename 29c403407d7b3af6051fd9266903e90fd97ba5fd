@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "202c05b2_eeeb746e",
+        "filename": "updater/devices.json",
+        "patchSetId": 3
+      },
+      "lineNbr": 117,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2020-06-20T14:57:53Z",
+      "side": 1,
+      "message": "If it\u0027s not part of the official name of the device it should be in parentheses. change wiki to match.",
+      "range": {
+        "startLine": 117,
+        "startChar": 61,
+        "endLine": 117,
+        "endChar": 65
+      },
+      "revId": "29c403407d7b3af6051fd9266903e90fd97ba5fd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
