@@ -537,6 +537,7 @@
         "android_device_motorola_harpia",
         "android_device_motorola_msm8916-common",
         "android_external_bson",
+        "android_external_sony_boringssl-compat",
         "android_hardware_sony_timekeep",
         "android_kernel_motorola_msm8916",
         "android_system_qcom"
@@ -617,6 +618,17 @@
     ],
     "icera": [
         "android_device_nvidia_icera"
+    ],
+    "j7elte": [
+        "android_device_samsung_j7elte",
+        "android_device_samsung_universal7580-common",
+        "android_hardware_samsung",
+        "android_hardware_samsung_slsi_exynos",
+        "android_hardware_samsung_slsi_exynos5",
+        "android_hardware_samsung_slsi_exynos7580",
+        "android_hardware_samsung_slsi_openmax",
+        "android_kernel_samsung_universal7580",
+        "android_packages_resources_devicesettings"
     ],
     "jactivelte": [
         "android_device_samsung_jactivelte",
@@ -836,6 +848,7 @@
         "android_device_motorola_lux",
         "android_device_motorola_msm8916-common",
         "android_external_bson",
+        "android_external_sony_boringssl-compat",
         "android_hardware_sony_timekeep",
         "android_kernel_motorola_msm8916",
         "android_system_qcom"
@@ -871,6 +884,7 @@
         "android_device_motorola_merlin",
         "android_device_motorola_msm8916-common",
         "android_external_bson",
+        "android_external_sony_boringssl-compat",
         "android_hardware_sony_timekeep",
         "android_kernel_motorola_msm8916",
         "android_system_qcom"
@@ -886,8 +900,7 @@
     "mido": [
         "android_device_xiaomi_mido",
         "android_device_xiaomi_msm8953-common",
-        "android_kernel_xiaomi_mido",
-        "android_packages_resources_devicesettings"
+        "android_kernel_xiaomi_mido"
     ],
     "mint": [
         "android_device_sony_blue-common",
@@ -963,6 +976,7 @@
         "android_device_motorola_msm8916-common",
         "android_device_motorola_osprey",
         "android_external_bson",
+        "android_external_sony_boringssl-compat",
         "android_hardware_sony_timekeep",
         "android_kernel_motorola_msm8916",
         "android_system_qcom"
@@ -1055,8 +1069,7 @@
     "rosy": [
         "android_device_xiaomi_msm8953-common",
         "android_device_xiaomi_rosy",
-        "android_kernel_xiaomi_rosy",
-        "android_packages_resources_devicesettings"
+        "android_kernel_xiaomi_rosy"
     ],
     "roth": [
         "android_device_nvidia_roth",
@@ -1189,6 +1202,7 @@
         "android_device_motorola_msm8916-common",
         "android_device_motorola_surnia",
         "android_external_bson",
+        "android_external_sony_boringssl-compat",
         "android_hardware_sony_timekeep",
         "android_kernel_motorola_msm8916",
         "android_system_qcom"
@@ -1201,8 +1215,7 @@
     "tissot": [
         "android_device_xiaomi_msm8953-common",
         "android_device_xiaomi_tissot",
-        "android_kernel_xiaomi_msm8953",
-        "android_packages_resources_devicesettings"
+        "android_kernel_xiaomi_msm8953"
     ],
     "tomato": [
         "android_device_cyanogen_msm8916-common",
