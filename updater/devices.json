@@ -11,7 +11,7 @@
   {  "model": "armani", "oem": "Xiaomi", "name": "Redmi 1S"},
   {  "model": "athene", "oem": "Motorola", "name": "Moto G4/G4 Plus"},
   {  "model": "axon7", "oem": "ZTE", "name": "Axon 7"},
-  {  "model": "bacon", "oem": "OnePlus", "name": "One"},
+  {  "model": "bacon", "oem": "OnePlus", "name": "One", "lineage_recovery": true},
   {  "model": "bardock", "oem": "BQ", "name": "Aquaris X", "lineage_recovery": true},
   {  "model": "bardockpro", "oem": "BQ", "name": "Aquaris X Pro", "lineage_recovery": true},
   {  "model": "berkeley", "oem": "Huawei", "name": "Honor View 10"},
