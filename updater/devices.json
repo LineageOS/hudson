@@ -65,7 +65,7 @@
   {  "model": "enchilada", "oem": "OnePlus", "name": "6", "lineage_recovery": true},
   {  "model": "espresso3g", "oem": "Samsung", "name": "Galaxy Tab 2 7.0 / 10.1 (GSM)"},
   {  "model": "espressowifi", "oem": "Samsung", "name": "Galaxy Tab 2 7.0 / 10.1 (Wi-Fi)"},
-  {  "model": "ether", "oem": "Nextbit", "name": "Robin"},
+  {  "model": "ether", "oem": "Nextbit", "name": "Robin", "lineage_recovery": true},
   {  "model": "evert", "oem": "Motorola", "name": "Moto G6 Plus", "lineage_recovery": true},
   {  "model": "FP2", "oem": "Fairphone", "name": "Fairphone 2", "lineage_recovery": true},
   {  "model": "FP3", "oem": "Fairphone", "name": "Fairphone 3", "lineage_recovery": true},
