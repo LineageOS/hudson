@@ -1034,6 +1034,10 @@
         "android_kernel_sony_apq8064",
         "android_packages_resources_devicesettings"
     ],
+    "pro1": [
+        "android_device_fxtec_pro1",
+        "android_kernel_fxtec_msm8998"
+    ],
     "r5": [
         "android_device_oppo_common",
         "android_device_oppo_msm8939-common",
