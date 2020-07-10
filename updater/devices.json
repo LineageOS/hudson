@@ -207,6 +207,7 @@
   {  "model": "polaris", "oem": "Xiaomi", "name": "Mi MIX 2S", "lineage_recovery": true},
   {  "model": "pollux", "oem": "Sony", "name": "Xperia Tablet Z LTE"},
   {  "model": "pollux_windy", "oem": "Sony", "name": "Xperia Tablet Z Wi-Fi"},
+  {  "model": "pro1", "oem": "FxTec", "name": "Pro1", "lineage_recovery": true},
   {  "model": "r5", "oem": "OPPO", "name": "R5/R5s (R8106/R8106s Intl)"},
   {  "model": "r7plus", "oem": "OPPO", "name": "R7 Plus (R7plusf Intl)"},
   {  "model": "r7sf", "oem": "OPPO", "name": "R7s (R7sf Intl)"},
