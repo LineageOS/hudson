@@ -1343,6 +1343,11 @@
         "android_device_leeco_x2",
         "android_kernel_leeco_msm8996"
     ],
+    "xz2c": [
+        "android_device_sony_tama-common",
+        "android_device_sony_xz2c",
+        "android_kernel_sony_sdm845"
+    ],
     "y2q": [
         "android_device_samsung_slsi_sepolicy",
         "android_device_samsung_sm8250-common",
