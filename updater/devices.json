@@ -273,6 +273,7 @@
   {  "model": "X00TD", "oem": "Asus", "name": "Zenfone Max Pro M1"},
   {  "model": "X01BD", "oem": "Asus", "name": "Zenfone Max Pro M2"},
   {  "model": "x2", "oem": "LeEco", "name": "Le Max 2", "lineage_recovery": true},
+  {  "model": "xz2c", "oem": "Sony", "name": "Xperia XZ2 Compact", "lineage_recovery": true},
   {  "model": "xt897", "oem": "Motorola", "name": "Photon Q"},
   {  "model": "YTX703F", "oem": "Lenovo", "name": "Yoga Tab 3 Plus Wi-Fi"},
   {  "model": "YTX703L", "oem": "Lenovo", "name": "Yoga Tab 3 Plus LTE"},
