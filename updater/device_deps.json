@@ -4,6 +4,11 @@
         "android_kernel_yandex_sdm660",
         "android_packages_resources_devicesettings"
     ],
+    "DRG": [
+        "android_device_nokia_DRG",
+        "android_device_nokia_sdm660-common",
+        "android_kernel_nokia_sdm660"
+    ],
     "FP2": [
         "android_device_fairphone_FP2",
         "android_kernel_fairphone_msm8974"
@@ -123,6 +128,11 @@
         "android_device_huawei_angler",
         "android_kernel_huawei_angler"
     ],
+    "aura": [
+        "android_device_razer_aura",
+        "android_kernel_xiaomi_sdm845",
+        "android_packages_resources_devicesettings"
+    ],
     "bacon": [
         "android_device_oneplus_bacon",
         "android_device_oppo_common",
@@ -178,6 +188,7 @@
         "android_device_cyanogen_msm8916-common",
         "android_device_huawei_che10",
         "android_device_huawei_msm8916-common",
+        "android_hardware_sony_timekeep",
         "android_kernel_huawei_msm8916"
     ],
     "cheeseburger": [
@@ -197,6 +208,7 @@
         "android_device_cyanogen_msm8916-common",
         "android_device_huawei_cherry",
         "android_device_huawei_msm8916-common",
+        "android_hardware_sony_timekeep",
         "android_kernel_huawei_msm8916"
     ],
     "cheryl": [
@@ -221,6 +233,7 @@
     "crackling": [
         "android_device_cyanogen_msm8916-common",
         "android_device_wileyfox_crackling",
+        "android_hardware_sony_timekeep",
         "android_kernel_cyanogen_msm8916"
     ],
     "crosshatch": [
@@ -645,6 +658,7 @@
     "jalebi": [
         "android_device_cyanogen_msm8916-common",
         "android_device_yu_jalebi",
+        "android_hardware_sony_timekeep",
         "android_kernel_cyanogen_msm8916"
     ],
     "jasmine_sprout": [
@@ -710,6 +724,7 @@
     "kipper": [
         "android_device_cyanogen_msm8916-common",
         "android_device_wileyfox_kipper",
+        "android_hardware_sony_timekeep",
         "android_kernel_cyanogen_msm8916"
     ],
     "kirin": [
@@ -823,6 +838,7 @@
     "lettuce": [
         "android_device_cyanogen_msm8916-common",
         "android_device_yu_lettuce",
+        "android_hardware_sony_timekeep",
         "android_kernel_cyanogen_msm8916"
     ],
     "lithium": [
@@ -1041,7 +1057,8 @@
     ],
     "pro1": [
         "android_device_fxtec_pro1",
-        "android_kernel_fxtec_msm8998"
+        "android_kernel_fxtec_msm8998",
+        "android_packages_resources_devicesettings"
     ],
     "r5": [
         "android_device_oppo_common",
@@ -1229,6 +1246,7 @@
     "tomato": [
         "android_device_cyanogen_msm8916-common",
         "android_device_yu_tomato",
+        "android_hardware_sony_timekeep",
         "android_kernel_cyanogen_msm8916"
     ],
     "touch": [
@@ -1334,6 +1352,7 @@
     "wt88047": [
         "android_device_cyanogen_msm8916-common",
         "android_device_wingtech_wt88047",
+        "android_hardware_sony_timekeep",
         "android_kernel_wingtech_msm8916"
     ],
     "x1q": [
@@ -1359,6 +1378,9 @@
         "android_device_samsung_y2q",
         "android_hardware_samsung",
         "android_kernel_samsung_sm8250"
+    ],
+    "yellowstone": [
+        "android_device_google_yellowstone"
     ],
     "yuga": [
         "android_device_sony_common",
