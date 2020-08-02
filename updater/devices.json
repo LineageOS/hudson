@@ -4,6 +4,7 @@
   {  "model": "a3xelte", "oem": "Samsung", "name": "Galaxy A3 (2016)", "lineage_recovery": true},
   {  "model": "a5xelte", "oem": "Samsung", "name": "Galaxy A5 (2016)", "lineage_recovery": true},
   {  "model": "a5y17lte", "oem": "Samsung", "name": "Galaxy A5 (2017)"},
+  {  "model": "a7xelte", "oem": "Samsung", "name": "Galaxy A7 (2016)", "lineage_recovery": true},
   {  "model": "a7y17lte", "oem": "Samsung", "name": "Galaxy A7 (2017)"},
   {  "model": "addison", "oem": "Motorola", "name": "Moto Z Play"},
   {  "model": "akari", "oem": "Sony", "name": "Xperia XZ2", "lineage_recovery": true},
