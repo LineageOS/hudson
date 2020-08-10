@@ -4,7 +4,9 @@
 # Nightly 17.1
 a3xelte userdebug lineage-17.1 W
 a5xelte userdebug lineage-17.1 W
+a5y17lte userdebug lineage-17.1 W
 a7xelte userdebug lineage-17.1 W
+a7y17lte userdebug lineage-17.1 W
 akari userdebug lineage-17.1 W
 Amber userdebug lineage-17.1 W
 bacon userdebug lineage-17.1 W
@@ -102,8 +104,6 @@ z2_plus userdebug lineage-17.1 W
 zl1 userdebug lineage-17.1 W
 
 # Weekly lineage-16.0
-a5y17lte userdebug lineage-16.0 W
-a7y17lte userdebug lineage-16.0 W
 berkeley userdebug lineage-16.0 W
 capricorn userdebug lineage-16.0 W
 charlotte userdebug lineage-16.0 W
