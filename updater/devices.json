@@ -217,7 +217,7 @@
   {  "model": "r7plus", "oem": "OPPO", "name": "R7 Plus (R7plusf Intl)"},
   {  "model": "r7sf", "oem": "OPPO", "name": "R7s (R7sf Intl)"},
   {  "model": "river", "oem": "Motorola", "name": "Moto G7", "lineage_recovery": true},
-  {  "model": "RMX1801", "oem": "Realme", "name": "2 Pro"},
+  {  "model": "RMX1801", "oem": "Realme", "name": "2 Pro", "lineage_recovery": true},
   {  "model": "RMX1851", "oem": "Realme", "name": "3 Pro"},
   {  "model": "roth", "oem": "Nvidia", "name": "Shield Portable"},
   {  "model": "rs988", "oem": "LG", "name": "G5 (US)", "lineage_recovery": true},
