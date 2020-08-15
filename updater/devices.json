@@ -131,7 +131,7 @@
   {  "model": "hotdog", "oem": "OnePlus", "name": "7T Pro", "lineage_recovery": true},
   {  "model": "huashan", "oem": "Sony", "name": "Xperia SP"},
   {  "model": "hydrogen", "oem": "Xiaomi", "name": "Mi Max"},
-  {  "model": "I001D", "oem": "Asus", "name": "ROG Phone 2 (I001D)", "lineage_recovery": true},
+  {  "model": "I001D", "oem": "Asus", "name": "ROG Phone 2 (ZS660KL)", "lineage_recovery": true},
   {  "model": "I01WD", "oem": "Asus", "name": "Zenfone 6 (ZS630KL)", "lineage_recovery": true},
   {  "model": "i9100", "oem": "Samsung", "name": "Galaxy S II (Intl)"},
   {  "model": "i9300", "oem": "Samsung", "name": "Galaxy S III (Intl)"},
