@@ -229,6 +229,7 @@
     ],
     "coral": [
         "android_device_google_coral"
+        "android_kernel_google_coral"
     ],
     "crackling": [
         "android_device_cyanogen_msm8916-common",
