@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3b6e8080_bf2f621a",
+        "filename": "updater/device_deps.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 232,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2020-08-16T00:15:04Z",
+      "side": 1,
+      "message": "noticed this, figured I\u0027d add it while shipping it",
+      "range": {
+        "startLine": 232,
+        "startChar": 0,
+        "endLine": 232,
+        "endChar": 37
+      },
+      "revId": "50cf746666f2c4ad9694a094bf700f8e70b48046",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
