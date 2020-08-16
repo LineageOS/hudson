@@ -235,7 +235,8 @@
         "android_packages_resources_devicesettings"
     ],
     "coral": [
-        "android_device_google_coral"
+        "android_device_google_coral",
+        "android_kernel_google_coral"
     ],
     "crackling": [
         "android_device_cyanogen_msm8916-common",
@@ -413,7 +414,8 @@
     ],
     "flame": [
         "android_device_google_coral",
-        "android_device_google_flame"
+        "android_device_google_flame",
+        "android_kernel_google_coral"
     ],
     "flo": [
         "android_device_asus_flo",
