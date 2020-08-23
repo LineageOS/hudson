@@ -69,6 +69,7 @@
   {  "model": "f400", "oem": "LG", "name": "G3 (Korea)", "lineage_recovery": true},
   {  "model": "fajita", "oem": "OnePlus", "name": "6T", "lineage_recovery": true},
   {  "model": "falcon", "oem": "Motorola", "name": "Moto G"},
+  {  "model": "figo", "oem": "Huawei", "name": "P Smart"},
   {  "model": "find7", "oem": "OPPO", "name": "Find 7a"},
   {  "model": "find7s", "oem": "OPPO", "name": "Find 7s"},
   {  "model": "flame", "oem": "Google", "name": "Pixel 4", "lineage_recovery": true},
