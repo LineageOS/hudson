@@ -4,6 +4,11 @@
         "android_kernel_yandex_sdm660",
         "android_packages_resources_devicesettings"
     ],
+    "anne": [
+        "android_device_huawei_anne",
+        "android_device_huawei_hi6250-common",
+        "android_kernel_huawei_hi6250"
+    ],
     "DRG": [
         "android_device_nokia_DRG",
         "android_device_nokia_sdm660-common",
