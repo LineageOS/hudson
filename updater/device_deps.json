@@ -978,6 +978,13 @@
         "android_kernel_sony_apq8064",
         "android_packages_resources_devicesettings"
     ],
+    "ocean": [
+        "android_device_motorola_ocean",
+        "android_device_motorola_sdm632-common",
+        "android_external_bson",
+        "android_kernel_motorola_sdm632",
+        "android_system_qcom"
+    ],
     "onclite": [
         "android_device_xiaomi_onclite",
         "android_kernel_xiaomi_onclite"
