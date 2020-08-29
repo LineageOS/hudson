@@ -28,6 +28,7 @@
   {  "model": "charlotte", "oem": "Huawei", "name": "P20 Pro"},
   {  "model": "che10", "oem": "Huawei", "name": "Honor 4x (China Telecom)"},
   {  "model": "cheeseburger", "oem": "OnePlus", "name": "5"},
+  {  "model": "channel", "oem": "Motorola", "name": "Moto G7 Play", "lineage_recovery": true},
   {  "model": "chef", "oem": "Motorola", "name": "Moto One Power", "lineage_recovery": true},
   {  "model": "cherry", "oem": "Huawei", "name": "Honor 4/4x"},
   {  "model": "cheryl", "oem": "Razer", "name": "Phone", "lineage_recovery": true},

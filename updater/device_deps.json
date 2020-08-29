@@ -197,6 +197,13 @@
         "android_device_oppo_common",
         "android_kernel_oneplus_msm8998"
     ],
+    "channel": [
+        "android_device_motorola_channel",
+        "android_device_motorola_sdm632-common",
+        "android_external_bson",
+        "android_kernel_motorola_sdm632",
+        "android_system_qcom"
+    ],
     "chef": [
         "android_device_motorola_chef",
         "android_device_motorola_sdm660-common",
