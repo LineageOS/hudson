@@ -1,0 +1,67 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "15b39a3d_b5a8c9a7",
+        "filename": "updater/device_deps.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2020-08-31T16:10:21Z",
+      "side": 1,
+      "message": "wrong place.  it goes after angler",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 6
+      },
+      "revId": "a128df37960b19cba662ff61a75d4ce87706d404",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a07e64d7_2af12fde",
+        "filename": "updater/device_deps.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 1457,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2020-08-31T16:10:21Z",
+      "side": 1,
+      "message": "remove your change here",
+      "revId": "a128df37960b19cba662ff61a75d4ce87706d404",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "6a303dad_ea9aca00",
+        "filename": "updater/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2020-08-31T16:10:21Z",
+      "side": 1,
+      "message": "wrong place. it goes after angler.",
+      "range": {
+        "startLine": 4,
+        "startChar": 0,
+        "endLine": 4,
+        "endChar": 59
+      },
+      "revId": "a128df37960b19cba662ff61a75d4ce87706d404",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
