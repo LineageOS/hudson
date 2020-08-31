@@ -42,6 +42,24 @@
     },
     {
       "key": {
+        "uuid": "8bef3a65_5c994b1a",
+        "filename": "updater/device_deps.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 1457,
+      "author": {
+        "id": 20352
+      },
+      "writtenOn": "2020-08-31T17:20:42Z",
+      "side": 1,
+      "message": "I am trying to but my editor (nano) is adding a new line automatically, lemme see",
+      "parentUuid": "a07e64d7_2af12fde",
+      "revId": "a128df37960b19cba662ff61a75d4ce87706d404",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "6a303dad_ea9aca00",
         "filename": "updater/devices.json",
         "patchSetId": 1
