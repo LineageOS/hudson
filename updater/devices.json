@@ -81,6 +81,7 @@
   {  "model": "g2m", "oem": "LG", "name": "G2 Mini"},
   {  "model": "gemini", "oem": "Xiaomi", "name": "Mi 5", "lineage_recovery": true},
   {  "model": "ghost", "oem": "Motorola", "name": "Moto X 2013"},
+  {  "model": "ginkgo", "oem": "Xiaomi", "name": "Redmi Note 8 / 8T", "lineage_recovery": true},
   {  "model": "gohan", "oem": "BQ", "name": "Aquaris X5 Plus"},
   {  "model": "griffin", "oem": "Motorola", "name": "Moto Z", "lineage_recovery": true},
   {  "model": "gtelwifiue", "oem": "Samsung", "name": "Galaxy Tab E 9.6 (Wi-Fi)"},

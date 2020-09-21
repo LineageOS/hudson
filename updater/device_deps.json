@@ -450,6 +450,11 @@
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_msm8996"
     ],
+    "ginkgo": [
+        "android_device_xiaomi_ginkgo",
+        "android_device_xiaomi_sm6125-common",
+        "android_kernel_xiaomi_sm6125"
+    ],
     "goldfish": [
         "android_device_generic_goldfish"
     ],
