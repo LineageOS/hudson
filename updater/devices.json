@@ -218,6 +218,7 @@
   {  "model": "peregrine", "oem": "Motorola", "name": "Moto G 4G"},
   {  "model": "piccolo", "oem": "BQ", "name": "Aquaris M5"},
   {  "model": "pioneer", "oem": "Sony", "name": "Xperia XA2", "lineage_recovery": true},
+  {  "model": "PL2:, "oem": "Nokia", "name": "6.1 (2018)", "lineage_recovery": true},
   {  "model": "pme", "oem": "HTC", "name": "10"},
   {  "model": "polaris", "oem": "Xiaomi", "name": "Mi MIX 2S", "lineage_recovery": true},
   {  "model": "pollux", "oem": "Sony", "name": "Xperia Tablet Z LTE"},
