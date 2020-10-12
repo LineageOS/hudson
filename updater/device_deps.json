@@ -3,7 +3,7 @@
         "android_device_yandex_Amber",
         "android_kernel_yandex_sdm660",
         "android_packages_resources_devicesettings"
-    ],
+    ]
     "DRG": [
         "android_device_nokia_DRG",
         "android_device_nokia_sdm660-common",
