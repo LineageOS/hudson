@@ -16,6 +16,24 @@
       "revId": "9ef5aa466a863596a15585cfa0ee4f300d2a274f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "e6401d22_be4bc71e",
+        "filename": "lineage-build-targets",
+        "patchSetId": 2
+      },
+      "lineNbr": 142,
+      "author": {
+        "id": 21651
+      },
+      "writtenOn": "2020-10-23T12:51:57Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9ff386ee_12ef14a8",
+      "revId": "9ef5aa466a863596a15585cfa0ee4f300d2a274f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
