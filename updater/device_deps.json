@@ -448,6 +448,10 @@
         "android_device_asus_flo",
         "android_kernel_google_msm"
     ],
+    "flox": [
+        "android_device_asus_flox",
+        "android_kernel_google_msm"
+    ],    
     "flounder": [
         "android_device_htc_flounder",
         "android_kernel_htc_flounder"
