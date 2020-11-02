@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dbe1f023_28da0c9a",
+        "filename": "updater/device_deps.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 454,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2020-11-02T22:14:41Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "1fbf48f444e80010eb12467e8d5342e7e5bc9ab6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "0aa61425_18953079",
+        "filename": "updater/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2020-11-02T22:14:41Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "1fbf48f444e80010eb12467e8d5342e7e5bc9ab6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
