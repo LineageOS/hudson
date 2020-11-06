@@ -520,6 +520,13 @@
         "android_hardware_sony_timekeep",
         "android_kernel_samsung_msm8976"
     ],
+    "gts4lv": [
+        "android_device_samsung_gts4lv-common",
+        "android_device_samsung_gts4lv",
+        "android_device_samsung_qcom-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_sdm670"
+    ],
     "gts4lvwifi": [
         "android_device_samsung_gts4lv-common",
         "android_device_samsung_gts4lvwifi",
