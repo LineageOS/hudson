@@ -17,6 +17,7 @@
   {  "model": "bacon", "oem": "OnePlus", "name": "One", "lineage_recovery": true},
   {  "model": "bardock", "oem": "BQ", "name": "Aquaris X", "lineage_recovery": true},
   {  "model": "bardockpro", "oem": "BQ", "name": "Aquaris X Pro", "lineage_recovery": true},
+  {  "model": "beckham", "oem": "Motorola", "name": "Moto Z3 Play", "lineage_recovery": true},
   {  "model": "berkeley", "oem": "Huawei", "name": "Honor View 10"},
   {  "model": "beryllium", "oem": "Xiaomi", "name": "Poco F1", "lineage_recovery": true},
   {  "model": "blueline", "oem": "Google", "name": "Pixel 3", "lineage_recovery": true},
