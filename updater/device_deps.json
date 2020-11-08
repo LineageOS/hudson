@@ -165,6 +165,13 @@
         "android_device_bq_msm8953-common",
         "android_kernel_bq_msm8953"
     ],
+    "beckham": [
+        "android_device_motorola_beckham",
+        "android_device_motorola_sdm660-common",
+        "android_external_bson",
+        "android_kernel_motorola_msm8998",
+        "android_system_qcom"
+    ],
     "begonia": [
         "android_device_mediatek_sepolicy",
         "android_device_xiaomi_begonia",
