@@ -155,6 +155,10 @@
         "android_kernel_xiaomi_sdm845",
         "android_packages_resources_devicesettings"
     ],
+    "avicii": [
+        "android_device_oneplus_avicii",
+        "android_kernel_oneplus_sm7250"
+    ],
     "bacon": [
         "android_device_oneplus_bacon",
         "android_device_oppo_common",
