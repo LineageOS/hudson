@@ -1,7 +1,37 @@
 # LineageOS build target list
 # <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
 
-# Nightly 17.1
+# Weekly 18.1
+beryllium userdebug lineage-18.1 W
+cheeseburger userdebug lineage-18.1 W
+dipper userdebug lineage-18.1 W
+discovery userdebug lineage-18.1 W
+dumpling userdebug lineage-18.1 W
+gemini userdebug lineage-18.1 W
+gta4xlwifi userdebug lineage-18.1 W
+gts4lv userdebug lineage-18.1 W
+gts4lvwifi userdebug lineage-18.1 W
+h830 userdebug lineage-18.1 W
+h850 userdebug lineage-18.1 W
+h910 userdebug lineage-18.1 W
+h918 userdebug lineage-18.1 W
+h990 userdebug lineage-18.1 W
+kirin userdebug lineage-18.1 W
+lithium userdebug lineage-18.1 W
+ls997 userdebug lineage-18.1 W
+mermaid userdebug lineage-18.1 W
+natrium userdebug lineage-18.1 W
+pioneer userdebug lineage-18.1 W
+polaris userdebug lineage-18.1 W
+pro1 userdebug lineage-18.1 W
+PL2 userdebug lineage-18.1 W
+rs988 userdebug lineage-18.1 W
+scorpio userdebug lineage-18.1 W
+us996 userdebug lineage-18.1 W
+voyager userdebug lineage-18.1 W
+vs995 userdebug lineage-18.1 W
+
+# Weekly 17.1
 a3xelte userdebug lineage-17.1 W
 a5xelte userdebug lineage-17.1 W
 a5y17lte userdebug lineage-17.1 W
@@ -13,11 +43,9 @@ bacon userdebug lineage-17.1 W
 bardock userdebug lineage-17.1 W
 bardockpro userdebug lineage-17.1 W
 beckham userdebug lineage-17.1 W
-beryllium userdebug lineage-17.1 W
 blueline userdebug lineage-17.1 W
 bonito userdebug lineage-17.1 W
 channel userdebug lineage-17.1 W
-cheeseburger userdebug lineage-17.1 W
 chef userdebug lineage-17.1 W
 cheryl userdebug lineage-17.1 W
 chiron userdebug lineage-17.1 W
@@ -34,9 +62,6 @@ d851 userdebug lineage-17.1 W
 d852 userdebug lineage-17.1 W
 d855 userdebug lineage-17.1 W
 davinci userdebug lineage-17.1 W
-dipper userdebug lineage-17.1 W
-discovery userdebug lineage-17.1 W
-dumpling userdebug lineage-17.1 W
 enchilada userdebug lineage-17.1 W
 evert userdebug lineage-17.1 W
 FP2 userdebug lineage-17.1 W
@@ -44,19 +69,10 @@ f400 userdebug lineage-17.1 W
 fajita userdebug lineage-17.1 W
 flame userdebug lineage-17.1 W
 flox userdebug lineage-17.1 W
-gemini userdebug lineage-17.1 W
 ginkgo userdebug lineage-17.1 W
 guacamole userdebug lineage-17.1 W
 guacamoleb userdebug lineage-17.1 W
 griffin userdebug lineage-17.1 W
-gta4xlwifi userdebug lineage-17.1 W
-gts4lv userdebug lineage-17.1 W
-gts4lvwifi userdebug lineage-17.1 W
-h830 userdebug lineage-17.1 W
-h850 userdebug lineage-17.1 W
-h910 userdebug lineage-17.1 W
-h918 userdebug lineage-17.1 W
-h990 userdebug lineage-17.1 W
 harpia userdebug lineage-17.1 W
 hlte userdebug lineage-17.1 W
 hltechn userdebug lineage-17.1 W
@@ -74,7 +90,6 @@ jfltespr userdebug lineage-17.1 W
 jfltevzw userdebug lineage-17.1 W
 jfltexx userdebug lineage-17.1 W
 jfvelte userdebug lineage-17.1 W
-kirin userdebug lineage-17.1 W
 klte userdebug lineage-17.1 W
 klteactivexx userdebug lineage-17.1 W
 kltechn userdebug lineage-17.1 W
@@ -86,17 +101,13 @@ kltekor userdebug lineage-17.1 W
 kuntao userdebug lineage-17.1 W
 lake userdebug lineage-17.1 W
 lavender userdebug lineage-17.1 W
-lithium userdebug lineage-17.1 W
-ls997 userdebug lineage-17.1 W
 lux userdebug lineage-17.1 W
 m8 userdebug lineage-17.1 W
 m8d userdebug lineage-17.1 W
 marlin userdebug lineage-17.1 W
 mata userdebug lineage-17.1 W
 merlin userdebug lineage-17.1 W
-mermaid userdebug lineage-17.1 W
 nash userdebug lineage-17.1 W
-natrium userdebug lineage-17.1 W
 nx563j userdebug lineage-17.1 W
 ocean userdebug lineage-17.1 W
 onclite userdebug lineage-17.1 W
@@ -104,18 +115,12 @@ oneplus2 userdebug lineage-17.1 W
 oneplus3 userdebug lineage-17.1 W
 osprey userdebug lineage-17.1 W
 payton userdebug lineage-17.1 W
-pioneer userdebug lineage-17.1 W
-PL2 userdebug lineage-17.1 W
-polaris userdebug lineage-17.1 W
-pro1 userdebug lineage-17.1 W
 river userdebug lineage-17.1 W
 RMX1801 userdebug lineage-17.1 W
-rs988 userdebug lineage-17.1 W
 s5neolte userdebug lineage-17.1 W
 sagit userdebug lineage-17.1 W
 sailfish userdebug lineage-17.1 W
 sargo userdebug lineage-17.1 W
-scorpio userdebug lineage-17.1 W
 shamu userdebug lineage-17.1 W
 star2lte userdebug lineage-17.1 W
 starlte userdebug lineage-17.1 W
@@ -123,11 +128,8 @@ surnia userdebug lineage-17.1 W
 taimen userdebug lineage-17.1 W
 tissot userdebug lineage-17.1 W
 twolip userdebug lineage-17.1 W
-us996 userdebug lineage-17.1 W
 victara userdebug lineage-17.1 W
-voyager userdebug lineage-17.1 W
 vs985 userdebug lineage-17.1 W
-vs995 userdebug lineage-17.1 W
 walleye userdebug lineage-17.1 W
 wayne userdebug lineage-17.1 W
 whyred userdebug lineage-17.1 W
