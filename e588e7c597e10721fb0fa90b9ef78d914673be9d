@@ -22,6 +22,30 @@
       "revId": "e588e7c597e10721fb0fa90b9ef78d914673be9d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "03b41d56_7da9c4f4",
+        "filename": "updater/devices.json",
+        "patchSetId": 7
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2020-11-18T00:22:38Z",
+      "side": 1,
+      "message": "Because I\u0027m unable to make it work. It\u0027ll either freeze on black screen, fail to init display but partially boot up (very rare), or hang on black screen and reboot due to watchdog.",
+      "parentUuid": "b96f5f29_fbbd421c",
+      "range": {
+        "startLine": 84,
+        "startChar": 0,
+        "endLine": 84,
+        "endChar": 57
+      },
+      "revId": "e588e7c597e10721fb0fa90b9ef78d914673be9d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
     }
   ]
 }
