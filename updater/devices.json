@@ -196,6 +196,7 @@
   {  "model": "mido", "oem": "Xiaomi", "name": "Redmi Note 4"},
   {  "model": "mint", "oem": "Sony", "name": "Xperia T"},
   {  "model": "mondrianwifi", "oem": "Samsung", "name": "Galaxy Tab Pro 8.4"},
+  {  "model": "montana", "oem": "Motorola", "name": "Moto G5S", "lineage_recovery": true},
   {  "model": "ms013g", "oem": "Samsung", "name": "Galaxy Grand 2"},
   {  "model": "mt2", "oem": "Huawei", "name": "Ascend Mate 2"},
   {  "model": "n1awifi", "oem": "Samsung", "name": "Galaxy Note 10.1 2014 (Wi-Fi)"},
