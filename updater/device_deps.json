@@ -226,6 +226,13 @@
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_msm8996"
     ],
+    "cedric": [
+        "android_device_motorola_cedric",
+        "android_device_motorola_msm8937-common",
+        "android_external_bson",
+        "android_kernel_motorola_msm8953",
+        "android_system_qcom"
+    ],
     "channel": [
         "android_device_motorola_channel",
         "android_device_motorola_sdm632-common",
