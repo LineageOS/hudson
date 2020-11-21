@@ -1024,6 +1024,13 @@
         "android_kernel_sony_msm8x60",
         "android_packages_resources_devicesettings"
     ],
+    "montana": [
+        "android_device_motorola_montana",
+        "android_device_motorola_msm8937-common",
+        "android_external_bson",
+        "android_kernel_motorola_msm8953",
+        "android_system_qcom"
+    ],
     "ms013g": [
         "android_device_samsung_ms01-common",
         "android_device_samsung_ms013g",
