@@ -128,6 +128,14 @@
         "android_hardware_samsung",
         "android_kernel_samsung_universal7880"
     ],
+    "ahannah": [
+        "android_device_motorola_ahannah",
+        "android_device_motorola_hannah-common",
+        "android_device_motorola_msm8937-common",
+        "android_external_bson",
+        "android_kernel_motorola_msm8953",
+        "android_system_qcom"
+    ],
     "akari": [
         "android_device_sony_akari",
         "android_device_sony_tama-common",
@@ -633,8 +641,10 @@
     ],
     "hannah": [
         "android_device_motorola_hannah",
-        "android_kernel_motorola_msm8937",
-        "android_packages_resources_devicesettings",
+        "android_device_motorola_hannah-common",
+        "android_device_motorola_msm8937-common",
+        "android_external_bson",
+        "android_kernel_motorola_msm8953",
         "android_system_qcom"
     ],
     "harpia": [
@@ -1199,6 +1209,14 @@
         "android_device_oppo_msm8939-common",
         "android_device_oppo_r7sf",
         "android_kernel_oppo_msm8939"
+    ],
+    "rhannah": [
+        "android_device_motorola_hannah-common",
+        "android_device_motorola_msm8937-common",
+        "android_device_motorola_rhannah",
+        "android_external_bson",
+        "android_kernel_motorola_msm8953",
+        "android_system_qcom"
     ],
     "river": [
         "android_device_motorola_river",
