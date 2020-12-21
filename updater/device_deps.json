@@ -531,6 +531,16 @@
         "android_hardware_sony_timekeep",
         "android_kernel_samsung_msm8976"
     ],
+    "gta4xlwifi": [
+        "android_device_samsung_gta4xl-common",
+        "android_device_samsung_gta4xlwifi",
+        "android_device_samsung_slsi_sepolicy",
+        "android_hardware_samsung",
+        "android_hardware_samsung_slsi_libbt",
+        "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
+        "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
+        "android_kernel_samsung_gta4xl"
+    ],
     "gts4lv": [
         "android_device_samsung_gts4lv-common",
         "android_device_samsung_gts4lv",

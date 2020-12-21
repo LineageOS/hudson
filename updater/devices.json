@@ -94,6 +94,7 @@
   {  "model": "gts210vewifi", "oem": "Samsung", "name": "Galaxy Tab S2 9.7 2016 (Wi-Fi)"},
   {  "model": "gts210wifi", "oem": "Samsung", "name": "Galaxy Tab S2 9.7 (Wi-Fi)"},
   {  "model": "gts28vewifi", "oem": "Samsung", "name": "Galaxy Tab S2 8.0 2016 (Wi-Fi)"},
+  {  "model": "gta4xlwifi", "oem": "Samsung", "name": "Galaxy Tab S6 Lite (Wi-Fi)", "lineage_recovery": true},
   {  "model": "gts4lv", "oem": "Samsung", "name": "Galaxy Tab S5e (LTE)", "lineage_recovery": true},
   {  "model": "gts4lvwifi", "oem": "Samsung", "name": "Galaxy Tab S5e (Wi-Fi)", "lineage_recovery": true},
   {  "model": "guacamole", "oem": "OnePlus", "name": "7 Pro", "lineage_recovery": true},
