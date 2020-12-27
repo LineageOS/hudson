@@ -13,6 +13,12 @@
         "android_device_fairphone_FP2",
         "android_kernel_fairphone_msm8974"
     ],
+    "FP3": [
+        "android_device_fairphone_FP3",
+        "android_external_bson",
+        "android_kernel_fairphone_sdm632",
+        "android_system_qcom"
+    ],
     "I001D": [
         "android_device_asus_I001D",
         "android_kernel_asus_I001"
