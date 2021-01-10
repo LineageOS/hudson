@@ -155,7 +155,7 @@
   {  "model": "kingdom", "oem": "Lenovo", "name": "Vibe Z2 Pro"},
   {  "model": "kipper", "oem": "Wileyfox", "name": "Storm"},
   {  "model": "kirin", "oem": "Sony", "name": "Xperia 10", "lineage_recovery": true},
-  {  "model": "kiwi", "oem": "Huawei", "name": "Honor 5X"},
+  {  "model": "kiwi", "oem": "Huawei", "name": "Honor 5X", "lineage_recovery": true},
   {  "model": "klimtwifi", "oem": "Samsung", "name": "Galaxy Tab S 8.4 (Wi-Fi)"},
   {  "model": "klte", "oem": "Samsung", "name": "Galaxy S5 LTE (G900F/M/R4/R7/T/V/W8)", "lineage_recovery": true},
   {  "model": "klteactivexx", "oem": "Samsung", "name": "Galaxy S5 Active (G870F)", "lineage_recovery": true},
