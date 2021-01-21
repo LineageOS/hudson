@@ -68,20 +68,17 @@
         "android_device_lenovo_YTX703-common",
         "android_device_lenovo_YTX703F",
         "android_hardware_sony_timekeep",
-        "android_kernel_lenovo_msm8976",
-        "android_packages_resources_devicesettings"
+        "android_kernel_lenovo_msm8976"
     ],
     "YTX703L": [
         "android_device_lenovo_YTX703-common",
         "android_device_lenovo_YTX703L",
         "android_hardware_sony_timekeep",
-        "android_kernel_lenovo_msm8976",
-        "android_packages_resources_devicesettings"
+        "android_kernel_lenovo_msm8976"
     ],
     "Z01R": [
         "android_device_asus_Z01R",
-        "android_kernel_asus_sdm845",
-        "android_packages_resources_devicesettings"
+        "android_kernel_asus_sdm845"
     ],
     "a3xelte": [
         "android_device_samsung_a3xelte",
@@ -165,12 +162,14 @@
     ],
     "avicii": [
         "android_device_oneplus_avicii",
+        "android_device_oneplus_common",
         "android_kernel_oneplus_sm7250"
     ],
     "bacon": [
         "android_device_oneplus_bacon",
         "android_device_oppo_common",
         "android_device_oppo_msm8974-common",
+        "android_hardware_sony_timekeep",
         "android_kernel_oppo_msm8974"
     ],
     "bardock": [
@@ -187,12 +186,21 @@
         "android_device_motorola_beckham",
         "android_device_motorola_sdm660-common",
         "android_external_bson",
+        "android_hardware_motorola",
         "android_kernel_motorola_msm8998",
         "android_system_qcom"
     ],
     "begonia": [
         "android_device_mediatek_sepolicy",
         "android_device_xiaomi_begonia",
+        "android_device_xiaomi_mt6785-common",
+        "android_hardware_mediatek",
+        "android_kernel_xiaomi_mt6785"
+    ],
+    "begoniain": [
+        "android_device_mediatek_sepolicy",
+        "android_device_xiaomi_begoniain",
+        "android_device_xiaomi_mt6785-common",
         "android_hardware_mediatek",
         "android_kernel_xiaomi_mt6785"
     ],
@@ -226,6 +234,29 @@
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_msm8996"
     ],
+    "castor": [
+        "android_device_sony_castor",
+        "android_device_sony_castor_windy",
+        "android_device_sony_common",
+        "android_device_sony_msm8974-common",
+        "android_device_sony_shinano-common",
+        "android_hardware_broadcom_fm",
+        "android_hardware_sony_macaddrsetup",
+        "android_hardware_sony_thermanager",
+        "android_hardware_sony_timekeep",
+        "android_kernel_sony_msm8974"
+    ],
+    "castor_windy": [
+        "android_device_sony_castor_windy",
+        "android_device_sony_common",
+        "android_device_sony_msm8974-common",
+        "android_device_sony_shinano-common",
+        "android_hardware_broadcom_fm",
+        "android_hardware_sony_macaddrsetup",
+        "android_hardware_sony_thermanager",
+        "android_hardware_sony_timekeep",
+        "android_kernel_sony_msm8974"
+    ],
     "cedric": [
         "android_device_motorola_cedric",
         "android_device_motorola_msm8937-common",
@@ -237,6 +268,7 @@
         "android_device_motorola_channel",
         "android_device_motorola_sdm632-common",
         "android_external_bson",
+        "android_hardware_motorola",
         "android_kernel_motorola_sdm632",
         "android_system_qcom"
     ],
@@ -262,6 +294,7 @@
         "android_device_motorola_chef",
         "android_device_motorola_sdm660-common",
         "android_external_bson",
+        "android_hardware_motorola",
         "android_kernel_motorola_msm8998",
         "android_system_qcom"
     ],
@@ -283,10 +316,9 @@
     ],
     "clark": [
         "android_device_motorola_clark",
-        "android_device_qcom_common",
-        "android_hardware_sony_thermanager",
+        "android_external_bson",
         "android_kernel_motorola_msm8992",
-        "android_packages_resources_devicesettings"
+        "android_system_qcom"
     ],
     "coral": [
         "android_device_google_coral",
@@ -312,24 +344,28 @@
         "android_device_lge_d800",
         "android_device_lge_g2-common",
         "android_external_sony_boringssl-compat",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8974"
     ],
     "d801": [
         "android_device_lge_d801",
         "android_device_lge_g2-common",
         "android_external_sony_boringssl-compat",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8974"
     ],
     "d802": [
         "android_device_lge_d802",
         "android_device_lge_g2-common",
         "android_external_sony_boringssl-compat",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8974"
     ],
     "d803": [
         "android_device_lge_d803",
         "android_device_lge_g2-common",
         "android_external_sony_boringssl-compat",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8974"
     ],
     "d805": [
@@ -337,6 +373,7 @@
         "android_device_lge_d805",
         "android_device_lge_g2-common",
         "android_external_sony_boringssl-compat",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8974"
     ],
     "d806": [
@@ -344,6 +381,7 @@
         "android_device_lge_d806",
         "android_device_lge_g2-common",
         "android_external_sony_boringssl-compat",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8974"
     ],
     "d850": [
@@ -380,6 +418,11 @@
     ],
     "deb": [
         "android_device_asus_deb",
+        "android_device_asus_flo",
+        "android_kernel_google_msm"
+    ],
+    "debx": [
+        "android_device_asus_debx",
         "android_device_asus_flo",
         "android_kernel_google_msm"
     ],
@@ -425,12 +468,14 @@
     ],
     "ether": [
         "android_device_nextbit_ether",
+        "android_hardware_sony_timekeep",
         "android_kernel_nextbit_msm8992"
     ],
     "evert": [
         "android_device_motorola_evert",
         "android_device_motorola_sdm660-common",
         "android_external_bson",
+        "android_hardware_motorola",
         "android_kernel_motorola_msm8998",
         "android_system_qcom"
     ],
@@ -469,6 +514,7 @@
         "android_device_oppo_common",
         "android_device_oppo_find7",
         "android_device_oppo_msm8974-common",
+        "android_hardware_sony_timekeep",
         "android_kernel_oppo_msm8974"
     ],
     "flame": [
@@ -480,13 +526,13 @@
         "android_device_asus_flo",
         "android_kernel_google_msm"
     ],
-    "flox": [
-        "android_device_asus_flox",
-        "android_kernel_google_msm"
-    ],
     "flounder": [
         "android_device_htc_flounder",
         "android_kernel_htc_flounder"
+    ],
+    "flox": [
+        "android_device_asus_flox",
+        "android_kernel_google_msm"
     ],
     "foster": [
         "android_device_nvidia_foster",
@@ -522,11 +568,24 @@
     "goldfish": [
         "android_device_generic_goldfish"
     ],
+    "gracerlte": [
+        "android_device_samsung_gracerlte"
+    ],
     "griffin": [
         "android_device_motorola_griffin",
         "android_external_bson",
         "android_kernel_motorola_msm8996",
         "android_system_qcom"
+    ],
+    "gta4xlwifi": [
+        "android_device_samsung_gta4xl-common",
+        "android_device_samsung_gta4xlwifi",
+        "android_device_samsung_slsi_sepolicy",
+        "android_hardware_samsung",
+        "android_hardware_samsung_slsi_libbt",
+        "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
+        "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
+        "android_kernel_samsung_gta4xl"
     ],
     "gts210velte": [
         "android_device_samsung_gts210velte",
@@ -556,19 +615,9 @@
         "android_hardware_sony_timekeep",
         "android_kernel_samsung_msm8976"
     ],
-    "gta4xlwifi": [
-        "android_device_samsung_gta4xl-common",
-        "android_device_samsung_gta4xlwifi",
-        "android_device_samsung_slsi_sepolicy",
-        "android_hardware_samsung",
-        "android_hardware_samsung_slsi_libbt",
-        "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
-        "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
-        "android_kernel_samsung_gta4xl"
-    ],
     "gts4lv": [
-        "android_device_samsung_gts4lv-common",
         "android_device_samsung_gts4lv",
+        "android_device_samsung_gts4lv-common",
         "android_device_samsung_qcom-common",
         "android_hardware_samsung",
         "android_kernel_samsung_sdm670"
@@ -597,6 +646,7 @@
         "android_device_lge_g5-common",
         "android_device_lge_h830",
         "android_device_lge_msm8996-common",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
     "h850": [
@@ -604,6 +654,7 @@
         "android_device_lge_g5-common",
         "android_device_lge_h850",
         "android_device_lge_msm8996-common",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
     "h870": [
@@ -611,6 +662,7 @@
         "android_device_lge_g6-common",
         "android_device_lge_h870",
         "android_device_lge_msm8996-common",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
     "h872": [
@@ -618,6 +670,7 @@
         "android_device_lge_g6-common",
         "android_device_lge_h872",
         "android_device_lge_msm8996-common",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
     "h910": [
@@ -625,6 +678,7 @@
         "android_device_lge_h910",
         "android_device_lge_msm8996-common",
         "android_device_lge_v20-common",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
     "h918": [
@@ -632,6 +686,7 @@
         "android_device_lge_h918",
         "android_device_lge_msm8996-common",
         "android_device_lge_v20-common",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
     "h990": [
@@ -639,6 +694,7 @@
         "android_device_lge_h990",
         "android_device_lge_msm8996-common",
         "android_device_lge_v20-common",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
     "ham": [
@@ -675,6 +731,18 @@
         "android_hardware_sony_thermanager",
         "android_kernel_sony_msm8x60",
         "android_packages_resources_devicesettings"
+    ],
+    "hero2lte": [
+        "android_device_samsung_hero2lte",
+        "android_device_samsung_universal8890-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_universal8890"
+    ],
+    "herolte": [
+        "android_device_samsung_herolte",
+        "android_device_samsung_universal8890-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_universal8890"
     ],
     "hiae": [
         "android_device_htc_hiae",
@@ -824,6 +892,16 @@
         "android_hardware_samsung",
         "android_kernel_samsung_jf"
     ],
+    "kane": [
+        "android_device_motorola_exynos9610-common",
+        "android_device_motorola_kane",
+        "android_hardware_motorola",
+        "android_hardware_samsung_slsi_fm",
+        "android_hardware_samsung_slsi_libbt",
+        "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
+        "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
+        "android_kernel_motorola_exynos9610"
+    ],
     "kccat6": [
         "android_device_samsung_apq8084-common",
         "android_device_samsung_kccat6",
@@ -848,9 +926,7 @@
     ],
     "kiwi": [
         "android_device_huawei_kiwi",
-        "android_kernel_huawei_kiwi",
-        "android_packages_apps_FlipFlap",
-        "android_packages_resources_devicesettings"
+        "android_kernel_huawei_kiwi"
     ],
     "klte": [
         "android_device_samsung_klte",
@@ -932,6 +1008,7 @@
         "android_device_motorola_lake",
         "android_device_motorola_sdm660-common",
         "android_external_bson",
+        "android_hardware_motorola",
         "android_kernel_motorola_msm8998",
         "android_system_qcom"
     ],
@@ -970,6 +1047,7 @@
         "android_device_lge_g2-common",
         "android_device_lge_ls980",
         "android_external_sony_boringssl-compat",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8974"
     ],
     "ls990": [
@@ -982,6 +1060,7 @@
         "android_device_lge_ls997",
         "android_device_lge_msm8996-common",
         "android_device_lge_v20-common",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
     "lux": [
@@ -1077,11 +1156,13 @@
         "android_device_oppo_common",
         "android_device_oppo_msm8974-common",
         "android_device_oppo_n3",
+        "android_hardware_sony_timekeep",
         "android_kernel_oppo_msm8974"
     ],
     "nash": [
         "android_device_motorola_nash",
         "android_external_bson",
+        "android_hardware_motorola",
         "android_kernel_motorola_msm8998",
         "android_system_qcom"
     ],
@@ -1105,6 +1186,7 @@
         "android_device_motorola_ocean",
         "android_device_motorola_sdm632-common",
         "android_external_bson",
+        "android_hardware_motorola",
         "android_kernel_motorola_sdm632",
         "android_system_qcom"
     ],
@@ -1145,6 +1227,7 @@
         "android_device_motorola_payton",
         "android_device_motorola_sdm660-common",
         "android_external_bson",
+        "android_hardware_motorola",
         "android_kernel_motorola_msm8998",
         "android_system_qcom"
     ],
@@ -1196,8 +1279,7 @@
     ],
     "pro1": [
         "android_device_fxtec_pro1",
-        "android_kernel_fxtec_msm8998",
-        "android_packages_resources_devicesettings"
+        "android_kernel_fxtec_msm8998"
     ],
     "quill_tab": [
         "android_device_nvidia_quill",
@@ -1209,6 +1291,13 @@
         "android_device_oppo_r5",
         "android_external_sony_boringssl-compat",
         "android_kernel_oppo_msm8939"
+    ],
+    "r5q": [
+        "android_device_samsung_r5q",
+        "android_device_samsung_slsi_sepolicy",
+        "android_device_samsung_sm8150-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_r5q"
     ],
     "r7": [
         "android_device_oppo_common",
@@ -1240,6 +1329,7 @@
         "android_device_motorola_river",
         "android_device_motorola_sdm632-common",
         "android_external_bson",
+        "android_hardware_motorola",
         "android_kernel_motorola_sdm632",
         "android_system_qcom"
     ],
@@ -1258,6 +1348,7 @@
         "android_device_lge_g5-common",
         "android_device_lge_msm8996-common",
         "android_device_lge_rs988",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
     "s2": [
@@ -1355,12 +1446,24 @@
     ],
     "shamu": [
         "android_device_moto_shamu",
+        "android_hardware_sony_timekeep",
         "android_kernel_moto_shamu"
     ],
     "shieldtablet": [
         "android_device_nvidia_shieldtablet",
         "android_device_nvidia_t124-common",
         "android_device_nvidia_tegra-common"
+    ],
+    "sirius": [
+        "android_device_sony_common",
+        "android_device_sony_msm8974-common",
+        "android_device_sony_shinano-common",
+        "android_device_sony_sirius",
+        "android_hardware_broadcom_fm",
+        "android_hardware_sony_macaddrsetup",
+        "android_hardware_sony_thermanager",
+        "android_hardware_sony_timekeep",
+        "android_kernel_sony_msm8974"
     ],
     "star2lte": [
         "android_device_samsung_star2lte",
@@ -1405,6 +1508,16 @@
     "touch": [
         "android_device_nvidia_touch"
     ],
+    "troika": [
+        "android_device_motorola_exynos9610-common",
+        "android_device_motorola_troika",
+        "android_hardware_motorola",
+        "android_hardware_samsung_slsi_fm",
+        "android_hardware_samsung_slsi_libbt",
+        "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
+        "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
+        "android_kernel_motorola_exynos9610"
+    ],
     "tsubasa": [
         "android_device_sony_blue-common",
         "android_device_sony_common",
@@ -1430,6 +1543,7 @@
         "android_device_lge_msm8996-common",
         "android_device_lge_us996",
         "android_device_lge_v20-common",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
     "us997": [
@@ -1437,6 +1551,7 @@
         "android_device_lge_g6-common",
         "android_device_lge_msm8996-common",
         "android_device_lge_us997",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
     "v521": [
@@ -1468,6 +1583,7 @@
         "android_device_lge_g2-common",
         "android_device_lge_vs980",
         "android_external_sony_boringssl-compat",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8974"
     ],
     "vs985": [
@@ -1480,6 +1596,7 @@
         "android_device_lge_msm8996-common",
         "android_device_lge_v20-common",
         "android_device_lge_vs995",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
     "wahoo": [
@@ -1567,6 +1684,18 @@
         "android_device_sony_msm8974-common",
         "android_device_sony_shinano-common",
         "android_device_sony_z3c",
+        "android_hardware_broadcom_fm",
+        "android_hardware_sony_macaddrsetup",
+        "android_hardware_sony_thermanager",
+        "android_hardware_sony_timekeep",
+        "android_kernel_sony_msm8974"
+    ],
+    "z3dual": [
+        "android_device_sony_common",
+        "android_device_sony_msm8974-common",
+        "android_device_sony_shinano-common",
+        "android_device_sony_z3",
+        "android_device_sony_z3dual",
         "android_hardware_broadcom_fm",
         "android_hardware_sony_macaddrsetup",
         "android_hardware_sony_thermanager",
