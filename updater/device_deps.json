@@ -1317,6 +1317,12 @@
         "android_device_oppo_r7sf",
         "android_kernel_oppo_msm8939"
     ],
+    "racer": [
+        "android_device_motorola_racer",
+        "android_device_motorola_sm7250-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm7250"
+    ],
     "rhannah": [
         "android_device_motorola_hannah-common",
         "android_device_motorola_msm8937-common",
