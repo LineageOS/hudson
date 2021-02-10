@@ -237,6 +237,7 @@
   {  "model": "r5", "oem": "OPPO", "name": "R5/R5s (R8106/R8106s Intl)"},
   {  "model": "r7plus", "oem": "OPPO", "name": "R7 Plus (R7plusf Intl)"},
   {  "model": "r7sf", "oem": "OPPO", "name": "R7s (R7sf Intl)"},
+  {  "model": "racer", "oem": "Motorola", "name": "Motorola Edge", "lineage_recovery": true},
   {  "model": "rhannah", "oem": "Motorola", "name": "Moto E5 Plus", "lineage_recovery": true},
   {  "model": "river", "oem": "Motorola", "name": "Moto G7", "lineage_recovery": true},
   {  "model": "RMX1801", "oem": "Realme", "name": "2 Pro", "lineage_recovery": true},
