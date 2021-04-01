@@ -222,7 +222,13 @@
     ],
     "bonito": [
         "android_device_google_bonito",
-        "android_kernel_google_msm-4.9"
+        "android_kernel_google_msm-4.9",
+        "android_packages_apps_ElmyraService"
+    ],
+    "bramble": [
+        "android_device_google_bramble",
+        "android_device_google_redbull",
+        "android_kernel_google_redbull"
     ],
     "bullhead": [
         "android_device_lge_bullhead",
@@ -322,7 +328,8 @@
     ],
     "coral": [
         "android_device_google_coral",
-        "android_kernel_google_coral"
+        "android_kernel_google_coral",
+        "android_packages_apps_ElmyraService"
     ],
     "crackling": [
         "android_device_cyanogen_msm8916-common",
@@ -485,8 +492,7 @@
         "android_external_sony_boringssl-compat",
         "android_hardware_sony_thermanager",
         "android_kernel_htc_msm8974",
-        "android_packages_apps_FlipFlap",
-        "android_packages_resources_devicesettings"
+        "android_packages_apps_FlipFlap"
     ],
     "f1f": [
         "android_device_oppo_common",
@@ -520,7 +526,8 @@
     "flame": [
         "android_device_google_coral",
         "android_device_google_flame",
-        "android_kernel_google_coral"
+        "android_kernel_google_coral",
+        "android_packages_apps_ElmyraService"
     ],
     "flo": [
         "android_device_asus_flo",
@@ -567,6 +574,9 @@
     ],
     "goldfish": [
         "android_device_generic_goldfish"
+    ],
+    "goldfish-opengl": [
+        "android_device_generic_goldfish-opengl"
     ],
     "gracerlte": [
         "android_device_samsung_gracerlte"
@@ -734,12 +744,14 @@
     ],
     "hero2lte": [
         "android_device_samsung_hero2lte",
+        "android_device_samsung_slsi_sepolicy",
         "android_device_samsung_universal8890-common",
         "android_hardware_samsung",
         "android_kernel_samsung_universal8890"
     ],
     "herolte": [
         "android_device_samsung_herolte",
+        "android_device_samsung_slsi_sepolicy",
         "android_device_samsung_universal8890-common",
         "android_hardware_samsung",
         "android_kernel_samsung_universal8890"
@@ -815,6 +827,18 @@
     ],
     "icera": [
         "android_device_nvidia_icera"
+    ],
+    "instantnoodle": [
+        "android_device_oneplus_common",
+        "android_device_oneplus_instantnoodle",
+        "android_device_oneplus_sm8250-common",
+        "android_kernel_oneplus_sm8250"
+    ],
+    "instantnoodlep": [
+        "android_device_oneplus_common",
+        "android_device_oneplus_instantnoodlep",
+        "android_device_oneplus_sm8250-common",
+        "android_kernel_oneplus_sm8250"
     ],
     "j7elte": [
         "android_device_samsung_j7elte",
@@ -909,6 +933,12 @@
         "android_hardware_samsung",
         "android_kernel_samsung_apq8084",
         "android_packages_apps_FlipFlap"
+    ],
+    "kebab": [
+        "android_device_oneplus_common",
+        "android_device_oneplus_kebab",
+        "android_device_oneplus_sm8250-common",
+        "android_kernel_oneplus_sm8250"
     ],
     "kipper": [
         "android_device_cyanogen_msm8916-common",
@@ -1096,8 +1126,7 @@
     ],
     "mata": [
         "android_device_essential_mata",
-        "android_kernel_essential_msm8998",
-        "android_packages_resources_devicesettings"
+        "android_kernel_essential_msm8998"
     ],
     "merlin": [
         "android_device_motorola_merlin",
@@ -1150,7 +1179,8 @@
     "muskie": [
         "android_device_google_muskie",
         "android_device_google_wahoo",
-        "android_kernel_google_wahoo"
+        "android_kernel_google_wahoo",
+        "android_packages_apps_ElmyraService"
     ],
     "n3": [
         "android_device_oppo_common",
@@ -1251,6 +1281,11 @@
         "android_hardware_sony_simdetect",
         "android_kernel_sony_sdm660"
     ],
+    "platina": [
+        "android_device_xiaomi_platina",
+        "android_device_xiaomi_sdm660-common",
+        "android_kernel_xiaomi_sdm660"
+    ],
     "polaris": [
         "android_device_xiaomi_polaris",
         "android_device_xiaomi_sdm845-common",
@@ -1322,6 +1357,15 @@
         "android_device_motorola_sm7250-common",
         "android_hardware_motorola",
         "android_kernel_motorola_sm7250"
+    ],
+    "redbull": [
+        "android_device_google_redbull",
+        "android_kernel_google_redbull"
+    ],
+    "redfin": [
+        "android_device_google_redbull",
+        "android_device_google_redfin",
+        "android_kernel_google_redbull"
     ],
     "rhannah": [
         "android_device_motorola_hannah-common",
@@ -1418,7 +1462,8 @@
     "sargo": [
         "android_device_google_bonito",
         "android_device_google_sargo",
-        "android_kernel_google_msm-4.9"
+        "android_kernel_google_msm-4.9",
+        "android_packages_apps_ElmyraService"
     ],
     "scorpio": [
         "android_device_xiaomi_msm8996-common",
@@ -1484,7 +1529,8 @@
         "android_kernel_samsung_universal9810"
     ],
     "sunfish": [
-        "android_device_google_sunfish"
+        "android_device_google_sunfish",
+        "android_kernel_google_sunfish"
     ],
     "surnia": [
         "android_device_motorola_msm8916-common",
@@ -1498,7 +1544,8 @@
     "taimen": [
         "android_device_google_taimen",
         "android_device_google_wahoo",
-        "android_kernel_google_wahoo"
+        "android_kernel_google_wahoo",
+        "android_packages_apps_ElmyraService"
     ],
     "tissot": [
         "android_device_xiaomi_msm8953-common",
@@ -1607,13 +1654,15 @@
     ],
     "wahoo": [
         "android_device_google_wahoo",
-        "android_kernel_google_wahoo"
+        "android_kernel_google_wahoo",
+        "android_packages_apps_ElmyraService"
     ],
     "walleye": [
         "android_device_google_muskie",
         "android_device_google_wahoo",
         "android_device_google_walleye",
-        "android_kernel_google_wahoo"
+        "android_kernel_google_wahoo",
+        "android_packages_apps_ElmyraService"
     ],
     "wayne": [
         "android_device_xiaomi_sdm660-common",
