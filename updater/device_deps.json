@@ -976,6 +976,15 @@
         "android_hardware_sony_timekeep",
         "android_kernel_samsung_msm8974"
     ],
+    "klteaio": [
+        "android_device_samsung_klte-common",
+        "android_device_samsung_klteaio",
+        "android_device_samsung_msm8974-common",
+        "android_device_samsung_qcom-common",
+        "android_hardware_samsung",
+        "android_hardware_sony_timekeep",
+        "android_kernel_samsung_msm8974"
+    ],
     "kltechn": [
         "android_device_samsung_klte-common",
         "android_device_samsung_kltechn",
