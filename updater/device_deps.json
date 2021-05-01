@@ -30,6 +30,7 @@
     "PL2": [
         "android_device_nokia_PL2",
         "android_device_nokia_sdm660-common",
+        "android_hardware_samsung_nfc",
         "android_kernel_nokia_sdm660"
     ],
     "RMX1801": [
@@ -58,10 +59,12 @@
     ],
     "X00TD": [
         "android_device_asus_X00TD",
+        "android_device_asus_sdm660-common",
         "android_kernel_asus_sdm660"
     ],
     "X01BD": [
         "android_device_asus_X01BD",
+        "android_device_asus_sdm660-common",
         "android_kernel_asus_sdm660"
     ],
     "YTX703F": [
@@ -84,6 +87,7 @@
         "android_device_samsung_a3xelte",
         "android_device_samsung_universal7580-common",
         "android_hardware_samsung",
+        "android_hardware_samsung_nfc",
         "android_hardware_samsung_slsi_exynos",
         "android_hardware_samsung_slsi_exynos5",
         "android_hardware_samsung_slsi_exynos7580",
@@ -95,6 +99,7 @@
         "android_device_samsung_a5xelte",
         "android_device_samsung_universal7580-common",
         "android_hardware_samsung",
+        "android_hardware_samsung_nfc",
         "android_hardware_samsung_slsi_exynos",
         "android_hardware_samsung_slsi_exynos5",
         "android_hardware_samsung_slsi_exynos7580",
@@ -112,6 +117,7 @@
         "android_device_samsung_a7xelte",
         "android_device_samsung_universal7580-common",
         "android_hardware_samsung",
+        "android_hardware_samsung_nfc",
         "android_hardware_samsung_slsi_exynos",
         "android_hardware_samsung_slsi_exynos5",
         "android_hardware_samsung_slsi_exynos7580",
@@ -217,8 +223,7 @@
     ],
     "blueline": [
         "android_device_google_blueline",
-        "android_device_google_crosshatch",
-        "android_kernel_google_msm-4.9"
+        "android_device_google_crosshatch"
     ],
     "bonito": [
         "android_device_google_bonito",
@@ -338,8 +343,7 @@
         "android_kernel_cyanogen_msm8916"
     ],
     "crosshatch": [
-        "android_device_google_crosshatch",
-        "android_kernel_google_msm-4.9"
+        "android_device_google_crosshatch"
     ],
     "crownlte": [
         "android_device_samsung_crownlte",
@@ -394,26 +398,31 @@
     "d850": [
         "android_device_lge_d850",
         "android_device_lge_g3-common",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_g3"
     ],
     "d851": [
         "android_device_lge_d851",
         "android_device_lge_g3-common",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_g3"
     ],
     "d852": [
         "android_device_lge_d852",
         "android_device_lge_g3-common",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_g3"
     ],
     "d855": [
         "android_device_lge_d855",
         "android_device_lge_g3-common",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_g3"
     ],
     "dalmore": [
         "android_device_nvidia_dalmore",
         "android_device_nvidia_roth",
+        "android_device_nvidia_sepolicy",
         "android_device_nvidia_t114-common",
         "android_device_nvidia_tegra-common"
     ],
@@ -503,6 +512,7 @@
     "f400": [
         "android_device_lge_f400",
         "android_device_lge_g3-common",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_g3"
     ],
     "fajita": [
@@ -543,8 +553,80 @@
     ],
     "foster": [
         "android_device_nvidia_foster",
+        "android_device_nvidia_sepolicy",
+        "android_device_nvidia_shield-common",
         "android_device_nvidia_t210-common",
-        "android_device_nvidia_tegra-common"
+        "android_device_nvidia_tegra-common",
+        "android_hardware_nvidia_interfaces",
+        "android_hardware_nvidia_light",
+        "android_hardware_nvidia_power",
+        "android_hardware_nvidia_thermal",
+        "android_kernel_nvidia_cypress-fmac",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_lanai",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_quill",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_galen_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_jakku_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_mccoy_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_batuu_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_jetson",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_porg",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_darcy",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_ers",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_sif",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_tegra_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t18x",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t19x",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t210",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_tegra",
+        "android_kernel_nvidia_linux-4.9_kernel_kernel-4.9",
+        "android_kernel_nvidia_linux-4.9_kernel_nvgpu",
+        "android_kernel_nvidia_linux-4.9_kernel_nvidia",
+        "android_kernel_nvidia_wireguard",
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
+    ],
+    "foster_tab": [
+        "android_device_nvidia_foster",
+        "android_device_nvidia_foster_tab",
+        "android_device_nvidia_sepolicy",
+        "android_device_nvidia_shield-common",
+        "android_device_nvidia_t210-common",
+        "android_device_nvidia_tegra-common",
+        "android_hardware_nvidia_interfaces",
+        "android_hardware_nvidia_light",
+        "android_hardware_nvidia_power",
+        "android_hardware_nvidia_thermal",
+        "android_kernel_nvidia_cypress-fmac",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_lanai",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_quill",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_galen_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_jakku_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_mccoy_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_batuu_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_jetson",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_porg",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_darcy",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_ers",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_sif",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_tegra_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t18x",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t19x",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t210",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_tegra",
+        "android_kernel_nvidia_linux-4.9_kernel_kernel-4.9",
+        "android_kernel_nvidia_linux-4.9_kernel_nvgpu",
+        "android_kernel_nvidia_linux-4.9_kernel_nvidia",
+        "android_kernel_nvidia_wireguard",
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
     ],
     "fugu": [
         "android_device_asus_fugu",
@@ -552,14 +634,80 @@
     ],
     "galen": [
         "android_device_nvidia_galen",
+        "android_device_nvidia_sepolicy",
+        "android_device_nvidia_shield-common",
         "android_device_nvidia_t194-common",
-        "android_device_nvidia_tegra-common"
+        "android_device_nvidia_tegra-common",
+        "android_hardware_nvidia_boot_control",
+        "android_hardware_nvidia_interfaces",
+        "android_hardware_nvidia_light",
+        "android_hardware_nvidia_power",
+        "android_hardware_nvidia_thermal",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_lanai",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_quill",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_galen_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_jakku_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_mccoy_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_batuu_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_jetson",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_porg",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_darcy",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_ers",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_sif",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_tegra_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t18x",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t19x",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t210",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_tegra",
+        "android_kernel_nvidia_linux-4.9_kernel_kernel-4.9",
+        "android_kernel_nvidia_linux-4.9_kernel_nvgpu",
+        "android_kernel_nvidia_linux-4.9_kernel_nvidia",
+        "android_kernel_nvidia_wireguard",
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
     ],
     "galen_tab": [
         "android_device_nvidia_galen",
         "android_device_nvidia_galen_tab",
+        "android_device_nvidia_sepolicy",
+        "android_device_nvidia_shield-common",
         "android_device_nvidia_t194-common",
-        "android_device_nvidia_tegra-common"
+        "android_device_nvidia_tegra-common",
+        "android_hardware_nvidia_boot_control",
+        "android_hardware_nvidia_interfaces",
+        "android_hardware_nvidia_light",
+        "android_hardware_nvidia_power",
+        "android_hardware_nvidia_thermal",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_lanai",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_quill",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_galen_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_jakku_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_mccoy_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_batuu_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_jetson",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_porg",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_darcy",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_ers",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_sif",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_tegra_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t18x",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t19x",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t210",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_tegra",
+        "android_kernel_nvidia_linux-4.9_kernel_kernel-4.9",
+        "android_kernel_nvidia_linux-4.9_kernel_nvgpu",
+        "android_kernel_nvidia_linux-4.9_kernel_nvidia",
+        "android_kernel_nvidia_wireguard",
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
     ],
     "gemini": [
         "android_device_xiaomi_gemini",
@@ -810,6 +958,12 @@
         "android_device_oneplus_sm8150-common",
         "android_kernel_oneplus_sm8150"
     ],
+    "hotdogb": [
+        "android_device_oneplus_common",
+        "android_device_oneplus_hotdogb",
+        "android_device_oneplus_sm8150-common",
+        "android_kernel_oneplus_sm8150"
+    ],
     "huashan": [
         "android_device_sony_common",
         "android_device_sony_huashan",
@@ -844,6 +998,7 @@
         "android_device_samsung_j7elte",
         "android_device_samsung_universal7580-common",
         "android_hardware_samsung",
+        "android_hardware_samsung_nfc",
         "android_hardware_samsung_slsi_exynos",
         "android_hardware_samsung_slsi_exynos5",
         "android_hardware_samsung_slsi_exynos7580",
@@ -876,10 +1031,20 @@
         "android_kernel_xiaomi_sdm660"
     ],
     "jetson": [
+        "android_device_nvidia_icera",
         "android_device_nvidia_jetson",
+        "android_device_nvidia_sepolicy",
+        "android_device_nvidia_shield-common",
         "android_device_nvidia_shieldtablet",
         "android_device_nvidia_t124-common",
-        "android_device_nvidia_tegra-common"
+        "android_device_nvidia_tegra-common",
+        "android_device_nvidia_touch",
+        "android_hardware_nvidia_interfaces",
+        "android_hardware_nvidia_light",
+        "android_hardware_nvidia_memtrack",
+        "android_hardware_nvidia_power",
+        "android_hardware_nvidia_thermal",
+        "android_kernel_nvidia_shield"
     ],
     "jflteatt": [
         "android_device_samsung_jf-common",
@@ -920,6 +1085,7 @@
         "android_device_motorola_exynos9610-common",
         "android_device_motorola_kane",
         "android_hardware_motorola",
+        "android_hardware_samsung_nfc",
         "android_hardware_samsung_slsi_fm",
         "android_hardware_samsung_slsi_libbt",
         "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
@@ -1092,6 +1258,7 @@
     "ls990": [
         "android_device_lge_g3-common",
         "android_device_lge_ls990",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_g3"
     ],
     "ls997": [
@@ -1117,8 +1284,7 @@
         "android_device_htc_msm8974-common",
         "android_hardware_sony_thermanager",
         "android_kernel_htc_msm8974",
-        "android_packages_apps_FlipFlap",
-        "android_packages_resources_devicesettings"
+        "android_packages_apps_FlipFlap"
     ],
     "m8d": [
         "android_device_htc_m8-common",
@@ -1126,8 +1292,7 @@
         "android_device_htc_msm8974-common",
         "android_hardware_sony_thermanager",
         "android_kernel_htc_msm8974",
-        "android_packages_apps_FlipFlap",
-        "android_packages_resources_devicesettings"
+        "android_packages_apps_FlipFlap"
     ],
     "marlin": [
         "android_device_google_marlin",
@@ -1136,6 +1301,45 @@
     "mata": [
         "android_device_essential_mata",
         "android_kernel_essential_msm8998"
+    ],
+    "mdarcy": [
+        "android_device_nvidia_foster",
+        "android_device_nvidia_mdarcy",
+        "android_device_nvidia_sepolicy",
+        "android_device_nvidia_shield-common",
+        "android_device_nvidia_t210-common",
+        "android_device_nvidia_tegra-common",
+        "android_hardware_nvidia_interfaces",
+        "android_hardware_nvidia_light",
+        "android_hardware_nvidia_power",
+        "android_hardware_nvidia_thermal",
+        "android_kernel_nvidia_cypress-fmac",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_lanai",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_quill",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_galen_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_jakku_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_mccoy_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_batuu_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_jetson",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_porg",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_darcy",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_ers",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_sif",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_tegra_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t18x",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t19x",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t210",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_tegra",
+        "android_kernel_nvidia_linux-4.9_kernel_kernel-4.9",
+        "android_kernel_nvidia_linux-4.9_kernel_nvgpu",
+        "android_kernel_nvidia_linux-4.9_kernel_nvidia",
+        "android_kernel_nvidia_wireguard",
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
     ],
     "merlin": [
         "android_device_motorola_merlin",
@@ -1321,13 +1525,125 @@
         "android_kernel_sony_apq8064",
         "android_packages_resources_devicesettings"
     ],
+    "porg": [
+        "android_device_nvidia_foster",
+        "android_device_nvidia_porg",
+        "android_device_nvidia_sepolicy",
+        "android_device_nvidia_shield-common",
+        "android_device_nvidia_t210-common",
+        "android_device_nvidia_tegra-common",
+        "android_hardware_nvidia_interfaces",
+        "android_hardware_nvidia_light",
+        "android_hardware_nvidia_power",
+        "android_hardware_nvidia_thermal",
+        "android_kernel_nvidia_cypress-fmac",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_lanai",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_quill",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_galen_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_jakku_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_mccoy_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_batuu_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_jetson",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_porg",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_darcy",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_ers",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_sif",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_tegra_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t18x",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t19x",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t210",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_tegra",
+        "android_kernel_nvidia_linux-4.9_kernel_kernel-4.9",
+        "android_kernel_nvidia_linux-4.9_kernel_nvgpu",
+        "android_kernel_nvidia_linux-4.9_kernel_nvidia",
+        "android_kernel_nvidia_wireguard",
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
+    ],
     "pro1": [
         "android_device_fxtec_pro1",
         "android_kernel_fxtec_msm8998"
     ],
+    "quill": [
+        "android_device_nvidia_quill",
+        "android_device_nvidia_sepolicy",
+        "android_device_nvidia_shield-common",
+        "android_device_nvidia_t186-common",
+        "android_device_nvidia_tegra-common",
+        "android_hardware_nvidia_boot_control",
+        "android_hardware_nvidia_interfaces",
+        "android_hardware_nvidia_light",
+        "android_hardware_nvidia_power",
+        "android_hardware_nvidia_thermal",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_lanai",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_quill",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_galen_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_jakku_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_mccoy_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_batuu_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_jetson",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_porg",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_darcy",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_ers",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_sif",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_tegra_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t18x",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t19x",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t210",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_tegra",
+        "android_kernel_nvidia_linux-4.9_kernel_kernel-4.9",
+        "android_kernel_nvidia_linux-4.9_kernel_nvgpu",
+        "android_kernel_nvidia_linux-4.9_kernel_nvidia",
+        "android_kernel_nvidia_wireguard",
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
+    ],
     "quill_tab": [
         "android_device_nvidia_quill",
-        "android_device_nvidia_quill_tab"
+        "android_device_nvidia_quill_tab",
+        "android_device_nvidia_sepolicy",
+        "android_device_nvidia_shield-common",
+        "android_device_nvidia_t186-common",
+        "android_device_nvidia_tegra-common",
+        "android_hardware_nvidia_boot_control",
+        "android_hardware_nvidia_interfaces",
+        "android_hardware_nvidia_light",
+        "android_hardware_nvidia_power",
+        "android_hardware_nvidia_thermal",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_lanai",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_quill",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_galen_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_jakku_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_mccoy_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_batuu_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_jetson",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_porg",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_darcy",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_ers",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_sif",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_tegra_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t18x",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t19x",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t210",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_tegra",
+        "android_kernel_nvidia_linux-4.9_kernel_kernel-4.9",
+        "android_kernel_nvidia_linux-4.9_kernel_nvgpu",
+        "android_kernel_nvidia_linux-4.9_kernel_nvidia",
+        "android_kernel_nvidia_wireguard",
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
     ],
     "r5": [
         "android_device_oppo_common",
@@ -1399,6 +1715,7 @@
     ],
     "roth": [
         "android_device_nvidia_roth",
+        "android_device_nvidia_sepolicy",
         "android_device_nvidia_t114-common",
         "android_device_nvidia_tegra-common"
     ],
@@ -1445,6 +1762,7 @@
         "android_device_samsung_s5neolte",
         "android_device_samsung_universal7580-common",
         "android_hardware_samsung",
+        "android_hardware_samsung_nfc",
         "android_hardware_samsung_slsi_exynos",
         "android_hardware_samsung_slsi_exynos5",
         "android_hardware_samsung_slsi_exynos7580",
@@ -1510,9 +1828,19 @@
         "android_kernel_moto_shamu"
     ],
     "shieldtablet": [
+        "android_device_nvidia_icera",
+        "android_device_nvidia_sepolicy",
+        "android_device_nvidia_shield-common",
         "android_device_nvidia_shieldtablet",
         "android_device_nvidia_t124-common",
-        "android_device_nvidia_tegra-common"
+        "android_device_nvidia_tegra-common",
+        "android_device_nvidia_touch",
+        "android_hardware_nvidia_interfaces",
+        "android_hardware_nvidia_light",
+        "android_hardware_nvidia_memtrack",
+        "android_hardware_nvidia_power",
+        "android_hardware_nvidia_thermal",
+        "android_kernel_nvidia_shield"
     ],
     "sirius": [
         "android_device_sony_common",
@@ -1574,6 +1902,7 @@
         "android_device_motorola_exynos9610-common",
         "android_device_motorola_troika",
         "android_hardware_motorola",
+        "android_hardware_samsung_nfc",
         "android_hardware_samsung_slsi_fm",
         "android_hardware_samsung_slsi_libbt",
         "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
@@ -1651,6 +1980,7 @@
     "vs985": [
         "android_device_lge_g3-common",
         "android_device_lge_vs985",
+        "android_hardware_sony_timekeep",
         "android_kernel_lge_g3"
     ],
     "vs995": [
@@ -1687,6 +2017,12 @@
     "wt88047": [
         "android_device_cyanogen_msm8916-common",
         "android_device_wingtech_wt88047",
+        "android_hardware_sony_timekeep",
+        "android_kernel_wingtech_msm8916"
+    ],
+    "wt88047x": [
+        "android_device_cyanogen_msm8916-common",
+        "android_device_xiaomi_wt88047x",
         "android_hardware_sony_timekeep",
         "android_kernel_wingtech_msm8916"
     ],
@@ -1789,6 +2125,11 @@
         "android_device_asus_zenfone3",
         "android_kernel_asus_msm8953",
         "android_packages_resources_devicesettings"
+    ],
+    "zippo": [
+        "android_device_lenovo_sm8150-common",
+        "android_device_lenovo_zippo",
+        "android_kernel_lenovo_sm8150"
     ],
     "zl1": [
         "android_device_leeco_msm8996-common",
