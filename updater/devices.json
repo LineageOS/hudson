@@ -130,6 +130,7 @@
   {  "model": "hltekor", "oem": "Samsung", "name": "Galaxy Note 3 LTE (N900K/L/S)", "lineage_recovery": true},
   {  "model": "hltetmo", "oem": "Samsung", "name": "Galaxy Note 3 LTE (N900T/V/W8)", "lineage_recovery": true},
   {  "model": "hotdog", "oem": "OnePlus", "name": "7T Pro", "lineage_recovery": true},
+  {  "model": "hotdogb", "oem": "OnePlus", "name": "7T", "lineage_recovery": true},
   {  "model": "huashan", "oem": "Sony", "name": "Xperia SP"},
   {  "model": "hydrogen", "oem": "Xiaomi", "name": "Mi Max"},
   {  "model": "I001D", "oem": "Asus", "name": "ROG Phone 2 (ZS660KL)", "lineage_recovery": true},
