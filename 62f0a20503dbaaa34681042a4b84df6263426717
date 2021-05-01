@@ -16,6 +16,24 @@
       "revId": "62f0a20503dbaaa34681042a4b84df6263426717",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "69f205d6_697feffa",
+        "filename": "updater/device_deps.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 221,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2021-05-01T12:10:15Z",
+      "side": 0,
+      "message": "Yeah, cuz 18.1 branch doesn\u0027t have a lineage.dependencies file yet.",
+      "parentUuid": "579eff96_23454b1a",
+      "revId": "62f0a20503dbaaa34681042a4b84df6263426717",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
     }
   ]
 }
