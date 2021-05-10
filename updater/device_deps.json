@@ -223,7 +223,9 @@
     ],
     "blueline": [
         "android_device_google_blueline",
-        "android_device_google_crosshatch"
+        "android_device_google_crosshatch",
+        "android_kernel_google_msm-4.9",
+        "android_packages_apps_ElmyraService"
     ],
     "bonito": [
         "android_device_google_bonito",
@@ -343,7 +345,9 @@
         "android_kernel_cyanogen_msm8916"
     ],
     "crosshatch": [
-        "android_device_google_crosshatch"
+        "android_device_google_crosshatch",
+        "android_kernel_google_msm-4.9",
+        "android_packages_apps_ElmyraService"
     ],
     "crownlte": [
         "android_device_samsung_crownlte",
