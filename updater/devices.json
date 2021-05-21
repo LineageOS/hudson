@@ -334,5 +334,6 @@
   {  "model": "zenfone3", "oem": "Asus", "name": "Zenfone 3 (ZE520KL/ZE552KL)"},
   {  "model": "zerofltexx", "oem": "Samsung", "name": "Galaxy S6"},
   {  "model": "zeroltexx", "oem": "Samsung", "name": "Galaxy S6 Edge"},
+  {  "model": "zippo", "oem": "Lenovo", "name": "Z6 Pro", "lineage_recovery": true},
   {  "model": "zl1", "oem": "LeEco", "name": "Le Pro 3", "lineage_recovery": true}
 ]
