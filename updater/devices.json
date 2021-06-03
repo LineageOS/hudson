@@ -182,6 +182,7 @@
   {  "model": "lake", "oem": "Motorola", "name": "Moto G7 Plus", "lineage_recovery": true},
   {  "model": "land", "oem": "Xiaomi", "name": "Redmi 3S/3X"},
   {  "model": "lavender", "oem": "Xiaomi", "name": "Redmi Note 7", "lineage_recovery": true},
+  {  "model": "lemonadep", "oem": "OnePlus", "name": "9 Pro"},
   {  "model": "lentislte", "oem": "Samsung", "name": "Galaxy S5 LTE-A"},
   {  "model": "lettuce", "oem": "YU", "name": "Yuphoria"},
   {  "model": "libra", "oem": "Xiaomi", "name": "Mi 4c"},
