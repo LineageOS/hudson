@@ -15,6 +15,7 @@
   {  "model": "anne", "oem": "Huawei", "name": "P20 Lite"},
   {  "model": "armani", "oem": "Xiaomi", "name": "Redmi 1S"},
   {  "model": "athene", "oem": "Motorola", "name": "Moto G4/G4 Plus"},
+  {  "model": "aura", "oem": "Razer", "name": "Phone 2", "lineage_recovery": true},
   {  "model": "avicii", "oem": "OnePlus", "name": "Nord", "lineage_recovery": true},
   {  "model": "axon7", "oem": "ZTE", "name": "Axon 7"},
   {  "model": "bacon", "oem": "OnePlus", "name": "One", "lineage_recovery": true},
