@@ -16,6 +16,24 @@
       "revId": "5cda145670517c74b07df118f55be12e26428bca",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "2e342f76_f4d1ec84",
+        "filename": "updater/devices.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 186,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2021-06-06T23:22:02Z",
+      "side": 1,
+      "message": "ah, didn\u0027t look at what I was copy pasting, will fix in a while. thx~",
+      "parentUuid": "1dbaa17e_5eb9a9cb",
+      "revId": "5cda145670517c74b07df118f55be12e26428bca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
     }
   ]
 }
