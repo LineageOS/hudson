@@ -159,6 +159,11 @@
         "android_device_huawei_hi6250-common",
         "android_kernel_huawei_hi6250"
     ],
+    "apollo": [
+        "android_device_xiaomi_apollo",
+        "android_device_xiaomi_sm8250-common",
+        "android_kernel_xiaomi_sm8250"
+    ],
     "aura": [
         "android_device_razer_aura",
         "android_kernel_razer_sdm845"
@@ -1064,11 +1069,22 @@
         "android_device_xiaomi_sdm660-common",
         "android_kernel_xiaomi_sdm660"
     ],
+    "lemonadep": [
+        "android_device_oneplus_common",
+        "android_device_oneplus_lemonadep",
+        "android_device_oneplus_sm8350-common",
+        "android_kernel_oneplus_sm8350"
+    ],
     "lithium": [
         "android_device_xiaomi_lithium",
         "android_device_xiaomi_msm8996-common",
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_msm8996"
+    ],
+    "lmi": [
+        "android_device_xiaomi_lmi",
+        "android_device_xiaomi_sm8250-common",
+        "android_kernel_xiaomi_sm8250"
     ],
     "ls980": [
         "android_device_lge_g2-common",
