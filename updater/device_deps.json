@@ -1618,6 +1618,10 @@
         "android_kernel_motorola_msm8916",
         "android_system_qcom"
     ],
+    "surya": [
+        "android_device_xiaomi_surya",
+        "android_kernel_xiaomi_surya"
+    ],
     "taimen": [
         "android_device_google_taimen",
         "android_device_google_wahoo",
