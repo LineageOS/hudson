@@ -275,6 +275,7 @@
   {  "model": "sumire", "oem": "Sony", "name": "Xperia Z5"},
   {  "model": "sunfish", "oem": "Google", "name": "Pixel 4a", "lineage_recovery": true},
   {  "model": "surnia", "oem": "Motorola", "name": "Moto E LTE (2015)", "lineage_recovery": true},
+  {  "model": "surya", "oem": "Xiaomi", "name": "POCO X3 NFC", "lineage_recovery": true},
   {  "model": "suzuran", "oem": "Sony", "name": "Xperia Z5 Compact"},
   {  "model": "t0lte", "oem": "Samsung", "name": "Galaxy Note II (GSM LTE)"},
   {  "model": "t0ltekor", "oem": "Samsung", "name": "Galaxy Note II (Korea)"},
