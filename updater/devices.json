@@ -13,6 +13,7 @@
   {  "model": "albus", "oem": "Motorola", "name": "Moto Z2 Play"},
   {  "model": "angler", "oem": "Google", "name": "Nexus 6P"},
   {  "model": "anne", "oem": "Huawei", "name": "P20 Lite"},
+  {  "model": "apollon", "oem": "Xiaomi", "name": "Mi 10T / Mi 10T Pro / Redmi K30S Ultra", "lineage_recovery": true},
   {  "model": "armani", "oem": "Xiaomi", "name": "Redmi 1S"},
   {  "model": "athene", "oem": "Motorola", "name": "Moto G4/G4 Plus"},
   {  "model": "aura", "oem": "Razer", "name": "Phone 2", "lineage_recovery": true},

@@ -159,8 +159,8 @@
         "android_device_huawei_hi6250-common",
         "android_kernel_huawei_hi6250"
     ],
-    "apollo": [
-        "android_device_xiaomi_apollo",
+    "apollon": [
+        "android_device_xiaomi_apollon",
         "android_device_xiaomi_sm8250-common",
         "android_kernel_xiaomi_sm8250"
     ],
