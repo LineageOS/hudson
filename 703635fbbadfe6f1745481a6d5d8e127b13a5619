@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "20aa86db_4898a6e0",
+        "filename": "updater/devices.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2021-06-25T10:08:32Z",
+      "side": 1,
+      "message": "Mi 10T / Mi 10T Pro / Redmi K30S Ultra",
+      "revId": "703635fbbadfe6f1745481a6d5d8e127b13a5619",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
