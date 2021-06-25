@@ -189,6 +189,7 @@
   {  "model": "lettuce", "oem": "YU", "name": "Yuphoria"},
   {  "model": "libra", "oem": "Xiaomi", "name": "Mi 4c"},
   {  "model": "lithium", "oem": "Xiaomi", "name": "Mi MIX", "lineage_recovery": true},
+  {  "model": "lmi", "oem": "Xiaomi", "name": "POCO F2 Pro / Redmi K30 Pro / Redmi K30 Pro Zoom Edition", "lineage_recovery": true},
   {  "model": "ls990", "oem": "LG", "name": "G3 (Sprint)", "lineage_recovery": true},
   {  "model": "ls997", "oem": "LG", "name": "V20 (Sprint)", "lineage_recovery": true},
   {  "model": "lt02ltespr", "oem": "Samsung", "name": "Galaxy Tab 3 7.0 (Sprint)"},
