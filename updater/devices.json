@@ -270,6 +270,7 @@
   {  "model": "seed", "oem": "Google", "name": "Android One 2nd gen"},
   {  "model": "shamu", "oem": "Google", "name": "Nexus 6", "lineage_recovery": true},
   {  "model": "shieldtablet", "oem": "Nvidia", "name": "Shield Tablet"},
+  {  "model": "sirius", "oem": "Sony", "name": "Xperia Z2", "lineage_recovery": true},
   {  "model": "spyder", "oem": "Motorola", "name": "Droid Razr"},
   {  "model": "star2lte", "oem": "Samsung", "name": "Galaxy S9+", "lineage_recovery": true},
   {  "model": "starlte", "oem": "Samsung", "name": "Galaxy S9", "lineage_recovery": true},
