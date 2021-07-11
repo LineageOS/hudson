@@ -1,7 +1,3 @@
-# LineageOS build target list
-# <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
-
-# Weekly 18.1
 ahannah userdebug lineage-18.1 W
 akari userdebug lineage-18.1 W
 akatsuki userdebug lineage-18.1 W
@@ -123,52 +119,5 @@ xz2c userdebug lineage-18.1 W
 YTX703F userdebug lineage-18.1 W
 YTX703L userdebug lineage-18.1 W
 Z01R userdebug lineage-18.1 W
-z3 userdebug lineage-18.1 W
-z3c userdebug lineage-18.1 W
 zippo userdebug lineage-18.1 W
 zl1 userdebug lineage-18.1 W
-
-# Weekly 17.1
-a3xelte userdebug lineage-17.1 W
-a5xelte userdebug lineage-17.1 W
-a5y17lte userdebug lineage-17.1 W
-a7xelte userdebug lineage-17.1 W
-a7y17lte userdebug lineage-17.1 W
-avicii userdebug lineage-17.1 W
-Amber userdebug lineage-17.1 W
-bardock userdebug lineage-17.1 W
-bardockpro userdebug lineage-17.1 W
-castor userdebug lineage-17.1 W
-crackling userdebug lineage-17.1 W
-davinci userdebug lineage-17.1 W
-FP2 userdebug lineage-17.1 W
-FP3 userdebug lineage-17.1 W
-ginkgo userdebug lineage-17.1 W
-guacamoleb userdebug lineage-17.1 W
-griffin userdebug lineage-17.1 W
-harpia userdebug lineage-17.1 W
-I001D userdebug lineage-17.1 W
-I01WD userdebug lineage-17.1 W
-j7elte userdebug lineage-17.1 W
-kiwi userdebug lineage-17.1 W
-lux userdebug lineage-17.1 W
-m8 userdebug lineage-17.1 W
-m8d userdebug lineage-17.1 W
-marlin userdebug lineage-17.1 W
-merlin userdebug lineage-17.1 W
-nx563j userdebug lineage-17.1 W
-osprey userdebug lineage-17.1 W
-racer userdebug lineage-17.1 W
-RMX1801 userdebug lineage-17.1 W
-s2 userdebug lineage-17.1 W
-s3ve3gds userdebug lineage-17.1 W
-s3ve3gjv userdebug lineage-17.1 W
-s3ve3gxx userdebug lineage-17.1 W
-s5neolte userdebug lineage-17.1 W
-sailfish userdebug lineage-17.1 W
-surnia userdebug lineage-17.1 W
-tissot userdebug lineage-17.1 W
-twolip userdebug lineage-17.1 W
-wayne userdebug lineage-17.1 W
-wt88047 userdebug lineage-17.1 W
-z2_plus userdebug lineage-17.1 W
