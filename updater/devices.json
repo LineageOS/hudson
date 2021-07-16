@@ -156,7 +156,7 @@
   {  "model": "jflteatt", "oem": "Samsung", "name": "Galaxy S4 (SGH-I337)", "lineage_recovery": true},
   {  "model": "jfltespr", "oem": "Samsung", "name": "Galaxy S4 (SCH-R970/C/X,SPH-L720)", "lineage_recovery": true},
   {  "model": "jfltevzw", "oem": "Samsung", "name": "Galaxy S4 (SCH-I545)", "lineage_recovery": true},
-  {  "model": "jfltexx", "oem": "Samsung", "name": "Galaxy S4 (GT-I9505/G,SGH-I337M,SGH-M919)", "lineage_recovery": true},
+  {  "model": "jfltexx", "oem": "Samsung", "name": "Galaxy S4 (GT-I9505,SGH-I337M,SGH-M919)", "lineage_recovery": true},
   {  "model": "jfvelte", "oem": "Samsung", "name": "Galaxy S4 Value Edition (GT-I9515/L)", "lineage_recovery": true},
   {  "model": "k3gxx", "oem": "Samsung", "name": "Galaxy S5 (International 3G)"},
   {  "model": "karin", "oem": "Sony", "name": "Xperia Z4 Tablet LTE"},
