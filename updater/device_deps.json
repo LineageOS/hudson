@@ -218,6 +218,38 @@
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_sdm845"
     ],
+    "beyond0lte": [
+        "android_device_samsung_beyond0lte",
+        "android_device_samsung_exynos9820-common",
+        "android_device_samsung_slsi_sepolicy",
+        "android_hardware_samsung",
+        "android_hardware_samsung_nfc",
+        "android_kernel_samsung_exynos9820"
+    ],
+    "beyond1lte": [
+        "android_device_samsung_beyond1lte",
+        "android_device_samsung_exynos9820-common",
+        "android_device_samsung_slsi_sepolicy",
+        "android_hardware_samsung",
+        "android_hardware_samsung_nfc",
+        "android_kernel_samsung_exynos9820"
+    ],
+    "beyond2lte": [
+        "android_device_samsung_beyond2lte",
+        "android_device_samsung_exynos9820-common",
+        "android_device_samsung_slsi_sepolicy",
+        "android_hardware_samsung",
+        "android_hardware_samsung_nfc",
+        "android_kernel_samsung_exynos9820"
+    ],
+    "beyondx": [
+        "android_device_samsung_beyondx",
+        "android_device_samsung_exynos9820-common",
+        "android_device_samsung_slsi_sepolicy",
+        "android_hardware_samsung",
+        "android_hardware_samsung_nfc",
+        "android_kernel_samsung_exynos9820"
+    ],
     "blueline": [
         "android_device_google_blueline",
         "android_device_google_crosshatch",
@@ -328,6 +360,30 @@
         "android_device_samsung_universal9810-common",
         "android_hardware_samsung",
         "android_kernel_samsung_universal9810"
+    ],
+    "d1": [
+        "android_device_samsung_d1",
+        "android_device_samsung_exynos9820-common",
+        "android_device_samsung_slsi_sepolicy",
+        "android_hardware_samsung",
+        "android_hardware_samsung_nfc",
+        "android_kernel_samsung_exynos9820"
+    ],
+    "d2s": [
+        "android_device_samsung_d2s",
+        "android_device_samsung_exynos9820-common",
+        "android_device_samsung_slsi_sepolicy",
+        "android_hardware_samsung",
+        "android_hardware_samsung_nfc",
+        "android_kernel_samsung_exynos9820"
+    ],
+    "d2x": [
+        "android_device_samsung_d2x",
+        "android_device_samsung_exynos9820-common",
+        "android_device_samsung_slsi_sepolicy",
+        "android_hardware_samsung",
+        "android_hardware_samsung_nfc",
+        "android_kernel_samsung_exynos9820"
     ],
     "d800": [
         "android_device_lge_d800",
