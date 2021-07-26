@@ -11,6 +11,7 @@
   {  "model": "akari", "oem": "Sony", "name": "Xperia XZ2", "lineage_recovery": true},
   {  "model": "akatsuki", "oem": "Sony", "name": "Xperia XZ3", "lineage_recovery": true},
   {  "model": "albus", "oem": "Motorola", "name": "Moto Z2 Play"},
+  {  "model": "alioth", "oem": "Xiaomi", "name": "POCO F3 / Redmi K40 / Mi 11X", "lineage_recovery": true},
   {  "model": "angler", "oem": "Google", "name": "Nexus 6P"},
   {  "model": "anne", "oem": "Huawei", "name": "P20 Lite"},
   {  "model": "apollon", "oem": "Xiaomi", "name": "Mi 10T / Mi 10T Pro / Redmi K30S Ultra", "lineage_recovery": true},
