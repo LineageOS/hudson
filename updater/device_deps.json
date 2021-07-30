@@ -150,6 +150,12 @@
         "android_device_sony_tama-common",
         "android_kernel_sony_sdm845"
     ],
+    "alioth": [
+        "android_device_xiaomi_alioth",
+        "android_device_xiaomi_sm8250-common",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_sm8250"
+    ],
     "angler": [
         "android_device_huawei_angler",
         "android_kernel_huawei_angler"
@@ -162,6 +168,7 @@
     "apollon": [
         "android_device_xiaomi_apollon",
         "android_device_xiaomi_sm8250-common",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_sm8250"
     ],
     "aura": [
@@ -272,6 +279,9 @@
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_msm8996"
     ],
+    "car": [
+        "android_device_lineage_car"
+    ],
     "castor": [
         "android_device_sony_castor",
         "android_device_sony_castor_windy",
@@ -301,6 +311,11 @@
         "android_external_bson",
         "android_kernel_motorola_msm8953",
         "android_system_qcom"
+    ],
+    "cepheus": [
+        "android_device_xiaomi_cepheus",
+        "android_device_xiaomi_sm8150-common",
+        "android_kernel_xiaomi_sm8150"
     ],
     "channel": [
         "android_device_motorola_channel",
@@ -855,6 +870,7 @@
         "android_device_samsung_slsi_sepolicy",
         "android_device_samsung_universal8890-common",
         "android_hardware_samsung",
+        "android_hardware_samsung_nfc",
         "android_kernel_samsung_universal8890"
     ],
     "herolte": [
@@ -862,6 +878,7 @@
         "android_device_samsung_slsi_sepolicy",
         "android_device_samsung_universal8890-common",
         "android_hardware_samsung",
+        "android_hardware_samsung_nfc",
         "android_kernel_samsung_universal8890"
     ],
     "hlte": [
@@ -919,6 +936,46 @@
         "android_hardware_sony_thermanager",
         "android_kernel_sony_msm8960t",
         "android_packages_resources_devicesettings"
+    ],
+    "icosa": [
+        "android_device_nintendo_icosa",
+        "android_device_nvidia_foster",
+        "android_device_nvidia_foster_tab",
+        "android_device_nvidia_sepolicy",
+        "android_device_nvidia_shield-common",
+        "android_device_nvidia_t210-common",
+        "android_device_nvidia_tegra-common",
+        "android_hardware_nvidia_interfaces",
+        "android_hardware_nvidia_light",
+        "android_hardware_nvidia_power",
+        "android_hardware_nvidia_thermal",
+        "android_kernel_nvidia_cypress-fmac",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_lanai",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_quill",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_galen_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_jakku_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_mccoy_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_batuu_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_jetson",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_porg",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_darcy",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_ers",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_sif",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_tegra_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t18x",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t19x",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t210",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_tegra",
+        "android_kernel_nvidia_linux-4.9_kernel_kernel-4.9",
+        "android_kernel_nvidia_linux-4.9_kernel_nvgpu",
+        "android_kernel_nvidia_linux-4.9_kernel_nvidia",
+        "android_kernel_nvidia_wireguard",
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
     ],
     "instantnoodle": [
         "android_device_oneplus_common",
@@ -1125,6 +1182,12 @@
         "android_device_xiaomi_sdm660-common",
         "android_kernel_xiaomi_sdm660"
     ],
+    "lemonade": [
+        "android_device_oneplus_common",
+        "android_device_oneplus_lemonade",
+        "android_device_oneplus_sm8350-common",
+        "android_kernel_oneplus_sm8350"
+    ],
     "lemonadep": [
         "android_device_oneplus_common",
         "android_device_oneplus_lemonadep",
@@ -1140,6 +1203,7 @@
     "lmi": [
         "android_device_xiaomi_lmi",
         "android_device_xiaomi_sm8250-common",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_sm8250"
     ],
     "ls980": [
@@ -1507,6 +1571,11 @@
         "android_hardware_motorola",
         "android_kernel_motorola_sm7250"
     ],
+    "raphael": [
+        "android_device_xiaomi_raphael",
+        "android_device_xiaomi_sm8150-common",
+        "android_kernel_xiaomi_sm8150"
+    ],
     "redbull": [
         "android_device_google_redbull",
         "android_kernel_google_redbull"
@@ -1737,12 +1806,22 @@
         "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
+    "vayu": [
+        "android_device_xiaomi_sm8150-common",
+        "android_device_xiaomi_vayu",
+        "android_kernel_xiaomi_sm8150"
+    ],
     "victara": [
         "android_device_motorola_victara",
         "android_external_bson",
         "android_hardware_sony_timekeep",
         "android_kernel_motorola_msm8974",
         "android_system_qcom"
+    ],
+    "vince": [
+        "android_device_xiaomi_msm8953-common",
+        "android_device_xiaomi_vince",
+        "android_kernel_xiaomi_msm8953"
     ],
     "voyager": [
         "android_device_sony_nile-common",
