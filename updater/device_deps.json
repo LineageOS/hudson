@@ -1236,6 +1236,17 @@
         "android_kernel_motorola_msm8916",
         "android_system_qcom"
     ],
+    "m20lte": [
+        "android_device_samsung_m20lte",
+        "android_device_samsung_universal7904-common",
+        "android_device_samsung_slsi_sepolicy",
+        "android_hardware_samsung",
+        "android_hardware_samsung_nfc",
+        "android_hardware_samsung_slsi_libbt",
+        "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
+        "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
+        "android_kernel_samsung_universal7904"
+    ],
     "m8": [
         "android_device_htc_m8",
         "android_device_htc_m8-common",
