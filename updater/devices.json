@@ -274,6 +274,7 @@
   {  "model": "s3ve3gxx", "oem": "Samsung", "name": "Galaxy S III Neo (Sony Camera)", "lineage_recovery": true},
   {  "model": "s5neolte", "oem": "Samsung", "name": "Galaxy S5 Neo", "lineage_recovery": true},
   {  "model": "sagit", "oem": "Xiaomi", "name": "Mi 6", "lineage_recovery": true},
+  {  "model": "sake", "oem": "ASUS", "name": "ZenFone 8", "lineage_recovery": true},
   {  "model": "sailfish", "oem": "Google", "name": "Pixel", "lineage_recovery": true},
   {  "model": "santoni", "oem":"Xiaomi", "name": "Redmi 4(X)"},
   {  "model": "sargo", "oem": "Google", "name": "Pixel 3a", "lineage_recovery": true},
