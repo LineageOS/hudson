@@ -130,6 +130,7 @@
   {  "model": "hannah", "oem": "Motorola", "name": "Moto E5 Plus (XT1924-6/7/8)", "lineage_recovery": true},
   {  "model": "harpia", "oem": "Motorola", "name": "Moto G4 Play", "lineage_recovery": true},
   {  "model": "hayabusa", "oem": "Sony", "name": "Xperia TX"},
+  {  "model": "heart", "oem": "Lenovo", "name": "Z5 Pro GT", "lineage_recovery": true},
   {  "model": "hero2lte", "oem": "Samsung", "name": "Galaxy S7 Edge"},
   {  "model": "herolte", "oem": "Samsung", "name": "Galaxy S7"},
   {  "model": "hiae", "oem": "HTC", "name": "One A9"},
