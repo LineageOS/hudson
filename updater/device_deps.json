@@ -865,6 +865,11 @@
         "android_kernel_sony_msm8x60",
         "android_packages_resources_devicesettings"
     ],
+    "heart": [
+        "android_device_lenovo_sm8150-common",
+        "android_device_lenovo_heart",
+        "android_kernel_lenovo_sm8150"
+    ],
     "hero2lte": [
         "android_device_samsung_hero2lte",
         "android_device_samsung_slsi_sepolicy",
