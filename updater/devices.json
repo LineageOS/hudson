@@ -19,6 +19,7 @@
   {  "model": "athene", "oem": "Motorola", "name": "Moto G4/G4 Plus"},
   {  "model": "aura", "oem": "Razer", "name": "Phone 2", "lineage_recovery": true},
   {  "model": "avicii", "oem": "OnePlus", "name": "Nord", "lineage_recovery": true},
+  {  "model": "axolotl", "oem": "SHIFT", "name": "SHIFT6mq", "lineage_recovery": true},
   {  "model": "axon7", "oem": "ZTE", "name": "Axon 7"},
   {  "model": "bacon", "oem": "OnePlus", "name": "One", "lineage_recovery": true},
   {  "model": "bardock", "oem": "BQ", "name": "Aquaris X", "lineage_recovery": true},
