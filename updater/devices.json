@@ -221,6 +221,7 @@
   {  "model": "maserati", "oem": "Motorola", "name": "Droid 4"},
   {  "model": "merlin", "oem": "Motorola", "name": "Moto G3 Turbo", "lineage_recovery": true},
   {  "model": "mermaid", "oem": "Sony", "name": "Xperia 10 Plus", "lineage_recovery": true},
+  {  "model": "miatoll", "oem": "Xiaomi", "name": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max", "lineage_recovery": true},
   {  "model": "mido", "oem": "Xiaomi", "name": "Redmi Note 4"},
   {  "model": "mint", "oem": "Sony", "name": "Xperia T"},
   {  "model": "mondrianwifi", "oem": "Samsung", "name": "Galaxy Tab Pro 8.4"},
