@@ -22,6 +22,7 @@
   {  "model": "axolotl", "oem": "SHIFT", "name": "SHIFT6mq", "lineage_recovery": true},
   {  "model": "axon7", "oem": "ZTE", "name": "Axon 7"},
   {  "model": "bacon", "oem": "OnePlus", "name": "One", "lineage_recovery": true},
+  {  "model": "barbet", "oem": "Google", "name": "Pixel 5a", "lineage_recovery": true},
   {  "model": "bardock", "oem": "BQ", "name": "Aquaris X", "lineage_recovery": true},
   {  "model": "bardockpro", "oem": "BQ", "name": "Aquaris X Pro", "lineage_recovery": true},
   {  "model": "beckham", "oem": "Motorola", "name": "Moto Z3 Play", "lineage_recovery": true},
