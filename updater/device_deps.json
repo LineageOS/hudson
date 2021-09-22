@@ -15,9 +15,7 @@
     ],
     "FP3": [
         "android_device_fairphone_FP3",
-        "android_external_bson",
-        "android_kernel_fairphone_sdm632",
-        "android_system_qcom"
+        "android_kernel_fairphone_sdm632"
     ],
     "I001D": [
         "android_device_asus_I001D",
@@ -26,6 +24,9 @@
     "I01WD": [
         "android_device_asus_I01WD",
         "android_kernel_asus_sm8150"
+    ],
+    "OP4A7A": [
+        "android_device_oppo_OP4A7A"
     ],
     "PL2": [
         "android_device_nokia_PL2",
@@ -113,6 +114,11 @@
         "android_device_samsung_a5y17lte",
         "android_device_samsung_universal7880-common",
         "android_hardware_samsung",
+        "android_hardware_samsung_nfc",
+        "android_hardware_samsung_slsi_exynos",
+        "android_hardware_samsung_slsi_exynos5",
+        "android_hardware_samsung_slsi_exynos7880",
+        "android_hardware_samsung_slsi_openmax",
         "android_kernel_samsung_universal7880"
     ],
     "a7xelte": [
@@ -130,6 +136,11 @@
         "android_device_samsung_a7y17lte",
         "android_device_samsung_universal7880-common",
         "android_hardware_samsung",
+        "android_hardware_samsung_nfc",
+        "android_hardware_samsung_slsi_exynos",
+        "android_hardware_samsung_slsi_exynos5",
+        "android_hardware_samsung_slsi_exynos7880",
+        "android_hardware_samsung_slsi_openmax",
         "android_kernel_samsung_universal7880"
     ],
     "ahannah": [
@@ -190,6 +201,11 @@
         "android_device_oppo_msm8974-common",
         "android_hardware_sony_timekeep",
         "android_kernel_oppo_msm8974"
+    ],
+    "barbet": [
+        "android_device_google_barbet",
+        "android_device_google_redbull",
+        "android_kernel_google_redbull"
     ],
     "bardock": [
         "android_device_bq_bardock",
@@ -319,6 +335,7 @@
     "cepheus": [
         "android_device_xiaomi_cepheus",
         "android_device_xiaomi_sm8150-common",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_sm8150"
     ],
     "channel": [
@@ -462,6 +479,18 @@
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_sm6150"
     ],
+    "deadpool": [
+        "android_device_amlogic_g12-common",
+        "android_device_askey_deadpool",
+        "android_hardware_amlogic_kernel-modules_dhd-driver",
+        "android_hardware_amlogic_kernel-modules_mali-driver",
+        "android_hardware_amlogic_kernel-modules_media",
+        "android_hardware_amlogic_kernel-modules_optee",
+        "android_hardware_amlogic_tools_dtbtool",
+        "android_hardware_amlogic_tools_imagepacker",
+        "android_hardware_amlogic_tools_respacker",
+        "android_kernel_amlogic_linux-4.9"
+    ],
     "deb": [
         "android_device_asus_deb",
         "android_device_asus_flo",
@@ -486,6 +515,19 @@
         "android_hardware_sony_simdetect",
         "android_kernel_sony_sdm660"
     ],
+    "dopinder": [
+        "android_device_amlogic_g12-common",
+        "android_device_askey_dopinder",
+        "android_hardware_amlogic_kernel-modules_mali-driver",
+        "android_hardware_amlogic_kernel-modules_media",
+        "android_hardware_amlogic_kernel-modules_optee",
+        "android_hardware_amlogic_kernel-modules_rtl8822cs",
+        "android_hardware_amlogic_tools_dtbtool",
+        "android_hardware_amlogic_tools_imagepacker",
+        "android_hardware_amlogic_tools_respacker",
+        "android_hardware_realtek",
+        "android_kernel_amlogic_linux-4.9"
+    ],
     "dumpling": [
         "android_device_oneplus_dumpling",
         "android_device_oneplus_msm8998-common",
@@ -495,6 +537,7 @@
     "enchilada": [
         "android_device_oneplus_enchilada",
         "android_device_oneplus_sdm845-common",
+        "android_hardware_oneplus",
         "android_kernel_oneplus_sdm845"
     ],
     "equuleus": [
@@ -531,9 +574,9 @@
         "android_kernel_lge_g3"
     ],
     "fajita": [
-        "android_device_oneplus_common",
         "android_device_oneplus_fajita",
         "android_device_oneplus_sdm845-common",
+        "android_hardware_oneplus",
         "android_kernel_oneplus_sdm845"
     ],
     "figo": [
@@ -583,6 +626,7 @@
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_batuu_kernel-dts",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_icosa",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_jetson",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_porg",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_common",
@@ -622,6 +666,7 @@
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_batuu_kernel-dts",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_icosa",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_jetson",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_porg",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_common",
@@ -644,12 +689,17 @@
         "android_kernel_asus_fugu"
     ],
     "galen": [
+        "android_bootable_cboot_common",
+        "android_bootable_cboot_lk",
+        "android_bootable_cboot_t18x",
+        "android_bootable_cboot_t19x",
         "android_device_nvidia_galen",
         "android_device_nvidia_sepolicy",
         "android_device_nvidia_shield-common",
         "android_device_nvidia_t194-common",
         "android_device_nvidia_tegra-common",
         "android_hardware_nvidia_boot_control",
+        "android_hardware_nvidia_hwinc",
         "android_hardware_nvidia_interfaces",
         "android_hardware_nvidia_light",
         "android_hardware_nvidia_power",
@@ -664,6 +714,7 @@
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_batuu_kernel-dts",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_icosa",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_jetson",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_porg",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_common",
@@ -682,6 +733,10 @@
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
     ],
     "galen_tab": [
+        "android_bootable_cboot_common",
+        "android_bootable_cboot_lk",
+        "android_bootable_cboot_t18x",
+        "android_bootable_cboot_t19x",
         "android_device_nvidia_galen",
         "android_device_nvidia_galen_tab",
         "android_device_nvidia_sepolicy",
@@ -689,6 +744,7 @@
         "android_device_nvidia_t194-common",
         "android_device_nvidia_tegra-common",
         "android_hardware_nvidia_boot_control",
+        "android_hardware_nvidia_hwinc",
         "android_hardware_nvidia_interfaces",
         "android_hardware_nvidia_light",
         "android_hardware_nvidia_power",
@@ -703,6 +759,7 @@
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_batuu_kernel-dts",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_icosa",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_jetson",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_porg",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_common",
@@ -771,15 +828,15 @@
         "android_kernel_samsung_sdm670"
     ],
     "guacamole": [
-        "android_device_oneplus_common",
         "android_device_oneplus_guacamole",
         "android_device_oneplus_sm8150-common",
+        "android_hardware_oneplus",
         "android_kernel_oneplus_sm8150"
     ],
     "guacamoleb": [
-        "android_device_oneplus_common",
         "android_device_oneplus_guacamoleb",
         "android_device_oneplus_sm8150-common",
+        "android_hardware_oneplus",
         "android_kernel_oneplus_sm8150"
     ],
     "h830": [
@@ -870,8 +927,8 @@
         "android_packages_resources_devicesettings"
     ],
     "heart": [
-        "android_device_lenovo_sm8150-common",
         "android_device_lenovo_heart",
+        "android_device_lenovo_sm8150-common",
         "android_kernel_lenovo_sm8150"
     ],
     "hero2lte": [
@@ -927,15 +984,15 @@
         "android_kernel_samsung_msm8974"
     ],
     "hotdog": [
-        "android_device_oneplus_common",
         "android_device_oneplus_hotdog",
         "android_device_oneplus_sm8150-common",
+        "android_hardware_oneplus",
         "android_kernel_oneplus_sm8150"
     ],
     "hotdogb": [
-        "android_device_oneplus_common",
         "android_device_oneplus_hotdogb",
         "android_device_oneplus_sm8150-common",
+        "android_hardware_oneplus",
         "android_kernel_oneplus_sm8150"
     ],
     "huashan": [
@@ -945,6 +1002,9 @@
         "android_hardware_sony_thermanager",
         "android_kernel_sony_msm8960t",
         "android_packages_resources_devicesettings"
+    ],
+    "icera": [
+        "android_device_nvidia_icera"
     ],
     "icosa": [
         "android_device_nintendo_icosa",
@@ -969,6 +1029,7 @@
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_batuu_kernel-dts",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_icosa",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_jetson",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_porg",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_common",
@@ -987,15 +1048,15 @@
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
     ],
     "instantnoodle": [
-        "android_device_oneplus_common",
         "android_device_oneplus_instantnoodle",
         "android_device_oneplus_sm8250-common",
+        "android_hardware_oneplus",
         "android_kernel_oneplus_sm8250"
     ],
     "instantnoodlep": [
-        "android_device_oneplus_common",
         "android_device_oneplus_instantnoodlep",
         "android_device_oneplus_sm8250-common",
+        "android_hardware_oneplus",
         "android_kernel_oneplus_sm8250"
     ],
     "j7elte": [
@@ -1076,9 +1137,9 @@
         "android_kernel_motorola_exynos9610"
     ],
     "kebab": [
-        "android_device_oneplus_common",
         "android_device_oneplus_kebab",
         "android_device_oneplus_sm8250-common",
+        "android_hardware_oneplus",
         "android_kernel_oneplus_sm8250"
     ],
     "kirin": [
@@ -1186,21 +1247,26 @@
         "android_kernel_motorola_msm8998",
         "android_system_qcom"
     ],
+    "lancelot": [
+        "android_device_xiaomi_lancelot",
+        "android_device_xiaomi_mt6768-common",
+        "android_kernel_xiaomi_mt6768"
+    ],
     "lavender": [
         "android_device_xiaomi_lavender",
         "android_device_xiaomi_sdm660-common",
         "android_kernel_xiaomi_sdm660"
     ],
     "lemonade": [
-        "android_device_oneplus_common",
         "android_device_oneplus_lemonade",
         "android_device_oneplus_sm8350-common",
+        "android_hardware_oneplus",
         "android_kernel_oneplus_sm8350"
     ],
     "lemonadep": [
-        "android_device_oneplus_common",
         "android_device_oneplus_lemonadep",
         "android_device_oneplus_sm8350-common",
+        "android_hardware_oneplus",
         "android_kernel_oneplus_sm8350"
     ],
     "lithium": [
@@ -1256,6 +1322,20 @@
         "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
         "android_kernel_samsung_universal7904"
     ],
+    "m5": [
+        "android_device_amlogic_g12-common",
+        "android_device_bananapi_m5",
+        "android_hardware_amlogic_kernel-modules_mali-driver",
+        "android_hardware_amlogic_kernel-modules_media",
+        "android_hardware_amlogic_kernel-modules_optee",
+        "android_hardware_amlogic_kernel-modules_rtk_btusb",
+        "android_hardware_amlogic_kernel-modules_rtl8822cs",
+        "android_hardware_amlogic_tools_dtbtool",
+        "android_hardware_amlogic_tools_imagepacker",
+        "android_hardware_amlogic_tools_respacker",
+        "android_hardware_realtek",
+        "android_kernel_amlogic_linux-4.9"
+    ],
     "m8": [
         "android_device_htc_m8",
         "android_device_htc_m8-common",
@@ -1302,6 +1382,7 @@
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_batuu_kernel-dts",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_icosa",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_jetson",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_porg",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_common",
@@ -1335,6 +1416,12 @@
         "android_hardware_sony_macaddrsetup",
         "android_hardware_sony_simdetect",
         "android_kernel_sony_sdm660"
+    ],
+    "miatoll": [
+        "android_device_xiaomi_miatoll",
+        "android_device_xiaomi_sm6250-common",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_sm6250"
     ],
     "mint": [
         "android_device_sony_blue-common",
@@ -1388,6 +1475,17 @@
         "android_hardware_motorola",
         "android_kernel_motorola_sdm632",
         "android_system_qcom"
+    ],
+    "odroidc4": [
+        "android_device_amlogic_g12-common",
+        "android_device_hardkernel_odroidc4",
+        "android_hardware_amlogic_kernel-modules_mali-driver",
+        "android_hardware_amlogic_kernel-modules_media",
+        "android_hardware_amlogic_kernel-modules_optee",
+        "android_hardware_amlogic_tools_dtbtool",
+        "android_hardware_amlogic_tools_imagepacker",
+        "android_hardware_amlogic_tools_respacker",
+        "android_kernel_amlogic_linux-4.9"
     ],
     "onclite": [
         "android_device_xiaomi_onclite",
@@ -1474,6 +1572,7 @@
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_batuu_kernel-dts",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_icosa",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_jetson",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_porg",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_common",
@@ -1496,12 +1595,17 @@
         "android_kernel_fxtec_msm8998"
     ],
     "quill": [
+        "android_bootable_cboot_common",
+        "android_bootable_cboot_lk",
+        "android_bootable_cboot_t18x",
+        "android_bootable_cboot_t19x",
         "android_device_nvidia_quill",
         "android_device_nvidia_sepolicy",
         "android_device_nvidia_shield-common",
         "android_device_nvidia_t186-common",
         "android_device_nvidia_tegra-common",
         "android_hardware_nvidia_boot_control",
+        "android_hardware_nvidia_hwinc",
         "android_hardware_nvidia_interfaces",
         "android_hardware_nvidia_light",
         "android_hardware_nvidia_power",
@@ -1516,6 +1620,7 @@
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_batuu_kernel-dts",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_icosa",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_jetson",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_porg",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_common",
@@ -1534,6 +1639,10 @@
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
     ],
     "quill_tab": [
+        "android_bootable_cboot_common",
+        "android_bootable_cboot_lk",
+        "android_bootable_cboot_t18x",
+        "android_bootable_cboot_t19x",
         "android_device_nvidia_quill",
         "android_device_nvidia_quill_tab",
         "android_device_nvidia_sepolicy",
@@ -1541,6 +1650,7 @@
         "android_device_nvidia_t186-common",
         "android_device_nvidia_tegra-common",
         "android_hardware_nvidia_boot_control",
+        "android_hardware_nvidia_hwinc",
         "android_hardware_nvidia_interfaces",
         "android_hardware_nvidia_light",
         "android_hardware_nvidia_power",
@@ -1555,6 +1665,7 @@
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_batuu_kernel-dts",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_icosa",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_jetson",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_porg",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_common",
@@ -1591,9 +1702,22 @@
         "android_hardware_motorola",
         "android_kernel_motorola_sm7250"
     ],
+    "radxa0": [
+        "android_device_amlogic_g12-common",
+        "android_device_radxa_radxa0",
+        "android_hardware_amlogic_kernel-modules_dhd-driver",
+        "android_hardware_amlogic_kernel-modules_mali-driver",
+        "android_hardware_amlogic_kernel-modules_media",
+        "android_hardware_amlogic_kernel-modules_optee",
+        "android_hardware_amlogic_tools_dtbtool",
+        "android_hardware_amlogic_tools_imagepacker",
+        "android_hardware_amlogic_tools_respacker",
+        "android_kernel_amlogic_linux-4.9"
+    ],
     "raphael": [
         "android_device_xiaomi_raphael",
         "android_device_xiaomi_sm8150-common",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_sm8150"
     ],
     "redbull": [
@@ -1676,6 +1800,18 @@
         "android_hardware_samsung_slsi_openmax",
         "android_kernel_samsung_universal7580"
     ],
+    "sabrina": [
+        "android_device_amlogic_g12-common",
+        "android_device_google_sabrina",
+        "android_hardware_amlogic_kernel-modules_dhd-driver",
+        "android_hardware_amlogic_kernel-modules_mali-driver",
+        "android_hardware_amlogic_kernel-modules_media",
+        "android_hardware_amlogic_kernel-modules_optee",
+        "android_hardware_amlogic_tools_dtbtool",
+        "android_hardware_amlogic_tools_imagepacker",
+        "android_hardware_amlogic_tools_respacker",
+        "android_kernel_amlogic_linux-4.9"
+    ],
     "sagit": [
         "android_device_xiaomi_msm8998-common",
         "android_device_xiaomi_sagit",
@@ -1685,6 +1821,10 @@
         "android_device_google_marlin",
         "android_device_google_sailfish",
         "android_kernel_google_marlin"
+    ],
+    "sake": [
+        "android_device_asus_sake",
+        "android_kernel_asus_sm8350"
     ],
     "sargo": [
         "android_device_google_bonito",
@@ -1763,6 +1903,11 @@
         "android_kernel_motorola_msm8916",
         "android_system_qcom"
     ],
+    "surya": [
+        "android_device_xiaomi_surya",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_surya"
+    ],
     "taimen": [
         "android_device_google_taimen",
         "android_device_google_wahoo",
@@ -1829,6 +1974,7 @@
     "vayu": [
         "android_device_xiaomi_sm8150-common",
         "android_device_xiaomi_vayu",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_sm8150"
     ],
     "victara": [
@@ -1871,6 +2017,18 @@
         "android_device_lge_vs995",
         "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
+    ],
+    "wade": [
+        "android_device_amlogic_g12-common",
+        "android_device_askey_wade",
+        "android_hardware_amlogic_kernel-modules_dhd-driver",
+        "android_hardware_amlogic_kernel-modules_mali-driver",
+        "android_hardware_amlogic_kernel-modules_media",
+        "android_hardware_amlogic_kernel-modules_optee",
+        "android_hardware_amlogic_tools_dtbtool",
+        "android_hardware_amlogic_tools_imagepacker",
+        "android_hardware_amlogic_tools_respacker",
+        "android_kernel_amlogic_linux-4.9"
     ],
     "wahoo": [
         "android_device_google_wahoo",
