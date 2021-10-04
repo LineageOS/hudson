@@ -80,6 +80,7 @@
   {  "model": "dogo", "oem": "Sony", "name": "Xperia ZR"},
   {  "model": "dragon", "oem": "Google", "name": "Pixel C"},
   {  "model": "dumpling", "oem": "OnePlus", "name": "5T", "lineage_recovery": true},
+  {  "model": "DRG", "oem": "Nokia", "name": "6.1 Plus", "lineage_recovery": true},
   {  "model": "enchilada", "oem": "OnePlus", "name": "6", "lineage_recovery": true},
   {  "model": "espresso3g", "oem": "Samsung", "name": "Galaxy Tab 2 7.0 / 10.1 (GSM)"},
   {  "model": "espressowifi", "oem": "Samsung", "name": "Galaxy Tab 2 7.0 / 10.1 (Wi-Fi)"},
