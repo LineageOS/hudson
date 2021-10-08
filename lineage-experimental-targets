@@ -2,3 +2,6 @@
 # <device> <build_type> <branch_name>
 # Note: there is no period attached to this, it's always "nightly"
 # Builds are cleared out on a regular basis from mirrors, the last one is kept
+#
+foster userdebug lineage-17.1
+mdarcy userdebug lineage-17.1
