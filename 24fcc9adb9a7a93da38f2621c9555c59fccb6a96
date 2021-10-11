@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9d537c0b_5996bef3",
+        "filename": "updater/devices.json",
+        "patchSetId": 3
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2021-10-11T08:13:06Z",
+      "side": 1,
+      "message": "based on the name in the wiki change, this is missing pro 2015 \u0026 2017",
+      "range": {
+        "startLine": 103,
+        "startChar": 50,
+        "endLine": 103,
+        "endChar": 78
+      },
+      "revId": "24fcc9adb9a7a93da38f2621c9555c59fccb6a96",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "63135e09_b779520f",
+        "filename": "updater/devices.json",
+        "patchSetId": 3
+      },
+      "lineNbr": 224,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2021-10-11T08:13:06Z",
+      "side": 1,
+      "message": "and this should be pro",
+      "range": {
+        "startLine": 224,
+        "startChar": 49,
+        "endLine": 224,
+        "endChar": 77
+      },
+      "revId": "24fcc9adb9a7a93da38f2621c9555c59fccb6a96",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
