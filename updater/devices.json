@@ -242,6 +242,7 @@
   {  "model": "nicki", "oem": "Sony", "name": "Xperia M"},
   {  "model": "nx512j", "oem": "Nubia", "name": "Nubia Z9 Max"},
   {  "model": "nx563j", "oem": "Nubia", "name": "Nubia Z17", "lineage_recovery": true},
+  {  "model": "obiwan", "oem": "ASUS", "name": "ROG Phone 3", "lineage_recovery": true},
   {  "model": "odin", "oem": "Sony", "name": "Xperia ZL"},
   {  "model": "ocean", "oem": "Motorola", "name": "Moto G7 Power", "lineage_recovery": true},
   {  "model": "onclite", "oem": "Xiaomi", "name": "Redmi 7", "lineage_recovery": true},
