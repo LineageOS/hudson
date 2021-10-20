@@ -18,6 +18,7 @@
   {  "model": "armani", "oem": "Xiaomi", "name": "Redmi 1S"},
   {  "model": "athene", "oem": "Motorola", "name": "Moto G4/G4 Plus"},
   {  "model": "aura", "oem": "Razer", "name": "Phone 2", "lineage_recovery": true},
+  {  "model": "aurora", "oem": "Sony", "name": "Xperia XZ2 Premium", "lineage_recovery": true},
   {  "model": "avicii", "oem": "OnePlus", "name": "Nord", "lineage_recovery": true},
   {  "model": "axolotl", "oem": "SHIFT", "name": "SHIFT6mq", "lineage_recovery": true},
   {  "model": "axon7", "oem": "ZTE", "name": "Axon 7"},
