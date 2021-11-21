@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6008e4d7_e0eda3e0",
+        "filename": "updater/device_deps.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2021-11-21T17:20:53Z",
+      "side": 0,
+      "message": "don\u0027t edit this.",
+      "revId": "97dbe83b9a63ef3227c581a97214ba6fa127eb40",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3f71a734_85c5aadf",
+        "filename": "updater/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 155,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2021-11-21T17:20:53Z",
+      "side": 0,
+      "message": "same",
+      "revId": "97dbe83b9a63ef3227c581a97214ba6fa127eb40",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
