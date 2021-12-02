@@ -16,6 +16,23 @@
       "message": "waiting for the vendor to be merged !",
       "revId": "7b36abd2763b75f905e7aa0e64f0d1ef907c9090",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "185ae3eb_5d459b2d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19296
+      },
+      "writtenOn": "2021-12-02T16:05:41Z",
+      "side": 1,
+      "message": "Ready to go !",
+      "revId": "7b36abd2763b75f905e7aa0e64f0d1ef907c9090",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
