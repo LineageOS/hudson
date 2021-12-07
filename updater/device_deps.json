@@ -58,6 +58,10 @@
         "android_device_lenovo_tb-common",
         "android_kernel_lenovo_msm8953"
     ],
+    "TP1803": [
+        "android_device_nubia_TP1803",
+        "android_kernel_nubia_sm8150"
+    ],
     "X00TD": [
         "android_device_asus_X00TD",
         "android_device_asus_sdm660-common",
@@ -1472,6 +1476,12 @@
         "android_kernel_sony_msm8x60",
         "android_packages_resources_devicesettings"
     ],
+    "monet": [
+        "android_device_xiaomi_monet",
+        "android_device_xiaomi_sm7250-common",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_sm7250"
+    ],
     "montana": [
         "android_device_motorola_montana",
         "android_device_motorola_msm8937-common",
@@ -1955,6 +1965,12 @@
         "android_hardware_sony_thermanager",
         "android_hardware_sony_timekeep",
         "android_kernel_sony_msm8974"
+    ],
+    "smith": [
+        "android_device_motorola_sm7250-common",
+        "android_device_motorola_smith",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm7250"
     ],
     "star2lte": [
         "android_device_samsung_star2lte",
