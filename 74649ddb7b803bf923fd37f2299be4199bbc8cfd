@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "64302b8c_bfbcd23b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2021-12-15T04:08:21Z",
+      "side": 1,
+      "message": "if you want to do this, join our discord and request maintainer status there - we can do this still if you\u0027d like.",
+      "revId": "74649ddb7b803bf923fd37f2299be4199bbc8cfd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
