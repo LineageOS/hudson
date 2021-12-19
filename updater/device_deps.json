@@ -62,6 +62,11 @@
         "android_device_nubia_TP1803",
         "android_kernel_nubia_sm8150"
     ],
+    "X00P": [
+        "android_device_asus_X00P",
+        "android_device_asus_msm8937-common",
+        "android_kernel_asus_msm8937"
+    ],
     "X00TD": [
         "android_device_asus_X00TD",
         "android_device_asus_sdm660-common",

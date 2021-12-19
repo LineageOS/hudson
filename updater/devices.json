@@ -347,6 +347,7 @@
   {  "model": "wayne", "oem": "Xiaomi", "name": "Mi 6X", "lineage_recovery": true},
   {  "model": "whyred", "oem": "Xiaomi", "name": "Redmi Note 5 Pro", "lineage_recovery": true},
   {  "model": "wt88047", "oem": "Wingtech", "name": "Redmi 2", "lineage_recovery": true},
+  {  "model": "X00P", "oem": "ASUS", "name": "Zenfone Max M1", "lineage_recovery": true},
   {  "model": "X00TD", "oem": "ASUS", "name": "Zenfone Max Pro M1", "lineage_recovery": true},
   {  "model": "X01AD", "oem": "ASUS", "name": "Zenfone Max M2", "lineage_recovery": true},
   {  "model": "X01BD", "oem": "ASUS", "name": "Zenfone Max Pro M2", "lineage_recovery": true},
