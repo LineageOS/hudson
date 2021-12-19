@@ -16,6 +16,24 @@
       "message": "Abandoned?",
       "revId": "51f0c80b69789b20acf197178f367675743d0ced",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ebba4eab_27b3c6a4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19057
+      },
+      "writtenOn": "2021-12-19T12:20:07Z",
+      "side": 1,
+      "message": "No, busy",
+      "parentUuid": "1c017a3b_e9f8cf9e",
+      "revId": "51f0c80b69789b20acf197178f367675743d0ced",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
