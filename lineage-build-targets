@@ -1,6 +1,19 @@
 # LineageOS build target list
 # <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
 
+# Weekley 19.0
+barbet userdebug lineage-19.0 W
+blueline userdebug lineage-19.0 W
+bonito userdebug lineage-19.0 W
+bramble userdebug lineage-19.0 W
+coral userdebug lineage-19.0 W
+crosshatch userdebug lineage-19.0 W
+flame userdebug lineage-19.0 W
+redfin userdebug lineage-19.0 W
+sargo userdebug lineage-19.0 W
+sunfish userdebug lineage-19.0 W
+TP1803 userdebug lineage-19.0 W
+
 # Weekly 18.1
 a5y17lte userdebug lineage-18.1 W
 a7y17lte userdebug lineage-18.1 W
@@ -13,7 +26,6 @@ aura userdebug lineage-18.1 W
 aurora userdebug lineage-18.1 W
 axolotl userdebug lineage-18.1 W
 bacon userdebug lineage-18.1 W
-barbet userdebug lineage-18.1 W
 bardock userdebug lineage-18.1 W
 bardockpro userdebug lineage-18.1 W
 beckham userdebug lineage-18.1 W
@@ -22,17 +34,12 @@ beyond0lte userdebug lineage-18.1 W
 beyond1lte userdebug lineage-18.1 W
 beyond2lte userdebug lineage-18.1 W
 beyondx userdebug lineage-18.1 W
-blueline userdebug lineage-18.1 W
-bonito userdebug lineage-18.1 W
-bramble userdebug lineage-18.1 W
 cedric userdebug lineage-18.1 W
 channel userdebug lineage-18.1 W
 cheeseburger userdebug lineage-18.1 W
 chef userdebug lineage-18.1 W
 cheryl userdebug lineage-18.1 W
 chiron userdebug lineage-18.1 W
-coral userdebug lineage-18.1 W
-crosshatch userdebug lineage-18.1 W
 d1 userdebug lineage-18.1 W
 d2s userdebug lineage-18.1 W
 d2x userdebug lineage-18.1 W
@@ -53,7 +60,6 @@ ether userdebug lineage-18.1 W
 evert userdebug lineage-18.1 W
 f400 userdebug lineage-18.1 W
 fajita userdebug lineage-18.1 W
-flame userdebug lineage-18.1 W
 flox userdebug lineage-18.1 W
 FP2 userdebug lineage-18.1 W
 FP3 userdebug lineage-18.1 W
@@ -126,7 +132,6 @@ polaris userdebug lineage-18.1 W
 pro1 userdebug lineage-18.1 W
 PL2 userdebug lineage-18.1 W
 platina userdebug lineage-18.1 W
-redfin userdebug lineage-18.1 W
 rhannah userdebug lineage-18.1 W
 river userdebug lineage-18.1 W
 rs988 userdebug lineage-18.1 W
@@ -135,11 +140,9 @@ s3ve3gjv userdebug lineage-18.1 W
 s3ve3gxx userdebug lineage-18.1 W
 sagit userdebug lineage-18.1 W
 sake userdebug lineage-18.1 W
-sargo userdebug lineage-18.1 W
 scorpio userdebug lineage-18.1 W
 shamu userdebug lineage-18.1 W
 sirius userdebug lineage-18.1 W
-sunfish userdebug lineage-18.1 W
 surya userdebug lineage-18.1 W
 taimen userdebug lineage-18.1 W
 tissot userdebug lineage-18.1 W
