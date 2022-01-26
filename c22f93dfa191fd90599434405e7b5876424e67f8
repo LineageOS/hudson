@@ -16,6 +16,24 @@
       "message": "Waiting vendor tree merge",
       "revId": "c22f93dfa191fd90599434405e7b5876424e67f8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fab29c6e_36d7413b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29515
+      },
+      "writtenOn": "2022-01-26T11:41:10Z",
+      "side": 1,
+      "message": "Seems like merged now",
+      "parentUuid": "c280c8dd_544c6da4",
+      "revId": "c22f93dfa191fd90599434405e7b5876424e67f8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
