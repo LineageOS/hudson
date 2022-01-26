@@ -105,6 +105,7 @@
   {  "model": "foster_tab", "oem": "Nvidia", "name": "Shield TV (2015 / 2015 Pro / 2017) / Jetson TX1 [Tablet]", "lineage_recovery": true},
   {  "model": "fugu", "oem": "Google", "name": "Nexus Player"},
   {  "model": "g2m", "oem": "LG", "name": "G2 Mini"},
+  {  "model": "gauguin", "oem": "Xiaomi", "name": "Mi 10T Lite / Mi 10i / Redmi Note 9 Pro 5G", "lineage_recovery": true},
   {  "model": "gemini", "oem": "Xiaomi", "name": "Mi 5", "lineage_recovery": true},
   {  "model": "ghost", "oem": "Motorola", "name": "Moto X 2013"},
   {  "model": "ginkgo", "oem": "Xiaomi", "name": "Redmi Note 8 / 8T", "lineage_recovery": true},
