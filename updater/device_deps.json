@@ -813,6 +813,16 @@
         "android_kernel_motorola_msm8996",
         "android_system_qcom"
     ],
+    "gta4xl": [
+        "android_device_samsung_gta4xl-common",
+        "android_device_samsung_gta4xl",
+        "android_device_samsung_slsi_sepolicy",
+        "android_hardware_samsung",
+        "android_hardware_samsung_slsi_libbt",
+        "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
+        "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
+        "android_kernel_samsung_gta4xl"
+    ],
     "gta4xlwifi": [
         "android_device_samsung_gta4xl-common",
         "android_device_samsung_gta4xlwifi",
