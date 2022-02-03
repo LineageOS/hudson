@@ -291,6 +291,10 @@
         "android_hardware_samsung_nfc",
         "android_kernel_samsung_exynos9820"
     ],
+    "billie": [
+        "android_device_oneplus_billie",
+        "android_kernel_oneplus_sm6350"
+    ],
     "blueline": [
         "android_device_google_blueline",
         "android_device_google_crosshatch",
@@ -787,6 +791,11 @@
         "android_kernel_nvidia_wireguard",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
     ],
+    "gauguin": [
+        "android_device_xiaomi_gauguin",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_gauguin"
+    ],
     "gemini": [
         "android_device_xiaomi_gemini",
         "android_device_xiaomi_msm8996-common",
@@ -814,8 +823,8 @@
         "android_system_qcom"
     ],
     "gta4xl": [
-        "android_device_samsung_gta4xl-common",
         "android_device_samsung_gta4xl",
+        "android_device_samsung_gta4xl-common",
         "android_device_samsung_slsi_sepolicy",
         "android_hardware_samsung",
         "android_hardware_samsung_slsi_libbt",
