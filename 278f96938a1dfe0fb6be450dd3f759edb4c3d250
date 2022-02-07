@@ -16,6 +16,23 @@
       "message": "Depends on: https://github.com/lineageos-infra/updater/pull/52",
       "revId": "278f96938a1dfe0fb6be450dd3f759edb4c3d250",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c7628211_2014e38a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2022-02-07T16:43:25Z",
+      "side": 1,
+      "message": "Maybe add a space before the closing bracket while you are at it?",
+      "revId": "278f96938a1dfe0fb6be450dd3f759edb4c3d250",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
