@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b20557fe_9d234661",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 18205
+      },
+      "writtenOn": "2022-02-07T16:41:35Z",
+      "side": 1,
+      "message": "Depends on: https://github.com/lineageos-infra/updater/pull/52",
+      "revId": "278f96938a1dfe0fb6be450dd3f759edb4c3d250",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
