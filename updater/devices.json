@@ -247,6 +247,7 @@
   {  "model": "nash", "oem": "Motorola", "name": "Moto Z2 Force" },
   {  "model": "natrium", "oem": "Xiaomi", "name": "Mi 5s Plus" },
   {  "model": "nicki", "oem": "Sony", "name": "Xperia M", "lineage_recovery": false },
+  {  "model": "nio", "oem": "Motorola", "name": "Edge S / Moto G100" },
   {  "model": "nx512j", "oem": "Nubia", "name": "Nubia Z9 Max", "lineage_recovery": false },
   {  "model": "nx563j", "oem": "Nubia", "name": "Nubia Z17" },
   {  "model": "obiwan", "oem": "ASUS", "name": "ROG Phone 3" },
