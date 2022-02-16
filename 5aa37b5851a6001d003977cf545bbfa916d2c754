@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "338360ef_d6244efd",
+        "filename": "updater/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 250,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2022-02-16T16:25:57Z",
+      "side": 1,
+      "message": "shouldn\u0027t the name just be \"Edge S\"?\nalso, the wiki change has the name as just \"Edge S\". they should match.",
+      "range": {
+        "startLine": 250,
+        "startChar": 40,
+        "endLine": 250,
+        "endChar": 65
+      },
+      "revId": "5aa37b5851a6001d003977cf545bbfa916d2c754",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
