@@ -22,6 +22,30 @@
       },
       "revId": "5aa37b5851a6001d003977cf545bbfa916d2c754",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "276b4a53_f42bfde0",
+        "filename": "updater/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 250,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-02-16T17:21:35Z",
+      "side": 1,
+      "message": "Ah, nice catch - for some reason I was lumping this in with the \"Moto\" sub-branding we see on Z/Z2 devices - and looking at precedent, \"Motorola Edge\" is a thing on line 283? Not sure what to do.",
+      "parentUuid": "338360ef_d6244efd",
+      "range": {
+        "startLine": 250,
+        "startChar": 40,
+        "endLine": 250,
+        "endChar": 65
+      },
+      "revId": "5aa37b5851a6001d003977cf545bbfa916d2c754",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
