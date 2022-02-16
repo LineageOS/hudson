@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1d4c8065_944bab31",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-02-16T00:34:18Z",
+      "side": 1,
+      "message": "zif\u0027s version merged - 17.1 is dead",
+      "revId": "d90a27d24dbe8b75710d4200a1fd52d8a0dd5fd2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
