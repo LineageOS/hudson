@@ -2,3 +2,14 @@
 # <device> <build_type> <branch_name>
 # Note: there is no period attached to this, it's always "nightly"
 # Builds are cleared out on a regular basis from mirrors, the last one is kept
+bramble userdebug lineage-19.0
+redfin userdebug lineage-19.0
+barbet userdebug lineage-19.0
+sunfish userdebug lineage-19.0
+coral userdebug lineage-19.0
+flame userdebug lineage-19.0
+sargo userdebug lineage-19.0
+bonita userdebug lineage-19.0
+crosshatch userdebug lineage-19.0
+blueline userdebug lineage-19.0
+TP1803 userdebug lineage-19.0
