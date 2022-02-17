@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a8c00bdf_46daf4f4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10258
+      },
+      "writtenOn": "2022-02-17T02:04:02Z",
+      "side": 1,
+      "message": "According to:\n - https://www.gsmarena.com/motorola_edge_s-10705.php\n - https://www.gsmarena.com/motorola_moto_g100-10791.php\nit turns out that \"Moto\" and \"Edge\" are different sub brands of Motorola, i.e., \"Motorola Edge Foo\" and \"Motorola Moto Bar\".\n\nI initially copied the added line from racer, it might be a good idea to drop \"Motorola\" from its name field as well.",
+      "revId": "b992f06fb57c3954307344804dd2b4fefb583d5f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
