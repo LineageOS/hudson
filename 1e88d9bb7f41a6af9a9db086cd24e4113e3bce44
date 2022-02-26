@@ -16,6 +16,24 @@
       "message": "if it\u0027s ready, merge it",
       "revId": "1e88d9bb7f41a6af9a9db086cd24e4113e3bce44",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b9b336c2_6262710e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2022-02-26T18:16:03Z",
+      "side": 1,
+      "message": "Reserved sizes are ok now so the builds shouldn\u0027t fail at least.",
+      "parentUuid": "38a32527_59e89060",
+      "revId": "1e88d9bb7f41a6af9a9db086cd24e4113e3bce44",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
