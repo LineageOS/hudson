@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2a611d65_2b369bb1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 20352
+      },
+      "writtenOn": "2022-03-21T16:43:15Z",
+      "side": 1,
+      "message": "Holding up for vendor merge.",
+      "revId": "0c154ebd92a9bfb755ff8af01fa8e6921a67232c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
