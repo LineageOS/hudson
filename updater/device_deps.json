@@ -1519,6 +1519,12 @@
         "android_kernel_google_wahoo",
         "android_packages_apps_ElmyraService"
     ],
+    "nairo": [
+        "android_device_motorola_nairo",
+        "android_device_motorola_sm7250-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm7250"
+    ],
     "nash": [
         "android_device_motorola_nash",
         "android_external_bson",
