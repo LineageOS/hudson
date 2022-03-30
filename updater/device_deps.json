@@ -1170,6 +1170,11 @@
         "android_hardware_oneplus",
         "android_kernel_oneplus_sm8250"
     ],
+    "kiev": [
+        "android_device_motorola_kiev",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm7250"
+    ],
     "kirin": [
         "android_device_sony_kirin",
         "android_device_sony_nile-common",
