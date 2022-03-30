@@ -245,6 +245,7 @@
   {  "model": "n5100", "oem": "Samsung", "name": "Galaxy Note 8 (GSM)", "lineage_recovery": false },
   {  "model": "n5110", "oem": "Samsung", "name": "Galaxy Note 8 (Wi-Fi)", "lineage_recovery": false },
   {  "model": "n5120", "oem": "Samsung", "name": "Galaxy Note 8 (LTE)", "lineage_recovery": false },
+  {  "model": "nairo", "oem": "Motorola", "name": "Moto G 5G Plus" },
   {  "model": "nash", "oem": "Motorola", "name": "Moto Z2 Force" },
   {  "model": "natrium", "oem": "Xiaomi", "name": "Mi 5s Plus" },
   {  "model": "nicki", "oem": "Sony", "name": "Xperia M", "lineage_recovery": false },
