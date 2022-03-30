@@ -182,6 +182,7 @@
   {  "model": "kccat6", "oem": "Samsung", "name": "Galaxy S5 Plus", "lineage_recovery": false },
   {  "model": "kebab", "oem": "OnePlus", "name": "8T" },
   {  "model": "kenzo", "oem": "Xiaomi", "name": "Redmi Note 3", "lineage_recovery": false },
+  {  "model": "kiev", "oem": "Motorola", "name": "Moto G 5G" },
   {  "model": "kingdom", "oem": "Lenovo", "name": "Vibe Z2 Pro", "lineage_recovery": false },
   {  "model": "kipper", "oem": "Wileyfox", "name": "Storm", "lineage_recovery": false },
   {  "model": "kirin", "oem": "Sony", "name": "Xperia 10" },
