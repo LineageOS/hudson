@@ -16,6 +16,23 @@
       "message": "Ready, and build servers are good to go.",
       "revId": "3360e1312b4ee9eba05a2e384d8a105a2857c061",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0aca5c62_5f31311b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 25
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19612
+      },
+      "writtenOn": "2022-04-24T04:13:11Z",
+      "side": 1,
+      "message": "DRG and PL2 are ready",
+      "revId": "3360e1312b4ee9eba05a2e384d8a105a2857c061",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
