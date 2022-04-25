@@ -2,34 +2,3 @@
 # <device> <build_type> <branch_name>
 # Note: there is no period attached to this, it's always "nightly"
 # Builds are cleared out on a regular basis from mirrors, the last one is kept
-aura userdebug lineage-19.1
-axolotl userdebug lineage-19.1
-barbet userdebug lineage-19.1
-beckham userdebug lineage-19.1
-beryllium userdebug lineage-19.1
-blueline userdebug lineage-19.1
-bonito userdebug lineage-19.1
-bramble userdebug lineage-19.1
-chef userdebug lineage-19.1
-coral userdebug lineage-19.1
-crosshatch userdebug lineage-19.1
-discovery userdebug lineage-19.1
-enchilada userdebug lineage-19.1
-evert userdebug lineage-19.1
-fajita userdebug lineage-19.1
-flame userdebug lineage-19.1
-heart userdebug lineage-19.1
-kirin userdebug lineage-19.1
-lake userdebug lineage-19.1
-mermaid userdebug lineage-19.1
-ocean userdebug lineage-19.1
-payton userdebug lineage-19.1
-pioneer userdebug lineage-19.1
-PL2 userdebug lineage-19.1
-redfin userdebug lineage-19.1
-river userdebug lineage-19.1
-sargo userdebug lineage-19.1
-sunfish userdebug lineage-19.1
-voyager userdebug lineage-19.1
-Z01R userdebug lineage-19.1
-zippo userdebug lineage-19.1
