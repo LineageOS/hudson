@@ -327,6 +327,7 @@
   {  "model": "tomato", "oem": "YU", "name": "Yureka", "lineage_recovery": false },
   {  "model": "toro", "oem": "Google", "name": "Galaxy Nexus (VZW)", "lineage_recovery": false },
   {  "model": "toroplus", "oem": "Google", "name": "Galaxy Nexus (Sprint)", "lineage_recovery": false },
+  {  "model": "TP1803", "oem": "Nubia", "name": "Mini 5G", "lineage_recovery": false },
   {  "model": "troika", "oem": "Motorola", "name": "Moto One Action" },
   {  "model": "tsubasa", "oem": "Sony", "name": "Xperia V", "lineage_recovery": false },
   {  "model": "tulip", "oem": "ZTE", "name": "Axon 7 Mini", "lineage_recovery": false },
