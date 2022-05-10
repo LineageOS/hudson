@@ -2,6 +2,8 @@
 # <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
 
 # Weekly 19.1
+alioth userdebug lineage-19.1 W
+apollon userdebug lineage-19.1 W
 aura userdebug lineage-19.1 W
 axolotl userdebug lineage-19.1 W
 barbet userdebug lineage-19.1 W
@@ -33,6 +35,7 @@ heart userdebug lineage-19.1 W
 kane userdebug lineage-19.1 W
 kirin userdebug lineage-19.1 W
 lake userdebug lineage-19.1 W
+lmi userdebug lineage-19.1 W
 mermaid userdebug lineage-19.1 W
 nash userdebug lineage-19.1 W
 nio userdebug lineage-19.1 W
@@ -61,8 +64,6 @@ a7y17lte userdebug lineage-18.1 W
 ahannah userdebug lineage-18.1 W
 akari userdebug lineage-18.1 W
 akatsuki userdebug lineage-18.1 W
-alioth userdebug lineage-18.1 W
-apollon userdebug lineage-18.1 W
 aurora userdebug lineage-18.1 W
 bacon userdebug lineage-18.1 W
 bardock userdebug lineage-18.1 W
@@ -131,7 +132,6 @@ lavender userdebug lineage-18.1 W
 lemonade userdebug lineage-18.1 W
 lemonadep userdebug lineage-18.1 W
 lithium userdebug lineage-18.1 W
-lmi userdebug lineage-18.1 W
 ls990 userdebug lineage-18.1 W
 ls997 userdebug lineage-18.1 W
 m20lte userdebug lineage-18.1 W
