@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "65456b9e_d5f6f963",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28423
+      },
+      "writtenOn": "2022-05-13T16:15:44Z",
+      "side": 1,
+      "message": "ready to ship apollon :).",
+      "revId": "90e55783a31e4455d221fb0e91c944be7cc4e7e5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
