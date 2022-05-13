@@ -16,6 +16,24 @@
       "message": "You need to wait for https://review.lineageos.org/c/LineageOS/android_hardware_xiaomi/+/331200 to get merged again",
       "revId": "008c4ac0303313c8c4d4e2caff0cb1802b25607b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "60de2a23_ff6d6a86",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2022-05-13T16:10:35Z",
+      "side": 1,
+      "message": "Pick https://review.lineageos.org/c/LineageOS/android_device_xiaomi_sm8250-common/+/331101 to your device tree",
+      "parentUuid": "0131328d_2fc4b8f4",
+      "revId": "008c4ac0303313c8c4d4e2caff0cb1802b25607b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
