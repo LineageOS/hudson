@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c636dee5_d60882f0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2022-05-14T00:48:34Z",
+      "side": 1,
+      "message": "need to update the device names in updater/devices.json, since mdarcy is merged into foster now.",
+      "revId": "d702411b60f185ea3a169dcaa067a27b036ee7d4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
