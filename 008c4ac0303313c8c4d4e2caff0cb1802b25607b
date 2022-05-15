@@ -34,6 +34,24 @@
       "parentUuid": "0131328d_2fc4b8f4",
       "revId": "008c4ac0303313c8c4d4e2caff0cb1802b25607b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0e0632b3_9fd2e301",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29515
+      },
+      "writtenOn": "2022-05-15T11:26:24Z",
+      "side": 1,
+      "message": "Done\nhttps://review.lineageos.org/c/LineageOS/android_device_xiaomi_gauguin/+/331386",
+      "parentUuid": "60de2a23_ff6d6a86",
+      "revId": "008c4ac0303313c8c4d4e2caff0cb1802b25607b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
