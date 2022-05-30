@@ -1216,13 +1216,13 @@
     "lemonade": [
         "android_device_oneplus_lemonade",
         "android_device_oneplus_sm8350-common",
-        "android_hardware_oneplus",
+        "android_hardware_oplus",
         "android_kernel_oneplus_sm8350"
     ],
     "lemonadep": [
         "android_device_oneplus_lemonadep",
         "android_device_oneplus_sm8350-common",
-        "android_hardware_oneplus",
+        "android_hardware_oplus",
         "android_kernel_oneplus_sm8350"
     ],
     "lithium": [
