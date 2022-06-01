@@ -16,6 +16,23 @@
       "message": "waiting for vendor pr to be merged",
       "revId": "e995f318dc1edf7252de35eca00297db2fa9b0d2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a547e525_35defce4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19296
+      },
+      "writtenOn": "2022-06-01T16:22:40Z",
+      "side": 1,
+      "message": "ready to go\n",
+      "revId": "e995f318dc1edf7252de35eca00297db2fa9b0d2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
