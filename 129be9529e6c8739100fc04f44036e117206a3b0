@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d79925b1_53e85ac1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 23782
+      },
+      "writtenOn": "2022-06-02T02:26:56Z",
+      "side": 1,
+      "message": "I don\u0027t know if this patch is a good idea or not. The Sprint G3/ls990 and V20/ls997 depended on CDMA voice which is gone if locked, while VoLTE is becoming a requirement for T-Mobile. People may have SIM unlocked versions of these two devices on other networks.\n\nI don\u0027t own a G3 or V20, and left Sprint for T-Mobile a few years ago pre-merger.\n\nThe T-Mobile versions of the G3/V20 aren\u0027t affected as to my understanding they support VoLTE.\n\nI\u0027ll set Code-Review and Verified to +1 anyways. I think we shouldn\u0027t build for devices built for networks which are gone, but am open to other opinions",
+      "revId": "129be9529e6c8739100fc04f44036e117206a3b0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
