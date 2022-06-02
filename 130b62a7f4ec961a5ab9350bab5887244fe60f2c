@@ -16,6 +16,23 @@
       "message": "Add maintainers to CC.",
       "revId": "130b62a7f4ec961a5ab9350bab5887244fe60f2c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4587e8f6_068b0d8b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 23782
+      },
+      "writtenOn": "2022-06-02T03:10:15Z",
+      "side": 1,
+      "message": "Sorry for another comment, but at least for the V20, it seems the Sprint version is incompatible with T-Mobile VoLTE:\n\n * https://www.reddit.com/r/lgv20/comments/sxffqb/the_apparent_final_chapter_for_the_sprint_lg_v20/\n * https://www.reddit.com/r/NoContract/comments/ranb1y/unlocked_lg_sprint_phones_irreversibly_losing/\n \nSprint\u0027s CDMA network is already gone and both Sprint LTE and T-Mobile UMTS are also going away this summer, making the ls990/ls997 basically Wi-Fi-only devices, unless unlocked and used outside the USA where GSM/UMTS is still active.",
+      "revId": "130b62a7f4ec961a5ab9350bab5887244fe60f2c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
