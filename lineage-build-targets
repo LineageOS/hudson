@@ -2,6 +2,7 @@
 # <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
 
 # Weekly 19.1
+akari userdebug lineage-19.1 W
 alioth userdebug lineage-19.1 W
 apollon userdebug lineage-19.1 W
 aura userdebug lineage-19.1 W
@@ -76,7 +77,6 @@ a5y17lte userdebug lineage-18.1 W
 a7y17lte userdebug lineage-18.1 W
 addison userdebug lineage-18.1 W
 ahannah userdebug lineage-18.1 W
-akari userdebug lineage-18.1 W
 akatsuki userdebug lineage-18.1 W
 albus userdebug lineage-18.1 W
 aurora userdebug lineage-18.1 W
