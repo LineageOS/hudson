@@ -120,6 +120,13 @@
         "android_hardware_samsung_slsi_openmax",
         "android_kernel_samsung_universal7880"
     ],
+    "addison": [
+        "android_device_motorola_addison",
+        "android_external_bson",
+        "android_hardware_motorola",
+        "android_kernel_motorola_msm8953",
+        "android_system_qcom"
+    ],
     "ahannah": [
         "android_device_motorola_ahannah",
         "android_device_motorola_hannah-common",
@@ -132,12 +139,21 @@
     "akari": [
         "android_device_sony_akari",
         "android_device_sony_tama-common",
+        "android_hardware_sony_SonyOpenTelephony",
         "android_kernel_sony_sdm845"
     ],
     "akatsuki": [
         "android_device_sony_akatsuki",
         "android_device_sony_tama-common",
+        "android_hardware_sony_SonyOpenTelephony",
         "android_kernel_sony_sdm845"
+    ],
+    "albus": [
+        "android_device_motorola_albus",
+        "android_external_bson",
+        "android_hardware_motorola",
+        "android_kernel_motorola_msm8953",
+        "android_system_qcom"
     ],
     "alioth": [
         "android_device_xiaomi_alioth",
@@ -158,6 +174,7 @@
     "aurora": [
         "android_device_sony_aurora",
         "android_device_sony_tama-common",
+        "android_hardware_sony_SonyOpenTelephony",
         "android_kernel_sony_sdm845"
     ],
     "axolotl": [
@@ -185,6 +202,12 @@
         "android_device_bq_bardockpro",
         "android_device_bq_msm8953-common",
         "android_kernel_bq_msm8953"
+    ],
+    "beast": [
+        "android_device_amlogic_gx-common",
+        "android_device_google_beast",
+        "android_hardware_amlogic_kernel-modules_rtl8822bs",
+        "android_hardware_realtek"
     ],
     "beckham": [
         "android_device_motorola_beckham",
@@ -412,6 +435,7 @@
     ],
     "deadpool": [
         "android_device_amlogic_g12-common",
+        "android_device_amlogic_sepolicy",
         "android_device_askey_deadpool",
         "android_hardware_amlogic_kernel-modules_dhd-driver",
         "android_hardware_amlogic_kernel-modules_mali-driver",
@@ -438,6 +462,7 @@
     ],
     "dopinder": [
         "android_device_amlogic_g12-common",
+        "android_device_amlogic_sepolicy",
         "android_device_askey_dopinder",
         "android_hardware_amlogic_kernel-modules_mali-driver",
         "android_hardware_amlogic_kernel-modules_media",
@@ -1084,7 +1109,6 @@
         "android_device_samsung_slsi_sepolicy",
         "android_hardware_motorola",
         "android_hardware_samsung",
-        "android_hardware_samsung_nfc",
         "android_hardware_samsung_slsi_fm",
         "android_hardware_samsung_slsi_libbt",
         "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
@@ -1211,6 +1235,7 @@
     "lavender": [
         "android_device_xiaomi_lavender",
         "android_device_xiaomi_sdm660-common",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_sdm660"
     ],
     "lemonade": [
@@ -1236,6 +1261,58 @@
         "android_device_xiaomi_sm8250-common",
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_sm8250"
+    ],
+    "loki": [
+        "android_device_nvidia_foster",
+        "android_device_nvidia_icera",
+        "android_device_nvidia_loki",
+        "android_device_nvidia_sepolicy",
+        "android_device_nvidia_shield-common",
+        "android_device_nvidia_t210-common",
+        "android_device_nvidia_tegra-common",
+        "android_device_nvidia_touch",
+        "android_hardware_nvidia_interfaces",
+        "android_hardware_nvidia_light",
+        "android_hardware_nvidia_platform_t210_common",
+        "android_hardware_nvidia_platform_t210_foster",
+        "android_hardware_nvidia_platform_t210_jetson",
+        "android_hardware_nvidia_platform_t210b01_darcy",
+        "android_hardware_nvidia_platform_t210b01_ers",
+        "android_hardware_nvidia_platform_t210b01_sif",
+        "android_hardware_nvidia_platform_tegra_common",
+        "android_hardware_nvidia_power",
+        "android_hardware_nvidia_soc_t210",
+        "android_hardware_nvidia_soc_tegra",
+        "android_hardware_nvidia_thermal",
+        "android_kernel_nvidia_cypress-fmac",
+        "android_kernel_nvidia_kernel",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_lanai",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_quill",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_galen_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_jakku_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_mccoy_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_batuu_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_jetson",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_porg",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_darcy",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_ers",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_sif",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_tegra_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t18x",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t19x",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t210",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_tegra",
+        "android_kernel_nvidia_linux-4.9_kernel_nvgpu",
+        "android_kernel_nvidia_linux-4.9_kernel_nvidia",
+        "android_kernel_nvidia_nvgpu",
+        "android_kernel_nvidia_nvidia",
+        "android_kernel_nvidia_wireguard",
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
     ],
     "ls980": [
         "android_device_lge_g2-common",
@@ -1281,6 +1358,7 @@
     ],
     "m5": [
         "android_device_amlogic_g12-common",
+        "android_device_amlogic_sepolicy",
         "android_device_bananapi_m5",
         "android_hardware_amlogic_kernel-modules_mali-driver",
         "android_hardware_amlogic_kernel-modules_media",
@@ -1459,6 +1537,7 @@
     ],
     "odroidc4": [
         "android_device_amlogic_g12-common",
+        "android_device_amlogic_sepolicy",
         "android_device_hardkernel_odroidc4",
         "android_hardware_amlogic_kernel-modules_mali-driver",
         "android_hardware_amlogic_kernel-modules_media",
@@ -1512,6 +1591,7 @@
     "platina": [
         "android_device_xiaomi_platina",
         "android_device_xiaomi_sdm660-common",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_sdm660"
     ],
     "polaris": [
@@ -1523,6 +1603,60 @@
     "porg": [
         "android_device_nvidia_foster",
         "android_device_nvidia_porg",
+        "android_device_nvidia_sepolicy",
+        "android_device_nvidia_shield-common",
+        "android_device_nvidia_t210-common",
+        "android_device_nvidia_tegra-common",
+        "android_hardware_nvidia_interfaces",
+        "android_hardware_nvidia_light",
+        "android_hardware_nvidia_platform_t210_batuu_kernel-dts",
+        "android_hardware_nvidia_platform_t210_common",
+        "android_hardware_nvidia_platform_t210_foster",
+        "android_hardware_nvidia_platform_t210_jetson",
+        "android_hardware_nvidia_platform_t210_porg",
+        "android_hardware_nvidia_platform_t210b01_darcy",
+        "android_hardware_nvidia_platform_t210b01_ers",
+        "android_hardware_nvidia_platform_t210b01_sif",
+        "android_hardware_nvidia_platform_tegra_common",
+        "android_hardware_nvidia_power",
+        "android_hardware_nvidia_soc_t210",
+        "android_hardware_nvidia_soc_tegra",
+        "android_hardware_nvidia_thermal",
+        "android_kernel_nvidia_cypress-fmac",
+        "android_kernel_nvidia_kernel",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_lanai",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_quill",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_galen_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_jakku_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_mccoy_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_batuu_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_jetson",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_porg",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_darcy",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_ers",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_sif",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_tegra_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t18x",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t19x",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t210",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_tegra",
+        "android_kernel_nvidia_linux-4.9_kernel_nvgpu",
+        "android_kernel_nvidia_linux-4.9_kernel_nvidia",
+        "android_kernel_nvidia_nvgpu",
+        "android_kernel_nvidia_nvidia",
+        "android_kernel_nvidia_wireguard",
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
+    ],
+    "porg_tab": [
+        "android_device_nvidia_foster",
+        "android_device_nvidia_foster_tab",
+        "android_device_nvidia_porg",
+        "android_device_nvidia_porg_tab",
         "android_device_nvidia_sepolicy",
         "android_device_nvidia_shield-common",
         "android_device_nvidia_t210-common",
@@ -1687,6 +1821,7 @@
     ],
     "radxa0": [
         "android_device_amlogic_g12-common",
+        "android_device_amlogic_sepolicy",
         "android_device_radxa_radxa0",
         "android_hardware_amlogic_kernel-modules_dhd-driver",
         "android_hardware_amlogic_kernel-modules_mali-driver",
@@ -1777,6 +1912,7 @@
     ],
     "sabrina": [
         "android_device_amlogic_g12-common",
+        "android_device_amlogic_sepolicy",
         "android_device_google_sabrina",
         "android_hardware_amlogic_kernel-modules_dhd-driver",
         "android_hardware_amlogic_kernel-modules_mali-driver",
@@ -1887,6 +2023,7 @@
     "tissot": [
         "android_device_xiaomi_msm8953-common",
         "android_device_xiaomi_tissot",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_msm8953"
     ],
     "touch": [
@@ -1898,7 +2035,6 @@
         "android_device_samsung_slsi_sepolicy",
         "android_hardware_motorola",
         "android_hardware_samsung",
-        "android_hardware_samsung_nfc",
         "android_hardware_samsung_slsi_fm",
         "android_hardware_samsung_slsi_libbt",
         "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
@@ -1957,6 +2093,7 @@
     "vince": [
         "android_device_xiaomi_msm8953-common",
         "android_device_xiaomi_vince",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_msm8953"
     ],
     "voyager": [
@@ -1990,6 +2127,7 @@
     ],
     "wade": [
         "android_device_amlogic_g12-common",
+        "android_device_amlogic_sepolicy",
         "android_device_askey_wade",
         "android_hardware_amlogic_kernel-modules_dhd-driver",
         "android_hardware_amlogic_kernel-modules_mali-driver",
@@ -2037,6 +2175,7 @@
     "xz2c": [
         "android_device_sony_tama-common",
         "android_device_sony_xz2c",
+        "android_hardware_sony_SonyOpenTelephony",
         "android_kernel_sony_sdm845"
     ],
     "z2_plus": [
