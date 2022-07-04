@@ -51,6 +51,23 @@
       "message": "already made him aware ",
       "revId": "c7e53517a1cdd8439f821ff7c4bad732aa7e2a0e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5615cf7e_815ee25c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2022-07-04T21:18:24Z",
+      "side": 1,
+      "message": "`sunfish, chiron, jasmine_sprout, kuntao` have been signed-off (I forgot to do it before the deadline)",
+      "revId": "c7e53517a1cdd8439f821ff7c4bad732aa7e2a0e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
