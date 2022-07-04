@@ -16,6 +16,24 @@
       "message": "albus is recently promoted",
       "revId": "c7e53517a1cdd8439f821ff7c4bad732aa7e2a0e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ff1d504b_054c5a35",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2022-07-04T21:01:39Z",
+      "side": 1,
+      "message": "Well...it was promoted a week before announcement, so it\u0027d be nice if maintainer signed it off anyway?",
+      "parentUuid": "5678c1c0_af84d990",
+      "revId": "c7e53517a1cdd8439f821ff7c4bad732aa7e2a0e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
