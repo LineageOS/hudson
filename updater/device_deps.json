@@ -17,6 +17,10 @@
         "android_device_fairphone_FP3",
         "android_kernel_fairphone_sdm632"
     ],
+    "FP4": [
+        "android_device_fairphone_FP4",
+        "android_kernel_fairphone_sm7225"
+    ],
     "OP4A7A": [
         "android_device_oppo_OP4A7A"
     ],
@@ -204,10 +208,19 @@
         "android_kernel_bq_msm8953"
     ],
     "beast": [
+        "android_device_amlogic_common",
         "android_device_amlogic_gx-common",
+        "android_device_amlogic_sepolicy",
         "android_device_google_beast",
+        "android_hardware_amlogic_kernel-modules_mali-driver",
+        "android_hardware_amlogic_kernel-modules_media-pie",
+        "android_hardware_amlogic_kernel-modules_optee-pie",
         "android_hardware_amlogic_kernel-modules_rtl8822bs",
-        "android_hardware_realtek"
+        "android_hardware_amlogic_tools_dtbtool",
+        "android_hardware_amlogic_tools_imagepacker",
+        "android_hardware_amlogic_tools_respacker",
+        "android_hardware_realtek",
+        "android_kernel_amlogic_linux-4.9-pie"
     ],
     "beckham": [
         "android_device_motorola_beckham",
@@ -250,6 +263,14 @@
         "android_device_samsung_slsi_sepolicy",
         "android_hardware_samsung",
         "android_kernel_samsung_exynos9820"
+    ],
+    "billie": [
+        "android_device_oneplus_billie",
+        "android_kernel_oneplus_sm6350"
+    ],
+    "bluejay": [
+        "android_device_google_bluejay",
+        "android_device_google_gs101"
     ],
     "blueline": [
         "android_device_google_blueline",
@@ -434,6 +455,7 @@
         "android_kernel_lge_g3"
     ],
     "deadpool": [
+        "android_device_amlogic_common",
         "android_device_amlogic_g12-common",
         "android_device_amlogic_sepolicy",
         "android_device_askey_deadpool",
@@ -461,6 +483,7 @@
         "android_kernel_sony_sdm660"
     ],
     "dopinder": [
+        "android_device_amlogic_common",
         "android_device_amlogic_g12-common",
         "android_device_amlogic_sepolicy",
         "android_device_askey_dopinder",
@@ -473,6 +496,11 @@
         "android_hardware_amlogic_tools_respacker",
         "android_hardware_realtek",
         "android_kernel_amlogic_linux-4.9"
+    ],
+    "dre": [
+        "android_device_oneplus_dre",
+        "android_hardware_oneplus",
+        "android_kernel_oneplus_sm4350"
     ],
     "dumpling": [
         "android_device_oneplus_dumpling",
@@ -767,6 +795,9 @@
         "android_external_bson",
         "android_kernel_motorola_msm8996",
         "android_system_qcom"
+    ],
+    "grus": [
+        "android_device_xiaomi_grus"
     ],
     "gta4xl": [
         "android_device_samsung_gta4xl",
@@ -1068,6 +1099,22 @@
         "android_device_xiaomi_sdm660-common",
         "android_kernel_xiaomi_sdm660"
     ],
+    "jetson": [
+        "android_device_nvidia_icera",
+        "android_device_nvidia_jetson",
+        "android_device_nvidia_sepolicy",
+        "android_device_nvidia_shield-common",
+        "android_device_nvidia_shieldtablet",
+        "android_device_nvidia_t124-common",
+        "android_device_nvidia_tegra-common",
+        "android_device_nvidia_touch",
+        "android_hardware_nvidia_interfaces",
+        "android_hardware_nvidia_light",
+        "android_hardware_nvidia_memtrack",
+        "android_hardware_nvidia_power",
+        "android_hardware_nvidia_thermal",
+        "android_kernel_nvidia_shield"
+    ],
     "jflteatt": [
         "android_device_samsung_jf-common",
         "android_device_samsung_jflteatt",
@@ -1357,6 +1404,7 @@
         "android_kernel_samsung_universal7904"
     ],
     "m5": [
+        "android_device_amlogic_common",
         "android_device_amlogic_g12-common",
         "android_device_amlogic_sepolicy",
         "android_device_bananapi_m5",
@@ -1536,6 +1584,7 @@
         "android_system_qcom"
     ],
     "odroidc4": [
+        "android_device_amlogic_common",
         "android_device_amlogic_g12-common",
         "android_device_amlogic_sepolicy",
         "android_device_hardkernel_odroidc4",
@@ -1555,6 +1604,11 @@
         "android_device_oneplus_oneplus3",
         "android_device_oppo_common",
         "android_kernel_oneplus_msm8996"
+    ],
+    "oriole": [
+        "android_device_google_gs101",
+        "android_device_google_oriole",
+        "android_device_google_raviole"
     ],
     "osprey": [
         "android_device_motorola_msm8916-common",
@@ -1820,6 +1874,7 @@
         "android_kernel_motorola_sm7250"
     ],
     "radxa0": [
+        "android_device_amlogic_common",
         "android_device_amlogic_g12-common",
         "android_device_amlogic_sepolicy",
         "android_device_radxa_radxa0",
@@ -1837,6 +1892,11 @@
         "android_device_xiaomi_sm8150-common",
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_sm8150"
+    ],
+    "raven": [
+        "android_device_google_gs101",
+        "android_device_google_raven",
+        "android_device_google_raviole"
     ],
     "redfin": [
         "android_device_google_redbull",
@@ -1911,6 +1971,7 @@
         "android_kernel_samsung_universal7580"
     ],
     "sabrina": [
+        "android_device_amlogic_common",
         "android_device_amlogic_g12-common",
         "android_device_amlogic_sepolicy",
         "android_device_google_sabrina",
@@ -1977,6 +2038,21 @@
         "android_device_moto_shamu",
         "android_hardware_sony_timekeep",
         "android_kernel_moto_shamu"
+    ],
+    "shieldtablet": [
+        "android_device_nvidia_icera",
+        "android_device_nvidia_sepolicy",
+        "android_device_nvidia_shield-common",
+        "android_device_nvidia_shieldtablet",
+        "android_device_nvidia_t124-common",
+        "android_device_nvidia_tegra-common",
+        "android_device_nvidia_touch",
+        "android_hardware_nvidia_interfaces",
+        "android_hardware_nvidia_light",
+        "android_hardware_nvidia_memtrack",
+        "android_hardware_nvidia_power",
+        "android_hardware_nvidia_thermal",
+        "android_kernel_nvidia_shield"
     ],
     "sirius": [
         "android_device_sony_common",
@@ -2126,6 +2202,7 @@
         "android_kernel_lge_msm8996"
     ],
     "wade": [
+        "android_device_amlogic_common",
         "android_device_amlogic_g12-common",
         "android_device_amlogic_sepolicy",
         "android_device_askey_wade",
