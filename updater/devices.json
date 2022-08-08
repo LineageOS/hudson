@@ -98,6 +98,7 @@
   {  "model": "evert", "oem": "Motorola", "name": "moto g6 plus" },
   {  "model": "FP2", "oem": "Fairphone", "name": "Fairphone 2" },
   {  "model": "FP3", "oem": "Fairphone", "name": "Fairphone 3" },
+  {  "model": "FP4", "oem": "Fairphone", "name": "Fairphone 4" },
   {  "model": "f1f", "oem": "OPPO", "name": "F1 (F1f Intl)", "lineage_recovery": false },
   {  "model": "f400", "oem": "LG", "name": "G3 (Korea)" },
   {  "model": "fajita", "oem": "OnePlus", "name": "6T" },
