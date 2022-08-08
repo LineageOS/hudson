@@ -17,6 +17,10 @@
         "android_device_fairphone_FP3",
         "android_kernel_fairphone_sdm632"
     ],
+    "FP4": [
+        "android_device_fairphone_FP4",
+        "android_kernel_fairphone_sm7225"
+    ],
     "OP4A7A": [
         "android_device_oppo_OP4A7A"
     ],
@@ -79,9 +83,8 @@
     "a52q": [
         "android_device_samsung_a52q",
         "android_device_samsung_sm7125-common",
-        "android_kernel_samsung_sm7125",
         "android_hardware_samsung",
-        "android_hardware_samsung_nfc"
+        "android_kernel_samsung_sm7125"
     ],
     "a5xelte": [
         "android_device_samsung_a5xelte",
@@ -108,9 +111,8 @@
     "a72q": [
         "android_device_samsung_a72q",
         "android_device_samsung_sm7125-common",
-        "android_kernel_samsung_sm7125",
         "android_hardware_samsung",
-        "android_hardware_samsung_nfc"
+        "android_kernel_samsung_sm7125"
     ],
     "a7xelte": [
         "android_device_samsung_a7xelte",
@@ -218,10 +220,19 @@
         "android_kernel_bq_msm8953"
     ],
     "beast": [
+        "android_device_amlogic_common",
         "android_device_amlogic_gx-common",
+        "android_device_amlogic_sepolicy",
         "android_device_google_beast",
+        "android_hardware_amlogic_kernel-modules_mali-driver",
+        "android_hardware_amlogic_kernel-modules_media-pie",
+        "android_hardware_amlogic_kernel-modules_optee-pie",
         "android_hardware_amlogic_kernel-modules_rtl8822bs",
-        "android_hardware_realtek"
+        "android_hardware_amlogic_tools_dtbtool",
+        "android_hardware_amlogic_tools_imagepacker",
+        "android_hardware_amlogic_tools_respacker",
+        "android_hardware_realtek",
+        "android_kernel_amlogic_linux-4.9-pie"
     ],
     "beckham": [
         "android_device_motorola_beckham",
@@ -229,6 +240,13 @@
         "android_external_bson",
         "android_hardware_motorola",
         "android_kernel_motorola_msm8998",
+        "android_system_qcom"
+    ],
+    "berlin": [
+        "android_device_motorola_berlin",
+        "android_device_motorola_sm7325-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm7325",
         "android_system_qcom"
     ],
     "beryllium": [
@@ -264,6 +282,15 @@
         "android_device_samsung_slsi_sepolicy",
         "android_hardware_samsung",
         "android_kernel_samsung_exynos9820"
+    ],
+    "billie": [
+        "android_device_oneplus_billie",
+        "android_kernel_oneplus_sm6350"
+    ],
+    "bluejay": [
+        "android_device_google_bluejay",
+        "android_device_google_gs101",
+        "android_kernel_google_bluejay"
     ],
     "blueline": [
         "android_device_google_blueline",
@@ -448,6 +475,7 @@
         "android_kernel_lge_g3"
     ],
     "deadpool": [
+        "android_device_amlogic_common",
         "android_device_amlogic_g12-common",
         "android_device_amlogic_sepolicy",
         "android_device_askey_deadpool",
@@ -475,6 +503,7 @@
         "android_kernel_sony_sdm660"
     ],
     "dopinder": [
+        "android_device_amlogic_common",
         "android_device_amlogic_g12-common",
         "android_device_amlogic_sepolicy",
         "android_device_askey_dopinder",
@@ -487,6 +516,11 @@
         "android_hardware_amlogic_tools_respacker",
         "android_hardware_realtek",
         "android_kernel_amlogic_linux-4.9"
+    ],
+    "dre": [
+        "android_device_oneplus_dre",
+        "android_hardware_oneplus",
+        "android_kernel_oneplus_sm4350"
     ],
     "dumpling": [
         "android_device_oneplus_dumpling",
@@ -781,6 +815,9 @@
         "android_external_bson",
         "android_kernel_motorola_msm8996",
         "android_system_qcom"
+    ],
+    "grus": [
+        "android_device_xiaomi_grus"
     ],
     "gta4xl": [
         "android_device_samsung_gta4xl",
@@ -1082,6 +1119,22 @@
         "android_device_xiaomi_sdm660-common",
         "android_kernel_xiaomi_sdm660"
     ],
+    "jetson": [
+        "android_device_nvidia_icera",
+        "android_device_nvidia_jetson",
+        "android_device_nvidia_sepolicy",
+        "android_device_nvidia_shield-common",
+        "android_device_nvidia_shieldtablet",
+        "android_device_nvidia_t124-common",
+        "android_device_nvidia_tegra-common",
+        "android_device_nvidia_touch",
+        "android_hardware_nvidia_interfaces",
+        "android_hardware_nvidia_light",
+        "android_hardware_nvidia_memtrack",
+        "android_hardware_nvidia_power",
+        "android_hardware_nvidia_thermal",
+        "android_kernel_nvidia_shield"
+    ],
     "jflteatt": [
         "android_device_samsung_jf-common",
         "android_device_samsung_jflteatt",
@@ -1229,6 +1282,13 @@
         "android_hardware_sony_timekeep",
         "android_kernel_samsung_msm8974"
     ],
+    "kugo": [
+        "android_device_sony_kugo",
+        "android_device_sony_loire-common",
+        "android_hardware_sony_simdetect",
+        "android_hardware_sony_thermanager",
+        "android_kernel_sony_msm8956"
+    ],
     "kuntao": [
         "android_device_lenovo_kuntao",
         "android_kernel_lenovo_msm8953"
@@ -1371,6 +1431,7 @@
         "android_kernel_samsung_universal7904"
     ],
     "m5": [
+        "android_device_amlogic_common",
         "android_device_amlogic_g12-common",
         "android_device_amlogic_sepolicy",
         "android_device_bananapi_m5",
@@ -1534,7 +1595,8 @@
     "nio": [
         "android_device_motorola_nio",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm8250"
+        "android_kernel_motorola_sm8250",
+        "android_system_qcom"
     ],
     "obiwan": [
         "android_device_asus_obiwan",
@@ -1550,6 +1612,7 @@
         "android_system_qcom"
     ],
     "odroidc4": [
+        "android_device_amlogic_common",
         "android_device_amlogic_g12-common",
         "android_device_amlogic_sepolicy",
         "android_device_hardkernel_odroidc4",
@@ -1570,6 +1633,12 @@
         "android_device_oppo_common",
         "android_kernel_oneplus_msm8996"
     ],
+    "oriole": [
+        "android_device_google_gs101",
+        "android_device_google_oriole",
+        "android_device_google_raviole",
+        "android_kernel_google_raviole"
+    ],
     "osprey": [
         "android_device_motorola_msm8916-common",
         "android_device_motorola_osprey",
@@ -1587,6 +1656,12 @@
         "android_hardware_motorola",
         "android_kernel_motorola_msm8998",
         "android_system_qcom"
+    ],
+    "pdx203": [
+        "android_device_sony_pdx203",
+        "android_device_sony_sm8250-common",
+        "android_hardware_sony",
+        "android_kernel_sony_sm8250"
     ],
     "perseus": [
         "android_device_xiaomi_perseus",
@@ -1724,6 +1799,13 @@
         "android_device_fxtec_pro1",
         "android_kernel_fxtec_msm8998"
     ],
+    "pstar": [
+        "android_device_motorola_pstar",
+        "android_device_motorola_sm8250-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm8250",
+        "android_system_qcom"
+    ],
     "quill": [
         "android_bootable_cboot_common",
         "android_bootable_cboot_lk",
@@ -1834,6 +1916,7 @@
         "android_kernel_motorola_sm7250"
     ],
     "radxa0": [
+        "android_device_amlogic_common",
         "android_device_amlogic_g12-common",
         "android_device_amlogic_sepolicy",
         "android_device_radxa_radxa0",
@@ -1851,6 +1934,12 @@
         "android_device_xiaomi_sm8150-common",
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_sm8150"
+    ],
+    "raven": [
+        "android_device_google_gs101",
+        "android_device_google_raven",
+        "android_device_google_raviole",
+        "android_kernel_google_raviole"
     ],
     "redfin": [
         "android_device_google_redbull",
@@ -1925,6 +2014,7 @@
         "android_kernel_samsung_universal7580"
     ],
     "sabrina": [
+        "android_device_amlogic_common",
         "android_device_amlogic_g12-common",
         "android_device_amlogic_sepolicy",
         "android_device_google_sabrina",
@@ -1992,6 +2082,21 @@
         "android_hardware_sony_timekeep",
         "android_kernel_moto_shamu"
     ],
+    "shieldtablet": [
+        "android_device_nvidia_icera",
+        "android_device_nvidia_sepolicy",
+        "android_device_nvidia_shield-common",
+        "android_device_nvidia_shieldtablet",
+        "android_device_nvidia_t124-common",
+        "android_device_nvidia_tegra-common",
+        "android_device_nvidia_touch",
+        "android_hardware_nvidia_interfaces",
+        "android_hardware_nvidia_light",
+        "android_hardware_nvidia_memtrack",
+        "android_hardware_nvidia_power",
+        "android_hardware_nvidia_thermal",
+        "android_kernel_nvidia_shield"
+    ],
     "sirius": [
         "android_device_sony_common",
         "android_device_sony_msm8974-common",
@@ -2027,6 +2132,13 @@
         "android_device_xiaomi_surya",
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_surya"
+    ],
+    "suzu": [
+        "android_device_sony_loire-common",
+        "android_device_sony_suzu",
+        "android_hardware_sony_simdetect",
+        "android_hardware_sony_thermanager",
+        "android_kernel_sony_msm8956"
     ],
     "taimen": [
         "android_device_google_taimen",
@@ -2140,6 +2252,7 @@
         "android_kernel_lge_msm8996"
     ],
     "wade": [
+        "android_device_amlogic_common",
         "android_device_amlogic_g12-common",
         "android_device_amlogic_sepolicy",
         "android_device_askey_wade",
