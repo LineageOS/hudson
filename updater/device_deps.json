@@ -76,6 +76,13 @@
         "android_hardware_samsung_slsi_openmax",
         "android_kernel_samsung_universal7580"
     ],
+    "a52q": [
+        "android_device_samsung_a52q",
+        "android_device_samsung_sm7125-common",
+        "android_kernel_samsung_sm7125",
+        "android_hardware_samsung",
+        "android_hardware_samsung_nfc"
+    ],
     "a5xelte": [
         "android_device_samsung_a5xelte",
         "android_device_samsung_universal7580-common",
@@ -97,6 +104,13 @@
         "android_hardware_samsung_slsi_exynos7880",
         "android_hardware_samsung_slsi_openmax",
         "android_kernel_samsung_universal7880"
+    ],
+    "a72q": [
+        "android_device_samsung_a72q",
+        "android_device_samsung_sm7125-common",
+        "android_kernel_samsung_sm7125",
+        "android_hardware_samsung",
+        "android_hardware_samsung_nfc"
     ],
     "a7xelte": [
         "android_device_samsung_a7xelte",
