@@ -1135,6 +1135,11 @@
         "android_hardware_oneplus",
         "android_kernel_oneplus_sm8250"
     ],
+    "kugo": [
+        "android_device_sony_kugo",
+        "android_device_sony_loire-common",
+        "android_kernel_sony_msm8956"
+    ],
     "kiev": [
         "android_device_motorola_kiev",
         "android_hardware_motorola",
@@ -2002,6 +2007,11 @@
         "android_hardware_sony_thermanager",
         "android_hardware_sony_timekeep",
         "android_kernel_sony_msm8974"
+    ],
+    "suzu": [
+        "android_device_sony_suzu",
+        "android_device_sony_loire-common",
+        "android_kernel_sony_msm8956"
     ],
     "smith": [
         "android_device_motorola_sm7250-common",
