@@ -2108,6 +2108,13 @@
         "android_hardware_sony_timekeep",
         "android_kernel_sony_msm8974"
     ],
+    "suzu": [
+        "android_device_sony_suzu",
+        "android_device_sony_loire-common",
+        "android_hardware_sony_simdetect",
+        "android_hardware_sony_thermanager",
+        "android_kernel_sony_msm8956"
+    ],
     "smith": [
         "android_device_motorola_sm7250-common",
         "android_device_motorola_smith",
