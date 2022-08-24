@@ -1229,6 +1229,13 @@
         "android_hardware_sony_timekeep",
         "android_kernel_samsung_msm8974"
     ],
+    "kugo": [
+        "android_device_sony_kugo",
+        "android_device_sony_loire-common",
+        "android_kernel_sony_msm8956",
+        "android_hardware_sony_thermanager",
+        "android_hardware_sony_simdetect"
+    ],
     "kuntao": [
         "android_device_lenovo_kuntao",
         "android_kernel_lenovo_msm8953"
@@ -2002,6 +2009,13 @@
         "android_hardware_sony_thermanager",
         "android_hardware_sony_timekeep",
         "android_kernel_sony_msm8974"
+    ],
+    "suzu": [
+        "android_device_sony_suzu",
+        "android_device_sony_loire-common",
+        "android_kernel_sony_msm8956",
+        "android_hardware_sony_thermanager",
+        "android_hardware_sony_simdetect"
     ],
     "smith": [
         "android_device_motorola_sm7250-common",
