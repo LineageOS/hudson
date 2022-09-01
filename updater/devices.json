@@ -30,6 +30,7 @@
   {  "model": "bardockpro", "oem": "BQ", "name": "Aquaris X Pro" },
   {  "model": "beckham", "oem": "Motorola", "name": "Moto Z3 Play" },
   {  "model": "berkeley", "oem": "Huawei", "name": "Honor View 10", "lineage_recovery": false },
+  {  "model": "berlin", "oem": "Motorola", "name": "Moto Edge 20" },
   {  "model": "beryllium", "oem": "Xiaomi", "name": "Poco F1" },
   {  "model": "beyond0lte", "oem": "Samsung", "name": "Galaxy S10e" },
   {  "model": "beyond1lte", "oem": "Samsung", "name": "Galaxy S10" },
