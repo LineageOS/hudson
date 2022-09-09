@@ -16,6 +16,24 @@
       "message": "Hold, wait for https://review.lineageos.org/c/LineageOS/android_device_qcom_sepolicy_vndr/+/337861 and https://review.lineageos.org/c/LineageOS/android_build/+/333694 to be merged",
       "revId": "cb9f4138eeffd5a0b940943220f66351d47c5af4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f2d5f0f5_bce4d500",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2022-09-09T13:37:02Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3382c4c9_44a23f6e",
+      "revId": "cb9f4138eeffd5a0b940943220f66351d47c5af4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
