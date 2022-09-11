@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7988df53_cf9daf3b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2022-09-11T00:35:25Z",
+      "side": 1,
+      "message": "heads up, these devices are missing a lineage.dependencies file in the device tree so they\u0027ll fail to sync and build.",
+      "revId": "e299e3c4b016bceea9c5345334be06c20264a68c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
