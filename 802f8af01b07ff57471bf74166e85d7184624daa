@@ -16,6 +16,23 @@
       "message": "ah, I thought this family had shipped before for some reason",
       "revId": "802f8af01b07ff57471bf74166e85d7184624daa",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fdd83581_47b36647",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2022-09-11T11:07:00Z",
+      "side": 1,
+      "message": "the device_deps.json file also needs these devices added, so that the changelog will work, but i\u0027ll just use the regen script since it needs some other changes too.",
+      "revId": "802f8af01b07ff57471bf74166e85d7184624daa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
