@@ -16,6 +16,23 @@
       "message": "dubai is already in updater/device_deps.json and all device tree and vendor blobs are merged",
       "revId": "15159b37f0d6b510c758d9414e28ceb117651e51",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9f4d8223_45581bcc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19252
+      },
+      "writtenOn": "2022-09-30T02:58:34Z",
+      "side": 1,
+      "message": "wiki is here https://review.lineageos.org/c/LineageOS/lineage_wiki/+/339749",
+      "revId": "15159b37f0d6b510c758d9414e28ceb117651e51",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
