@@ -85,6 +85,7 @@
   {  "model": "dogo", "oem": "Sony", "name": "Xperia ZR", "lineage_recovery": false },
   {  "model": "dragon", "oem": "Google", "name": "Pixel C", "lineage_recovery": false },
   {  "model": "dre", "oem": "OnePlus", "name": "Nord N200" },
+  {  "model": "dubai", "oem": "Motorola", "name": "Motorola Edge 30" },
   {  "model": "dumpling", "oem": "OnePlus", "name": "5T" },
   {  "model": "DRG", "oem": "Nokia", "name": "6.1 Plus" },
   {  "model": "enchilada", "oem": "OnePlus", "name": "6" },
