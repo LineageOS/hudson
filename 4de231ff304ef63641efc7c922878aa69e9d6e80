@@ -16,6 +16,29 @@
       "message": "This is ready now",
       "revId": "4de231ff304ef63641efc7c922878aa69e9d6e80",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "166ea232_c25d96fb",
+        "filename": "updater/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 287,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2022-10-02T15:06:43Z",
+      "side": 1,
+      "message": "the oem doesn\u0027t go here, or else name on site will appear as \"Motorola Motorola Edge 20 Pro\"",
+      "range": {
+        "startLine": 287,
+        "startChar": 51,
+        "endLine": 287,
+        "endChar": 59
+      },
+      "revId": "4de231ff304ef63641efc7c922878aa69e9d6e80",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
