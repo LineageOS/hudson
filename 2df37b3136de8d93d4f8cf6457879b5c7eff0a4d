@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "38e0776a_d806d00a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-10-03T03:29:15Z",
+      "side": 1,
+      "message": "Thoughts on this?\n\nThey seed us devices and it was brought up that the branding is inconsistent and doesn\u0027t match their actual branding.\n\nI\u0027m trying to identify if they used \"Moto\" on older devices, or if we should retroactively change it, etc.",
+      "revId": "2df37b3136de8d93d4f8cf6457879b5c7eff0a4d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
