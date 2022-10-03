@@ -1,6 +1,13 @@
 # LineageOS build target list
 # <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
 
+# Weekly 20.0
+barbet userdebug lineage-20.0 W
+coral userdebug lineage-20.0 W
+flame userdebug lineage-20.0 W
+sunfish userdebug lineage-20.0 W
+redfin userdebug lineage-20.0 W
+
 # Weekly 19.1
 a52q userdebug lineage-19.1 W
 a72q userdebug lineage-19.1 W
@@ -11,7 +18,6 @@ apollon userdebug lineage-19.1 W
 aura userdebug lineage-19.1 W
 aurora userdebug lineage-19.1 W
 axolotl userdebug lineage-19.1 W
-barbet userdebug lineage-19.1 W
 beckham userdebug lineage-19.1 W
 berlin userdebug lineage-19.1 W
 beryllium userdebug lineage-19.1 W
@@ -25,7 +31,6 @@ bramble userdebug lineage-19.1 W
 cheeseburger userdebug lineage-19.1 W
 chef userdebug lineage-19.1 W
 cheryl userdebug lineage-19.1 W
-coral userdebug lineage-19.1 W
 crosshatch userdebug lineage-19.1 W
 d1 userdebug lineage-19.1 W
 d2s userdebug lineage-19.1 W
@@ -40,7 +45,6 @@ dumpling userdebug lineage-19.1 W
 enchilada userdebug lineage-19.1 W
 evert userdebug lineage-19.1 W
 fajita userdebug lineage-19.1 W
-flame userdebug lineage-19.1 W
 FP3 userdebug lineage-19.1 W
 gauguin userdebug lineage-19.1 W
 grus userdebug lineage-19.1 W
@@ -75,12 +79,10 @@ pro1 userdebug lineage-19.1 W
 pstar userdebug lineage-19.1 W
 pyxis userdebug lineage-19.1 W
 racer userdebug lineage-19.1 W
-redfin userdebug lineage-19.1 W
 river userdebug lineage-19.1 W
 sagit userdebug lineage-19.1 W
 sake userdebug lineage-19.1 W
 sargo userdebug lineage-19.1 W
-sunfish userdebug lineage-19.1 W
 surya userdebug lineage-19.1 W
 taimen userdebug lineage-19.1 W
 tissot userdebug lineage-19.1 W
