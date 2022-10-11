@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e9534f29_6f603d4c",
+        "filename": "lineage-build-targets",
+        "patchSetId": 4
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2022-10-11T23:23:48Z",
+      "side": 1,
+      "message": "s after r",
+      "range": {
+        "startLine": 9,
+        "startChar": 0,
+        "endLine": 10,
+        "endChar": 31
+      },
+      "revId": "0738b92f118412580fc6eae1e4c2cffbdd3f1f64",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
