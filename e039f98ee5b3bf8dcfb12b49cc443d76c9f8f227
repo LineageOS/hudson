@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d34d56c2_6a77a7e2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-10-16T19:50:26Z",
+      "side": 1,
+      "message": "- samsung_msm8974 - kevin and I\n- moto_msm8953 - marcost and I\n- flox - surblazer and I\n- lge_msm8996 - aleasto, x86cpu, and I\n- jf - arco and I\n- nvidia* - aaron + me (mostly aaron)\n- m1s1 - myself and razor",
+      "revId": "e039f98ee5b3bf8dcfb12b49cc443d76c9f8f227",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
