@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "849d74f8_7c7f482a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25485
+      },
+      "writtenOn": "2022-10-17T21:11:02Z",
+      "side": 1,
+      "message": "Samsung 8226 family must move to monthly. They can\u0027t receive 19.1, also i have s3ve3gds and i can support it.",
+      "revId": "1ce5f05724e730006cdcf1b10696e03d549be2d5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
