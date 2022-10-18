@@ -364,7 +364,7 @@
   {  "model": "vs995", "oem": "LG", "name": "V20 (VZW)" },
   {  "model": "w5", "oem": "LG", "name": "Optimus L70", "lineage_recovery": false },
   {  "model": "w7", "oem": "LG", "name": "Optimus L90", "lineage_recovery": false },
-  {  "model": "wade", "oem": "Walmart", "name": "Dynalink 4K Box" },
+  {  "model": "wade", "oem": "Dynalink", "name": "TV Box (4K)" },
   {  "model": "walleye", "oem": "Google", "name": "Pixel 2" },
   {  "model": "wayne", "oem": "Xiaomi", "name": "Mi 6X" },
   {  "model": "whyred", "oem": "Xiaomi", "name": "Redmi Note 5 Pro" },
