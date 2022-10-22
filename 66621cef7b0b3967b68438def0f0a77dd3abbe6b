@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8dadb3a1_9760174b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 8
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19252
+      },
+      "writtenOn": "2022-10-22T17:51:26Z",
+      "side": 1,
+      "message": "Moshe and I wish to keep LeEco msm8996 on life support",
+      "revId": "66621cef7b0b3967b68438def0f0a77dd3abbe6b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
