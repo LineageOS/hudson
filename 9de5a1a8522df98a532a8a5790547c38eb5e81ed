@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b1158d94_86054595",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2022-10-22T01:15:15Z",
+      "side": 1,
+      "message": "sony_msm8974 - myself5, Tom1000 (both z3) and me (z3c and sirius)",
+      "revId": "9de5a1a8522df98a532a8a5790547c38eb5e81ed",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
