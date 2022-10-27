@@ -24,6 +24,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "851537f5_75dc7cb0",
+        "filename": "lineage-build-targets",
+        "patchSetId": 16
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2022-10-27T10:53:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5842a9ee_eec0287d",
+      "range": {
+        "startLine": 14,
+        "startChar": 25,
+        "endLine": 14,
+        "endChar": 27
+      },
+      "revId": "99aa002f2b21ad6ddb52f3be9d74a65fc7040ef3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "52cf56af_9f63e691",
@@ -37,6 +61,24 @@
       "writtenOn": "2022-10-26T20:02:13Z",
       "side": 1,
       "message": "Derp?",
+      "revId": "99aa002f2b21ad6ddb52f3be9d74a65fc7040ef3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3654484d_57adae46",
+        "filename": "lineage-build-targets",
+        "patchSetId": 16
+      },
+      "lineNbr": 172,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2022-10-27T10:53:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "52cf56af_9f63e691",
       "revId": "99aa002f2b21ad6ddb52f3be9d74a65fc7040ef3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
