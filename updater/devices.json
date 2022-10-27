@@ -240,7 +240,7 @@
   {  "model": "mdarcy_tab", "oem": "Nvidia", "name": "Shield TV 2019 Pro [Tablet]" },
   {  "model": "merlin", "oem": "Motorola", "name": "moto g3 turbo" },
   {  "model": "mermaid", "oem": "Sony", "name": "Xperia 10 Plus" },
-  {  "model": "miatoll", "oem": "Xiaomi", "name": "Redmi Note 9S / Redmi Note 9 Pro" },
+  {  "model": "miatoll", "oem": "Xiaomi", "name": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite" },
   {  "model": "mido", "oem": "Xiaomi", "name": "Redmi Note 4", "lineage_recovery": false },
   {  "model": "mint", "oem": "Sony", "name": "Xperia T", "lineage_recovery": false },
   {  "model": "mondrianwifi", "oem": "Samsung", "name": "Galaxy Tab Pro 8.4", "lineage_recovery": false },
