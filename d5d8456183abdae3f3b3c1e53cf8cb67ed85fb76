@@ -63,6 +63,30 @@
       },
       "revId": "d5d8456183abdae3f3b3c1e53cf8cb67ed85fb76",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "212aae50_7e2ceb9f",
+        "filename": "lineage-experimental-targets",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2022-11-03T11:46:35Z",
+      "side": 1,
+      "message": "I was basing on the comments on discord:\n\nnpjohnson — Today at 3:33 AM\ncoral - dynamic A/B\nsargo - dynamic retrofit A/B\nnash - A/B\nTP1803 - A-only\nraven - dynamic virtual-A/B + 5.10 kernel nonsense\n\nIt appears that he wanted coral on 20?",
+      "parentUuid": "a573aac8_91953224",
+      "range": {
+        "startLine": 6,
+        "startChar": 24,
+        "endLine": 6,
+        "endChar": 28
+      },
+      "revId": "d5d8456183abdae3f3b3c1e53cf8cb67ed85fb76",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
