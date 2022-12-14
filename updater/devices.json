@@ -261,6 +261,7 @@
   {  "model": "nio", "oem": "Motorola", "name": "edge s / moto g100" },
   {  "model": "nx512j", "oem": "Nubia", "name": "Nubia Z9 Max", "lineage_recovery": false },
   {  "model": "nx563j", "oem": "Nubia", "name": "Nubia Z17" },
+  {  "model": "nx611j", "oem": "Nubia", "name": "Nubia Z18 Mini" },
   {  "model": "obiwan", "oem": "ASUS", "name": "ROG Phone 3" },
   {  "model": "odin", "oem": "Sony", "name": "Xperia ZL", "lineage_recovery": false },
   {  "model": "ocean", "oem": "Motorola", "name": "moto g7 power" },
