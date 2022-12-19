@@ -16,6 +16,29 @@
       "message": "Z18 Mini is ready",
       "revId": "06749491c8d065ec90edff44821837fd047291c2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b5caf752_00764b86",
+        "filename": "updater/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 264,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-12-19T17:41:23Z",
+      "side": 1,
+      "message": "Drop this, make it Z18 mini like mini 5g, I\u0027ll fix the others in a follow up commit.",
+      "range": {
+        "startLine": 264,
+        "startChar": 49,
+        "endLine": 264,
+        "endChar": 54
+      },
+      "revId": "06749491c8d065ec90edff44821837fd047291c2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
