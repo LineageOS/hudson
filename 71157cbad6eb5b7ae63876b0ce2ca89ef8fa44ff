@@ -1,4 +1,45 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "296c6e65_3fd1bf9f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-12-19T17:53:54Z",
+      "side": 1,
+      "message": "also, please change the name here to match wiki from \"Nubia\" prefix to just the deice name.",
+      "revId": "71157cbad6eb5b7ae63876b0ce2ca89ef8fa44ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a8565954_cb0abb65",
+        "filename": "updater/device_deps.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 1616,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2022-12-19T17:53:54Z",
+      "side": 1,
+      "message": "stray comma",
+      "range": {
+        "startLine": 1616,
+        "startChar": 38,
+        "endLine": 1616,
+        "endChar": 39
+      },
+      "revId": "71157cbad6eb5b7ae63876b0ce2ca89ef8fa44ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ],
   "submitRequirementResults": []
 }
