@@ -2,11 +2,52 @@
 # <device> <build_type> <branch_name>
 # Note: there is no period attached to this, it's always "nightly"
 # Builds are cleared out on a regular basis from mirrors, the last one is kept
-barbet userdebug lineage-19.1
-
+aura userdebug lineage-20.0
+barbet userdebug lineage-20.0
+beckham userdebug lineage-20.0
+beryllium userdebug lineage-20.0
+bramble userdebug lineage-20.0
+channel userdebug lineage-20.0
+cheeseburger userdebug lineage-20.0
+chef userdebug lineage-20.0
 coral userdebug lineage-20.0
+dipper userdebug lineage-20.0
+DRG userdebug lineage-20.0
+dumpling userdebug lineage-20.0
+enchilada userdebug lineage-20.0
+equuleus userdebug lineage-20.0
+evert userdebug lineage-20.0
+fajita userdebug lineage-20.0
+flame userdebug lineage-20.0
+FP4 userdebug lineage-20.0
+gts4lv userdebug lineage-20.0
+gts4lvwifi userdebug lineage-20.0
+guacamole userdebug lineage-20.0
+guacamoleb userdebug lineage-20.0
+heart userdebug lineage-20.0
+hotdog userdebug lineage-20.0
+hotdogb userdebug lineage-20.0
+instantnoodle userdebug lineage-20.0
+instantnoodlep userdebug lineage-20.0
+kebab userdebug lineage-20.0
+kiev userdebug lineage-20.0
+lake userdebug lineage-20.0
+lemonade userdebug lineage-20.0
+lemonadep userdebug lineage-20.0
+nairo userdebug lineage-20.0
 nash userdebug lineage-20.0
-raven userdebug lineage-20.0
+nio userdebug lineage-20.0
+ocean userdebug lineage-20.0
+payton userdebug lineage-20.0
+PL2 userdebug lineage-20.0
+polaris userdebug lineage-20.0
+pro1 userdebug lineage-20.0
+racer userdebug lineage-20.0
 redfin userdebug lineage-20.0
-sargo userdebug lineage-20.0
+river userdebug lineage-20.0
+sunfish userdebug lineage-20.0
+surya userdebug lineage-20.0
 TP1803 userdebug lineage-20.0
+ursa userdebug lineage-20.0
+Z01R userdebug lineage-20.0
+zippo userdebug lineage-20.0
