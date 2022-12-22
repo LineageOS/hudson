@@ -216,6 +216,7 @@
   {  "model": "lemonadep", "oem": "OnePlus", "name": "9 Pro" },
   {  "model": "lentislte", "oem": "Samsung", "name": "Galaxy S5 LTE-A", "lineage_recovery": false },
   {  "model": "lettuce", "oem": "YU", "name": "Yuphoria", "lineage_recovery": false },
+  {  "model": "liber", "oem": "Motorola", "name": "One Fusion+" },
   {  "model": "libra", "oem": "Xiaomi", "name": "Mi 4c", "lineage_recovery": false },
   {  "model": "lithium", "oem": "Xiaomi", "name": "Mi MIX" },
   {  "model": "lmi", "oem": "Xiaomi", "name": "POCO F2 Pro / Redmi K30 Pro / Redmi K30 Pro Zoom Edition" },
