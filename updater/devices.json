@@ -218,6 +218,8 @@
   {  "model": "lemonadep", "oem": "OnePlus", "name": "9 Pro" },
   {  "model": "lentislte", "oem": "Samsung", "name": "Galaxy S5 LTE-A", "lineage_recovery": false },
   {  "model": "lettuce", "oem": "YU", "name": "Yuphoria", "lineage_recovery": false },
+
+  {  "model": "liber", "oem": "Motorola", "name": "one fusion+" },
   {  "model": "libra", "oem": "Xiaomi", "name": "Mi 4c", "lineage_recovery": false },
   {  "model": "lisa", "oem": "Xiaomi", "name": "11 Lite 5G NE / 11 Lite NE 5G / Mi 11 LE" },
   {  "model": "lithium", "oem": "Xiaomi", "name": "Mi MIX" },
