@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "25036282_6fee0c8b",
+        "filename": "updater/devices.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 222,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2023-01-04T19:09:06Z",
+      "side": 1,
+      "message": "Aren\u0027t you missing \"Mi\"?",
+      "range": {
+        "startLine": 222,
+        "startChar": 48,
+        "endLine": 222,
+        "endChar": 78
+      },
+      "revId": "fc2f66f321070816b31d98e21d5ffb3fa4f6104d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
