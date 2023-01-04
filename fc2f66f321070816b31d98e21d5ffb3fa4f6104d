@@ -22,6 +22,30 @@
       },
       "revId": "fc2f66f321070816b31d98e21d5ffb3fa4f6104d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "92946370_538e5af0",
+        "filename": "updater/devices.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 222,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2023-01-04T19:10:18Z",
+      "side": 1,
+      "message": "Xiaomi has dropped the \"Mi\" from the names starting in the middle of 11 series release. It\u0027s intentionally without Mi and follows the official names.",
+      "parentUuid": "25036282_6fee0c8b",
+      "range": {
+        "startLine": 222,
+        "startChar": 48,
+        "endLine": 222,
+        "endChar": 78
+      },
+      "revId": "fc2f66f321070816b31d98e21d5ffb3fa4f6104d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
