@@ -46,6 +46,30 @@
       },
       "revId": "fc2f66f321070816b31d98e21d5ffb3fa4f6104d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d0b4190a_5abf2196",
+        "filename": "updater/devices.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 222,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-01-04T19:40:37Z",
+      "side": 1,
+      "message": "Yeah I googled this as well wondering it - MI is gone.",
+      "parentUuid": "92946370_538e5af0",
+      "range": {
+        "startLine": 222,
+        "startChar": 48,
+        "endLine": 222,
+        "endChar": 78
+      },
+      "revId": "fc2f66f321070816b31d98e21d5ffb3fa4f6104d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
