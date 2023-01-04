@@ -70,6 +70,30 @@
       },
       "revId": "fc2f66f321070816b31d98e21d5ffb3fa4f6104d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d67dbfc9_382c8998",
+        "filename": "updater/devices.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 222,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2023-01-04T19:43:51Z",
+      "side": 1,
+      "message": "Yea, but why other 11\u0027s have Mi, e.g. Mi 11 LE?",
+      "parentUuid": "d0b4190a_5abf2196",
+      "range": {
+        "startLine": 222,
+        "startChar": 48,
+        "endLine": 222,
+        "endChar": 78
+      },
+      "revId": "fc2f66f321070816b31d98e21d5ffb3fa4f6104d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
