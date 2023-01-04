@@ -94,6 +94,30 @@
       },
       "revId": "fc2f66f321070816b31d98e21d5ffb3fa4f6104d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c7354b6f_96f9ab47",
+        "filename": "updater/devices.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 222,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2023-01-04T20:01:11Z",
+      "side": 1,
+      "message": "Because the devices are named inconsistently by xiaomi, they dropped the Mi branding after the first devices were released. Some devices have regional variants with different names where some have Mi and some don\u0027t. All the current names should match how Xiaomi advertises the devices.",
+      "parentUuid": "d67dbfc9_382c8998",
+      "range": {
+        "startLine": 222,
+        "startChar": 48,
+        "endLine": 222,
+        "endChar": 78
+      },
+      "revId": "fc2f66f321070816b31d98e21d5ffb3fa4f6104d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
