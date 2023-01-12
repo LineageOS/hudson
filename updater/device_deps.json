@@ -239,15 +239,13 @@
         "android_device_motorola_sdm660-common",
         "android_external_bson",
         "android_hardware_motorola",
-        "android_kernel_motorola_msm8998",
-        "android_system_qcom"
+        "android_kernel_motorola_msm8998"
     ],
     "berlin": [
         "android_device_motorola_berlin",
         "android_device_motorola_sm7325-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm7325",
-        "android_system_qcom"
+        "android_kernel_motorola_sm7325"
     ],
     "beryllium": [
         "android_device_xiaomi_beryllium",
@@ -360,8 +358,7 @@
         "android_device_motorola_sdm632-common",
         "android_external_bson",
         "android_hardware_motorola",
-        "android_kernel_motorola_sdm632",
-        "android_system_qcom"
+        "android_kernel_motorola_sdm632"
     ],
     "cheeseburger": [
         "android_device_oneplus_cheeseburger",
@@ -382,8 +379,7 @@
         "android_device_motorola_sdm660-common",
         "android_external_bson",
         "android_hardware_motorola",
-        "android_kernel_motorola_msm8998",
-        "android_system_qcom"
+        "android_kernel_motorola_msm8998"
     ],
     "cheryl": [
         "android_device_razer_cheryl",
@@ -536,8 +532,7 @@
         "android_device_motorola_dubai",
         "android_device_motorola_sm7325-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm7325",
-        "android_system_qcom"
+        "android_kernel_motorola_sm7325"
     ],
     "dumpling": [
         "android_device_oneplus_dumpling",
@@ -567,8 +562,7 @@
         "android_device_motorola_sdm660-common",
         "android_external_bson",
         "android_hardware_motorola",
-        "android_kernel_motorola_msm8998",
-        "android_system_qcom"
+        "android_kernel_motorola_msm8998"
     ],
     "f400": [
         "android_device_lge_f400",
@@ -705,13 +699,17 @@
         "android_kernel_asus_fugu"
     ],
     "galen": [
+        "android_bootable_cboot_common",
         "android_bootable_cboot_lk",
+        "android_bootable_cboot_t18x",
+        "android_bootable_cboot_t19x",
         "android_device_nvidia_galen",
         "android_device_nvidia_sepolicy",
         "android_device_nvidia_shield-common",
         "android_device_nvidia_t194-common",
         "android_device_nvidia_tegra-common",
         "android_hardware_nvidia_boot_control",
+        "android_hardware_nvidia_hwinc",
         "android_hardware_nvidia_interfaces",
         "android_hardware_nvidia_light",
         "android_hardware_nvidia_platform_t19x_common",
@@ -753,7 +751,10 @@
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
     ],
     "galen_tab": [
+        "android_bootable_cboot_common",
         "android_bootable_cboot_lk",
+        "android_bootable_cboot_t18x",
+        "android_bootable_cboot_t19x",
         "android_device_nvidia_galen",
         "android_device_nvidia_galen_tab",
         "android_device_nvidia_sepolicy",
@@ -761,6 +762,7 @@
         "android_device_nvidia_t194-common",
         "android_device_nvidia_tegra-common",
         "android_hardware_nvidia_boot_control",
+        "android_hardware_nvidia_hwinc",
         "android_hardware_nvidia_interfaces",
         "android_hardware_nvidia_light",
         "android_hardware_nvidia_platform_t19x_common",
@@ -1210,8 +1212,7 @@
         "android_hardware_samsung_slsi_libbt",
         "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
         "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
-        "android_kernel_motorola_exynos9610",
-        "android_system_qcom"
+        "android_kernel_motorola_exynos9610"
     ],
     "kebab": [
         "android_device_oneplus_kebab",
@@ -1222,8 +1223,7 @@
     "kiev": [
         "android_device_motorola_kiev",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm7250",
-        "android_system_qcom"
+        "android_kernel_motorola_sm7250"
     ],
     "kirin": [
         "android_device_sony_kirin",
@@ -1330,8 +1330,7 @@
         "android_device_motorola_sdm660-common",
         "android_external_bson",
         "android_hardware_motorola",
-        "android_kernel_motorola_msm8998",
-        "android_system_qcom"
+        "android_kernel_motorola_msm8998"
     ],
     "lancelot": [
         "android_device_xiaomi_lancelot",
@@ -1360,8 +1359,7 @@
         "android_device_motorola_liber",
         "android_device_motorola_sm6150-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm6150",
-        "android_system_qcom"
+        "android_kernel_motorola_sm6150"
     ],
     "lisa": [
         "android_device_xiaomi_lisa",
@@ -1626,15 +1624,13 @@
         "android_device_motorola_nairo",
         "android_device_motorola_sm7250-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm7250",
-        "android_system_qcom"
+        "android_kernel_motorola_sm7250"
     ],
     "nash": [
         "android_device_motorola_nash",
         "android_external_bson",
         "android_hardware_motorola",
-        "android_kernel_motorola_msm8998",
-        "android_system_qcom"
+        "android_kernel_motorola_msm8998"
     ],
     "natrium": [
         "android_device_xiaomi_msm8996-common",
@@ -1646,8 +1642,7 @@
         "android_device_motorola_nio",
         "android_device_motorola_sm8250-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm8250",
-        "android_system_qcom"
+        "android_kernel_motorola_sm8250"
     ],
     "nx": [
         "android_device_nintendo_nx",
@@ -1706,15 +1701,13 @@
         "android_device_motorola_sdm632-common",
         "android_external_bson",
         "android_hardware_motorola",
-        "android_kernel_motorola_sdm632",
-        "android_system_qcom"
+        "android_kernel_motorola_sdm632"
     ],
     "odessa": [
         "android_device_motorola_odessa",
         "android_device_motorola_sm6150-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm6150",
-        "android_system_qcom"
+        "android_kernel_motorola_sm6150"
     ],
     "odroidc4": [
         "android_device_amlogic_common",
@@ -1773,16 +1766,14 @@
         "android_device_motorola_parker",
         "android_device_motorola_sm6150-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm6150",
-        "android_system_qcom"
+        "android_kernel_motorola_sm6150"
     ],
     "payton": [
         "android_device_motorola_payton",
         "android_device_motorola_sdm660-common",
         "android_external_bson",
         "android_hardware_motorola",
-        "android_kernel_motorola_msm8998",
-        "android_system_qcom"
+        "android_kernel_motorola_msm8998"
     ],
     "pdx203": [
         "android_device_sony_pdx203",
@@ -1932,8 +1923,7 @@
         "android_device_motorola_pstar",
         "android_device_motorola_sm8250-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm8250",
-        "android_system_qcom"
+        "android_kernel_motorola_sm8250"
     ],
     "pyxis": [
         "android_device_xiaomi_pyxis",
@@ -1942,22 +1932,22 @@
         "android_kernel_xiaomi_sdm710"
     ],
     "quill": [
+        "android_bootable_cboot_common",
         "android_bootable_cboot_lk",
+        "android_bootable_cboot_t18x",
+        "android_bootable_cboot_t19x",
         "android_device_nvidia_quill",
         "android_device_nvidia_sepolicy",
         "android_device_nvidia_shield-common",
         "android_device_nvidia_t186-common",
         "android_device_nvidia_tegra-common",
         "android_hardware_nvidia_boot_control",
+        "android_hardware_nvidia_hwinc",
         "android_hardware_nvidia_interfaces",
         "android_hardware_nvidia_light",
-        "android_hardware_nvidia_platform_t18x_common",
         "android_hardware_nvidia_platform_t18x_lanai",
         "android_hardware_nvidia_platform_t18x_quill",
-        "android_hardware_nvidia_platform_tegra_common",
         "android_hardware_nvidia_power",
-        "android_hardware_nvidia_soc_t18x",
-        "android_hardware_nvidia_soc_tegra",
         "android_hardware_nvidia_thermal",
         "android_kernel_nvidia_kernel",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common",
@@ -1990,7 +1980,10 @@
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
     "quill_tab": [
+        "android_bootable_cboot_common",
         "android_bootable_cboot_lk",
+        "android_bootable_cboot_t18x",
+        "android_bootable_cboot_t19x",
         "android_device_nvidia_quill",
         "android_device_nvidia_quill_tab",
         "android_device_nvidia_sepolicy",
@@ -1998,15 +1991,12 @@
         "android_device_nvidia_t186-common",
         "android_device_nvidia_tegra-common",
         "android_hardware_nvidia_boot_control",
+        "android_hardware_nvidia_hwinc",
         "android_hardware_nvidia_interfaces",
         "android_hardware_nvidia_light",
-        "android_hardware_nvidia_platform_t18x_common",
         "android_hardware_nvidia_platform_t18x_lanai",
         "android_hardware_nvidia_platform_t18x_quill",
-        "android_hardware_nvidia_platform_tegra_common",
         "android_hardware_nvidia_power",
-        "android_hardware_nvidia_soc_t18x",
-        "android_hardware_nvidia_soc_tegra",
         "android_hardware_nvidia_thermal",
         "android_kernel_nvidia_kernel",
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common",
@@ -2042,8 +2032,7 @@
         "android_device_motorola_racer",
         "android_device_motorola_sm7250-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm7250",
-        "android_system_qcom"
+        "android_kernel_motorola_sm7250"
     ],
     "radxa0": [
         "android_device_amlogic_common",
@@ -2097,8 +2086,7 @@
         "android_device_motorola_sdm632-common",
         "android_external_bson",
         "android_hardware_motorola",
-        "android_kernel_motorola_sdm632",
-        "android_system_qcom"
+        "android_kernel_motorola_sdm632"
     ],
     "rs988": [
         "android_device_lge_common",
@@ -2250,8 +2238,7 @@
         "android_device_motorola_sm7250-common",
         "android_device_motorola_smith",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm7250",
-        "android_system_qcom"
+        "android_kernel_motorola_sm7250"
     ],
     "sunfish": [
         "android_device_google_sunfish",
@@ -2304,8 +2291,7 @@
         "android_hardware_samsung_slsi_libbt",
         "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
         "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
-        "android_kernel_motorola_exynos9610",
-        "android_system_qcom"
+        "android_kernel_motorola_exynos9610"
     ],
     "tsubasa": [
         "android_device_sony_blue-common",
