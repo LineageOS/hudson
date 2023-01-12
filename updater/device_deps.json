@@ -207,7 +207,7 @@
     "barbet": [
         "android_device_google_barbet",
         "android_device_google_redbull",
-        "android_kernel_google_barbet"
+        "android_kernel_google_redbull"
     ],
     "bardock": [
         "android_device_bq_bardock",
@@ -291,7 +291,7 @@
     "bluejay": [
         "android_device_google_bluejay",
         "android_device_google_gs101",
-        "android_kernel_google_bluejay"
+        "android_kernel_google_gs101"
     ],
     "blueline": [
         "android_device_google_blueline",
@@ -369,6 +369,14 @@
         "android_hardware_oneplus",
         "android_kernel_oneplus_msm8998"
     ],
+    "cheetah": [
+        "android_device_google_cheetah",
+        "android_device_google_gs101",
+        "android_device_google_gs201",
+        "android_device_google_pantah",
+        "android_kernel_google_gs101",
+        "android_kernel_google_gs201"
+    ],
     "chef": [
         "android_device_motorola_chef",
         "android_device_motorola_sdm660-common",
@@ -384,6 +392,7 @@
     "chiron": [
         "android_device_xiaomi_chiron",
         "android_device_xiaomi_msm8998-common",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_msm8998"
     ],
     "clark": [
@@ -601,6 +610,7 @@
         "android_hardware_nvidia_platform_t210_common",
         "android_hardware_nvidia_platform_t210_foster",
         "android_hardware_nvidia_platform_t210_jetson",
+        "android_hardware_nvidia_platform_t210b01_common",
         "android_hardware_nvidia_platform_t210b01_darcy",
         "android_hardware_nvidia_platform_t210b01_ers",
         "android_hardware_nvidia_platform_t210b01_sif",
@@ -637,7 +647,8 @@
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia",
         "android_kernel_nvidia_wireguard",
-        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
     "foster_tab": [
         "android_device_nvidia_foster",
@@ -651,6 +662,7 @@
         "android_hardware_nvidia_platform_t210_common",
         "android_hardware_nvidia_platform_t210_foster",
         "android_hardware_nvidia_platform_t210_jetson",
+        "android_hardware_nvidia_platform_t210b01_common",
         "android_hardware_nvidia_platform_t210b01_darcy",
         "android_hardware_nvidia_platform_t210b01_ers",
         "android_hardware_nvidia_platform_t210b01_sif",
@@ -687,7 +699,8 @@
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia",
         "android_kernel_nvidia_wireguard",
-        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
     "fugu": [
         "android_device_asus_fugu",
@@ -739,6 +752,7 @@
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_tegra",
         "android_kernel_nvidia_linux-4.9_kernel_nvgpu",
         "android_kernel_nvidia_linux-4.9_kernel_nvidia",
+        "android_kernel_nvidia_nvethernetrm",
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia",
         "android_kernel_nvidia_wireguard",
@@ -791,6 +805,7 @@
         "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_tegra",
         "android_kernel_nvidia_linux-4.9_kernel_nvgpu",
         "android_kernel_nvidia_linux-4.9_kernel_nvidia",
+        "android_kernel_nvidia_nvethernetrm",
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia",
         "android_kernel_nvidia_wireguard",
@@ -830,6 +845,12 @@
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_sdm710"
     ],
+    "gs201": [
+        "android_device_google_gs101",
+        "android_device_google_gs201",
+        "android_kernel_google_gs101",
+        "android_kernel_google_gs201"
+    ],
     "gta4xl": [
         "android_device_samsung_gta4xl",
         "android_device_samsung_gta4xl-common",
@@ -865,13 +886,13 @@
     "guacamole": [
         "android_device_oneplus_guacamole",
         "android_device_oneplus_sm8150-common",
-        "android_hardware_oneplus",
+        "android_hardware_oplus",
         "android_kernel_oneplus_sm8150"
     ],
     "guacamoleb": [
         "android_device_oneplus_guacamoleb",
         "android_device_oneplus_sm8150-common",
-        "android_hardware_oneplus",
+        "android_hardware_oplus",
         "android_kernel_oneplus_sm8150"
     ],
     "h830": [
@@ -958,6 +979,13 @@
         "android_kernel_sony_msm8x60",
         "android_packages_resources_devicesettings"
     ],
+    "haydn": [
+        "android_device_xiaomi_haydn",
+        "android_device_xiaomi_sm8350-common",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_sm8350",
+        "android_vendor_qcom_opensource_healthd-ext"
+    ],
     "heart": [
         "android_device_lenovo_heart",
         "android_device_lenovo_sm8150-common",
@@ -1018,13 +1046,13 @@
     "hotdog": [
         "android_device_oneplus_hotdog",
         "android_device_oneplus_sm8150-common",
-        "android_hardware_oneplus",
+        "android_hardware_oplus",
         "android_kernel_oneplus_sm8150"
     ],
     "hotdogb": [
         "android_device_oneplus_hotdogb",
         "android_device_oneplus_sm8150-common",
-        "android_hardware_oneplus",
+        "android_hardware_oplus",
         "android_kernel_oneplus_sm8150"
     ],
     "huashan": [
@@ -1051,6 +1079,7 @@
         "android_hardware_nvidia_platform_t210_common",
         "android_hardware_nvidia_platform_t210_foster",
         "android_hardware_nvidia_platform_t210_jetson",
+        "android_hardware_nvidia_platform_t210b01_common",
         "android_hardware_nvidia_platform_t210b01_darcy",
         "android_hardware_nvidia_platform_t210b01_ers",
         "android_hardware_nvidia_platform_t210b01_sif",
@@ -1087,7 +1116,8 @@
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia",
         "android_kernel_nvidia_wireguard",
-        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
     "instantnoodle": [
         "android_device_oneplus_instantnoodle",
@@ -1191,7 +1221,8 @@
         "android_hardware_samsung_slsi_libbt",
         "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
         "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
-        "android_kernel_motorola_exynos9610"
+        "android_kernel_motorola_exynos9610",
+        "android_system_qcom"
     ],
     "kebab": [
         "android_device_oneplus_kebab",
@@ -1202,7 +1233,8 @@
     "kiev": [
         "android_device_motorola_kiev",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm7250"
+        "android_kernel_motorola_sm7250",
+        "android_system_qcom"
     ],
     "kirin": [
         "android_device_sony_kirin",
@@ -1335,6 +1367,20 @@
         "android_hardware_oplus",
         "android_kernel_oneplus_sm8350"
     ],
+    "liber": [
+        "android_device_motorola_liber",
+        "android_device_motorola_sm6150-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm6150",
+        "android_system_qcom"
+    ],
+    "lisa": [
+        "android_device_xiaomi_lisa",
+        "android_device_xiaomi_sm8350-common",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_sm8350",
+        "android_vendor_qcom_opensource_healthd-ext"
+    ],
     "lithium": [
         "android_device_xiaomi_lithium",
         "android_device_xiaomi_msm8996-common",
@@ -1361,6 +1407,7 @@
         "android_hardware_nvidia_platform_t210_common",
         "android_hardware_nvidia_platform_t210_foster",
         "android_hardware_nvidia_platform_t210_jetson",
+        "android_hardware_nvidia_platform_t210b01_common",
         "android_hardware_nvidia_platform_t210b01_darcy",
         "android_hardware_nvidia_platform_t210b01_ers",
         "android_hardware_nvidia_platform_t210b01_sif",
@@ -1397,7 +1444,8 @@
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia",
         "android_kernel_nvidia_wireguard",
-        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
     "ls980": [
         "android_device_lge_g2-common",
@@ -1479,6 +1527,7 @@
     ],
     "mata": [
         "android_device_essential_mata",
+        "android_hardware_sony_timekeep",
         "android_kernel_essential_msm8998"
     ],
     "mdarcy": [
@@ -1493,6 +1542,7 @@
         "android_hardware_nvidia_platform_t210_common",
         "android_hardware_nvidia_platform_t210_foster",
         "android_hardware_nvidia_platform_t210_jetson",
+        "android_hardware_nvidia_platform_t210b01_common",
         "android_hardware_nvidia_platform_t210b01_darcy",
         "android_hardware_nvidia_platform_t210b01_ers",
         "android_hardware_nvidia_platform_t210b01_sif",
@@ -1529,7 +1579,8 @@
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia",
         "android_kernel_nvidia_wireguard",
-        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
     "merlin": [
         "android_device_motorola_merlin",
@@ -1588,7 +1639,8 @@
         "android_device_motorola_nairo",
         "android_device_motorola_sm7250-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm7250"
+        "android_kernel_motorola_sm7250",
+        "android_system_qcom"
     ],
     "nash": [
         "android_device_motorola_nash",
@@ -1610,6 +1662,46 @@
         "android_kernel_motorola_sm8250",
         "android_system_qcom"
     ],
+    "nx": [
+        "android_device_nintendo_nx",
+        "android_device_nvidia_sepolicy",
+        "android_device_nvidia_t210-common",
+        "android_device_nvidia_tegra-common",
+        "android_hardware_nvidia_interfaces",
+        "android_hardware_nvidia_light",
+        "android_hardware_nvidia_platform_t210_icosa",
+        "android_hardware_nvidia_power",
+        "android_hardware_nvidia_thermal",
+        "android_kernel_nvidia_cypress-fmac-upstream",
+        "android_kernel_nvidia_kernel",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_lanai",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_quill",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_galen_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_jakku_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_mccoy_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_batuu_kernel-dts",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_jetson",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_porg",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_darcy",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_ers",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_sif",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_tegra_common",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t18x",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t19x",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t210",
+        "android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_tegra",
+        "android_kernel_nvidia_linux-4.9_kernel_nvgpu",
+        "android_kernel_nvidia_linux-4.9_kernel_nvidia",
+        "android_kernel_nvidia_nvgpu",
+        "android_kernel_nvidia_nvidia",
+        "android_kernel_nvidia_wireguard",
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
+    ],
     "nx563j": [
         "android_device_nubia_msm8998-common",
         "android_device_nubia_nx563j",
@@ -1620,9 +1712,7 @@
         "android_kernel_nubia_sdm660"
     ],
     "obiwan": [
-        "android_device_asus_obiwan",
-        "android_device_asus_sm8250-common",
-        "android_kernel_asus_sm8250"
+        "android_device_asus_obiwan"
     ],
     "ocean": [
         "android_device_motorola_ocean",
@@ -1630,6 +1720,13 @@
         "android_external_bson",
         "android_hardware_motorola",
         "android_kernel_motorola_sdm632",
+        "android_system_qcom"
+    ],
+    "odessa": [
+        "android_device_motorola_odessa",
+        "android_device_motorola_sm6150-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm6150",
         "android_system_qcom"
     ],
     "odroidc4": [
@@ -1658,7 +1755,7 @@
         "android_device_google_gs101",
         "android_device_google_oriole",
         "android_device_google_raviole",
-        "android_kernel_google_raviole"
+        "android_kernel_google_gs101"
     ],
     "osprey": [
         "android_device_motorola_msm8916-common",
@@ -1670,11 +1767,27 @@
         "android_kernel_motorola_msm8916",
         "android_system_qcom"
     ],
+    "pantah": [
+        "android_device_google_gs101",
+        "android_device_google_gs201",
+        "android_device_google_pantah",
+        "android_kernel_google_gs101",
+        "android_kernel_google_gs201"
+    ],
+    "panther": [
+        "android_device_google_gs101",
+        "android_device_google_gs201",
+        "android_device_google_pantah",
+        "android_device_google_panther",
+        "android_kernel_google_gs101",
+        "android_kernel_google_gs201"
+    ],
     "parker": [
         "android_device_motorola_parker",
         "android_device_motorola_sm6150-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm6150"
+        "android_kernel_motorola_sm6150",
+        "android_system_qcom"
     ],
     "payton": [
         "android_device_motorola_payton",
@@ -1730,6 +1843,7 @@
         "android_hardware_nvidia_platform_t210_foster",
         "android_hardware_nvidia_platform_t210_jetson",
         "android_hardware_nvidia_platform_t210_porg",
+        "android_hardware_nvidia_platform_t210b01_common",
         "android_hardware_nvidia_platform_t210b01_darcy",
         "android_hardware_nvidia_platform_t210b01_ers",
         "android_hardware_nvidia_platform_t210b01_sif",
@@ -1766,7 +1880,8 @@
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia",
         "android_kernel_nvidia_wireguard",
-        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
     "porg_tab": [
         "android_device_nvidia_foster",
@@ -1784,6 +1899,7 @@
         "android_hardware_nvidia_platform_t210_foster",
         "android_hardware_nvidia_platform_t210_jetson",
         "android_hardware_nvidia_platform_t210_porg",
+        "android_hardware_nvidia_platform_t210b01_common",
         "android_hardware_nvidia_platform_t210b01_darcy",
         "android_hardware_nvidia_platform_t210b01_ers",
         "android_hardware_nvidia_platform_t210b01_sif",
@@ -1820,7 +1936,8 @@
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia",
         "android_kernel_nvidia_wireguard",
-        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
     "pro1": [
         "android_device_fxtec_pro1",
@@ -1888,7 +2005,8 @@
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia",
         "android_kernel_nvidia_wireguard",
-        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
     "quill_tab": [
         "android_bootable_cboot_common",
@@ -1940,13 +2058,15 @@
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia",
         "android_kernel_nvidia_wireguard",
-        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
     "racer": [
         "android_device_motorola_racer",
         "android_device_motorola_sm7250-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm7250"
+        "android_kernel_motorola_sm7250",
+        "android_system_qcom"
     ],
     "radxa0": [
         "android_device_amlogic_common",
@@ -1972,12 +2092,19 @@
         "android_device_google_gs101",
         "android_device_google_raven",
         "android_device_google_raviole",
-        "android_kernel_google_raviole"
+        "android_kernel_google_gs101"
     ],
     "redfin": [
         "android_device_google_redbull",
         "android_device_google_redfin",
         "android_kernel_google_redbull"
+    ],
+    "renoir": [
+        "android_device_xiaomi_renoir",
+        "android_device_xiaomi_sm8350-common",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_sm8350",
+        "android_vendor_qcom_opensource_healthd-ext"
     ],
     "rhannah": [
         "android_device_motorola_hannah-common",
@@ -2063,6 +2190,7 @@
     "sagit": [
         "android_device_xiaomi_msm8998-common",
         "android_device_xiaomi_sagit",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_msm8998"
     ],
     "sailfish": [
@@ -2145,7 +2273,8 @@
         "android_device_motorola_sm7250-common",
         "android_device_motorola_smith",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm7250"
+        "android_kernel_motorola_sm7250",
+        "android_system_qcom"
     ],
     "sunfish": [
         "android_device_google_sunfish",
@@ -2198,7 +2327,8 @@
         "android_hardware_samsung_slsi_libbt",
         "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
         "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
-        "android_kernel_motorola_exynos9610"
+        "android_kernel_motorola_exynos9610",
+        "android_system_qcom"
     ],
     "tsubasa": [
         "android_device_sony_blue-common",
