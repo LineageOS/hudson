@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6c1cb3e6_2299d1f7",
+        "filename": "updater/device_deps.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 848,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2023-01-13T15:18:22Z",
+      "side": 1,
+      "message": "This needs to be added to the denylist, since it\u0027s a common tree.\nSame with pantah.\nhttps://github.com/LineageOS/scripts/blob/master/device-deps-regenerator/devices.py#L8",
+      "range": {
+        "startLine": 848,
+        "startChar": 5,
+        "endLine": 848,
+        "endChar": 10
+      },
+      "revId": "b720a29001452adceb3aea915547c13afd32d9ea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
