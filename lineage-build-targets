@@ -19,6 +19,7 @@ cheeseburger userdebug lineage-20.0 W
 chef userdebug lineage-20.0 W
 chiron userdebug lineage-20.0 W
 coral userdebug lineage-20.0 W
+deadpool userdebug lineage-20.0 W
 dipper userdebug lineage-20.0 W
 DRG userdebug lineage-20.0 W
 dubai userdebug lineage-20.0 W
@@ -64,6 +65,7 @@ taimen userdebug lineage-20.0 W
 TP1803 userdebug lineage-20.0 W
 troika userdebug lineage-20.0 W
 ursa userdebug lineage-20.0 W
+wade userdebug lineage-20.0 W
 walleye userdebug lineage-20.0 W
 xmsirius userdebug lineage-20.0 W
 xz2c userdebug lineage-20.0 W
@@ -84,7 +86,6 @@ crosshatch userdebug lineage-19.1 W
 d1 userdebug lineage-19.1 W
 d2s userdebug lineage-19.1 W
 d2x userdebug lineage-19.1 W
-deadpool userdebug lineage-19.1 W
 discovery userdebug lineage-19.1 W
 dre userdebug lineage-19.1 W
 FP3 userdebug lineage-19.1 W
@@ -114,7 +115,11 @@ sargo userdebug lineage-19.1 W
 tissot userdebug lineage-19.1 W
 vayu userdebug lineage-19.1 W
 voyager userdebug lineage-19.1 W
+<<<<<<< HEAD
 wade userdebug lineage-19.1 W
+=======
+walleye userdebug lineage-19.1 W
+>>>>>>> 6cded46 (AM-not-so-logical lives on)
 X00TD userdebug lineage-19.1 W
 z2_plus userdebug lineage-19.1 W
 
