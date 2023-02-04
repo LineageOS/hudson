@@ -1586,6 +1586,13 @@
         "android_kernel_motorola_msm8916",
         "android_system_qcom"
     ],
+    "merlinx": [
+        "android_device_xiaomi_merlinx",
+        "android_device_xiaomi_mt6768-common",
+        "android_hardware_mediatek",
+        "android_kernel_xiaomi_mt6768",
+        "android_packages_apps_MtkFMRadio"
+    ],
     "mermaid": [
         "android_device_sony_mermaid",
         "android_device_sony_nile-common",
