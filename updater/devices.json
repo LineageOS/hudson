@@ -128,6 +128,7 @@
   {  "model": "gts28vewifi", "oem": "Samsung", "name": "Galaxy Tab S2 8.0 2016 (Wi-Fi)", "lineage_recovery": false },
   {  "model": "gta4xl", "oem": "Samsung", "name": "Galaxy Tab S6 Lite (LTE)" },
   {  "model": "gta4xlwifi", "oem": "Samsung", "name": "Galaxy Tab S6 Lite (Wi-Fi)" },
+  {  "model": "gtowifi", "oem": "Samsung", "name": "Galaxy Tab A 8.0 2019 (Wi-Fi)" },
   {  "model": "gts4lv", "oem": "Samsung", "name": "Galaxy Tab S5e (LTE)" },
   {  "model": "gts4lvwifi", "oem": "Samsung", "name": "Galaxy Tab S5e (Wi-Fi)" },
   {  "model": "guacamole", "oem": "OnePlus", "name": "7 Pro" },

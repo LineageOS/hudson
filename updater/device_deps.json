@@ -865,6 +865,10 @@
         "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
         "android_kernel_samsung_gta4xl"
     ],
+    "gtowifi": [
+        "android_device_samsung_gtowifi",
+        "android_kernel_samsung_sdm429"
+    ],
     "gts4lv": [
         "android_device_samsung_gts4lv",
         "android_device_samsung_gts4lv-common",
