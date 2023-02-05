@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4af86861_b32c4a1f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-02-05T22:19:30Z",
+      "side": 1,
+      "message": "Holding for audio patches in this chain https://review.lineageos.org/q/Ice140c9cf5d87c600bc7f480c3df0766138822c7",
+      "revId": "bfd063406d523ec834cd3bc2e6c69eec5c6d41f1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
