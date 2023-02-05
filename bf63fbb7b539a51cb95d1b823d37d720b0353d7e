@@ -33,6 +33,24 @@
       "message": "needs vendor manifest merged first",
       "revId": "bf63fbb7b539a51cb95d1b823d37d720b0353d7e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ca00306d_99ecf501",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14962
+      },
+      "writtenOn": "2023-02-05T23:36:43Z",
+      "side": 1,
+      "message": "I made a pull request.\nhttps://github.com/TheMuppets/manifests/pull/45",
+      "parentUuid": "96a93179_5d7a7195",
+      "revId": "bf63fbb7b539a51cb95d1b823d37d720b0353d7e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
