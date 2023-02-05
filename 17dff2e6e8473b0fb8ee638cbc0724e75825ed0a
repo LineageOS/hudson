@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ab81dbde_2adf9987",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 31496
+      },
+      "writtenOn": "2023-02-05T02:45:57Z",
+      "side": 1,
+      "message": "After devrel, only the 19.1 branch was forked. I do have working A13 (the BT issue I mentioned in devrel was resolved), but I was unsure if this decision meant that I should stick to 19.1 to begin with, or I bringup A13 and start with that instead. \n\nSo for now both wiki and hudson are 19.1. Would like to RFC.",
+      "revId": "17dff2e6e8473b0fb8ee638cbc0724e75825ed0a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
