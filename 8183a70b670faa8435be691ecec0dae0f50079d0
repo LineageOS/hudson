@@ -33,6 +33,23 @@
       "message": "Ready.",
       "revId": "8183a70b670faa8435be691ecec0dae0f50079d0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c9cbac7d_3222ae6c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2023-02-05T14:55:28Z",
+      "side": 1,
+      "message": "Wait, I just realized that this is required and isn\u0027t merged yet\n\nhttps://review.lineageos.org/c/LineageOS/android_hardware_qcom_audio/+/347106",
+      "revId": "8183a70b670faa8435be691ecec0dae0f50079d0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
