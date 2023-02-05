@@ -70,6 +70,24 @@
       "parentUuid": "192de94d_7dc85459",
       "revId": "17dff2e6e8473b0fb8ee638cbc0724e75825ed0a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "15ed9b56_6517a392",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2023-02-05T08:24:42Z",
+      "side": 1,
+      "message": "From my tests, It disconnects automatically (3 secs after paired) with a wide range of devices\n\nI have MSM8916(A11)/MSM8937/MSM8953/SDM439/SDM660/SDM710/SM8250/Legacy MTK(A6.0)/USB BT Adapter(Win8.1)/Intel Wireless-AC 3165(Win10)\n\nIt disconnects automatically in literally every combinations (one side runs Android 13), only except the below ones which doesn\u0027t:\n- A13 MSM8937/MSM8953 \u003c\u003d\u003e A12.1 and lower MSM8937/MSM8953\n- A13 on all devices \u003c\u003d\u003e A11 MSM8916\n\nHowever, If it\u0027s paired with some kind of data transferring enabled (i.e. BT Tethering), it works fine\n\nI don\u0027t 100% sure if it\u0027s an issue or not, I heard 2 guys said it\u0027s new behavior of A13 (doubt)\n\nApart from these, connecting to my BT speaker/keyboard/headset is fine",
+      "parentUuid": "8b5b8b7d_45c2bdd8",
+      "revId": "17dff2e6e8473b0fb8ee638cbc0724e75825ed0a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
