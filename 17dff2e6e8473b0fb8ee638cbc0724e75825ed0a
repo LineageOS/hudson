@@ -123,6 +123,24 @@
       "message": "More than happy to start you on 19.1 and promote to 20 later.\n\nOr not, just push a Muppets manifest change to add gto to 20 manifest, then we can ship 20.",
       "revId": "17dff2e6e8473b0fb8ee638cbc0724e75825ed0a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f53ab377_8f0ae5d9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 31496
+      },
+      "writtenOn": "2023-02-06T04:03:08Z",
+      "side": 1,
+      "message": "I\u0027ll switch to 20 in that case.",
+      "parentUuid": "6af1650c_65f9a189",
+      "revId": "17dff2e6e8473b0fb8ee638cbc0724e75825ed0a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
