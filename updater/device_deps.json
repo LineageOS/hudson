@@ -249,6 +249,13 @@
         "android_kernel_motorola_sm7325",
         "android_system_qcom"
     ],
+    "berlna": [
+        "android_device_motorola_berlna",
+        "android_device_motorola_sm7325-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm7325",
+        "android_system_qcom"
+    ],
     "beryllium": [
         "android_device_xiaomi_beryllium",
         "android_device_xiaomi_sdm845-common",
