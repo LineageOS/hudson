@@ -218,6 +218,7 @@
   {  "model": "lavender", "oem": "Xiaomi", "name": "Redmi Note 7" },
   {  "model": "lemonade", "oem": "OnePlus", "name": "9" },
   {  "model": "lemonadep", "oem": "OnePlus", "name": "9 Pro" },
+  {  "model": "lemonades", "oem": "OnePlus", "name": "9R" },
   {  "model": "lentislte", "oem": "Samsung", "name": "Galaxy S5 LTE-A", "lineage_recovery": false },
   {  "model": "lettuce", "oem": "YU", "name": "Yuphoria", "lineage_recovery": false },
   {  "model": "liber", "oem": "Motorola", "name": "one fusion+" },
