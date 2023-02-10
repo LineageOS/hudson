@@ -21,6 +21,19 @@
         "android_device_fairphone_FP4",
         "android_kernel_fairphone_sm7225"
     ],
+    "Mi439": [
+        "android_device_xiaomi_Mi439",
+        "android_device_xiaomi_mithorium-common"
+    ],
+    "Mi8917": [
+        "android_device_xiaomi_Mi8917",
+        "android_device_xiaomi_Mi8937",
+        "android_device_xiaomi_mithorium-common"
+    ],
+    "Mi8937": [
+        "android_device_xiaomi_Mi8937",
+        "android_device_xiaomi_mithorium-common"
+    ],
     "OP4A7A": [
         "android_device_oppo_OP4A7A"
     ],
@@ -1350,9 +1363,12 @@
         "android_system_qcom"
     ],
     "lancelot": [
+        "android_device_mediatek_sepolicy_vndr",
         "android_device_xiaomi_lancelot",
         "android_device_xiaomi_mt6768-common",
-        "android_kernel_xiaomi_mt6768"
+        "android_hardware_mediatek",
+        "android_kernel_xiaomi_mt6768",
+        "android_packages_apps_MtkFMRadio"
     ],
     "lavender": [
         "android_device_xiaomi_lavender",
@@ -1371,6 +1387,12 @@
         "android_device_oneplus_sm8350-common",
         "android_hardware_oplus",
         "android_kernel_oneplus_sm8350"
+    ],
+    "lemonades": [
+        "android_device_oneplus_lemonades",
+        "android_device_oneplus_sm8250-common",
+        "android_hardware_oplus",
+        "android_kernel_oneplus_sm8250"
     ],
     "liber": [
         "android_device_motorola_liber",
@@ -1598,6 +1620,7 @@
         "android_system_qcom"
     ],
     "merlinx": [
+        "android_device_mediatek_sepolicy_vndr",
         "android_device_xiaomi_merlinx",
         "android_device_xiaomi_mt6768-common",
         "android_hardware_mediatek",
@@ -1808,6 +1831,12 @@
         "android_hardware_sony",
         "android_kernel_sony_sm8250"
     ],
+    "pdx206": [
+        "android_device_sony_pdx206",
+        "android_device_sony_sm8250-common",
+        "android_hardware_sony",
+        "android_kernel_sony_sm8250"
+    ],
     "perseus": [
         "android_device_xiaomi_perseus",
         "android_device_xiaomi_sdm845-common",
@@ -1947,6 +1976,10 @@
     "pro1": [
         "android_device_fxtec_pro1",
         "android_kernel_fxtec_msm8998"
+    ],
+    "pro1x": [
+        "android_device_fxtec_pro1x",
+        "android_kernel_fxtec_s6115"
     ],
     "pstar": [
         "android_device_motorola_pstar",
