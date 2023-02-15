@@ -16,6 +16,23 @@
       "message": "Charter passes in all respects.",
       "revId": "201670d8727fa6c8c7a816116cbff181d7285375",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f250fa98_01d5c4ca",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-02-15T05:55:41Z",
+      "side": 1,
+      "message": "Ideally, would like to ship this before Monday to catch the 02-20 build.\n\nTotally open to stop ships or objections before then, but this stuff has been marinating/testing on XDA for some time and no oddities reported yet.",
+      "revId": "201670d8727fa6c8c7a816116cbff181d7285375",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
