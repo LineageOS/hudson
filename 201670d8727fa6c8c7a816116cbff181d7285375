@@ -33,6 +33,24 @@
       "message": "Ideally, would like to ship this before Monday to catch the 02-20 build.\n\nTotally open to stop ships or objections before then, but this stuff has been marinating/testing on XDA for some time and no oddities reported yet.",
       "revId": "201670d8727fa6c8c7a816116cbff181d7285375",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d016bb11_543f0ef2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2023-02-15T05:57:00Z",
+      "side": 1,
+      "message": "Not until I verify that the kernel backport was actually complete this year.",
+      "parentUuid": "f250fa98_01d5c4ca",
+      "revId": "201670d8727fa6c8c7a816116cbff181d7285375",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
