@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "47a134c5_902a267c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 31496
+      },
+      "writtenOn": "2023-02-25T22:17:54Z",
+      "side": 1,
+      "message": "https://github.com/TheMuppets/manifests/pull/49",
+      "revId": "9cc7f0df6b97f5f5a191e96e2fc36cea7cc9e584",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
