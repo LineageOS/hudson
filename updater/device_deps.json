@@ -961,6 +961,13 @@
         "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
+    "h932": [
+        "android_device_lge_h932",
+        "android_device_lge_joan-common",
+        "android_hardware_lge",
+        "android_hardware_sony_timekeep",
+        "android_kernel_lge_msm8998"
+    ],
     "h990": [
         "android_device_lge_common",
         "android_device_lge_h990",
@@ -1228,6 +1235,13 @@
         "android_device_samsung_qcom-common",
         "android_hardware_samsung",
         "android_kernel_samsung_jf"
+    ],
+    "joan": [
+        "android_device_lge_joan",
+        "android_device_lge_joan-common",
+        "android_hardware_lge",
+        "android_hardware_sony_timekeep",
+        "android_kernel_lge_msm8998"
     ],
     "kane": [
         "android_device_motorola_exynos9610-common",
