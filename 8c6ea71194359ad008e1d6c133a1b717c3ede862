@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f167495f_6e527f15",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-02-25T00:47:42Z",
+      "side": 1,
+      "message": "The Lineage Recovery issue that blocked this for so long is solved.",
+      "revId": "8c6ea71194359ad008e1d6c133a1b717c3ede862",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
