@@ -217,6 +217,7 @@
   {  "model": "kugo", "oem": "Sony", "name": "Xperia X Compact" },
   {  "model": "kuntao", "oem": "Lenovo", "name": "P2 (P2a42 Intl)" },
   {  "model": "lake", "oem": "Motorola", "name": "moto g7 plus" },
+  {  "model": "lancelot", "oem": "Xiaomi", "name": "Redmi 9" },
   {  "model": "land", "oem": "Xiaomi", "name": "Redmi 3S / 3X", "lineage_recovery": false },
   {  "model": "lavender", "oem": "Xiaomi", "name": "Redmi Note 7" },
   {  "model": "lemonade", "oem": "OnePlus", "name": "9" },
