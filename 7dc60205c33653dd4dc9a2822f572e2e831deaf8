@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a8351bd9_0570f2ca",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-02-28T23:38:48Z",
+      "side": 1,
+      "message": "pls do so on wiki too",
+      "revId": "7dc60205c33653dd4dc9a2822f572e2e831deaf8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fd990e76_d10dab54",
+        "filename": "updater/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 379,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-02-28T23:38:48Z",
+      "side": 1,
+      "message": "rest of internet seems to think it\u0027s \"CC9\" no space?",
+      "range": {
+        "startLine": 379,
+        "startChar": 51,
+        "endLine": 379,
+        "endChar": 55
+      },
+      "revId": "7dc60205c33653dd4dc9a2822f572e2e831deaf8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
