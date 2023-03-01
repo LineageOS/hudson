@@ -16,6 +16,23 @@
       "message": "hold - you need a vendor manifest change for this.",
       "revId": "30acd7d9f936c5354542dd01115fcd68e6b449a9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cebbbc86_06f98319",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2023-03-01T10:38:35Z",
+      "side": 1,
+      "message": "https://github.com/TheMuppets/manifests/pull/52",
+      "revId": "30acd7d9f936c5354542dd01115fcd68e6b449a9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
