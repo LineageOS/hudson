@@ -16,6 +16,23 @@
       "message": "Hold until new 19.1 build for Mi8917 \u0026 Mi8937 arrives on March 3rd",
       "revId": "8bc6a191960c881566d2fe7863df1f72fefca0bb",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c3c516ba_b4c82593",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2023-03-03T12:02:36Z",
+      "side": 1,
+      "message": "Ready.",
+      "revId": "8bc6a191960c881566d2fe7863df1f72fefca0bb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
