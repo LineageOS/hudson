@@ -16,6 +16,23 @@
       "message": "Please merge PR https://gitlab.com/the-muppets/proprietary_vendor_firmware/-/merge_requests/26 before merging this. Thanks.",
       "revId": "4ab2991fa07ce55d1d42662255fb82ab47c88c4d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e316e139_3b347c7f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-03-09T19:29:28Z",
+      "side": 1,
+      "message": "need your cr/v",
+      "revId": "4ab2991fa07ce55d1d42662255fb82ab47c88c4d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
