@@ -380,6 +380,7 @@
   {  "model": "v521", "oem": "LG", "name": "G Pad X 8.0 (TMO)", "lineage_recovery": false },
   {  "model": "vayu", "oem": "Xiaomi", "name": "POCO X3 Pro" },
   {  "model": "vegetalte", "oem": "BQ", "name": "Aquaris E5 4G", "lineage_recovery": false },
+  {  "model": "vela", "oem": "Xiaomi", "name": "Mi CC9 Meitu Edition" },
   {  "model": "victara", "oem": "Motorola", "name": "moto x (2014)" },
   {  "model": "violet", "oem": "Xiaomi", "name": "Redmi Note 7 Pro", "lineage_recovery": false },
   {  "model": "voyager", "oem": "Sony", "name": "Xperia XA2 Plus" },
