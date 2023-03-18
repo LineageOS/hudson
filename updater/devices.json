@@ -142,6 +142,7 @@
   {  "model": "h830", "oem": "LG", "name": "G5 (TMO)" },
   {  "model": "h850", "oem": "LG", "name": "G5 (Intl)" },
   {  "model": "h870", "oem": "LG", "name": "G6 (EU)", "lineage_recovery": false },
+  {  "model": "h872", "oem": "LG", "name": "G6 (T-Mobile)", "lineage_recovery": false },
   {  "model": "h910", "oem": "LG", "name": "V20 (AT&T)" },
   {  "model": "h918", "oem": "LG", "name": "V20 (TMO)" },
   {  "model": "h932", "oem": "LG", "name": "V30 (T-Mobile)" },
