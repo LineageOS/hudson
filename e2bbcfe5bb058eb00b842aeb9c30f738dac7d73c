@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ab7b0df0_aada0d53",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-03-25T06:21:40Z",
+      "side": 1,
+      "message": "holding for vendor manifest",
+      "revId": "e2bbcfe5bb058eb00b842aeb9c30f738dac7d73c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
