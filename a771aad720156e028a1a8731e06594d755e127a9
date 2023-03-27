@@ -33,6 +33,23 @@
       "message": "signoff for v20",
       "revId": "a771aad720156e028a1a8731e06594d755e127a9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8730dc56_af19901c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 24773
+      },
+      "writtenOn": "2023-03-27T14:33:17Z",
+      "side": 1,
+      "message": "signoff for G5",
+      "revId": "a771aad720156e028a1a8731e06594d755e127a9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
