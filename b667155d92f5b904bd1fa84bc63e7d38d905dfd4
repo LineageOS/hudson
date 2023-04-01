@@ -33,6 +33,24 @@
       "message": "https://review.lineageos.org/#/c/353177",
       "revId": "b667155d92f5b904bd1fa84bc63e7d38d905dfd4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "07e5ae9e_df9e1ea7",
+        "filename": "updater/device_deps.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 1773,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2023-04-01T15:37:46Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f4270b6d_9ff1dd7d",
+      "revId": "b667155d92f5b904bd1fa84bc63e7d38d905dfd4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
