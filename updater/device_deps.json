@@ -21,18 +21,25 @@
         "android_device_fairphone_FP4",
         "android_kernel_fairphone_sm7225"
     ],
+    "G": [
+        "android_device_10or_G",
+        "android_kernel_10or_G"
+    ],
     "Mi439": [
         "android_device_xiaomi_Mi439",
-        "android_device_xiaomi_mithorium-common"
+        "android_device_xiaomi_mithorium-common",
+        "android_kernel_xiaomi_sdm439"
     ],
     "Mi8917": [
         "android_device_xiaomi_Mi8917",
         "android_device_xiaomi_Mi8937",
-        "android_device_xiaomi_mithorium-common"
+        "android_device_xiaomi_mithorium-common",
+        "android_kernel_xiaomi_msm8937"
     ],
     "Mi8937": [
         "android_device_xiaomi_Mi8937",
-        "android_device_xiaomi_mithorium-common"
+        "android_device_xiaomi_mithorium-common",
+        "android_kernel_xiaomi_msm8937"
     ],
     "OP4A7A": [
         "android_device_oppo_OP4A7A"
@@ -205,6 +212,11 @@
         "android_device_sony_tama-common",
         "android_hardware_sony_SonyOpenTelephony",
         "android_kernel_sony_sdm845"
+    ],
+    "avicii": [
+        "android_device_oneplus_avicii",
+        "android_hardware_oplus",
+        "android_kernel_oneplus_sm7250"
     ],
     "axolotl": [
         "android_device_shift_axolotl",
@@ -776,7 +788,8 @@
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia",
         "android_kernel_nvidia_wireguard",
-        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
     "galen_tab": [
         "android_bootable_cboot_common",
@@ -829,7 +842,8 @@
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia",
         "android_kernel_nvidia_wireguard",
-        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
     "gauguin": [
         "android_device_xiaomi_gauguin",
@@ -845,6 +859,7 @@
     "ginkgo": [
         "android_device_xiaomi_ginkgo",
         "android_device_xiaomi_sm6125-common",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_sm6125"
     ],
     "goldfish": [
@@ -887,6 +902,7 @@
     ],
     "gtowifi": [
         "android_device_samsung_gtowifi",
+        "android_hardware_samsung",
         "android_kernel_samsung_sdm429"
     ],
     "gts4lv": [
@@ -914,50 +930,50 @@
         "android_kernel_oneplus_sm8150"
     ],
     "h830": [
-        "android_device_lge_common",
         "android_device_lge_g5-common",
         "android_device_lge_h830",
         "android_device_lge_msm8996-common",
+        "android_hardware_lge",
         "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
     "h850": [
-        "android_device_lge_common",
         "android_device_lge_g5-common",
         "android_device_lge_h850",
         "android_device_lge_msm8996-common",
+        "android_hardware_lge",
         "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
     "h870": [
-        "android_device_lge_common",
         "android_device_lge_g6-common",
         "android_device_lge_h870",
         "android_device_lge_msm8996-common",
+        "android_hardware_lge",
         "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
     "h872": [
-        "android_device_lge_common",
         "android_device_lge_g6-common",
         "android_device_lge_h872",
         "android_device_lge_msm8996-common",
+        "android_hardware_lge",
         "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
     "h910": [
-        "android_device_lge_common",
         "android_device_lge_h910",
         "android_device_lge_msm8996-common",
         "android_device_lge_v20-common",
+        "android_hardware_lge",
         "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
     "h918": [
-        "android_device_lge_common",
         "android_device_lge_h918",
         "android_device_lge_msm8996-common",
         "android_device_lge_v20-common",
+        "android_hardware_lge",
         "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
@@ -969,10 +985,10 @@
         "android_kernel_lge_msm8998"
     ],
     "h990": [
-        "android_device_lge_common",
         "android_device_lge_h990",
         "android_device_lge_msm8996-common",
         "android_device_lge_v20-common",
+        "android_hardware_lge",
         "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
@@ -1502,10 +1518,10 @@
         "android_kernel_lge_g3"
     ],
     "ls997": [
-        "android_device_lge_common",
         "android_device_lge_ls997",
         "android_device_lge_msm8996-common",
         "android_device_lge_v20-common",
+        "android_hardware_lge",
         "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
@@ -1851,6 +1867,12 @@
         "android_hardware_sony",
         "android_kernel_sony_sm8250"
     ],
+    "pdx215": [
+        "android_device_sony_pdx215",
+        "android_device_sony_sm8350-common",
+        "android_hardware_sony",
+        "android_kernel_sony_sm8350"
+    ],
     "perseus": [
         "android_device_xiaomi_perseus",
         "android_device_xiaomi_sdm845-common",
@@ -1993,7 +2015,7 @@
     ],
     "pro1x": [
         "android_device_fxtec_pro1x",
-        "android_kernel_fxtec_s6115"
+        "android_kernel_fxtec_sm6115"
     ],
     "pstar": [
         "android_device_motorola_pstar",
@@ -2176,10 +2198,10 @@
         "android_system_qcom"
     ],
     "rs988": [
-        "android_device_lge_common",
         "android_device_lge_g5-common",
         "android_device_lge_msm8996-common",
         "android_device_lge_rs988",
+        "android_hardware_lge",
         "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
@@ -2403,18 +2425,18 @@
         "android_kernel_xiaomi_sdm845"
     ],
     "us996": [
-        "android_device_lge_common",
         "android_device_lge_msm8996-common",
         "android_device_lge_us996",
         "android_device_lge_v20-common",
+        "android_hardware_lge",
         "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
     "us997": [
-        "android_device_lge_common",
         "android_device_lge_g6-common",
         "android_device_lge_msm8996-common",
         "android_device_lge_us997",
+        "android_hardware_lge",
         "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
@@ -2423,6 +2445,12 @@
         "android_device_xiaomi_vayu",
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_sm8150"
+    ],
+    "vela": [
+        "android_device_xiaomi_sdm710-common",
+        "android_device_xiaomi_vela",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_sdm710"
     ],
     "victara": [
         "android_device_motorola_victara",
@@ -2459,10 +2487,10 @@
         "android_kernel_lge_g3"
     ],
     "vs995": [
-        "android_device_lge_common",
         "android_device_lge_msm8996-common",
         "android_device_lge_v20-common",
         "android_device_lge_vs995",
+        "android_hardware_lge",
         "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
