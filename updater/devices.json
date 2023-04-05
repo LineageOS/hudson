@@ -292,6 +292,7 @@
   {  "model": "P024", "oem": "ASUS", "name": "ZenPad 8.0 (Z380KL)", "lineage_recovery": false },
   {  "model": "paella", "oem": "BQ", "name": "Aquaris X5", "lineage_recovery": false },
   {  "model": "panther", "oem": "Google", "name": "Pixel 7", "lineage_recovery": false },
+  {  "model": "parker", "oem": "Motorola", "name": "one zoom" },
   {  "model": "payton", "oem": "Motorola", "name": "moto x4" },
   {  "model": "pdx203", "oem": "Sony", "name": "Xperia 1 II" },
   {  "model": "pdx206", "oem": "Sony", "name": "Xperia 5 II" },
