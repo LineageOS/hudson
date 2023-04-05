@@ -16,6 +16,24 @@
       "message": "Make sure to remove the hidl light hal, but I don\u0027t think it warrants a block",
       "revId": "0a5589343d1df6b351e148a6fe7085e5030c767c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2dfacadf_3eef9728",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 23396
+      },
+      "writtenOn": "2023-04-05T14:29:38Z",
+      "side": 1,
+      "message": "oh so Parker has two beds actually, there\u0027s a moto logo on the back that lights up too, hild controls that",
+      "parentUuid": "13a44b63_c80aa810",
+      "revId": "0a5589343d1df6b351e148a6fe7085e5030c767c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": []
