@@ -1779,6 +1779,11 @@
         "android_device_nubia_nx563j",
         "android_kernel_nubia_msm8998"
     ],
+    "nx609j": [
+        "android_device_nubia_msm8998-common",
+        "android_device_nubia_nx609j",
+        "android_kernel_nubia_msm8998"
+    ],
     "nx611j": [
         "android_device_nubia_nx611j",
         "android_kernel_nubia_sdm660"
