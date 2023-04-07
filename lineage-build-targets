@@ -2,6 +2,7 @@
 # <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
 
 # Weekly 20.0
+a51 userdebug lineage-20.0 W
 a52q userdebug lineage-20.0 W
 a72q userdebug lineage-20.0 W
 akari userdebug lineage-20.0 W
