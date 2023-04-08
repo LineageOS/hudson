@@ -438,6 +438,13 @@
         "android_kernel_google_msm-4.14",
         "android_packages_apps_ElmyraService"
     ],
+    "crownlte": [
+        "android_device_samsung_crownlte",
+        "android_device_samsung_exynos9810-common",
+        "android_device_samsung_slsi_sepolicy",
+        "android_hardware_samsung",
+        "android_kernel_samsung_exynos9810"
+    ],
     "crosshatch": [
         "android_device_google_crosshatch",
         "android_kernel_google_msm-4.9",
@@ -2349,6 +2356,20 @@
         "android_hardware_motorola",
         "android_kernel_motorola_sm7250",
         "android_system_qcom"
+    ],
+    "starlte": [
+        "android_device_samsung_starlte",
+        "android_device_samsung_exynos9810-common",
+        "android_device_samsung_slsi_sepolicy",
+        "android_hardware_samsung",
+        "android_kernel_samsung_exynos9810"
+    ],
+    "star2lte": [
+        "android_device_samsung_star2lte",
+        "android_device_samsung_exynos9810-common",
+        "android_device_samsung_slsi_sepolicy",
+        "android_hardware_samsung",
+        "android_kernel_samsung_exynos9810"
     ],
     "sunfish": [
         "android_device_google_sunfish",
