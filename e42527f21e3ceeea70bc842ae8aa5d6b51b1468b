@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "54f6c0b8_5f5eb1ba",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 18745
+      },
+      "writtenOn": "2023-04-21T13:25:24Z",
+      "side": 1,
+      "message": "Blocking due to some issues found that must be addressed",
+      "revId": "e42527f21e3ceeea70bc842ae8aa5d6b51b1468b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
