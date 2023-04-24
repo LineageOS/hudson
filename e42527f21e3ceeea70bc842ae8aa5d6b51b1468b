@@ -16,6 +16,23 @@
       "message": "Blocking due to some issues found that must be addressed",
       "revId": "e42527f21e3ceeea70bc842ae8aa5d6b51b1468b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9ff3aad4_9b77ec85",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 18745
+      },
+      "writtenOn": "2023-04-24T14:53:40Z",
+      "side": 1,
+      "message": "Issues resolved",
+      "revId": "e42527f21e3ceeea70bc842ae8aa5d6b51b1468b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
