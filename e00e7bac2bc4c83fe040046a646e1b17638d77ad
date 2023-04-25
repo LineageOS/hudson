@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "97d74aa7_d2a0dbc3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2023-04-25T21:08:21Z",
+      "side": 1,
+      "message": "These Xiaomi devices are getting out of hand...",
+      "revId": "e00e7bac2bc4c83fe040046a646e1b17638d77ad",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
