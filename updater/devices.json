@@ -375,6 +375,7 @@
   {  "model": "umts_spyder", "oem": "Motorola", "name": "DROID RAZR / RAZR MAXX (GSM)", "lineage_recovery": false },
   {  "model": "ursa", "oem": "Xiaomi", "name": "Mi 8 Explorer Edition" },
   {  "model": "us996", "oem": "LG", "name": "V20 (GSM Unlocked)" },
+  {  "model": "us996d", "oem": "LG", "name": "V20 (GSM Unlocked - DirtySanta)", "lineage_recovery": true},
   {  "model": "us997", "oem": "LG", "name": "G6 (US)", "lineage_recovery": false },
   {  "model": "v1awifi", "oem": "Samsung", "name": "Galaxy Note Pro 12.1 (Wi-Fi)", "lineage_recovery": false },
   {  "model": "v400", "oem": "LG", "name": "G Pad 7", "lineage_recovery": false },
