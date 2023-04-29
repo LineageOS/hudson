@@ -297,6 +297,7 @@
   {  "model": "payton", "oem": "Motorola", "name": "moto x4" },
   {  "model": "pdx203", "oem": "Sony", "name": "Xperia 1 II" },
   {  "model": "pdx206", "oem": "Sony", "name": "Xperia 5 II" },
+  {  "model": "pdx215", "oem": "Sony", "name": "Xperia 1 III" },
   {  "model": "peach", "oem": "ARK", "name": "Benefit A3", "lineage_recovery": false },
   {  "model": "peregrine", "oem": "Motorola", "name": "moto g 4G", "lineage_recovery": false },
   {  "model": "piccolo", "oem": "BQ", "name": "Aquaris M5", "lineage_recovery": false },
