@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "72f3513d_16c36bc6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2023-04-30T16:31:10Z",
+      "side": 1,
+      "message": "not really a fun of a different target for that alone, but abl display setup doesn\u0027t match the existing display dt, and there\u0027s not way to distinguish between them",
+      "revId": "0f37d95c103d6e2b4c82b5d64078be1b557c1164",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
