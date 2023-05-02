@@ -1880,6 +1880,12 @@
         "android_hardware_sony",
         "android_kernel_sony_sm8250"
     ],
+    "pdx214": [
+        "android_device_sony_pdx214",
+        "android_device_sony_sm8350-common",
+        "android_hardware_sony",
+        "android_kernel_sony_sm8350"
+    ],
     "pdx215": [
         "android_device_sony_pdx215",
         "android_device_sony_sm8350-common",
