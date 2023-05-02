@@ -261,7 +261,7 @@
     ],
     "beckham": [
         "android_device_motorola_beckham",
-        "android_device_motorola_sdm660-common",
+        "android_device_motorola_msm8998-common",
         "android_external_bson",
         "android_hardware_motorola",
         "android_kernel_motorola_msm8998",
@@ -411,7 +411,7 @@
     ],
     "chef": [
         "android_device_motorola_chef",
-        "android_device_motorola_sdm660-common",
+        "android_device_motorola_msm8998-common",
         "android_external_bson",
         "android_hardware_motorola",
         "android_kernel_motorola_msm8998",
@@ -603,7 +603,7 @@
     ],
     "evert": [
         "android_device_motorola_evert",
-        "android_device_motorola_sdm660-common",
+        "android_device_motorola_msm8998-common",
         "android_external_bson",
         "android_hardware_motorola",
         "android_kernel_motorola_msm8998",
@@ -1393,7 +1393,7 @@
     ],
     "lake": [
         "android_device_motorola_lake",
-        "android_device_motorola_sdm660-common",
+        "android_device_motorola_msm8998-common",
         "android_external_bson",
         "android_hardware_motorola",
         "android_kernel_motorola_msm8998",
@@ -1716,6 +1716,7 @@
     ],
     "nash": [
         "android_device_motorola_nash",
+        "android_device_motorola_msm8998-common",
         "android_external_bson",
         "android_hardware_motorola",
         "android_kernel_motorola_msm8998",
@@ -1861,7 +1862,7 @@
     ],
     "payton": [
         "android_device_motorola_payton",
-        "android_device_motorola_sdm660-common",
+        "android_device_motorola_msm8998-common",
         "android_external_bson",
         "android_hardware_motorola",
         "android_kernel_motorola_msm8998",
