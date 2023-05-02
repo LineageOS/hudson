@@ -100,6 +100,16 @@
         "android_hardware_samsung_slsi_openmax",
         "android_kernel_samsung_universal7580"
     ],
+    "a51": [
+        "android_device_samsung_a51",
+        "android_device_samsung_slsi_sepolicy",
+        "android_device_samsung_universal9611-common",
+        "android_hardware_samsung",
+        "android_hardware_samsung_slsi_libbt",
+        "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
+        "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
+        "android_kernel_samsung_universal9611"
+    ],
     "a52q": [
         "android_device_samsung_a52q",
         "android_device_samsung_sm7125-common",
@@ -292,6 +302,11 @@
         "android_device_samsung_exynos9820-common",
         "android_device_samsung_slsi_sepolicy",
         "android_hardware_samsung",
+        "android_hardware_samsung_slsi-linaro_config",
+        "android_hardware_samsung_slsi-linaro_exynos",
+        "android_hardware_samsung_slsi-linaro_exynos5",
+        "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_openmax",
         "android_kernel_samsung_exynos9820"
     ],
     "beyond1lte": [
@@ -299,6 +314,11 @@
         "android_device_samsung_exynos9820-common",
         "android_device_samsung_slsi_sepolicy",
         "android_hardware_samsung",
+        "android_hardware_samsung_slsi-linaro_config",
+        "android_hardware_samsung_slsi-linaro_exynos",
+        "android_hardware_samsung_slsi-linaro_exynos5",
+        "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_openmax",
         "android_kernel_samsung_exynos9820"
     ],
     "beyond2lte": [
@@ -306,6 +326,11 @@
         "android_device_samsung_exynos9820-common",
         "android_device_samsung_slsi_sepolicy",
         "android_hardware_samsung",
+        "android_hardware_samsung_slsi-linaro_config",
+        "android_hardware_samsung_slsi-linaro_exynos",
+        "android_hardware_samsung_slsi-linaro_exynos5",
+        "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_openmax",
         "android_kernel_samsung_exynos9820"
     ],
     "beyondx": [
@@ -313,6 +338,11 @@
         "android_device_samsung_exynos9820-common",
         "android_device_samsung_slsi_sepolicy",
         "android_hardware_samsung",
+        "android_hardware_samsung_slsi-linaro_config",
+        "android_hardware_samsung_slsi-linaro_exynos",
+        "android_hardware_samsung_slsi-linaro_exynos5",
+        "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_openmax",
         "android_kernel_samsung_exynos9820"
     ],
     "billie": [
@@ -438,6 +468,11 @@
         "android_kernel_google_msm-4.14",
         "android_packages_apps_ElmyraService"
     ],
+    "crosshatch": [
+        "android_device_google_crosshatch",
+        "android_kernel_google_msm-4.9",
+        "android_packages_apps_ElmyraService"
+    ],
     "crownlte": [
         "android_device_samsung_crownlte",
         "android_device_samsung_exynos9810-common",
@@ -445,16 +480,16 @@
         "android_hardware_samsung",
         "android_kernel_samsung_exynos9810"
     ],
-    "crosshatch": [
-        "android_device_google_crosshatch",
-        "android_kernel_google_msm-4.9",
-        "android_packages_apps_ElmyraService"
-    ],
     "d1": [
         "android_device_samsung_d1",
         "android_device_samsung_exynos9820-common",
         "android_device_samsung_slsi_sepolicy",
         "android_hardware_samsung",
+        "android_hardware_samsung_slsi-linaro_config",
+        "android_hardware_samsung_slsi-linaro_exynos",
+        "android_hardware_samsung_slsi-linaro_exynos5",
+        "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_openmax",
         "android_kernel_samsung_exynos9820"
     ],
     "d2s": [
@@ -462,6 +497,11 @@
         "android_device_samsung_exynos9820-common",
         "android_device_samsung_slsi_sepolicy",
         "android_hardware_samsung",
+        "android_hardware_samsung_slsi-linaro_config",
+        "android_hardware_samsung_slsi-linaro_exynos",
+        "android_hardware_samsung_slsi-linaro_exynos5",
+        "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_openmax",
         "android_kernel_samsung_exynos9820"
     ],
     "d2x": [
@@ -469,6 +509,11 @@
         "android_device_samsung_exynos9820-common",
         "android_device_samsung_slsi_sepolicy",
         "android_hardware_samsung",
+        "android_hardware_samsung_slsi-linaro_config",
+        "android_hardware_samsung_slsi-linaro_exynos",
+        "android_hardware_samsung_slsi-linaro_exynos5",
+        "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_openmax",
         "android_kernel_samsung_exynos9820"
     ],
     "d800": [
@@ -892,6 +937,11 @@
         "android_device_samsung_gta4xl-common",
         "android_device_samsung_slsi_sepolicy",
         "android_hardware_samsung",
+        "android_hardware_samsung_slsi-linaro_config",
+        "android_hardware_samsung_slsi-linaro_exynos",
+        "android_hardware_samsung_slsi-linaro_exynos5",
+        "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_openmax",
         "android_hardware_samsung_slsi_libbt",
         "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
         "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
@@ -902,6 +952,11 @@
         "android_device_samsung_gta4xlwifi",
         "android_device_samsung_slsi_sepolicy",
         "android_hardware_samsung",
+        "android_hardware_samsung_slsi-linaro_config",
+        "android_hardware_samsung_slsi-linaro_exynos",
+        "android_hardware_samsung_slsi-linaro_exynos5",
+        "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_openmax",
         "android_hardware_samsung_slsi_libbt",
         "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
         "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
@@ -1031,8 +1086,7 @@
         "android_device_xiaomi_haydn",
         "android_device_xiaomi_sm8350-common",
         "android_hardware_xiaomi",
-        "android_kernel_xiaomi_sm8350",
-        "android_vendor_qcom_opensource_healthd-ext"
+        "android_kernel_xiaomi_sm8350"
     ],
     "heart": [
         "android_device_lenovo_heart",
@@ -1404,8 +1458,7 @@
         "android_device_xiaomi_lancelot",
         "android_device_xiaomi_mt6768-common",
         "android_hardware_mediatek",
-        "android_kernel_xiaomi_mt6768",
-        "android_packages_apps_MtkFMRadio"
+        "android_kernel_xiaomi_mt6768"
     ],
     "lavender": [
         "android_device_xiaomi_lavender",
@@ -1442,8 +1495,7 @@
         "android_device_xiaomi_lisa",
         "android_device_xiaomi_sm8350-common",
         "android_hardware_xiaomi",
-        "android_kernel_xiaomi_sm8350",
-        "android_vendor_qcom_opensource_healthd-ext"
+        "android_kernel_xiaomi_sm8350"
     ],
     "lithium": [
         "android_device_xiaomi_lithium",
@@ -1589,6 +1641,12 @@
         "android_device_google_marlin",
         "android_kernel_google_marlin"
     ],
+    "martini": [
+        "android_device_oneplus_martini",
+        "android_device_oneplus_sm8350-common",
+        "android_hardware_oplus",
+        "android_kernel_oneplus_sm8350"
+    ],
     "mata": [
         "android_device_essential_mata",
         "android_hardware_sony_timekeep",
@@ -1661,8 +1719,7 @@
         "android_device_xiaomi_merlinx",
         "android_device_xiaomi_mt6768-common",
         "android_hardware_mediatek",
-        "android_kernel_xiaomi_mt6768",
-        "android_packages_apps_MtkFMRadio"
+        "android_kernel_xiaomi_mt6768"
     ],
     "mermaid": [
         "android_device_sony_mermaid",
@@ -1715,8 +1772,8 @@
         "android_system_qcom"
     ],
     "nash": [
-        "android_device_motorola_nash",
         "android_device_motorola_msm8998-common",
+        "android_device_motorola_nash",
         "android_external_bson",
         "android_hardware_motorola",
         "android_kernel_motorola_msm8998",
@@ -1861,8 +1918,8 @@
         "android_system_qcom"
     ],
     "payton": [
-        "android_device_motorola_payton",
         "android_device_motorola_msm8998-common",
+        "android_device_motorola_payton",
         "android_external_bson",
         "android_hardware_motorola",
         "android_kernel_motorola_msm8998",
@@ -1879,6 +1936,12 @@
         "android_device_sony_sm8250-common",
         "android_hardware_sony",
         "android_kernel_sony_sm8250"
+    ],
+    "pdx214": [
+        "android_device_sony_pdx214",
+        "android_device_sony_sm8350-common",
+        "android_hardware_sony",
+        "android_kernel_sony_sm8350"
     ],
     "pdx215": [
         "android_device_sony_pdx215",
@@ -2190,8 +2253,7 @@
         "android_device_xiaomi_renoir",
         "android_device_xiaomi_sm8350-common",
         "android_hardware_xiaomi",
-        "android_kernel_xiaomi_sm8350",
-        "android_vendor_qcom_opensource_healthd-ext"
+        "android_kernel_xiaomi_sm8350"
     ],
     "rhannah": [
         "android_device_motorola_hannah-common",
@@ -2363,17 +2425,17 @@
         "android_kernel_motorola_sm7250",
         "android_system_qcom"
     ],
-    "starlte": [
-        "android_device_samsung_starlte",
+    "star2lte": [
         "android_device_samsung_exynos9810-common",
         "android_device_samsung_slsi_sepolicy",
+        "android_device_samsung_star2lte",
         "android_hardware_samsung",
         "android_kernel_samsung_exynos9810"
     ],
-    "star2lte": [
-        "android_device_samsung_star2lte",
+    "starlte": [
         "android_device_samsung_exynos9810-common",
         "android_device_samsung_slsi_sepolicy",
+        "android_device_samsung_starlte",
         "android_hardware_samsung",
         "android_kernel_samsung_exynos9810"
     ],
@@ -2454,6 +2516,14 @@
     "us996": [
         "android_device_lge_msm8996-common",
         "android_device_lge_us996",
+        "android_device_lge_v20-common",
+        "android_hardware_lge",
+        "android_hardware_sony_timekeep",
+        "android_kernel_lge_msm8996"
+    ],
+    "us996d": [
+        "android_device_lge_msm8996-common",
+        "android_device_lge_us996d",
         "android_device_lge_v20-common",
         "android_hardware_lge",
         "android_hardware_sony_timekeep",
@@ -2574,6 +2644,13 @@
         "android_device_xiaomi_xmsirius",
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_sdm710"
+    ],
+    "xpeng": [
+        "android_device_motorola_sm7325-common",
+        "android_device_motorola_xpeng",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm7325",
+        "android_system_qcom"
     ],
     "xz2c": [
         "android_device_sony_tama-common",
