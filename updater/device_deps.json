@@ -2562,6 +2562,10 @@
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_msm8953"
     ],
+    "violet": [
+        "android_device_xiaomi_violet",
+        "lineageos/android_kernel_xiaomi_violet"
+    ],
     "voyager": [
         "android_device_sony_nile-common",
         "android_device_sony_voyager",
