@@ -232,7 +232,7 @@
   {  "model": "libra", "oem": "Xiaomi", "name": "Mi 4c", "lineage_recovery": false },
   {  "model": "lisa", "oem": "Xiaomi", "name": "11 Lite 5G NE / 11 Lite NE 5G / Mi 11 LE" },
   {  "model": "lithium", "oem": "Xiaomi", "name": "Mi MIX" },
-  {  "model": "lmi", "oem": "Xiaomi", "name": "POCO F2 Pro / Redmi K30 Pro / Redmi K30 Pro Zoom Edition" },
+  {  "model": "lmi", "oem": "Xiaomi", "name": "POCO F2 Pro / Redmi K30 Pro" },
   {  "model": "ls990", "oem": "LG", "name": "G3 (Sprint)" },
   {  "model": "ls997", "oem": "LG", "name": "V20 (Sprint)" },
   {  "model": "lt02ltespr", "oem": "Samsung", "name": "Galaxy Tab 3 7.0 (Sprint)", "lineage_recovery": false },
