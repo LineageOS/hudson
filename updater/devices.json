@@ -238,6 +238,7 @@
   {  "model": "lt02ltespr", "oem": "Samsung", "name": "Galaxy Tab 3 7.0 (Sprint)", "lineage_recovery": false },
   {  "model": "lt03lte", "oem": "Samsung", "name": "Galaxy Note 10.1 2014 (LTE)", "lineage_recovery": false },
   {  "model": "lux", "oem": "Motorola", "name": "moto x play" },
+  {  "model": "lynx", "oem": "Google", "name": "Pixel 7a", "lineage_recovery": false },
   {  "model": "m20lte", "oem": "Samsung", "name": "Galaxy M20" },
   {  "model": "m216", "oem": "LG", "name": "K10", "lineage_recovery": false },
   {  "model": "m7", "oem": "HTC", "name": "One (GSM)", "lineage_recovery": false },

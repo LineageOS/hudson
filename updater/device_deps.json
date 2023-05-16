@@ -1594,6 +1594,13 @@
         "android_kernel_motorola_msm8916",
         "android_system_qcom"
     ],
+    "lynx": [
+        "android_device_google_gs101",
+        "android_device_google_gs201",
+        "android_device_google_lynx",
+        "android_kernel_google_gs101",
+        "android_kernel_google_gs201"
+    ],
     "m20lte": [
         "android_device_samsung_m20lte",
         "android_device_samsung_slsi_sepolicy",
