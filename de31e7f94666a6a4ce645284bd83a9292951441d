@@ -16,6 +16,24 @@
       "message": "Let CI deal with that.",
       "revId": "de31e7f94666a6a4ce645284bd83a9292951441d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6ca13bba_73c81f1f",
+        "filename": "updater/device_deps.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 1597,
+      "author": {
+        "id": 15346
+      },
+      "writtenOn": "2023-05-16T15:28:27Z",
+      "side": 0,
+      "message": "Done",
+      "parentUuid": "8a42fcbc_8a5a93b7",
+      "revId": "de31e7f94666a6a4ce645284bd83a9292951441d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
