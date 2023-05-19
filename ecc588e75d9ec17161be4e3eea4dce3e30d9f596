@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1f9210cb_eab9c025",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25925
+      },
+      "writtenOn": "2023-05-19T18:38:43Z",
+      "side": 1,
+      "message": "@haggertk: Please verify the LTE model works fine as well",
+      "revId": "ecc588e75d9ec17161be4e3eea4dce3e30d9f596",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
