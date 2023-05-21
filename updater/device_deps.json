@@ -660,6 +660,18 @@
         "android_hardware_sony_timekeep",
         "android_kernel_lge_g3"
     ],
+    "f62": [
+        "android_device_samsung_exynos9820-common",
+        "android_device_samsung_f62",
+        "android_device_samsung_slsi_sepolicy",
+        "android_hardware_samsung",
+        "android_hardware_samsung_slsi-linaro_config",
+        "android_hardware_samsung_slsi-linaro_exynos",
+        "android_hardware_samsung_slsi-linaro_exynos5",
+        "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_openmax",
+        "android_kernel_samsung_exynos9820"
+    ],
     "fajita": [
         "android_device_oneplus_fajita",
         "android_device_oneplus_sdm845-common",
