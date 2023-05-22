@@ -16,6 +16,23 @@
       "message": "need sing-offs",
       "revId": "b27378b2e8fd1f4525c9eb7315873b396a1b2c3c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "af7e16a7_47b8a5f3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-05-22T17:01:37Z",
+      "side": 1,
+      "message": "vendor manifest is merged",
+      "revId": "b27378b2e8fd1f4525c9eb7315873b396a1b2c3c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
