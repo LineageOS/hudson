@@ -366,6 +366,13 @@
         "android_kernel_google_msm-4.9",
         "android_packages_apps_ElmyraService"
     ],
+    "borneo": [
+        "android_device_motorola_borneo",
+        "android_device_motorola_sm6225-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm6225",
+        "android_system_qcom"
+    ],
     "bramble": [
         "android_device_google_bramble",
         "android_device_google_redbull",
@@ -376,6 +383,13 @@
         "android_device_xiaomi_msm8996-common",
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_msm8996"
+    ],
+    "caprip": [
+        "android_device_motorola_caprip",
+        "android_device_motorola_sm6225-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm6225",
+        "android_system_qcom"
     ],
     "car": [
         "android_device_lineage_car"
@@ -568,6 +582,12 @@
         "android_hardware_sony_timekeep",
         "android_kernel_lge_g3"
     ],
+    "davinci": [
+        "android_device_xiaomi_davinci",
+        "android_device_xiaomi_sm6150-common",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_sm6150"
+    ],
     "deadpool": [
         "android_device_amlogic_common",
         "android_device_amlogic_g12-common",
@@ -581,6 +601,13 @@
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
         "android_kernel_amlogic_linux-4.9"
+    ],
+    "devon": [
+        "android_device_motorola_devon",
+        "android_device_motorola_sm6225-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm6225",
+        "android_system_qcom"
     ],
     "dipper": [
         "android_device_xiaomi_dipper",
@@ -1083,6 +1110,13 @@
         "android_hardware_motorola",
         "android_hardware_sony_timekeep",
         "android_kernel_motorola_msm8916",
+        "android_system_qcom"
+    ],
+    "hawao": [
+        "android_device_motorola_hawao",
+        "android_device_motorola_sm6225-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm6225",
         "android_system_qcom"
     ],
     "hayabusa": [
@@ -2281,6 +2315,13 @@
         "android_external_bson",
         "android_hardware_motorola",
         "android_kernel_motorola_msm8953",
+        "android_system_qcom"
+    ],
+    "rhode": [
+        "android_device_motorola_rhode",
+        "android_device_motorola_sm6225-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm6225",
         "android_system_qcom"
     ],
     "river": [
