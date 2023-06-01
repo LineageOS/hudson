@@ -337,6 +337,7 @@
   {  "model": "river", "oem": "Motorola", "name": "moto g7" },
   {  "model": "RMX1801", "oem": "Realme", "name": "2 Pro" },
   {  "model": "RMX1851", "oem": "Realme", "name": "3 Pro", "lineage_recovery": false },
+  {  "model": "rosemary", "oem": "Xiaomi", "name": "Redmi Note 10S" },
   {  "model": "roth", "oem": "Nvidia", "name": "Shield Portable", "lineage_recovery": false },
   {  "model": "rs988", "oem": "LG", "name": "G5 (US)" },
   {  "model": "s2", "oem": "LeEco", "name": "Le 2" },
