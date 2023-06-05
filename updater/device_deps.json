@@ -2531,6 +2531,12 @@
         "android_hardware_sony_thermanager",
         "android_kernel_sony_msm8956"
     ],
+    "sweet": [
+        "android_device_xiaomi_sm6150-common",
+        "android_device_xiaomi_sweet",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_sm6150"
+    ],
     "taimen": [
         "android_device_google_taimen",
         "android_device_google_wahoo",
