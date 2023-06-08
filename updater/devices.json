@@ -83,6 +83,7 @@
   {  "model": "davinci", "oem": "Xiaomi", "name": "Redmi K20 / Mi 9T" },
   {  "model": "deadpool", "oem": "Google", "name": "ADT-3" },
   {  "model": "deb", "oem": "Google", "name": "Nexus 7 2013 (4G)", "lineage_recovery": false },
+  {  "model": "debx", "oem": "Google", "name": "Nexus 7 2013 (LTE, Repartitioned)" },
   {  "model": "dipper", "oem": "Xiaomi", "name": "Mi 8" },
   {  "model": "discovery", "oem": "Sony", "name": "Xperia XA2 Ultra" },
   {  "model": "dogo", "oem": "Sony", "name": "Xperia ZR", "lineage_recovery": false },
