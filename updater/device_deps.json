@@ -602,6 +602,11 @@
         "android_hardware_amlogic_tools_respacker",
         "android_kernel_amlogic_linux-4.9"
     ],
+    "debx": [
+        "android_device_asus_debx",
+        "android_device_asus_flox",
+        "android_kernel_google_msm"
+    ],
     "devon": [
         "android_device_motorola_devon",
         "android_device_motorola_sm6225-common",
