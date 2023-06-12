@@ -287,7 +287,7 @@
   {  "model": "obiwan", "oem": "ASUS", "name": "ROG Phone 3" },
   {  "model": "ocean", "oem": "Motorola", "name": "moto g7 power" },
   {  "model": "odin", "oem": "Sony", "name": "Xperia ZL", "lineage_recovery": false },
-  {  "model": "odroidc4", "oem": "ODROID", "name": "C4" },
+  {  "model": "odroidc4", "oem": "HardKernel", "name": "ODROID-C4" },
   {  "model": "onclite", "oem": "Xiaomi", "name": "Redmi 7 / Y3" },
   {  "model": "oneplus2", "oem": "OnePlus", "name": "2" },
   {  "model": "oneplus3", "oem": "OnePlus", "name": "3 / 3T" },
