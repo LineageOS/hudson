@@ -284,6 +284,7 @@
   {  "model": "nx563j", "oem": "Nubia", "name": "Z17" },
   {  "model": "nx609j", "oem": "Nubia", "name": "Red Magic" },
   {  "model": "nx611j", "oem": "Nubia", "name": "Z18 Mini" },
+  {  "model": "nx619j", "oem": "Nubia", "name": "Red Magic Mars" },
   {  "model": "obiwan", "oem": "ASUS", "name": "ROG Phone 3" },
   {  "model": "ocean", "oem": "Motorola", "name": "moto g7 power" },
   {  "model": "odin", "oem": "Sony", "name": "Xperia ZL", "lineage_recovery": false },
