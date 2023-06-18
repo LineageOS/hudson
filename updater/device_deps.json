@@ -41,6 +41,10 @@
         "android_device_xiaomi_mithorium-common",
         "android_kernel_xiaomi_msm8937"
     ],
+    "NLA": [
+        "android_device_nokia_NLA",
+        "android_kernel_nokia_msm8998"
+    ],
     "OP4A7A": [
         "android_device_oppo_OP4A7A"
     ],
@@ -115,6 +119,12 @@
         "android_device_samsung_sm7125-common",
         "android_hardware_samsung",
         "android_kernel_samsung_sm7125"
+    ],
+    "a52sxq": [
+        "android_device_samsung_a52sxq",
+        "android_device_samsung_sm7325-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_sm7325"
     ],
     "a5xelte": [
         "android_device_samsung_a5xelte",
@@ -476,6 +486,9 @@
         "android_external_bson",
         "android_kernel_motorola_msm8992",
         "android_system_qcom"
+    ],
+    "contexthub": [
+        "android_device_google_contexthub"
     ],
     "coral": [
         "android_device_google_coral",
@@ -1679,6 +1692,12 @@
         "android_hardware_realtek",
         "android_kernel_amlogic_linux-4.9"
     ],
+    "m52xq": [
+        "android_device_samsung_m52xq",
+        "android_device_samsung_sm7325-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_sm7325"
+    ],
     "m8": [
         "android_device_htc_m8",
         "android_device_htc_m8-common",
@@ -1903,6 +1922,11 @@
     "nx611j": [
         "android_device_nubia_nx611j",
         "android_kernel_nubia_sdm660"
+    ],
+    "nx619j": [
+        "android_device_nubia_nx619j",
+        "android_device_nubia_sdm845-common",
+        "android_kernel_nubia_sdm845"
     ],
     "obiwan": [
         "android_device_asus_obiwan"
