@@ -269,6 +269,7 @@
   {  "model": "montana", "oem": "Motorola", "name": "moto g5s" },
   {  "model": "ms013g", "oem": "Samsung", "name": "Galaxy Grand 2", "lineage_recovery": false },
   {  "model": "mt2", "oem": "Huawei", "name": "Ascend Mate 2", "lineage_recovery": false },
+  {  "model": "NLA", "oem": "Nokia", "name": "8 (Repartitioned)", "lineage_recovery": true },
   {  "model": "n1awifi", "oem": "Samsung", "name": "Galaxy Note 10.1 2014 (Wi-Fi)", "lineage_recovery": false },
   {  "model": "n2awifi", "oem": "Samsung", "name": "Galaxy Tab Pro 10.1 (Wi-Fi)", "lineage_recovery": false },
   {  "model": "n3", "oem": "OPPO", "name": "N3", "lineage_recovery": false },
