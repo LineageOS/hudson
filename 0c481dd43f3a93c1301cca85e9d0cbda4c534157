@@ -16,6 +16,23 @@
       "message": "vendor manifest needed",
       "revId": "0c481dd43f3a93c1301cca85e9d0cbda4c534157",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "288d7d41_84ae4942",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-06-18T20:10:24Z",
+      "side": 1,
+      "message": "vendor manifest merged",
+      "revId": "0c481dd43f3a93c1301cca85e9d0cbda4c534157",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
