@@ -487,9 +487,6 @@
         "android_kernel_motorola_msm8992",
         "android_system_qcom"
     ],
-    "contexthub": [
-        "android_device_google_contexthub"
-    ],
     "coral": [
         "android_device_google_coral",
         "android_kernel_google_msm-4.14",
