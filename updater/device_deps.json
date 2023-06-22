@@ -2621,6 +2621,9 @@
         "android_kernel_google_wahoo",
         "android_packages_apps_ElmyraService"
     ],
+    "tangorpro": [
+        "android_device_google_tangorpro"
+    ],
     "tissot": [
         "android_device_xiaomi_msm8953-common",
         "android_device_xiaomi_tissot",
