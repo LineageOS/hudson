@@ -45,6 +45,7 @@
   {  "model": "bullhead", "oem": "Google", "name": "Nexus 5X", "lineage_recovery": false },
   {  "model": "cancro", "oem": "Xiaomi", "name": "Mi 3w and Mi 4", "lineage_recovery": false },
   {  "model": "capricorn", "oem": "Xiaomi", "name": "Mi 5s", "lineage_recovery": false },
+  {  "model": "caprip", "oem": "Motorola", "name": "moto g30" },
   {  "model": "castor", "oem": "Sony", "name": "Xperia Tablet Z2 LTE" },
   {  "model": "castor_windy", "oem": "Sony", "name": "Xperia Tablet Z2 Wi-Fi" },
   {  "model": "cedric", "oem": "Motorola", "name": "moto g5" },
