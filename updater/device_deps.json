@@ -2362,6 +2362,7 @@
         "android_device_mediatek_sepolicy_vndr",
         "android_device_xiaomi_rosemary",
         "android_hardware_mediatek",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_mt6785"
     ],
     "rs988": [
