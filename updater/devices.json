@@ -106,6 +106,7 @@
   {  "model": "FP4", "oem": "Fairphone", "name": "Fairphone 4" },
   {  "model": "f1f", "oem": "OPPO", "name": "F1 (F1f Intl)", "lineage_recovery": false },
   {  "model": "f400", "oem": "LG", "name": "G3 (Korea)" },
+  {  "model": "f62", "oem": "Samsung", "name": "Galaxy F62/M62" },
   {  "model": "fajita", "oem": "OnePlus", "name": "6T" },
   {  "model": "falcon", "oem": "Motorola", "name": "moto g", "lineage_recovery": false },
   {  "model": "figo", "oem": "Huawei", "name": "P Smart", "lineage_recovery": false },
