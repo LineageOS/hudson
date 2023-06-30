@@ -720,6 +720,9 @@
         "android_hardware_oneplus",
         "android_kernel_oneplus_sdm845"
     ],
+    "felix": [
+        "android_device_google_felix"
+    ],
     "find7": [
         "android_device_oppo_common",
         "android_device_oppo_find7",
