@@ -16,6 +16,23 @@
       "message": "Depends on https://github.com/TheMuppets/manifests/pull/74\nand https://gitlab.com/the-muppets/proprietary_vendor_firmware/-/merge_requests/39",
       "revId": "b4e4c3e74b6c7d294d80337d1bcce9718842baff",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7a092e33_d10c8cd9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-07-02T01:43:41Z",
+      "side": 1,
+      "message": "vendor manifest and fw are merged",
+      "revId": "b4e4c3e74b6c7d294d80337d1bcce9718842baff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
