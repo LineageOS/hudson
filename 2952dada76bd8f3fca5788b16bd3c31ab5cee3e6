@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bc781cce_8c800bc1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 24457
+      },
+      "writtenOn": "2023-07-04T13:01:24Z",
+      "side": 1,
+      "message": "ready\nmanifests side: https://github.com/TheMuppets/manifests/pull/78",
+      "revId": "2952dada76bd8f3fca5788b16bd3c31ab5cee3e6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
