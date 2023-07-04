@@ -1914,6 +1914,11 @@
         "android_device_nubia_nx563j",
         "android_kernel_nubia_msm8998"
     ],
+    "nx606j": [
+        "android_device_nubia_nx606j",
+        "android_device_nubia_sdm845-common",
+        "android_kernel_nubia_sdm845"
+    ],
     "nx609j": [
         "android_device_nubia_msm8998-common",
         "android_device_nubia_nx609j",
