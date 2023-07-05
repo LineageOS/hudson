@@ -1917,6 +1917,7 @@
     "nx606j": [
         "android_device_nubia_nx606j",
         "android_device_nubia_sdm845-common",
+        "android_hardware_samsung_nfc",
         "android_kernel_nubia_sdm845"
     ],
     "nx609j": [
