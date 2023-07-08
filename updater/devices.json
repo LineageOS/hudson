@@ -375,6 +375,7 @@
   {  "model": "t6", "oem": "HTC", "name": "One Max", "lineage_recovery": false },
   {  "model": "t6vzw", "oem": "HTC", "name": "One Max (VZW)", "lineage_recovery": false },
   {  "model": "taimen", "oem": "Google", "name": "Pixel 2 XL" },
+  {  "model": "tangorpro", "oem": "Google", "name": "Pixel Tablet", "lineage_recovery": false },
   {  "model": "taoshan", "oem": "Sony", "name": "Xperia L", "lineage_recovery": false },
   {  "model": "targa", "oem": "Motorola", "name": "DROID BIONIC", "lineage_recovery": false },
   {  "model": "tenshi", "oem": "BQ", "name": "Aquaris U Plus", "lineage_recovery": false },
