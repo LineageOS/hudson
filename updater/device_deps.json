@@ -2632,7 +2632,11 @@
         "android_packages_apps_ElmyraService"
     ],
     "tangorpro": [
-        "android_device_google_tangorpro"
+        "android_device_google_gs101",
+        "android_device_google_gs201",
+        "android_device_google_tangorpro",
+        "android_kernel_google_gs101",
+        "android_kernel_google_gs201"
     ],
     "tissot": [
         "android_device_xiaomi_msm8953-common",
