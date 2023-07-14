@@ -721,7 +721,11 @@
         "android_kernel_oneplus_sdm845"
     ],
     "felix": [
-        "android_device_google_felix"
+        "android_device_google_felix",
+        "android_device_google_gs101",
+        "android_device_google_gs201",
+        "android_kernel_google_gs101",
+        "android_kernel_google_gs201"
     ],
     "find7": [
         "android_device_oppo_common",
