@@ -363,7 +363,7 @@
     "bluejay": [
         "android_device_google_bluejay",
         "android_device_google_gs101",
-        "android_kernel_google_gs101"
+        "android_kernel_google_gs201"
     ],
     "blueline": [
         "android_device_google_blueline",
@@ -460,7 +460,6 @@
         "android_device_google_gs101",
         "android_device_google_gs201",
         "android_device_google_pantah",
-        "android_kernel_google_gs101",
         "android_kernel_google_gs201"
     ],
     "chef": [
@@ -724,7 +723,6 @@
         "android_device_google_felix",
         "android_device_google_gs101",
         "android_device_google_gs201",
-        "android_kernel_google_gs101",
         "android_kernel_google_gs201"
     ],
     "find7": [
@@ -1323,11 +1321,13 @@
         "android_device_xiaomi_jasmine_sprout",
         "android_device_xiaomi_sdm660-common",
         "android_device_xiaomi_wayne-common",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_sdm660"
     ],
     "jason": [
         "android_device_xiaomi_jason",
         "android_device_xiaomi_sdm660-common",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_sdm660"
     ],
     "jetson": [
@@ -1666,7 +1666,6 @@
         "android_device_google_gs101",
         "android_device_google_gs201",
         "android_device_google_lynx",
-        "android_kernel_google_gs101",
         "android_kernel_google_gs201"
     ],
     "m20lte": [
@@ -1982,7 +1981,7 @@
         "android_device_google_gs101",
         "android_device_google_oriole",
         "android_device_google_raviole",
-        "android_kernel_google_gs101"
+        "android_kernel_google_gs201"
     ],
     "osprey": [
         "android_device_motorola_msm8916-common",
@@ -1999,7 +1998,6 @@
         "android_device_google_gs201",
         "android_device_google_pantah",
         "android_device_google_panther",
-        "android_kernel_google_gs101",
         "android_kernel_google_gs201"
     ],
     "parker": [
@@ -2334,7 +2332,7 @@
         "android_device_google_gs101",
         "android_device_google_raven",
         "android_device_google_raviole",
-        "android_kernel_google_gs101"
+        "android_kernel_google_gs201"
     ],
     "redfin": [
         "android_device_google_redbull",
@@ -2639,7 +2637,6 @@
         "android_device_google_gs101",
         "android_device_google_gs201",
         "android_device_google_tangorpro",
-        "android_kernel_google_gs101",
         "android_kernel_google_gs201"
     ],
     "tissot": [
@@ -2676,6 +2673,7 @@
     "twolip": [
         "android_device_xiaomi_sdm660-common",
         "android_device_xiaomi_twolip",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_sdm660"
     ],
     "ursa": [
@@ -2796,11 +2794,13 @@
         "android_device_xiaomi_sdm660-common",
         "android_device_xiaomi_wayne",
         "android_device_xiaomi_wayne-common",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_sdm660"
     ],
     "whyred": [
         "android_device_xiaomi_sdm660-common",
         "android_device_xiaomi_whyred",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_sdm660"
     ],
     "wt88047x": [
