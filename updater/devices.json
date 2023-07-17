@@ -257,6 +257,7 @@
   {  "model": "mako", "oem": "Google", "name": "Nexus 4", "lineage_recovery": false },
   {  "model": "manta", "oem": "Google", "name": "Nexus 10", "lineage_recovery": false },
   {  "model": "marlin", "oem": "Google", "name": "Pixel XL" },
+  {  "model": "mars", "oem": "Xiaomi", "name": "Mi 11 Pro" },
   {  "model": "martini", "oem": "OnePlus", "name": "9RT" },
   {  "model": "mata", "oem": "Essential", "name": "PH-1" },
   {  "model": "maserati", "oem": "Motorola", "name": "DROID 4", "lineage_recovery": false },
