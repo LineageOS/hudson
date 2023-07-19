@@ -60,7 +60,14 @@ gts4lv userdebug lineage-20.0 W
 gts4lvwifi userdebug lineage-20.0 W
 guacamole userdebug lineage-20.0 W
 guacamoleb userdebug lineage-20.0 W
+h830 userdebug lineage-20.0 W   
+h850 userdebug lineage-20.0 W
+h870 userdebug lineage-20.0 W
+h872 userdebug lineage-20.0 W
+h910 userdebug lineage-20.0 W
+h918 userdebug lineage-20.0 W   
 h932 userdebug lineage-20.0 W
+h990 userdebug lineage-20.0 W 
 hawao userdebug lineage-20.0 W
 haydn userdebug lineage-20.0 W
 heart userdebug lineage-20.0 W
@@ -79,6 +86,7 @@ lemonadep userdebug lineage-20.0 W
 lemonades userdebug lineage-20.0 W
 lisa userdebug lineage-20.0 W
 lmi userdebug lineage-20.0 W
+ls997 userdebug lineage-20.0 W
 lynx userdebug lineage-20.0 W
 m5 userdebug lineage-20.0 W
 m52xq userdebug lineage-20.0 W
@@ -120,6 +128,7 @@ renoir userdebug lineage-20.0 W
 rhode userdebug lineage-20.0 W
 river userdebug lineage-20.0 W
 rosemary userdebug lineage-20.0 W
+rs988 userdebug lineage-20.0 W
 sagit userdebug lineage-20.0 W
 sailfish userdebug lineage-20.0 W
 sake userdebug lineage-20.0 W
@@ -131,7 +140,11 @@ taimen userdebug lineage-20.0 W
 TP1803 userdebug lineage-20.0 W
 troika userdebug lineage-20.0 W
 ursa userdebug lineage-20.0 W
+us996 userdebug lineage-20.0 W
+us996d userdebug lineage-20.0 W
+us997 userdebug lineage-20.0 W
 vela userdebug lineage-20.0 W
+vs995 userdebug lineage-20.0 W
 wade userdebug lineage-20.0 W
 walleye userdebug lineage-20.0 W
 X00TD userdebug lineage-20.0 W
@@ -148,16 +161,8 @@ crosshatch userdebug lineage-19.1 W
 discovery userdebug lineage-19.1 W
 gauguin userdebug lineage-19.1 W
 gemini userdebug lineage-19.1 W
-h830 userdebug lineage-19.1 W
-h850 userdebug lineage-19.1 W
-h870 userdebug lineage-19.1 W
-h872 userdebug lineage-19.1 W
-h910 userdebug lineage-19.1 W
-h918 userdebug lineage-19.1 W
-h990 userdebug lineage-19.1 W
 kirin userdebug lineage-19.1 W
 liber userdebug lineage-19.1 W
-ls997 userdebug lineage-19.1 W
 mermaid userdebug lineage-19.1 W
 miatoll userdebug lineage-19.1 W
 monet userdebug lineage-19.1 W
@@ -165,15 +170,10 @@ nash userdebug lineage-19.1 W
 natrium userdebug lineage-19.1 W
 parker userdebug lineage-19.1 W
 pioneer userdebug lineage-19.1 W
-rs988 userdebug lineage-19.1 W
 sargo userdebug lineage-19.1 W
 tissot userdebug lineage-19.1 W
-us996 userdebug lineage-19.1 W
-us996d userdebug lineage-19.1 W
-us997 userdebug lineage-19.1 W
 vayu userdebug lineage-19.1 W
 voyager userdebug lineage-19.1 W
-vs995 userdebug lineage-19.1 W
 z2_plus userdebug lineage-19.1 W
 
 # Monthly 18.1
