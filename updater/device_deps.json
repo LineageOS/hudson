@@ -1937,6 +1937,9 @@
         "android_device_nubia_sdm845-common",
         "android_kernel_nubia_sdm845"
     ],
+    "nx659j": [
+        "android_device_nubia_nx659j"
+    ],
     "obiwan": [
         "android_device_asus_obiwan"
     ],
