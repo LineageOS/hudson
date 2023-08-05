@@ -1722,6 +1722,12 @@
         "android_hardware_sony_timekeep",
         "android_kernel_google_marlin"
     ],
+    "mars": [
+        "android_device_xiaomi_mars",
+        "android_device_xiaomi_sm8350-common",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_sm8350"
+    ],
     "martini": [
         "android_device_oneplus_martini",
         "android_device_oneplus_sm8350-common",
@@ -1937,6 +1943,11 @@
         "android_device_nubia_nx619j",
         "android_device_nubia_sdm845-common",
         "android_kernel_nubia_sdm845"
+    ],
+    "nx651j": [
+        "android_device_nubia_nx651j",
+        "android_device_nubia_sm7250-common",
+        "android_kernel_nubia_sm7250"
     ],
     "nx659j": [
         "android_device_nubia_nx659j"
