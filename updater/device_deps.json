@@ -1950,7 +1950,10 @@
         "android_kernel_nubia_sm7250"
     ],
     "nx659j": [
-        "android_device_nubia_nx659j"
+        "android_device_nubia_nx659j",
+        "android_hardware_nubia",
+        "android_hardware_samsung_nfc",
+        "android_kernel_nubia_sm8250"
     ],
     "obiwan": [
         "android_device_asus_obiwan"
