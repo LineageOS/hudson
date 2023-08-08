@@ -28,7 +28,7 @@
     "Mi439": [
         "android_device_xiaomi_Mi439",
         "android_device_xiaomi_mithorium-common",
-        "android_kernel_xiaomi_sdm439"
+        "android_kernel_xiaomi_msm8937"
     ],
     "Mi8917": [
         "android_device_xiaomi_Mi8917",
@@ -1947,6 +1947,7 @@
     "nx651j": [
         "android_device_nubia_nx651j",
         "android_device_nubia_sm7250-common",
+        "android_hardware_nubia",
         "android_kernel_nubia_sm7250"
     ],
     "nx659j": [
