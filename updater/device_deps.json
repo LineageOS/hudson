@@ -360,6 +360,11 @@
         "android_hardware_oneplus",
         "android_kernel_oneplus_sm6350"
     ],
+    "billie2": [
+        "android_device_oneplus_billie2",
+        "android_hardware_oneplus",
+        "android_kernel_oneplus_sm4250"
+    ],
     "bluejay": [
         "android_device_google_bluejay",
         "android_device_google_gs101",
