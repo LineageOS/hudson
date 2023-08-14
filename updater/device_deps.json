@@ -491,6 +491,13 @@
         "android_kernel_motorola_msm8992",
         "android_system_qcom"
     ],
+    "concord": [
+        "android_device_nvidia_concord"
+    ],
+    "concord_tab": [
+        "android_device_nvidia_concord",
+        "android_device_nvidia_concord_tab"
+    ],
     "coral": [
         "android_device_google_coral",
         "android_kernel_google_msm-4.14",
@@ -1823,9 +1830,7 @@
     ],
     "miatoll": [
         "android_device_xiaomi_miatoll",
-        "android_device_xiaomi_sm6250-common",
-        "android_hardware_xiaomi",
-        "android_kernel_xiaomi_sm6250"
+        "android_device_xiaomi_sm6250-common"
     ],
     "mint": [
         "android_device_sony_blue-common",
@@ -1953,6 +1958,13 @@
         "android_device_nubia_nx651j",
         "android_device_nubia_sm7250-common",
         "android_hardware_nubia",
+        "android_kernel_nubia_sm7250"
+    ],
+    "nx651j_eea": [
+        "android_device_nubia_nx651j_eea",
+        "android_device_nubia_sm7250-common",
+        "android_hardware_nubia",
+        "android_hardware_samsung_nfc",
         "android_kernel_nubia_sm7250"
     ],
     "nx659j": [
