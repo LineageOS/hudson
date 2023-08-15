@@ -1830,7 +1830,10 @@
     ],
     "miatoll": [
         "android_device_xiaomi_miatoll",
-        "android_device_xiaomi_sm6250-common"
+        "android_device_xiaomi_sm6250-common",
+        "android_hardware_sony_timekeep",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_sm6250"
     ],
     "mint": [
         "android_device_sony_blue-common",
