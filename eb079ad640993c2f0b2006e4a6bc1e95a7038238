@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "253bc041_075b6f2e",
+        "filename": "lineage-build-targets",
+        "patchSetId": 4
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 28423
+      },
+      "writtenOn": "2023-08-17T17:26:06Z",
+      "side": 1,
+      "message": "I think there\u0027s a trailing space here",
+      "revId": "eb079ad640993c2f0b2006e4a6bc1e95a7038238",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
