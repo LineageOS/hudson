@@ -16,6 +16,24 @@
       "message": "I think there\u0027s a trailing space here",
       "revId": "eb079ad640993c2f0b2006e4a6bc1e95a7038238",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7155e203_16d49e44",
+        "filename": "lineage-build-targets",
+        "patchSetId": 4
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-08-17T18:06:01Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "253bc041_075b6f2e",
+      "revId": "eb079ad640993c2f0b2006e4a6bc1e95a7038238",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
