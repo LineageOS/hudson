@@ -375,6 +375,7 @@
   {  "model": "surya", "oem": "Xiaomi", "name": "POCO X3 NFC" },
   {  "model": "suzu", "oem": "Sony", "name": "Xperia X" },
   {  "model": "suzuran", "oem": "Sony", "name": "Xperia Z5 Compact" },
+  {  "model": "sweet", "oem": "Xiaomi", "name": "Redmi Note 10 Pro / Redmi Note 10 Pro Max" },
   {  "model": "t0lte", "oem": "Samsung", "name": "Galaxy Note II (GSM LTE)" },
   {  "model": "t0ltekor", "oem": "Samsung", "name": "Galaxy Note II (Korea)" },
   {  "model": "t6", "oem": "HTC", "name": "One Max" },
