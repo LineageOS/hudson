@@ -266,6 +266,7 @@
   {  "model": "merlin", "oem": "Motorola", "name": "moto g3 turbo" },
   {  "model": "merlinx", "oem": "Xiaomi", "name": "Redmi Note 9" },
   {  "model": "mermaid", "oem": "Sony", "name": "Xperia 10 Plus" },
+  {  "model": "messi", "oem": "Motorola", "name": "moto z3" },
   {  "model": "Mi439", "oem": "Xiaomi", "name": "Redmi 7A / 8 / 8A / 8A Dual" },
   {  "model": "Mi8917", "oem": "Xiaomi", "name": "Redmi 4A / 5A / [Note 5A / Y1 - Lite]" },
   {  "model": "Mi8937", "oem": "Xiaomi", "name": "Redmi 3S / 3X / 4(X) / [Note 5A / Y1 - Prime]" },
