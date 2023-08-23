@@ -1828,6 +1828,14 @@
         "android_hardware_sony_simdetect",
         "android_kernel_sony_sdm660"
     ],
+    "messi": [
+        "android_device_motorola_messi",
+        "android_device_motorola_msm8998-common",
+        "android_external_bson",
+        "android_hardware_motorola",
+        "android_kernel_motorola_msm8998",
+        "android_system_qcom"
+    ],
     "miatoll": [
         "android_device_xiaomi_miatoll",
         "android_device_xiaomi_sm6250-common",
