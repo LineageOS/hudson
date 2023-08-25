@@ -1971,6 +1971,7 @@
         "android_device_nubia_nx651j",
         "android_device_nubia_sm7250-common",
         "android_hardware_nubia",
+        "android_hardware_samsung_nfc",
         "android_kernel_nubia_sm7250"
     ],
     "nx651j_eea": [
