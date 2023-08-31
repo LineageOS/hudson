@@ -14,8 +14,7 @@
         "android_kernel_fairphone_msm8974"
     ],
     "FP3": [
-        "android_device_fairphone_FP3",
-        "android_kernel_fairphone_sdm632"
+        "android_device_fairphone_FP3"
     ],
     "FP4": [
         "android_device_fairphone_FP4",
@@ -255,9 +254,7 @@
         "android_kernel_google_redbull"
     ],
     "bardock": [
-        "android_device_bq_bardock",
-        "android_device_bq_msm8953-common",
-        "android_kernel_bq_msm8953"
+        "android_device_bq_bardock"
     ],
     "bardockpro": [
         "android_device_bq_bardockpro",
@@ -553,31 +550,19 @@
     ],
     "d800": [
         "android_device_lge_d800",
-        "android_device_lge_g2-common",
-        "android_external_sony_boringssl-compat",
-        "android_hardware_sony_timekeep",
-        "android_kernel_lge_msm8974"
+        "android_device_lge_g2-common"
     ],
     "d801": [
         "android_device_lge_d801",
-        "android_device_lge_g2-common",
-        "android_external_sony_boringssl-compat",
-        "android_hardware_sony_timekeep",
-        "android_kernel_lge_msm8974"
+        "android_device_lge_g2-common"
     ],
     "d802": [
         "android_device_lge_d802",
-        "android_device_lge_g2-common",
-        "android_external_sony_boringssl-compat",
-        "android_hardware_sony_timekeep",
-        "android_kernel_lge_msm8974"
+        "android_device_lge_g2-common"
     ],
     "d803": [
         "android_device_lge_d803",
-        "android_device_lge_g2-common",
-        "android_external_sony_boringssl-compat",
-        "android_hardware_sony_timekeep",
-        "android_kernel_lge_msm8974"
+        "android_device_lge_g2-common"
     ],
     "d850": [
         "android_device_lge_d850",
@@ -586,10 +571,7 @@
         "android_kernel_lge_g3"
     ],
     "d851": [
-        "android_device_lge_d851",
-        "android_device_lge_g3-common",
-        "android_hardware_sony_timekeep",
-        "android_kernel_lge_g3"
+        "android_device_lge_d851"
     ],
     "d852": [
         "android_device_lge_d852",
@@ -708,10 +690,7 @@
         "android_system_qcom"
     ],
     "f400": [
-        "android_device_lge_f400",
-        "android_device_lge_g3-common",
-        "android_hardware_sony_timekeep",
-        "android_kernel_lge_g3"
+        "android_device_lge_f400"
     ],
     "f62": [
         "android_device_samsung_exynos9820-common",
@@ -1063,28 +1042,13 @@
         "android_kernel_oneplus_sm8150"
     ],
     "h830": [
-        "android_device_lge_g5-common",
-        "android_device_lge_h830",
-        "android_device_lge_msm8996-common",
-        "android_hardware_lge",
-        "android_hardware_sony_timekeep",
-        "android_kernel_lge_msm8996"
+        "android_device_lge_h830"
     ],
     "h850": [
-        "android_device_lge_g5-common",
-        "android_device_lge_h850",
-        "android_device_lge_msm8996-common",
-        "android_hardware_lge",
-        "android_hardware_sony_timekeep",
-        "android_kernel_lge_msm8996"
+        "android_device_lge_h850"
     ],
     "h870": [
-        "android_device_lge_g6-common",
-        "android_device_lge_h870",
-        "android_device_lge_msm8996-common",
-        "android_hardware_lge",
-        "android_hardware_sony_timekeep",
-        "android_kernel_lge_msm8996"
+        "android_device_lge_h870"
     ],
     "h872": [
         "android_device_lge_g6-common",
@@ -1103,19 +1067,10 @@
         "android_kernel_lge_msm8996"
     ],
     "h918": [
-        "android_device_lge_h918",
-        "android_device_lge_msm8996-common",
-        "android_device_lge_v20-common",
-        "android_hardware_lge",
-        "android_hardware_sony_timekeep",
-        "android_kernel_lge_msm8996"
+        "android_device_lge_h918"
     ],
     "h932": [
-        "android_device_lge_h932",
-        "android_device_lge_joan-common",
-        "android_hardware_lge",
-        "android_hardware_sony_timekeep",
-        "android_kernel_lge_msm8998"
+        "android_device_lge_h932"
     ],
     "h990": [
         "android_device_lge_h990",
@@ -1645,10 +1600,7 @@
     ],
     "ls980": [
         "android_device_lge_g2-common",
-        "android_device_lge_ls980",
-        "android_external_sony_boringssl-compat",
-        "android_hardware_sony_timekeep",
-        "android_kernel_lge_msm8974"
+        "android_device_lge_ls980"
     ],
     "ls990": [
         "android_device_lge_g3-common",
@@ -2427,12 +2379,7 @@
         "android_kernel_xiaomi_mt6785"
     ],
     "rs988": [
-        "android_device_lge_g5-common",
-        "android_device_lge_msm8996-common",
-        "android_device_lge_rs988",
-        "android_hardware_lge",
-        "android_hardware_sony_timekeep",
-        "android_kernel_lge_msm8996"
+        "android_device_lge_rs988"
     ],
     "s2": [
         "android_device_leeco_s2",
@@ -2503,8 +2450,7 @@
         "android_kernel_google_marlin"
     ],
     "sake": [
-        "android_device_asus_sake",
-        "android_kernel_asus_sm8350"
+        "android_device_asus_sake"
     ],
     "sargo": [
         "android_device_google_bonito",
@@ -2796,10 +2742,7 @@
     ],
     "vs980": [
         "android_device_lge_g2-common",
-        "android_device_lge_vs980",
-        "android_external_sony_boringssl-compat",
-        "android_hardware_sony_timekeep",
-        "android_kernel_lge_msm8974"
+        "android_device_lge_vs980"
     ],
     "vs985": [
         "android_device_lge_g3-common",
@@ -2861,9 +2804,7 @@
         "android_kernel_wingtech_msm8916"
     ],
     "x2": [
-        "android_device_leeco_msm8996-common",
-        "android_device_leeco_x2",
-        "android_kernel_leeco_msm8996"
+        "android_device_leeco_x2"
     ],
     "xmsirius": [
         "android_device_xiaomi_sdm710-common",
