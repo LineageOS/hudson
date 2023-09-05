@@ -2892,6 +2892,12 @@
         "android_kernel_zuk_msm8996",
         "android_packages_resources_devicesettings"
     ],
+    "z2_row": [
+        "android_device_zuk_msm8996-common",
+        "android_device_zuk_z2_row",
+        "android_kernel_zuk_msm8996",
+        "android_packages_resources_devicesettings"
+    ],
     "z3": [
         "android_device_sony_common",
         "android_device_sony_msm8974-common",
