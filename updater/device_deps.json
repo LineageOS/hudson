@@ -54,6 +54,11 @@
         "android_hardware_samsung_nfc",
         "android_kernel_nokia_sdm660"
     ],
+    "Spacewar": [
+        "android_device_nothing_Spacewar",
+        "android_hardware_nothing",
+        "android_kernel_nothing_sm7325"
+    ],
     "TP1803": [
         "android_device_nubia_TP1803",
         "android_kernel_nubia_sm8150"
