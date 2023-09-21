@@ -1530,6 +1530,20 @@
         "android_device_lenovo_kuntao",
         "android_kernel_lenovo_msm8953"
     ],
+    "kvim1s": [
+        "android_device_amlogic_common",
+        "android_device_amlogic_ne-common",
+        "android_device_amlogic_sepolicy",
+        "android_device_khadas_kvim1s",
+        "android_hardware_amlogic_kernel-modules_dhd-driver",
+        "android_hardware_amlogic_kernel-modules_mali-driver",
+        "android_hardware_amlogic_kernel-modules_media-5.4",
+        "android_hardware_amlogic_kernel-modules_optee",
+        "android_hardware_amlogic_tools_dtbtool",
+        "android_hardware_amlogic_tools_imagepacker",
+        "android_hardware_amlogic_tools_respacker",
+        "android_kernel_amlogic_linux-5.4"
+    ],
     "lake": [
         "android_device_motorola_lake",
         "android_device_motorola_msm8998-common",
