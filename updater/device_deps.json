@@ -693,6 +693,13 @@
         "android_hardware_oneplus",
         "android_kernel_oneplus_sdm845"
     ],
+    "eqs": [
+        "android_device_motorola_eqs",
+        "android_device_motorola_sm8475-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm8475",
+        "android_system_qcom"
+    ],
     "equuleus": [
         "android_device_xiaomi_equuleus",
         "android_device_xiaomi_sdm845-common",
@@ -2525,6 +2532,14 @@
         "android_device_asus_sake",
         "android_kernel_asus_sm8350"
     ],
+    "salami": [
+        "android_device_oneplus_salami",
+        "android_device_oneplus_sm8550-common",
+        "android_hardware_oplus",
+        "android_kernel_oneplus_sm8550",
+        "android_kernel_oneplus_sm8550-devicetrees",
+        "android_kernel_oneplus_sm8550-modules"
+    ],
     "sargo": [
         "android_device_google_bonito",
         "android_device_google_sargo",
@@ -2643,6 +2658,9 @@
         "android_hardware_sony_thermanager",
         "android_hardware_sony_timekeep",
         "android_kernel_sony_msm8974"
+    ],
+    "sm8550-devicetrees": [
+        "android_kernel_oneplus_sm8550-devicetrees"
     ],
     "smith": [
         "android_device_motorola_sm7250-common",
@@ -2950,6 +2968,13 @@
         "android_hardware_sony_thermanager",
         "android_hardware_sony_timekeep",
         "android_kernel_sony_msm8974"
+    ],
+    "zeekr": [
+        "android_device_motorola_sm8475-common",
+        "android_device_motorola_zeekr",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm8475",
+        "android_system_qcom"
     ],
     "zippo": [
         "android_device_lenovo_sm8150-common",
