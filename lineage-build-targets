@@ -25,6 +25,8 @@ beyond1lte userdebug lineage-20.0 W
 beyond2lte userdebug lineage-20.0 W
 beyondx userdebug lineage-20.0 W
 bluejay userdebug lineage-20.0 W
+blueline userdebug lineage-20.0 W
+bonito userdebug lineage-20.0 W
 bramble userdebug lineage-20.0 W
 channel userdebug lineage-20.0 W
 cheeseburger userdebug lineage-20.0 W
@@ -33,6 +35,7 @@ chef userdebug lineage-20.0 W
 cheryl userdebug lineage-20.0 W
 chiron userdebug lineage-20.0 W
 coral userdebug lineage-20.0 W
+crosshatch userdebug lineage-20.0 W
 crownlte userdebug lineage-20.0 W
 d1 userdebug lineage-20.0 W
 d2s userdebug lineage-20.0 W
@@ -138,6 +141,7 @@ rs988 userdebug lineage-20.0 W
 sagit userdebug lineage-20.0 W
 sailfish userdebug lineage-20.0 W
 sake userdebug lineage-20.0 W
+sargo userdebug lineage-20.0 W
 Spacewar userdebug lineage-20.0 W
 starlte userdebug lineage-20.0 W
 star2lte userdebug lineage-20.0 W
@@ -165,9 +169,6 @@ z2_plus userdebug lineage-20.0 W
 zippo userdebug lineage-20.0 W
 
 # Weekly 19.1
-blueline userdebug lineage-19.1 W
-bonito userdebug lineage-19.1 W
-crosshatch userdebug lineage-19.1 W
 discovery userdebug lineage-19.1 W
 gauguin userdebug lineage-19.1 W
 gemini userdebug lineage-19.1 W
@@ -178,7 +179,6 @@ monet userdebug lineage-19.1 W
 natrium userdebug lineage-19.1 W
 parker userdebug lineage-19.1 W
 pioneer userdebug lineage-19.1 W
-sargo userdebug lineage-19.1 W
 tissot userdebug lineage-19.1 W
 vayu userdebug lineage-19.1 W
 voyager userdebug lineage-19.1 W
