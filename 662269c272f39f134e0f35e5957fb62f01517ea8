@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "78d312b3_9aa5023e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-10-09T01:00:53Z",
+      "side": 1,
+      "message": "There\u0027s now an ESIM quirk on the wiki.",
+      "revId": "662269c272f39f134e0f35e5957fb62f01517ea8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
