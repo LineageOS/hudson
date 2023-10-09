@@ -16,6 +16,23 @@
       "message": "There\u0027s now an ESIM quirk on the wiki.",
       "revId": "662269c272f39f134e0f35e5957fb62f01517ea8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "944ed2c1_cce4392f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-10-09T01:02:49Z",
+      "side": 1,
+      "message": "My opinion here: Sad to hold this up when S\u0026P stats say that only 6.2% of users utilize ESIM, and only FI in the US requires it (and even then there are FI p-SIMs you can get).\n\nPlus if a user upgrades, their ESIM works fine. It\u0027s just fresh install.",
+      "revId": "662269c272f39f134e0f35e5957fb62f01517ea8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
