@@ -50,6 +50,23 @@
       "message": "I\u0027m a little ambivalent on this one. On the one hand, it\u0027s not unreasonable to treat this like we do IMS and say \"not everyone needs it\" and \"needs a lot of proprietary stuff that depends on unstable frameworks interfaces\". On the other, you can\u0027t get service if you set up your phone from factory reset...for eSIM anyways.\n\nThat being said, this is probably fine, given that few people use eSIM (though lineage users are more techy than your average person and may be more inclined to try eSIM or know that you could use it for travel sim cards). Setup vs upgrade isn\u0027t as big a distinction as it\u0027s made out to be I think, given that a lot of people download eSIMs when they travel, not just use it for their main phone line. What would be nice is if we could freeze a 19.1 build and/or build both, for new users that need to setup an eSIM or for users who need to setup eSIMs regularly (e.g. for travel sim cards or for those who like swapping phones). \n\nApologies if this was somewhat hard to read or understand, I\u0027m typing this on my phone as I eat dinner.",
       "revId": "662269c272f39f134e0f35e5957fb62f01517ea8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0b9d678e_3048408a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2023-10-09T01:24:15Z",
+      "side": 1,
+      "message": "One additional note, abstaining from CR -- ultimately not my call to make.",
+      "revId": "662269c272f39f134e0f35e5957fb62f01517ea8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
