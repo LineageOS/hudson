@@ -33,6 +33,23 @@
       "message": "My opinion here: Sad to hold this up when S\u0026P stats say that only 6.2% of users utilize ESIM, and only FI in the US requires it (and even then there are FI p-SIMs you can get).\n\nPlus if a user upgrades, their ESIM works fine. It\u0027s just fresh install.",
       "revId": "662269c272f39f134e0f35e5957fb62f01517ea8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4de18efd_5e2f0233",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2023-10-09T01:22:15Z",
+      "side": 1,
+      "message": "I\u0027m a little ambivalent on this one. On the one hand, it\u0027s not unreasonable to treat this like we do IMS and say \"not everyone needs it\" and \"needs a lot of proprietary stuff that depends on unstable frameworks interfaces\". On the other, you can\u0027t get service if you set up your phone from factory reset...for eSIM anyways.\n\nThat being said, this is probably fine, given that few people use eSIM (though lineage users are more techy than your average person and may be more inclined to try eSIM or know that you could use it for travel sim cards). Setup vs upgrade isn\u0027t as big a distinction as it\u0027s made out to be I think, given that a lot of people download eSIMs when they travel, not just use it for their main phone line. What would be nice is if we could freeze a 19.1 build and/or build both, for new users that need to setup an eSIM or for users who need to setup eSIMs regularly (e.g. for travel sim cards or for those who like swapping phones). \n\nApologies if this was somewhat hard to read or understand, I\u0027m typing this on my phone as I eat dinner.",
+      "revId": "662269c272f39f134e0f35e5957fb62f01517ea8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
