@@ -16,6 +16,23 @@
       "message": "Good points made. With the additions of \"Quirks\" section in the wiki, I suppose this is ok to do then.",
       "revId": "42f3ee030cdbe5cbe5465463103fd4c763f8ad4c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5122e389_4e260cb5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2023-10-14T16:18:01Z",
+      "side": 1,
+      "message": "fine by as long quirks is complete.",
+      "revId": "42f3ee030cdbe5cbe5465463103fd4c763f8ad4c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
