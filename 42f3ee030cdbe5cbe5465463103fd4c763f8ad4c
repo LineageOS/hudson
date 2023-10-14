@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4a960791_1edf3d8f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2023-10-14T01:35:40Z",
+      "side": 1,
+      "message": "Good points made. With the additions of \"Quirks\" section in the wiki, I suppose this is ok to do then.",
+      "revId": "42f3ee030cdbe5cbe5465463103fd4c763f8ad4c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
