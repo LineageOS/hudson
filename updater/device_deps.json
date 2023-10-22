@@ -467,10 +467,7 @@
     ],
     "cheetah": [
         "android_device_google_cheetah",
-        "android_device_google_gs101",
-        "android_device_google_gs201",
-        "android_device_google_pantah",
-        "android_kernel_google_gs201"
+        "android_device_google_pantah"
     ],
     "chef": [
         "android_device_motorola_chef",
@@ -1829,6 +1826,23 @@
         "android_hardware_samsung",
         "android_kernel_samsung_sm7325"
     ],
+    "m5_tab": [
+        "android_device_amlogic_common",
+        "android_device_amlogic_g12-common",
+        "android_device_amlogic_sepolicy",
+        "android_device_bananapi_m5",
+        "android_device_bananapi_m5_tab",
+        "android_hardware_amlogic_kernel-modules_mali-driver",
+        "android_hardware_amlogic_kernel-modules_media",
+        "android_hardware_amlogic_kernel-modules_optee",
+        "android_hardware_amlogic_kernel-modules_rtk_btusb",
+        "android_hardware_amlogic_kernel-modules_rtl8822cs",
+        "android_hardware_amlogic_tools_dtbtool",
+        "android_hardware_amlogic_tools_imagepacker",
+        "android_hardware_amlogic_tools_respacker",
+        "android_hardware_realtek",
+        "android_kernel_amlogic_linux-4.9"
+    ],
     "m8": [
         "android_device_htc_m8",
         "android_device_htc_m8-common",
@@ -2135,6 +2149,20 @@
         "android_hardware_amlogic_tools_respacker",
         "android_kernel_amlogic_linux-4.9"
     ],
+    "odroidc4_tab": [
+        "android_device_amlogic_common",
+        "android_device_amlogic_g12-common",
+        "android_device_amlogic_sepolicy",
+        "android_device_hardkernel_odroidc4",
+        "android_device_hardkernel_odroidc4_tab",
+        "android_hardware_amlogic_kernel-modules_mali-driver",
+        "android_hardware_amlogic_kernel-modules_media",
+        "android_hardware_amlogic_kernel-modules_optee",
+        "android_hardware_amlogic_tools_dtbtool",
+        "android_hardware_amlogic_tools_imagepacker",
+        "android_hardware_amlogic_tools_respacker",
+        "android_kernel_amlogic_linux-4.9"
+    ],
     "onclite": [
         "android_device_xiaomi_onclite",
         "android_kernel_xiaomi_onclite"
@@ -2161,11 +2189,8 @@
         "android_system_qcom"
     ],
     "panther": [
-        "android_device_google_gs101",
-        "android_device_google_gs201",
         "android_device_google_pantah",
-        "android_device_google_panther",
-        "android_kernel_google_gs201"
+        "android_device_google_panther"
     ],
     "parker": [
         "android_device_motorola_parker",
@@ -2480,6 +2505,21 @@
         "android_device_amlogic_g12-common",
         "android_device_amlogic_sepolicy",
         "android_device_radxa_radxa0",
+        "android_hardware_amlogic_kernel-modules_dhd-driver",
+        "android_hardware_amlogic_kernel-modules_mali-driver",
+        "android_hardware_amlogic_kernel-modules_media",
+        "android_hardware_amlogic_kernel-modules_optee",
+        "android_hardware_amlogic_tools_dtbtool",
+        "android_hardware_amlogic_tools_imagepacker",
+        "android_hardware_amlogic_tools_respacker",
+        "android_kernel_amlogic_linux-4.9"
+    ],
+    "radxa0_tab": [
+        "android_device_amlogic_common",
+        "android_device_amlogic_g12-common",
+        "android_device_amlogic_sepolicy",
+        "android_device_radxa_radxa0",
+        "android_device_radxa_radxa0_tab",
         "android_hardware_amlogic_kernel-modules_dhd-driver",
         "android_hardware_amlogic_kernel-modules_mali-driver",
         "android_hardware_amlogic_kernel-modules_media",
