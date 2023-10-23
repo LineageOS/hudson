@@ -467,7 +467,10 @@
     ],
     "cheetah": [
         "android_device_google_cheetah",
-        "android_device_google_pantah"
+        "android_device_google_gs101",
+        "android_device_google_gs201",
+        "android_device_google_pantah",
+        "android_kernel_google_gs201"
     ],
     "chef": [
         "android_device_motorola_chef",
@@ -2189,8 +2192,11 @@
         "android_system_qcom"
     ],
     "panther": [
+        "android_device_google_gs101",
+        "android_device_google_gs201",
         "android_device_google_pantah",
-        "android_device_google_panther"
+        "android_device_google_panther",
+        "android_kernel_google_gs201"
     ],
     "parker": [
         "android_device_motorola_parker",
