@@ -432,6 +432,7 @@
   {  "model": "X01BD", "oem": "ASUS", "name": "Zenfone Max Pro M2" },
   {  "model": "x2", "oem": "LeEco", "name": "Le Max 2" },
   {  "model": "xmsirius", "oem": "Xiaomi", "name": "Mi 8 SE" },
+  {  "model": "xpeng", "oem": "Motorola", "name": "g200 5G / Edge S30" },
   {  "model": "xt897", "oem": "Motorola", "name": "PHOTON Q 4G LTE" },
   {  "model": "xz2c", "oem": "Sony", "name": "Xperia XZ2 Compact" },
   {  "model": "YTX703F", "oem": "Lenovo", "name": "Yoga Tab 3 Plus Wi-Fi" },
