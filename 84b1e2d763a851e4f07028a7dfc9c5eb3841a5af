@@ -16,6 +16,24 @@
       "message": "name should match wiki. moto g200 5G",
       "revId": "84b1e2d763a851e4f07028a7dfc9c5eb3841a5af",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a23db21a_1fe06714",
+        "filename": "updater/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 435,
+      "author": {
+        "id": 19252
+      },
+      "writtenOn": "2023-10-27T03:37:56Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "850597c8_8d6ef64b",
+      "revId": "84b1e2d763a851e4f07028a7dfc9c5eb3841a5af",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
