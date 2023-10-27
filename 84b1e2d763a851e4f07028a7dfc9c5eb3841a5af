@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "850597c8_8d6ef64b",
+        "filename": "updater/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 435,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2023-10-27T03:02:16Z",
+      "side": 1,
+      "message": "name should match wiki. moto g200 5G",
+      "revId": "84b1e2d763a851e4f07028a7dfc9c5eb3841a5af",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
