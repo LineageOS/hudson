@@ -321,6 +321,7 @@
   {  "model": "pdx215", "oem": "Sony", "name": "Xperia 1 III" },
   {  "model": "peach", "oem": "ARK", "name": "Benefit A3" },
   {  "model": "peregrine", "oem": "Motorola", "name": "moto g 4G" },
+  {  "model": "perseus", "oem": "Xiaomi", "name": "Mi MIX 3" },
   {  "model": "piccolo", "oem": "BQ", "name": "Aquaris M5" },
   {  "model": "pioneer", "oem": "Sony", "name": "Xperia XA2" },
   {  "model": "PL2", "oem": "Nokia", "name": "6.1 (2018)" },
