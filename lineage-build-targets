@@ -44,6 +44,7 @@ davinci userdebug lineage-20.0 W
 deadpool userdebug lineage-20.0 W
 devon userdebug lineage-20.0 W
 dipper userdebug lineage-20.0 W
+discovery userdebug lineage-20.0 W
 dre userdebug lineage-20.0 W
 DRG userdebug lineage-20.0 W
 dubai userdebug lineage-20.0 W
@@ -85,6 +86,7 @@ joan userdebug lineage-20.0 W
 kane userdebug lineage-20.0 W
 kebab userdebug lineage-20.0 W
 kiev userdebug lineage-20.0 W
+kirin userdebug lineage-20.0 W
 lake userdebug lineage-20.0 W
 lancelot userdebug lineage-20.0 W
 lemonade userdebug lineage-20.0 W
@@ -102,6 +104,7 @@ mars userdebug lineage-20.0 W
 martini userdebug lineage-20.0 W
 mata userdebug lineage-20.0 W
 merlinx userdebug lineage-20.0 W
+mermaid userdebug lineage-20.0 W
 messi userdebug lineage-20.0 W
 Mi439 userdebug lineage-20.0 W
 Mi8917 userdebug lineage-20.0 W
@@ -127,6 +130,7 @@ panther userdebug lineage-20.0 W
 payton userdebug lineage-20.0 W
 pdx214 userdebug lineage-20.0 W
 pdx215 userdebug lineage-20.0 W
+pioneer userdebug lineage-20.0 W
 PL2 userdebug lineage-20.0 W
 polaris userdebug lineage-20.0 W
 pro1 userdebug lineage-20.0 W
@@ -164,6 +168,7 @@ us996d userdebug lineage-20.0 W
 us997 userdebug lineage-20.0 W
 vela userdebug lineage-20.0 W
 violet userdebug lineage-20.0 W
+voyager userdebug lineage-20.0 W
 vs995 userdebug lineage-20.0 W
 wade userdebug lineage-20.0 W
 walleye userdebug lineage-20.0 W
@@ -176,15 +181,10 @@ z2_plus userdebug lineage-20.0 W
 zippo userdebug lineage-20.0 W
 
 # Weekly 19.1
-discovery userdebug lineage-19.1 W
 gauguin userdebug lineage-19.1 W
-kirin userdebug lineage-19.1 W
 liber userdebug lineage-19.1 W
-mermaid userdebug lineage-19.1 W
 parker userdebug lineage-19.1 W
-pioneer userdebug lineage-19.1 W
 vayu userdebug lineage-19.1 W
-voyager userdebug lineage-19.1 W
 
 # Monthly 18.1
 a5y17lte userdebug lineage-18.1 M
