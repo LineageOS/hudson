@@ -1,4 +1,22 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fea23638_af8de0d3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5911
+      },
+      "writtenOn": "2023-11-08T16:43:47Z",
+      "side": 1,
+      "message": "Note to public: if someone pops up and fixes Wi-Fi on the existing kernel (without just reverting all the shit), it\u0027s basically auto maintained with the rest of the 8998 tree, reach out to Nolen :)",
+      "revId": "a4cc06d1ee2f29dff273e9781e4ab289829c6cc2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ],
   "submitRequirementResults": []
 }
