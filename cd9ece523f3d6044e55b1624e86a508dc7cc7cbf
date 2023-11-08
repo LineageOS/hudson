@@ -16,6 +16,23 @@
       "message": "Nolen, thoughts?",
       "revId": "cd9ece523f3d6044e55b1624e86a508dc7cc7cbf",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d4cade9f_e65a8ca9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5911
+      },
+      "writtenOn": "2023-11-08T16:25:05Z",
+      "side": 1,
+      "message": "[11:43]npjohnson: chef is getting dropped.\n[11:44]npjohnson: It\u0027s wifi is broken apparently legitimately and maintainer doesn\u0027t have the device anymore",
+      "revId": "cd9ece523f3d6044e55b1624e86a508dc7cc7cbf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
