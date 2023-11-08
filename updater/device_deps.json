@@ -472,14 +472,6 @@
         "android_device_google_pantah",
         "android_kernel_google_gs201"
     ],
-    "chef": [
-        "android_device_motorola_chef",
-        "android_device_motorola_msm8998-common",
-        "android_external_bson",
-        "android_hardware_motorola",
-        "android_kernel_motorola_msm8998",
-        "android_system_qcom"
-    ],
     "cheryl": [
         "android_device_razer_cheryl",
         "android_kernel_razer_msm8998"
