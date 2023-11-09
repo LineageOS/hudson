@@ -51,7 +51,6 @@
     "PL2": [
         "android_device_nokia_PL2",
         "android_device_nokia_sdm660-common",
-        "android_hardware_samsung_nfc",
         "android_kernel_nokia_sdm660"
     ],
     "Spacewar": [
