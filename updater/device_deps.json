@@ -1103,6 +1103,12 @@
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_sdm710"
     ],
+    "gta4l": [
+        "android_device_samsung_gta4l",
+        "android_device_samsung_gta4l-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_sm6115"
+    ],
     "gta4xl": [
         "android_device_samsung_gta4xl",
         "android_device_samsung_gta4xl-common",
@@ -2599,6 +2605,15 @@
         "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
+    "rtwo": [
+        "android_device_motorola_rtwo",
+        "android_device_motorola_sm8550-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm8550",
+        "android_kernel_motorola_sm8550-devicetrees",
+        "android_kernel_motorola_sm8550-modules",
+        "android_system_qcom"
+    ],
     "s2": [
         "android_device_leeco_s2",
         "android_kernel_leeco_msm8976"
@@ -2799,7 +2814,7 @@
         "android_kernel_sony_msm8974"
     ],
     "sm8550-devicetrees": [
-        "android_kernel_oneplus_sm8550-devicetrees"
+        "android_kernel_motorola_sm8550-devicetrees"
     ],
     "smith": [
         "android_device_motorola_sm7250-common",
