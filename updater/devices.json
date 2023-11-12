@@ -122,7 +122,7 @@
   {  "model": "fugu", "oem": "Google", "name": "Nexus Player" },
   {  "model": "G", "oem": "10.or", "name": "G" },
   {  "model": "g2m", "oem": "LG", "name": "G2 Mini" },
-  {  "model": "gauguin", "oem": "Xiaomi", "name": "Mi 10T Lite / Mi 10i / Redmi Note 9 Pro 5G" },
+  {  "model": "gauguin", "oem": "Xiaomi", "name": "Mi 10T Lite 5G / Mi 10i 5G / Redmi Note 9 Pro 5G" },
   {  "model": "gemini", "oem": "Xiaomi", "name": "Mi 5" },
   {  "model": "ghost", "oem": "Motorola", "name": "moto x (2013)" },
   {  "model": "ginkgo", "oem": "Xiaomi", "name": "Redmi Note 8 / 8T" },
