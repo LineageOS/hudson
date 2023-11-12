@@ -2813,9 +2813,6 @@
         "android_hardware_sony_timekeep",
         "android_kernel_sony_msm8974"
     ],
-    "sm8550-devicetrees": [
-        "android_kernel_motorola_sm8550-devicetrees"
-    ],
     "smith": [
         "android_device_motorola_sm7250-common",
         "android_device_motorola_smith",
