@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "abc01ac9_e4aee724",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2023-11-12T02:17:46Z",
+      "side": 1,
+      "message": "device names need to match with wiki. /updater/devices.json",
+      "revId": "0dcc89e311fb58eadfdd8a4ab796d405225b6574",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
