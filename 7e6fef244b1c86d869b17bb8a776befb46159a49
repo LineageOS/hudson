@@ -33,6 +33,24 @@
       "message": "Missed the devices.json entry? https://github.com/LineageOS/hudson/blob/main/updater/devices.json",
       "revId": "7e6fef244b1c86d869b17bb8a776befb46159a49",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bab36bd0_672d76f1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3917
+      },
+      "writtenOn": "2023-11-15T14:08:10Z",
+      "side": 1,
+      "message": "oups",
+      "parentUuid": "0052a653_3f043b54",
+      "revId": "7e6fef244b1c86d869b17bb8a776befb46159a49",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
