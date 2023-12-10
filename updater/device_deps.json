@@ -1115,6 +1115,12 @@
         "android_hardware_samsung",
         "android_kernel_samsung_sm6115"
     ],
+    "gta4lwifi": [
+        "android_device_samsung_gta4l-common",
+        "android_device_samsung_gta4lwifi",
+        "android_hardware_samsung",
+        "android_kernel_samsung_sm6115"
+    ],
     "gta4xl": [
         "android_device_samsung_gta4xl",
         "android_device_samsung_gta4xl-common",
