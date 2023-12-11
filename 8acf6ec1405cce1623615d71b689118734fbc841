@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c4ca5e83_eaa3dc58",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2023-12-11T21:46:31Z",
+      "side": 1,
+      "message": "Appreciate the candidness!\n\n\nRe-add us whenever you\u0027re ready to re-ship.",
+      "revId": "8acf6ec1405cce1623615d71b689118734fbc841",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
