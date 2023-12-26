@@ -2122,6 +2122,33 @@
         "android_hardware_samsung_nfc",
         "android_kernel_nubia_sm8250"
     ],
+    "nx_tab": [
+        "android_device_nintendo_nx",
+        "android_device_nintendo_nx_tab",
+        "android_device_nvidia_sepolicy",
+        "android_device_nvidia_t210-common",
+        "android_device_nvidia_tegra-common",
+        "android_external_libevdev",
+        "android_hardware_intel_sensors-iio",
+        "android_hardware_nintendo_arm-trusted-firmware",
+        "android_hardware_nintendo_joycond",
+        "android_hardware_nintendo_u-boot",
+        "android_hardware_nvidia_interfaces",
+        "android_hardware_nvidia_light",
+        "android_hardware_nvidia_platform_t210_common",
+        "android_hardware_nvidia_platform_t210_nx",
+        "android_hardware_nvidia_platform_tegra_common",
+        "android_hardware_nvidia_power",
+        "android_hardware_nvidia_soc_t210",
+        "android_hardware_nvidia_soc_tegra",
+        "android_hardware_nvidia_thermal",
+        "android_kernel_nvidia_cypress-fmac-upstream",
+        "android_kernel_nvidia_kernel-nx",
+        "android_kernel_nvidia_nvgpu",
+        "android_kernel_nvidia_nvidia-nx",
+        "android_kernel_nvidia_wireguard",
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
+    ],
     "obiwan": [
         "android_device_asus_obiwan"
     ],
