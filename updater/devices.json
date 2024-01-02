@@ -215,7 +215,7 @@
   {  "model": "kirin", "oem": "Sony", "name": "Xperia 10" },
   {  "model": "kiwi", "oem": "Huawei", "name": "Honor 5X" },
   {  "model": "klimtwifi", "oem": "Samsung", "name": "Galaxy Tab S 8.4 (Wi-Fi)" },
-  {  "model": "klte", "oem": "Samsung", "name": "Galaxy S5 LTE (G900F/M/R4/R7/T/V/W8)" },
+  {  "model": "klte", "oem": "Samsung", "name": "Galaxy S5 LTE (G900F/M/R4/R7/T/T3/V/W8)" },
   {  "model": "klteactivexx", "oem": "Samsung", "name": "Galaxy S5 Active (G870F)" },
   {  "model": "klteaio", "oem": "Samsung", "name": "Galaxy S5 LTE (G900AZ/S902L)" },
   {  "model": "kltechn", "oem": "Samsung", "name": "Galaxy S5 LTE (G9006V/8V)" },
