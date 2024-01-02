@@ -199,7 +199,7 @@
   {  "model": "jflteatt", "oem": "Samsung", "name": "Galaxy S4 (SGH-I337)" },
   {  "model": "jfltespr", "oem": "Samsung", "name": "Galaxy S4 (SCH-R970/C/X,SPH-L720)" },
   {  "model": "jfltevzw", "oem": "Samsung", "name": "Galaxy S4 (SCH-I545)" },
-  {  "model": "jfltexx", "oem": "Samsung", "name": "Galaxy S4 (GT-I9505,SGH-I337M,SGH-M919)" },
+  {  "model": "jfltexx", "oem": "Samsung", "name": "Galaxy S4 (GT-I9505,SGH-I337M,SGH-M919/V)" },
   {  "model": "jfvelte", "oem": "Samsung", "name": "Galaxy S4 Value Edition (GT-I9515/L)" },
   {  "model": "joan", "oem": "LG", "name": "V30 (Unlocked)" },
   {  "model": "k3gxx", "oem": "Samsung", "name": "Galaxy S5 (International 3G)" },
