@@ -1180,6 +1180,13 @@
         "android_hardware_oplus",
         "android_kernel_oneplus_sm8150"
     ],
+    "guamp": [
+        "android_device_motorola_guamp",
+        "android_device_motorola_sm6225-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm6225",
+        "android_system_qcom"
+    ],
     "h830": [
         "android_device_lge_g5-common",
         "android_device_lge_h830",
