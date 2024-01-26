@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b3b88146_018e9e05",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-01-26T04:11:09Z",
+      "side": 1,
+      "message": "Just did Pixel 3+ (minus floral, face unlock is broken), plus devices I am listed on that are ready. Many more will follow after initial batch\n\n@mkbestas@lineageos.org - Felix \u0026 pixel 8 series as follow up commits?",
+      "revId": "5ffc23d183e5894a9cf6010d22f8268a390aa0de",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
