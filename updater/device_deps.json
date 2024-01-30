@@ -2125,7 +2125,7 @@
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia-nx",
         "android_kernel_nvidia_wireguard",
-        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
     "nx563j": [
         "android_device_nubia_msm8998-common",
@@ -2199,7 +2199,7 @@
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia-nx",
         "android_kernel_nvidia_wireguard",
-        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1"
+        "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
     "obiwan": [
         "android_device_asus_obiwan"
