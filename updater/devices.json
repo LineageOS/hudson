@@ -91,6 +91,7 @@
   {  "model": "dipper", "oem": "Xiaomi", "name": "Mi 8" },
   {  "model": "discovery", "oem": "Sony", "name": "Xperia XA2 Ultra" },
   {  "model": "dogo", "oem": "Sony", "name": "Xperia ZR" },
+  {  "model": "dopinder", "oem": "Walmart", "name": "onn. TV Box 4K (2021)" },
   {  "model": "dragon", "oem": "Google", "name": "Pixel C" },
   {  "model": "dre", "oem": "OnePlus", "name": "Nord N200" },
   {  "model": "dubai", "oem": "Motorola", "name": "edge 30" },
