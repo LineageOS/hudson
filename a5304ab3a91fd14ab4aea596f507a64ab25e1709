@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2d0a2f14_df2e209b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-02-02T05:00:17Z",
+      "side": 1,
+      "message": "pending the vendor/firmware push I pinged razor with.",
+      "revId": "a5304ab3a91fd14ab4aea596f507a64ab25e1709",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
