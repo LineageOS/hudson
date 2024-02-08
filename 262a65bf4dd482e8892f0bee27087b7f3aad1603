@@ -16,6 +16,24 @@
       "message": "where updater/devices.json",
       "revId": "262a65bf4dd482e8892f0bee27087b7f3aad1603",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1d1905b3_07c4f758",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-02-08T20:47:10Z",
+      "side": 1,
+      "message": "missed git add, done",
+      "parentUuid": "77aac351_41703f86",
+      "revId": "262a65bf4dd482e8892f0bee27087b7f3aad1603",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
