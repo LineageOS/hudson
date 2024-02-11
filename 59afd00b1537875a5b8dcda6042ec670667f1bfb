@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2f241c27_0248f94f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 17
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17945
+      },
+      "writtenOn": "2024-02-11T16:14:05Z",
+      "side": 1,
+      "message": "Sorry, x86 emulator is broken atm possibly due to 377453, investigating.\n\n```\n[ 99% 1130/1133] analyzing Android.bp files and generating ninja file at out/soong/build.ninja\nFAILED: out/soong/build.ninja\ncd \"$(dirname \"out/host/linux-x86/bin/soong_build\")\" \u0026\u0026 BUILDER\u003d\"$PWD/$(basename \"out/host/linux-x86/bin/soong_build\")\" \u0026\u0026 cd / \u0026\u0026 env -i  \"$BUILDER\"     --top \"$TOP\"     --soong_out \"out/soong\"     --out \"out\"     -o out/soong/build.ninja --bazel-mode --globListDir build --globFile out/soong/globs-build.ninja -t -l out/.module_paths/Android.bp.list --available_env out/soong/soong.environment.available --used_env out/soong/soong.environment.used.build Android.bp\nerror: vendor/qcom/opensource/dataservices/rmnetctl/Android.bp:34:1: \"librmnetctl\" depends on undefined module \"qti_kernel_headers\".\nModule \"librmnetctl\" is defined in namespace \"vendor/qcom/opensource/dataservices\" which can read these 2 namespaces: [\"vendor/qcom/opensource/dataservices\" \".\"]\nModule \"qti_kernel_headers\" can be found in these namespaces: [\"hardware/google/pixel\"]\nOr did you mean [\"device_kernel_headers\" \"kernel_log_monitor\" \"libkernel_cmdline\" \"qti_powerhal_headers\"]?\n21:42:24 soong bootstrap failed with: exit status 1\n```",
+      "revId": "59afd00b1537875a5b8dcda6042ec670667f1bfb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
