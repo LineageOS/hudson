@@ -1,0 +1,34 @@
+name: gerrit checks
+
+on:
+  workflow_dispatch:
+    inputs:
+      ref:
+        type: string
+      gerrit-ref:
+        type: string
+      change:
+        type: string
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: lineageos-infra/fetch-gerrit-change@main
+      with:
+        gerrit-ref: ${{ inputs.gerrit-ref }}
+        ref: ${{ inputs.ref }}
+
+    - name: Check
+      run: |
+        for file in updater/*.json; do
+          echo "Checking $file"
+          jq -e . $file > /dev/null
+        done
+
+    - uses: lineageos-infra/gerrit-vote@main
+      if: always()
+      with:
+        auth: ${{ secrets.GERRIT_VOTE_CREDS }}
+        change: ${{ inputs.change }}
+        ref: ${{ inputs.ref }}
