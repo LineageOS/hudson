@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5c54847f_909efd97",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 21
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-02-13T00:35:30Z",
+      "side": 1,
+      "message": "for those who will ask - h932 was unified into Joan, wiki reflects it, hence the uneven remove/add numbers on targets",
+      "revId": "928580969d85b6d1490249bed930c5ffaf027c10",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
