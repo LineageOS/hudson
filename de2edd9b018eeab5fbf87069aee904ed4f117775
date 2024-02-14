@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9c6d31ee_16998d71",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 24
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2024-02-14T17:24:24Z",
+      "side": 1,
+      "message": "a device with known failure to upgrade, see comment",
+      "revId": "de2edd9b018eeab5fbf87069aee904ed4f117775",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1cbacf52_97b292bd",
+        "filename": "lineage-build-targets",
+        "patchSetId": 24
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2024-02-14T17:24:24Z",
+      "side": 1,
+      "message": "this device will fail to upgrade for some users without indication since support for one of the too many supported variants was (temporarily) removed.\ni don\u0027t think it should ship like this since a user being sent to the upgrade page and following it will have no clue why it fails (the assert error not telling them anything about their device that worked just fine all the other updates)\n\nhttps://review.lineageos.org/c/LineageOS/android_device_xiaomi_Mi439/+/382351",
+      "revId": "de2edd9b018eeab5fbf87069aee904ed4f117775",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
