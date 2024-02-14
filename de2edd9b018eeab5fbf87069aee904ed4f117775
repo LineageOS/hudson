@@ -69,6 +69,24 @@
       "parentUuid": "bc93242e_444a9acc",
       "revId": "de2edd9b018eeab5fbf87069aee904ed4f117775",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9e27fe99_d5b86cae",
+        "filename": "lineage-build-targets",
+        "patchSetId": 24
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-02-14T21:08:50Z",
+      "side": 1,
+      "message": "agreed plan:\n\nunship via devices.json and wiki variant\nleave assert in device tree (letting users install if they try\nuse init to set ro.updater.next_device to pine on the discontinued device only to prevent OTA - which will point them at the discontinued \"pine\" page",
+      "parentUuid": "3ca6afda_5c7d7f7c",
+      "revId": "de2edd9b018eeab5fbf87069aee904ed4f117775",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
