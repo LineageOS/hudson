@@ -51,6 +51,24 @@
       "parentUuid": "1cbacf52_97b292bd",
       "revId": "de2edd9b018eeab5fbf87069aee904ed4f117775",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3ca6afda_5c7d7f7c",
+        "filename": "lineage-build-targets",
+        "patchSetId": 24
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2024-02-14T18:06:50Z",
+      "side": 1,
+      "message": "I can accept leaving the entire Mi439 on 20 too, if it\u0027ll be a hassle to handle this",
+      "parentUuid": "bc93242e_444a9acc",
+      "revId": "de2edd9b018eeab5fbf87069aee904ed4f117775",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
