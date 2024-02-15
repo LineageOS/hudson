@@ -261,6 +261,7 @@
     ],
     "barbet": [
         "android_device_google_barbet",
+        "android_device_google_gs-common",
         "android_device_google_redbull",
         "android_kernel_google_redbull"
     ],
@@ -377,8 +378,9 @@
     ],
     "bluejay": [
         "android_device_google_bluejay",
+        "android_device_google_gs-common",
         "android_device_google_gs101",
-        "android_kernel_google_gs201"
+        "device/google/bluejay-kernel"
     ],
     "blueline": [
         "android_device_google_blueline",
@@ -400,6 +402,7 @@
     ],
     "bramble": [
         "android_device_google_bramble",
+        "android_device_google_gs-common",
         "android_device_google_redbull",
         "android_kernel_google_redbull"
     ],
@@ -471,10 +474,11 @@
     ],
     "cheetah": [
         "android_device_google_cheetah",
+        "android_device_google_gs-common",
         "android_device_google_gs101",
         "android_device_google_gs201",
         "android_device_google_pantah",
-        "android_kernel_google_gs201"
+        "device/google/pantah-kernel"
     ],
     "chef": [
         "android_device_motorola_chef",
@@ -859,9 +863,10 @@
     ],
     "felix": [
         "android_device_google_felix",
+        "android_device_google_gs-common",
         "android_device_google_gs101",
         "android_device_google_gs201",
-        "android_kernel_google_gs201"
+        "device/google/felix-kernel"
     ],
     "find7": [
         "android_device_oppo_common",
@@ -1410,6 +1415,14 @@
         "android_kernel_sony_msm8960t",
         "android_packages_resources_devicesettings"
     ],
+    "husky": [
+        "android_device_google_gs-common",
+        "android_device_google_gs101",
+        "android_device_google_husky",
+        "android_device_google_shusky",
+        "android_device_google_zuma",
+        "device/google/shusky-kernel"
+    ],
     "icera": [
         "android_device_nvidia_icera"
     ],
@@ -1563,7 +1576,6 @@
     ],
     "joan": [
         "android_device_lge_joan",
-        "android_device_lge_joan-common",
         "android_hardware_lge",
         "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8998"
@@ -1858,10 +1870,11 @@
         "android_system_qcom"
     ],
     "lynx": [
+        "android_device_google_gs-common",
         "android_device_google_gs101",
         "android_device_google_gs201",
         "android_device_google_lynx",
-        "android_kernel_google_gs201"
+        "device/google/lynx-kernel"
     ],
     "m20lte": [
         "android_device_samsung_m20lte",
@@ -2146,6 +2159,7 @@
     ],
     "nx611j": [
         "android_device_nubia_nx611j",
+        "android_hardware_nubia",
         "android_kernel_nubia_sdm660"
     ],
     "nx619j": [
@@ -2256,10 +2270,11 @@
         "android_kernel_oneplus_msm8996"
     ],
     "oriole": [
+        "android_device_google_gs-common",
         "android_device_google_gs101",
         "android_device_google_oriole",
         "android_device_google_raviole",
-        "android_kernel_google_gs201"
+        "device/google/raviole-kernel"
     ],
     "osprey": [
         "android_device_motorola_msm8916-common",
@@ -2272,11 +2287,12 @@
         "android_system_qcom"
     ],
     "panther": [
+        "android_device_google_gs-common",
         "android_device_google_gs101",
         "android_device_google_gs201",
         "android_device_google_pantah",
         "android_device_google_panther",
-        "android_kernel_google_gs201"
+        "device/google/pantah-kernel"
     ],
     "parker": [
         "android_device_motorola_parker",
@@ -2330,6 +2346,12 @@
         "android_hardware_sony_macaddrsetup",
         "android_hardware_sony_simdetect",
         "android_kernel_sony_sdm660"
+    ],
+    "pipa": [
+        "android_device_xiaomi_pipa",
+        "android_device_xiaomi_sm8250-common",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_sm8250"
     ],
     "platina": [
         "android_device_xiaomi_platina",
@@ -2625,12 +2647,14 @@
         "android_hardware_xiaomi"
     ],
     "raven": [
+        "android_device_google_gs-common",
         "android_device_google_gs101",
         "android_device_google_raven",
         "android_device_google_raviole",
-        "android_kernel_google_gs201"
+        "device/google/raviole-kernel"
     ],
     "redfin": [
+        "android_device_google_gs-common",
         "android_device_google_redbull",
         "android_device_google_redfin",
         "android_kernel_google_redbull"
@@ -2809,6 +2833,14 @@
         "android_device_moto_shamu",
         "android_hardware_sony_timekeep",
         "android_kernel_moto_shamu"
+    ],
+    "shiba": [
+        "android_device_google_gs-common",
+        "android_device_google_gs101",
+        "android_device_google_shiba",
+        "android_device_google_shusky",
+        "android_device_google_zuma",
+        "device/google/shusky-kernel"
     ],
     "shieldtablet": [
         "android_device_nvidia_icera",
@@ -2995,10 +3027,11 @@
         "android_packages_apps_ElmyraService"
     ],
     "tangorpro": [
+        "android_device_google_gs-common",
         "android_device_google_gs101",
         "android_device_google_gs201",
         "android_device_google_tangorpro",
-        "android_kernel_google_gs201"
+        "device/google/tangorpro-kernel"
     ],
     "tissot": [
         "android_device_xiaomi_msm8953-common",
