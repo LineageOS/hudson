@@ -30,6 +30,7 @@
   {  "model": "barbet", "oem": "Google", "name": "Pixel 5a" },
   {  "model": "bardock", "oem": "BQ", "name": "Aquaris X" },
   {  "model": "bardockpro", "oem": "BQ", "name": "Aquaris X Pro" },
+  {  "model": "beast", "oem": "Google", "name": "ADT-2" },
   {  "model": "beckham", "oem": "Motorola", "name": "moto z3 play" },
   {  "model": "berkeley", "oem": "Huawei", "name": "Honor View 10" },
   {  "model": "berlin", "oem": "Motorola", "name": "edge 20" },
