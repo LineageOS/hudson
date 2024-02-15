@@ -367,6 +367,7 @@
   {  "model": "s3ve3gjv", "oem": "Samsung", "name": "Galaxy S III Neo (Samsung Camera)" },
   {  "model": "s3ve3gxx", "oem": "Samsung", "name": "Galaxy S III Neo (Sony Camera)" },
   {  "model": "s5neolte", "oem": "Samsung", "name": "Galaxy S5 Neo" },
+  {  "model": "sabrina", "oem": "Google", "name": "Chromecast with Google TV (4K)" },
   {  "model": "sagit", "oem": "Xiaomi", "name": "Mi 6" },
   {  "model": "sailfish", "oem": "Google", "name": "Pixel" },
   {  "model": "sake", "oem": "ASUS", "name": "ZenFone 8" },
