@@ -192,6 +192,7 @@
   {  "model": "i9300", "oem": "Samsung", "name": "Galaxy S III (Intl)" },
   {  "model": "i9305", "oem": "Samsung", "name": "Galaxy S III (GSM LTE)" },
   {  "model": "ido", "oem": "Xiaomi", "name": "Redmi 3/Prime" },
+  {  "model": "ingot", "oem": "Solana", "name": "Saga" },
   {  "model": "instantnoodle", "oem": "OnePlus", "name": "8" },
   {  "model": "instantnoodlep", "oem": "OnePlus", "name": "8 Pro" },
   {  "model": "ivy", "oem": "Sony", "name": "Xperia Z3+" },
