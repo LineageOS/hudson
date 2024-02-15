@@ -115,8 +115,13 @@ redfin userdebug lineage-21.0 W
 renoir userdebug lineage-21.0 W
 rhode userdebug lineage-21.0 W
 river userdebug lineage-21.0 W
+<<<<<<< PATCH SET (af50ac i love breaking bootloaders)
+rs988 userdebug lineage-21.0 W
+sabrina userdebug lineage-21.0 W
+=======
 rosemary userdebug lineage-21.0 W
 rtwo userdebug lineage-21.0 W
+>>>>>>> BASE      (35f0be hudson: Promote dre to 21)
 sagit userdebug lineage-21.0 W
 salami userdebug lineage-21.0 W
 sargo userdebug lineage-21.0 W
