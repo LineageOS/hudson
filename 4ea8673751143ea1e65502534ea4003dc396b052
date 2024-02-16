@@ -22,6 +22,30 @@
       },
       "revId": "4ea8673751143ea1e65502534ea4003dc396b052",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5212f404_45e8e44a",
+        "filename": "lineage-build-targets",
+        "patchSetId": 1
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-02-16T23:00:48Z",
+      "side": 0,
+      "message": "this isn\u0027t what we\u0027ve historically done in this file. DRG and PL2 have been intermingled disregarding case for... a long while. same with FP3/4 and fam.\n\nFine with fixing it, but if we do that I have more I need to change.",
+      "parentUuid": "39ba5263_c8cba662",
+      "range": {
+        "startLine": 82,
+        "startChar": 0,
+        "endLine": 82,
+        "endChar": 28
+      },
+      "revId": "4ea8673751143ea1e65502534ea4003dc396b052",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
