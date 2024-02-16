@@ -379,8 +379,7 @@
     "bluejay": [
         "android_device_google_bluejay",
         "android_device_google_gs-common",
-        "android_device_google_gs101",
-        "device/google/bluejay-kernel"
+        "android_device_google_gs101"
     ],
     "blueline": [
         "android_device_google_blueline",
@@ -477,8 +476,7 @@
         "android_device_google_gs-common",
         "android_device_google_gs101",
         "android_device_google_gs201",
-        "android_device_google_pantah",
-        "device/google/pantah-kernel"
+        "android_device_google_pantah"
     ],
     "chef": [
         "android_device_motorola_chef",
@@ -865,8 +863,7 @@
         "android_device_google_felix",
         "android_device_google_gs-common",
         "android_device_google_gs101",
-        "android_device_google_gs201",
-        "device/google/felix-kernel"
+        "android_device_google_gs201"
     ],
     "find7": [
         "android_device_oppo_common",
@@ -1420,8 +1417,7 @@
         "android_device_google_gs101",
         "android_device_google_husky",
         "android_device_google_shusky",
-        "android_device_google_zuma",
-        "device/google/shusky-kernel"
+        "android_device_google_zuma"
     ],
     "icera": [
         "android_device_nvidia_icera"
@@ -1873,8 +1869,7 @@
         "android_device_google_gs-common",
         "android_device_google_gs101",
         "android_device_google_gs201",
-        "android_device_google_lynx",
-        "device/google/lynx-kernel"
+        "android_device_google_lynx"
     ],
     "m20lte": [
         "android_device_samsung_m20lte",
@@ -2273,8 +2268,7 @@
         "android_device_google_gs-common",
         "android_device_google_gs101",
         "android_device_google_oriole",
-        "android_device_google_raviole",
-        "device/google/raviole-kernel"
+        "android_device_google_raviole"
     ],
     "osprey": [
         "android_device_motorola_msm8916-common",
@@ -2291,8 +2285,7 @@
         "android_device_google_gs101",
         "android_device_google_gs201",
         "android_device_google_pantah",
-        "android_device_google_panther",
-        "device/google/pantah-kernel"
+        "android_device_google_panther"
     ],
     "parker": [
         "android_device_motorola_parker",
@@ -2650,8 +2643,7 @@
         "android_device_google_gs-common",
         "android_device_google_gs101",
         "android_device_google_raven",
-        "android_device_google_raviole",
-        "device/google/raviole-kernel"
+        "android_device_google_raviole"
     ],
     "redfin": [
         "android_device_google_gs-common",
@@ -2839,8 +2831,7 @@
         "android_device_google_gs101",
         "android_device_google_shiba",
         "android_device_google_shusky",
-        "android_device_google_zuma",
-        "device/google/shusky-kernel"
+        "android_device_google_zuma"
     ],
     "shieldtablet": [
         "android_device_nvidia_icera",
@@ -3030,8 +3021,7 @@
         "android_device_google_gs-common",
         "android_device_google_gs101",
         "android_device_google_gs201",
-        "android_device_google_tangorpro",
-        "device/google/tangorpro-kernel"
+        "android_device_google_tangorpro"
     ],
     "tissot": [
         "android_device_xiaomi_msm8953-common",
