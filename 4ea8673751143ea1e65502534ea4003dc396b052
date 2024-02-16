@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "39ba5263_c8cba662",
+        "filename": "lineage-build-targets",
+        "patchSetId": 1
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2024-02-16T22:22:30Z",
+      "side": 0,
+      "message": "This is where PL2 is supposed to fall. P \u003c p",
+      "range": {
+        "startLine": 82,
+        "startChar": 0,
+        "endLine": 82,
+        "endChar": 28
+      },
+      "revId": "4ea8673751143ea1e65502534ea4003dc396b052",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
