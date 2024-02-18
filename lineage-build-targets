@@ -2,6 +2,10 @@
 # <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
 
 # Weekly 21.0
+a52q userdebug lineage-21.0 W
+a52sxq userdebug lineage-21.0 W
+a72q userdebug lineage-21.0 W
+a73xq userdebug lineage-21.0 W
 aura userdebug lineage-21.0 W
 avicii userdebug lineage-21.0 W
 axolotl userdebug lineage-21.0 W
@@ -66,6 +70,7 @@ lemonades userdebug lineage-21.0 W
 ls997 userdebug lineage-21.0 W
 lynx userdebug lineage-21.0 W
 m5_tab userdebug lineage-21.0 W
+m52xq userdebug lineage-21.0 W
 martini userdebug lineage-21.0 W
 mata userdebug lineage-21.0 W
 marlin userdebug lineage-21.0 W
@@ -122,10 +127,6 @@ xpeng userdebug lineage-21.0 W
 Z01R userdebug lineage-21.0 W
 
 # Weekly 20.0
-a52q userdebug lineage-20.0 W
-a52sxq userdebug lineage-20.0 W
-a72q userdebug lineage-20.0 W
-a73xq userdebug lineage-20.0 W
 akari userdebug lineage-20.0 W
 akatsuki userdebug lineage-20.0 W
 alioth userdebug lineage-20.0 W
@@ -160,7 +161,6 @@ liber userdebug lineage-20.0 W
 lisa userdebug lineage-20.0 W
 lmi userdebug lineage-20.0 W
 m5 userdebug lineage-20.0 W
-m52xq userdebug lineage-20.0 W
 mars userdebug lineage-20.0 W
 merlinx userdebug lineage-20.0 W
 miatoll userdebug lineage-20.0 W
