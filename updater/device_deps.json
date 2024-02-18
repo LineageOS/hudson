@@ -227,6 +227,12 @@
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_sm8250"
     ],
+    "alphaplus": [
+        "android_device_lge_alphaplus",
+        "android_device_lge_sm8150-common",
+        "android_hardware_lge",
+        "android_kernel_lge_sm8150"
+    ],
     "apollon": [
         "android_device_xiaomi_apollon",
         "android_device_xiaomi_sm8250-common",
@@ -317,6 +323,12 @@
         "android_device_xiaomi_sdm845-common",
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_sdm845"
+    ],
+    "betalm": [
+        "android_device_lge_betalm",
+        "android_device_lge_sm8150-common",
+        "android_hardware_lge",
+        "android_kernel_lge_sm8150"
     ],
     "beyond0lte": [
         "android_device_samsung_beyond0lte",
@@ -2050,6 +2062,12 @@
         "android_hardware_motorola",
         "android_kernel_motorola_msm8998",
         "android_system_qcom"
+    ],
+    "mh2lm": [
+        "android_device_lge_mh2lm",
+        "android_device_lge_sm8150-common",
+        "android_hardware_lge",
+        "android_kernel_lge_sm8150"
     ],
     "miatoll": [
         "android_device_xiaomi_miatoll",
