@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "20975bed_907f407b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 31496
+      },
+      "writtenOn": "2024-02-24T17:53:56Z",
+      "side": 1,
+      "message": "Pending Muppets PR @ https://github.com/TheMuppets/manifests/pull/103.\n\nAn exp build would also be appreciated, as mentioned on Discord.",
+      "revId": "4237ca7d4f40b07d6153377c494e0c03418f2e3f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
