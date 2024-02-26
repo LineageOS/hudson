@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "21b0b1e6_f25006f7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-02-26T18:25:41Z",
+      "side": 1,
+      "message": "Setting a self timer on this, will pull if it isn\u0027t fixed by Sunday (next build is Monday)",
+      "revId": "6121981bdfd132efaad5f1755c6dded6d94d9528",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
