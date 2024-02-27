@@ -3295,6 +3295,18 @@
         "android_hardware_sony_timekeep",
         "android_kernel_sony_msm8974"
     ],
+    "zangya": [
+        "android_device_bq_sdm660-common",
+        "android_device_bq_zangya",
+        "android_kernel_bq_sdm660",
+        "android_packages_resources_devicesettings"
+    ],
+    "zangyapro": [
+        "android_device_bq_sdm660-common",
+        "android_device_bq_zangyapro",
+        "android_kernel_bq_sdm660",
+        "android_packages_resources_devicesettings"
+    ],
     "zeekr": [
         "android_device_motorola_sm8475-common",
         "android_device_motorola_zeekr",
