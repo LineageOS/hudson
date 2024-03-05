@@ -2643,6 +2643,21 @@
         "android_hardware_amlogic_tools_respacker",
         "android_kernel_amlogic_linux-4.9"
     ],
+    "radxa0_car": [
+        "android_device_amlogic_common",
+        "android_device_amlogic_g12-common",
+        "android_device_amlogic_sepolicy",
+        "android_device_radxa_radxa0",
+        "android_device_radxa_radxa0_car",
+        "android_hardware_amlogic_kernel-modules_dhd-driver",
+        "android_hardware_amlogic_kernel-modules_mali-driver",
+        "android_hardware_amlogic_kernel-modules_media",
+        "android_hardware_amlogic_kernel-modules_optee",
+        "android_hardware_amlogic_tools_dtbtool",
+        "android_hardware_amlogic_tools_imagepacker",
+        "android_hardware_amlogic_tools_respacker",
+        "android_kernel_amlogic_linux-4.9"
+    ],
     "radxa0_tab": [
         "android_device_amlogic_common",
         "android_device_amlogic_g12-common",
