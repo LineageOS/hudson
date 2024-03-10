@@ -2294,6 +2294,12 @@
         "android_device_google_oriole",
         "android_device_google_raviole"
     ],
+    "oscar": [
+        "android_device_realme_oscar",
+        "android_device_realme_sm6375-common",
+        "android_hardware_oplus",
+        "android_kernel_realme_sm6375"
+    ],
     "osprey": [
         "android_device_motorola_msm8916-common",
         "android_device_motorola_osprey",
