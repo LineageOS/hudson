@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a1c5fae4_83577984",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19252
+      },
+      "writtenOn": "2024-03-10T23:44:16Z",
+      "side": 1,
+      "message": "A14 kernel source code is pushed to kernel repos and A14 device firmware is merged on vendor so we are ready",
+      "revId": "09227b7a5beb69de6908029da6c46c8c265b1a8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
