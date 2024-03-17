@@ -193,15 +193,6 @@
         "android_kernel_motorola_msm8953",
         "android_system_qcom"
     ],
-    "ahannah": [
-        "android_device_motorola_ahannah",
-        "android_device_motorola_hannah-common",
-        "android_device_motorola_msm8937-common",
-        "android_external_bson",
-        "android_hardware_motorola",
-        "android_kernel_motorola_msm8953",
-        "android_system_qcom"
-    ],
     "akari": [
         "android_device_sony_akari",
         "android_device_sony_tama-common",
