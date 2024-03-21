@@ -396,11 +396,13 @@
     "blueline": [
         "android_device_google_blueline",
         "android_device_google_crosshatch",
+        "android_device_google_gs-common",
         "android_kernel_google_msm-4.9",
         "android_packages_apps_ElmyraService"
     ],
     "bonito": [
         "android_device_google_bonito",
+        "android_device_google_gs-common",
         "android_kernel_google_msm-4.9",
         "android_packages_apps_ElmyraService"
     ],
@@ -633,11 +635,13 @@
     ],
     "coral": [
         "android_device_google_coral",
+        "android_device_google_gs-common",
         "android_kernel_google_msm-4.14",
         "android_packages_apps_ElmyraService"
     ],
     "crosshatch": [
         "android_device_google_crosshatch",
+        "android_device_google_gs-common",
         "android_kernel_google_msm-4.9",
         "android_packages_apps_ElmyraService"
     ],
@@ -887,6 +891,7 @@
     "flame": [
         "android_device_google_coral",
         "android_device_google_flame",
+        "android_device_google_gs-common",
         "android_kernel_google_msm-4.14",
         "android_packages_apps_ElmyraService"
     ],
@@ -2832,6 +2837,7 @@
     ],
     "sargo": [
         "android_device_google_bonito",
+        "android_device_google_gs-common",
         "android_device_google_sargo",
         "android_kernel_google_msm-4.9",
         "android_packages_apps_ElmyraService"
@@ -3025,6 +3031,7 @@
         "android_kernel_samsung_exynos9810"
     ],
     "sunfish": [
+        "android_device_google_gs-common",
         "android_device_google_sunfish",
         "android_kernel_google_msm-4.14"
     ],
