@@ -2105,6 +2105,7 @@
         "android_system_qcom"
     ],
     "muskie": [
+        "android_device_google_gs-common",
         "android_device_google_muskie",
         "android_device_google_wahoo",
         "android_kernel_google_wahoo",
@@ -3064,6 +3065,7 @@
         "android_kernel_xiaomi_sm6150"
     ],
     "taimen": [
+        "android_device_google_gs-common",
         "android_device_google_taimen",
         "android_device_google_wahoo",
         "android_kernel_google_wahoo",
@@ -3223,11 +3225,13 @@
         "android_kernel_amlogic_linux-4.9"
     ],
     "wahoo": [
+        "android_device_google_gs-common",
         "android_device_google_wahoo",
         "android_kernel_google_wahoo",
         "android_packages_apps_ElmyraService"
     ],
     "walleye": [
+        "android_device_google_gs-common",
         "android_device_google_muskie",
         "android_device_google_wahoo",
         "android_device_google_walleye",
