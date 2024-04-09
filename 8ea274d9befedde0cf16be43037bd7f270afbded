@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "af969478_6e8fd910",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19252
+      },
+      "writtenOn": "2024-04-09T17:28:53Z",
+      "side": 1,
+      "message": "heart and zippo are ready for lineage-21 and thank you to Einar for helping co-maintain zippo",
+      "revId": "8ea274d9befedde0cf16be43037bd7f270afbded",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
