@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bf3864e0_67f0765a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19252
+      },
+      "writtenOn": "2024-04-13T12:38:39Z",
+      "side": 1,
+      "message": "rtwo is ready\n\nwiki change is here\nhttps://review.lineageos.org/c/LineageOS/lineage_wiki/+/389325",
+      "revId": "1b007bfebe61a5551c1360c6beafda4205378ebc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
