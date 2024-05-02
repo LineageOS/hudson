@@ -469,7 +469,8 @@
     "cepheus": [
         "android_device_xiaomi_cepheus",
         "android_device_xiaomi_sm8150-common",
-        "android_hardware_xiaomi"
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_sm8150"
     ],
     "channel": [
         "android_device_motorola_channel",
@@ -2699,7 +2700,8 @@
     "raphael": [
         "android_device_xiaomi_raphael",
         "android_device_xiaomi_sm8150-common",
-        "android_hardware_xiaomi"
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_sm8150"
     ],
     "raven": [
         "android_device_google_gs-common",
@@ -3166,7 +3168,7 @@
         "android_device_xiaomi_sm8150-common",
         "android_device_xiaomi_vayu",
         "android_hardware_xiaomi",
-        "android_kernel_xiaomi_vayu"
+        "android_kernel_xiaomi_sm8150"
     ],
     "vela": [
         "android_device_xiaomi_sdm710-common",
