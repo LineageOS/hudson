@@ -820,6 +820,13 @@
         "android_hardware_oneplus",
         "android_kernel_oneplus_msm8998"
     ],
+    "earth": [
+        "android_device_mediatek_sepolicy_vndr",
+        "android_device_xiaomi_earth",
+        "android_hardware_mediatek",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_earth"
+    ],
     "enchilada": [
         "android_device_oneplus_enchilada",
         "android_device_oneplus_sdm845-common",
@@ -1723,6 +1730,14 @@
         "android_hardware_sony_simdetect",
         "android_hardware_sony_thermanager",
         "android_kernel_sony_msm8956"
+    ],
+    "kunlun2": [
+        "android_device_lenovo_kunlun2",
+        "device_lenovo_sdm710-common"
+    ],
+    "kunlun2_row": [
+        "android_device_lenovo_kunlun2_row",
+        "device_lenovo_sdm710-common"
     ],
     "kuntao": [
         "android_device_lenovo_kuntao",
@@ -3133,6 +3148,12 @@
         "android_device_xiaomi_twolip",
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_sdm660"
+    ],
+    "umi": [
+        "android_device_xiaomi_sm8250-common",
+        "android_device_xiaomi_umi",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_sm8250"
     ],
     "ursa": [
         "android_device_xiaomi_sdm845-common",
