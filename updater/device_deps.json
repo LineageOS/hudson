@@ -1733,11 +1733,13 @@
     ],
     "kunlun2": [
         "android_device_lenovo_kunlun2",
-        "device_lenovo_sdm710-common"
+        "android_device_lenovo_sdm710-common",
+        "android_kernel_lenovo_sdm710"
     ],
     "kunlun2_row": [
         "android_device_lenovo_kunlun2_row",
-        "device_lenovo_sdm710-common"
+        "android_device_lenovo_sdm710-common",
+        "android_kernel_lenovo_sdm710"
     ],
     "kuntao": [
         "android_device_lenovo_kuntao",
