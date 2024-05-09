@@ -99,6 +99,7 @@
   {  "model": "dubai", "oem": "Motorola", "name": "edge 30" },
   {  "model": "dumpling", "oem": "OnePlus", "name": "5T" },
   {  "model": "DRG", "oem": "Nokia", "name": "6.1 Plus" },
+  {  "model": "earth", "oem": "Xiaomi", "name": "Redmi 12C / Redmi 12C NFC / POCO C55" },
   {  "model": "enchilada", "oem": "OnePlus", "name": "6" },
   {  "model": "equuleus", "oem": "Xiaomi", "name": "Mi 8 Pro" },
   {  "model": "espresso3g", "oem": "Samsung", "name": "Galaxy Tab 2 7.0 / 10.1 (GSM)" },
