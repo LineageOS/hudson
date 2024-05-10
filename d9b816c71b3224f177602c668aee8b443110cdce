@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e66ef21c_17809d0b",
+        "filename": "lineage-build-targets",
+        "patchSetId": 1
+      },
+      "lineNbr": 134,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2024-05-10T06:52:08Z",
+      "side": 1,
+      "message": "remove",
+      "revId": "d9b816c71b3224f177602c668aee8b443110cdce",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
