@@ -416,6 +416,7 @@
   {  "model": "tsubasa", "oem": "Sony", "name": "Xperia V" },
   {  "model": "tulip", "oem": "ZTE", "name": "Axon 7 Mini" },
   {  "model": "twolip", "oem": "Xiaomi", "name": "Redmi Note 6 Pro" },
+  {  "model": "umi", "oem": "Xiaomi", "name": "Mi 10" },
   {  "model": "umts_spyder", "oem": "Motorola", "name": "DROID RAZR / RAZR MAXX (GSM)" },
   {  "model": "ursa", "oem": "Xiaomi", "name": "Mi 8 Explorer Edition" },
   {  "model": "us996", "oem": "LG", "name": "V20 (GSM Unlocked)" },
