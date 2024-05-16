@@ -21,6 +21,10 @@
         "android_device_fairphone_FP4",
         "android_kernel_fairphone_sm7225"
     ],
+    "FP5": [
+        "android_device_fairphone_FP5",
+        "android_kernel_fairphone_sm7225"
+    ],
     "G": [
         "android_device_10or_G",
         "android_kernel_10or_G"
