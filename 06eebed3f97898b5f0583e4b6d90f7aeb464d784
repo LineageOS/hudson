@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "89764561_69f712bb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-05-17T23:14:17Z",
+      "side": 1,
+      "message": "already in vendor manifest.\n\nShould be g2g.",
+      "revId": "06eebed3f97898b5f0583e4b6d90f7aeb464d784",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
