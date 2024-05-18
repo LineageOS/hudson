@@ -108,6 +108,7 @@
   {  "model": "FP2", "oem": "Fairphone", "name": "Fairphone 2" },
   {  "model": "FP3", "oem": "Fairphone", "name": "Fairphone 3 / 3+" },
   {  "model": "FP4", "oem": "Fairphone", "name": "Fairphone 4" },
+  {  "model": "FP5", "oem": "Fairphone", "name": "Fairphone 5" },
   {  "model": "f1f", "oem": "OPPO", "name": "F1 (F1f Intl)" },
   {  "model": "f400", "oem": "LG", "name": "G3 (Korea)" },
   {  "model": "f62", "oem": "Samsung", "name": "Galaxy F62/M62" },
