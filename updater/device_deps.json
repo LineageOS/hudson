@@ -2667,6 +2667,12 @@
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
+    "r8q": [
+        "android_device_samsung_r8q",
+        "android_device_samsung_sm8250-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_sm8250"
+    ],
     "racer": [
         "android_device_motorola_racer",
         "android_device_motorola_sm7250-common",
