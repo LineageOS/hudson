@@ -1508,6 +1508,12 @@
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
+    "ingot": [
+        "android_device_osom_ingot",
+        "android_kernel_osom_sm8475",
+        "android_kernel_osom_sm8475-devicetrees",
+        "android_kernel_osom_sm8475-modules"
+    ],
     "instantnoodle": [
         "android_device_oneplus_instantnoodle",
         "android_device_oneplus_sm8250-common",
@@ -2391,6 +2397,14 @@
         "android_hardware_sony",
         "android_kernel_sony_sm8350"
     ],
+    "pdx234": [
+        "android_device_sony_pdx234",
+        "android_device_sony_sm8550-common",
+        "android_hardware_sony",
+        "android_kernel_sony_sm8550",
+        "android_kernel_sony_sm8550-devicetrees",
+        "android_kernel_sony_sm8550-modules"
+    ],
     "perseus": [
         "android_device_xiaomi_perseus",
         "android_device_xiaomi_sdm845-common",
@@ -3004,6 +3018,9 @@
         "android_hardware_sony_thermanager",
         "android_hardware_sony_timekeep",
         "android_kernel_sony_msm8974"
+    ],
+    "sm8475-devicetrees": [
+        "android_kernel_osom_sm8475-devicetrees"
     ],
     "smith": [
         "android_device_motorola_sm7250-common",
