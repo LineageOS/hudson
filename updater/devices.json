@@ -296,6 +296,8 @@
   {  "model": "n5100", "oem": "Samsung", "name": "Galaxy Note 8 (GSM)" },
   {  "model": "n5110", "oem": "Samsung", "name": "Galaxy Note 8 (Wi-Fi)" },
   {  "model": "n5120", "oem": "Samsung", "name": "Galaxy Note 8 (LTE)" },
+  {  "model": "nx", "oem": "Nintendo", "name": "Switch v1 / v2 / Lite / OLED [Android TV]" },
+  {  "model": "nx_tab", "oem": "Nintendo", "name": "Switch v1 / v2 / Lite / OLED [Tablet]" },
   {  "model": "nairo", "oem": "Motorola", "name": "moto g 5G plus" },
   {  "model": "nash", "oem": "Motorola", "name": "moto z2 force / moto z (2018)" },
   {  "model": "natrium", "oem": "Xiaomi", "name": "Mi 5s Plus" },
