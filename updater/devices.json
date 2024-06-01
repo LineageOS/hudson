@@ -330,6 +330,7 @@
   {  "model": "pdx206", "oem": "Sony", "name": "Xperia 5 II" },
   {  "model": "pdx214", "oem": "Sony", "name": "Xperia 5 III" },
   {  "model": "pdx215", "oem": "Sony", "name": "Xperia 1 III" },
+  {  "model": "pdx234", "oem": "Sony", "name": "Xperia 1 V" },
   {  "model": "peach", "oem": "ARK", "name": "Benefit A3" },
   {  "model": "peregrine", "oem": "Motorola", "name": "moto g 4G" },
   {  "model": "perseus", "oem": "Xiaomi", "name": "Mi MIX 3" },
