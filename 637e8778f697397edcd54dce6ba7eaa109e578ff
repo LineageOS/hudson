@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e25ec6e9_2966a241",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2024-06-01T18:28:39Z",
+      "side": 1,
+      "message": "Aren\u0027t you missing updater file?",
+      "revId": "637e8778f697397edcd54dce6ba7eaa109e578ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
