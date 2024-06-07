@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cabe1ecd_559ee4bb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 18745
+      },
+      "writtenOn": "2024-06-07T14:03:00Z",
+      "side": 1,
+      "message": "I\u0027ll figure out the SIM issue later on",
+      "revId": "2f26b16c497ca6880ff56d71bb926dd3cdf0805f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
