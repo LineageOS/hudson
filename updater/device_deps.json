@@ -343,6 +343,7 @@
         "android_hardware_samsung_slsi-linaro_exynos",
         "android_hardware_samsung_slsi-linaro_exynos5",
         "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_interfaces",
         "android_hardware_samsung_slsi-linaro_openmax",
         "android_kernel_samsung_exynos9820"
     ],
@@ -355,6 +356,7 @@
         "android_hardware_samsung_slsi-linaro_exynos",
         "android_hardware_samsung_slsi-linaro_exynos5",
         "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_interfaces",
         "android_hardware_samsung_slsi-linaro_openmax",
         "android_kernel_samsung_exynos9820"
     ],
@@ -367,6 +369,7 @@
         "android_hardware_samsung_slsi-linaro_exynos",
         "android_hardware_samsung_slsi-linaro_exynos5",
         "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_interfaces",
         "android_hardware_samsung_slsi-linaro_openmax",
         "android_kernel_samsung_exynos9820"
     ],
@@ -379,6 +382,7 @@
         "android_hardware_samsung_slsi-linaro_exynos",
         "android_hardware_samsung_slsi-linaro_exynos5",
         "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_interfaces",
         "android_hardware_samsung_slsi-linaro_openmax",
         "android_kernel_samsung_exynos9820"
     ],
@@ -668,6 +672,7 @@
         "android_hardware_samsung_slsi-linaro_exynos",
         "android_hardware_samsung_slsi-linaro_exynos5",
         "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_interfaces",
         "android_hardware_samsung_slsi-linaro_openmax",
         "android_kernel_samsung_exynos9820"
     ],
@@ -680,6 +685,7 @@
         "android_hardware_samsung_slsi-linaro_exynos",
         "android_hardware_samsung_slsi-linaro_exynos5",
         "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_interfaces",
         "android_hardware_samsung_slsi-linaro_openmax",
         "android_kernel_samsung_exynos9820"
     ],
@@ -692,6 +698,7 @@
         "android_hardware_samsung_slsi-linaro_exynos",
         "android_hardware_samsung_slsi-linaro_exynos5",
         "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_interfaces",
         "android_hardware_samsung_slsi-linaro_openmax",
         "android_kernel_samsung_exynos9820"
     ],
@@ -880,6 +887,7 @@
         "android_hardware_samsung_slsi-linaro_exynos",
         "android_hardware_samsung_slsi-linaro_exynos5",
         "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_interfaces",
         "android_hardware_samsung_slsi-linaro_openmax",
         "android_kernel_samsung_exynos9820"
     ],
@@ -1211,6 +1219,7 @@
         "android_hardware_samsung_slsi-linaro_exynos",
         "android_hardware_samsung_slsi-linaro_exynos5",
         "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_interfaces",
         "android_hardware_samsung_slsi-linaro_openmax",
         "android_hardware_samsung_slsi_libbt",
         "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
@@ -1226,6 +1235,7 @@
         "android_hardware_samsung_slsi-linaro_exynos",
         "android_hardware_samsung_slsi-linaro_exynos5",
         "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_interfaces",
         "android_hardware_samsung_slsi-linaro_openmax",
         "android_hardware_samsung_slsi_libbt",
         "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
