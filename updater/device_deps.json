@@ -218,6 +218,12 @@
         "android_hardware_sony_SonyOpenTelephony",
         "android_kernel_sony_sdm845"
     ],
+    "akita": [
+        "android_device_google_akita",
+        "android_device_google_gs-common",
+        "android_device_google_gs101",
+        "android_device_google_zuma"
+    ],
     "albus": [
         "android_device_motorola_albus",
         "android_external_bson",
@@ -1270,6 +1276,13 @@
         "android_device_oneplus_sm8150-common",
         "android_hardware_oplus",
         "android_kernel_oneplus_sm8150"
+    ],
+    "guam": [
+        "android_device_motorola_guam",
+        "android_device_motorola_sm6225-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm6225",
+        "android_system_qcom"
     ],
     "guamp": [
         "android_device_motorola_guamp",
