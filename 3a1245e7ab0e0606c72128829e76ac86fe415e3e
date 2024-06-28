@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "483a7719_f259876f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19252
+      },
+      "writtenOn": "2024-06-28T16:29:11Z",
+      "side": 1,
+      "message": "wiki commit is here:\nhttps://review.lineageos.org/c/LineageOS/lineage_wiki/+/396240",
+      "revId": "3a1245e7ab0e0606c72128829e76ac86fe415e3e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
