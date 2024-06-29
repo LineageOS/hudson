@@ -156,6 +156,18 @@
         "android_hardware_samsung_slsi_openmax",
         "android_kernel_samsung_universal7880"
     ],
+    "a70q": [
+        "android_device_samsung_a70q",
+        "android_device_samsung_sm6150-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_sm6150"
+    ],
+    "a70s": [
+        "android_device_samsung_a70s",
+        "android_device_samsung_sm6150-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_sm6150"
+    ],
     "a72q": [
         "android_device_samsung_a72q",
         "android_device_samsung_sm7125-common",
