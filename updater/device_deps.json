@@ -1652,9 +1652,28 @@
     ],
     "joan": [
         "android_device_lge_joan",
+        "android_device_lge_joan-common",
         "android_hardware_lge",
         "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8998"
+    ],
+    "judyln": [
+        "android_device_lge_judyln",
+        "android_device_lge_sdm845-common",
+        "android_hardware_lge",
+        "android_kernel_lge_sdm845"
+    ],
+    "judyp": [
+        "android_device_lge_judyp",
+        "android_device_lge_sdm845-common",
+        "android_hardware_lge",
+        "android_kernel_lge_sdm845"
+    ],
+    "judypn": [
+        "android_device_lge_judypn",
+        "android_device_lge_sdm845-common",
+        "android_hardware_lge",
+        "android_kernel_lge_sdm845"
     ],
     "kane": [
         "android_device_motorola_exynos9610-common",
@@ -1810,6 +1829,12 @@
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
         "android_kernel_amlogic_linux-5.4"
+    ],
+    "l01k": [
+        "android_device_lge_l01k",
+        "android_hardware_lge",
+        "android_hardware_sony_timekeep",
+        "android_kernel_lge_msm8998"
     ],
     "lake": [
         "android_device_motorola_lake",
