@@ -1831,6 +1831,7 @@
         "android_kernel_amlogic_linux-5.4"
     ],
     "l01k": [
+        "android_device_lge_joan-common",
         "android_device_lge_l01k",
         "android_hardware_lge",
         "android_hardware_sony_timekeep",
