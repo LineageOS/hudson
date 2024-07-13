@@ -543,6 +543,12 @@
         "android_kernel_motorola_msm8992",
         "android_system_qcom"
     ],
+    "cmi": [
+        "android_device_xiaomi_cmi",
+        "android_device_xiaomi_sm8250-common",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_sm8250"
+    ],
     "concord": [
         "android_bootable_tianocore_cmocka",
         "android_bootable_tianocore_edk2",
