@@ -324,6 +324,7 @@
   {  "model": "oneplus3", "oem": "OnePlus", "name": "3 / 3T" },
   {  "model": "onyx", "oem": "OnePlus", "name": "X" },
   {  "model": "oriole", "oem": "Google", "name": "Pixel 6" },
+  {  "model": "oscar", "oem": "Realme", "name": "9 Pro 5G / 9 5G / Q5" },
   {  "model": "osprey", "oem": "Motorola", "name": "moto g (2015)" },
   {  "model": "otus", "oem": "Motorola", "name": "moto e (2015)" },
   {  "model": "P024", "oem": "ASUS", "name": "ZenPad 8.0 (Z380KL)" },
