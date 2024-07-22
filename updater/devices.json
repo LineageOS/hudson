@@ -296,6 +296,7 @@
   {  "model": "montana", "oem": "Motorola", "name": "moto g5s" },
   {  "model": "ms013g", "oem": "Samsung", "name": "Galaxy Grand 2" },
   {  "model": "mt2", "oem": "Huawei", "name": "Ascend Mate 2" },
+  {  "model": "munch", "oem": "Xiaomi", "name": "POCO F4 / Redmi K40S" },
   {  "model": "n1awifi", "oem": "Samsung", "name": "Galaxy Note 10.1 2014 (Wi-Fi)" },
   {  "model": "n2awifi", "oem": "Samsung", "name": "Galaxy Tab Pro 10.1 (Wi-Fi)" },
   {  "model": "n3", "oem": "OPPO", "name": "N3" },
