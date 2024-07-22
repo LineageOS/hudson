@@ -3324,6 +3324,18 @@
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_sm6150"
     ],
+    "virtio_arm64": [
+        "android_device_virt_virtio_arm64"
+    ],
+    "virtio_x86_64": [
+        "android_device_virt_virtio_x86_64"
+    ],
+    "virtio_x86_64_car": [
+        "android_device_virt_virtio_x86_64_car"
+    ],
+    "virtio_x86_64_tv": [
+        "android_device_virt_virtio_x86_64_tv"
+    ],
     "voyager": [
         "android_device_sony_nile-common",
         "android_device_sony_voyager",
