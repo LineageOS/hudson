@@ -152,6 +152,7 @@
   {  "model": "gts4lvwifi", "oem": "Samsung", "name": "Galaxy Tab S5e (Wi-Fi)" },
   {  "model": "guacamole", "oem": "OnePlus", "name": "7 Pro" },
   {  "model": "guacamoleb", "oem": "OnePlus", "name": "7" },
+  {  "model": "guam", "oem": "Motorola", "name": "moto e7 plus" },
   {  "model": "guamp", "oem": "Motorola", "name": "moto g9 / g9 play / Lenovo K12 Note" },
   {  "model": "h811", "oem": "LG", "name": "G4 (TMO)" },
   {  "model": "h815", "oem": "LG", "name": "G4 (Intl)" },
