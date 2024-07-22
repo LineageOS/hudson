@@ -45,6 +45,7 @@
   {  "model": "bluejay", "oem": "Google", "name": "Pixel 6a" },
   {  "model": "blueline", "oem": "Google", "name": "Pixel 3" },
   {  "model": "bonito", "oem": "Google", "name": "Pixel 3a XL" },
+  {  "model": "borneo", "oem": "Motorola", "name": "moto g power 2021" },
   {  "model": "bramble", "oem": "Google", "name": "Pixel 4a 5G" },
   {  "model": "bullhead", "oem": "Google", "name": "Nexus 5X" },
   {  "model": "cancro", "oem": "Xiaomi", "name": "Mi 3w and Mi 4" },
