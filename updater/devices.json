@@ -73,6 +73,7 @@
   {  "model": "crosshatch", "oem": "Google", "name": "Pixel 3 XL" },
   {  "model": "crownlte", "oem": "Samsung", "name": "Galaxy Note 9" },
   {  "model": "d1", "oem": "Samsung", "name": "Galaxy Note10" },
+  {  "model": "d1x", "oem": "Samsung", "name": "Galaxy Note10 5G" },
   {  "model": "d2att", "oem": "Samsung", "name": "Galaxy S III (AT&T)" },
   {  "model": "d2s", "oem": "Samsung", "name": "Galaxy Note10+" },
   {  "model": "d2spr", "oem": "Samsung", "name": "Galaxy S III (Sprint)" },
