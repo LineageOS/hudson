@@ -700,6 +700,19 @@
         "android_hardware_samsung_slsi-linaro_openmax",
         "android_kernel_samsung_exynos9820"
     ],
+    "d1x": [
+        "android_device_samsung_d1x",
+        "android_device_samsung_exynos9820-common",
+        "android_device_samsung_slsi_sepolicy",
+        "android_hardware_samsung",
+        "android_hardware_samsung_slsi-linaro_config",
+        "android_hardware_samsung_slsi-linaro_exynos",
+        "android_hardware_samsung_slsi-linaro_exynos5",
+        "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_interfaces",
+        "android_hardware_samsung_slsi-linaro_openmax",
+        "android_kernel_samsung_exynos9820"
+    ],
     "d2s": [
         "android_device_samsung_d2s",
         "android_device_samsung_exynos9820-common",
@@ -1057,6 +1070,18 @@
     "fugu": [
         "android_device_asus_fugu",
         "android_kernel_asus_fugu"
+    ],
+    "g710n": [
+        "android_device_lge_g710n",
+        "android_device_lge_sdm845-common",
+        "android_hardware_lge",
+        "android_kernel_lge_sdm845"
+    ],
+    "g710ulm": [
+        "android_device_lge_g710ulm",
+        "android_device_lge_sdm845-common",
+        "android_hardware_lge",
+        "android_kernel_lge_sdm845"
     ],
     "galen": [
         "android_bootable_cboot_common",
@@ -2213,6 +2238,12 @@
         "android_kernel_motorola_msm8953",
         "android_system_qcom"
     ],
+    "munch": [
+        "android_device_xiaomi_munch",
+        "android_device_xiaomi_sm8250-common",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_sm8250"
+    ],
     "muskie": [
         "android_device_google_gs-common",
         "android_device_google_muskie",
@@ -3325,16 +3356,26 @@
         "android_kernel_xiaomi_sm6150"
     ],
     "virtio_arm64": [
-        "android_device_virt_virtio_arm64"
+        "android_device_virt_virtio-common",
+        "android_device_virt_virtio_arm64",
+        "android_kernel_virt_virtio"
     ],
     "virtio_x86_64": [
-        "android_device_virt_virtio_x86_64"
+        "android_device_virt_virtio-common",
+        "android_device_virt_virtio_x86_64",
+        "android_kernel_virt_virtio"
     ],
     "virtio_x86_64_car": [
-        "android_device_virt_virtio_x86_64_car"
+        "android_device_virt_virtio-common",
+        "android_device_virt_virtio_x86_64",
+        "android_device_virt_virtio_x86_64_car",
+        "android_kernel_virt_virtio"
     ],
     "virtio_x86_64_tv": [
-        "android_device_virt_virtio_x86_64_tv"
+        "android_device_virt_virtio-common",
+        "android_device_virt_virtio_x86_64",
+        "android_device_virt_virtio_x86_64_tv",
+        "android_kernel_virt_virtio"
     ],
     "voyager": [
         "android_device_sony_nile-common",
