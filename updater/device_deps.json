@@ -1073,12 +1073,14 @@
     ],
     "g710n": [
         "android_device_lge_g710n",
+        "android_device_lge_judyln-common",
         "android_device_lge_sdm845-common",
         "android_hardware_lge",
         "android_kernel_lge_sdm845"
     ],
     "g710ulm": [
         "android_device_lge_g710ulm",
+        "android_device_lge_judyln-common",
         "android_device_lge_sdm845-common",
         "android_hardware_lge",
         "android_kernel_lge_sdm845"
