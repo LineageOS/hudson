@@ -1735,6 +1735,7 @@
     ],
     "kiev": [
         "android_device_motorola_kiev",
+        "android_device_motorola_sm7250-common",
         "android_hardware_motorola",
         "android_kernel_motorola_sm7250",
         "android_system_qcom"
