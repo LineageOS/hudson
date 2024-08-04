@@ -399,6 +399,7 @@
   {  "model": "scorpio", "oem": "Xiaomi", "name": "Mi Note 2" },
   {  "model": "seed", "oem": "Google", "name": "Android One 2nd gen" },
   {  "model": "shamu", "oem": "Google", "name": "Nexus 6" },
+  {  "model": "shark", "oem": "Xiaomi", "name": "Black Shark" },
   {  "model": "shiba", "oem": "Google", "name": "Pixel 8" },
   {  "model": "shieldtablet", "oem": "Nvidia", "name": "Shield Tablet" },
   {  "model": "sif", "oem": "Nvidia", "name": "NVIDIA Shield TV (2019) [Android TV]" },
