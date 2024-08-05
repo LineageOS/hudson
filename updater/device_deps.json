@@ -3054,6 +3054,11 @@
         "android_hardware_sony_timekeep",
         "android_kernel_moto_shamu"
     ],
+    "shark": [
+        "android_device_xiaomi_shark",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_shark"
+    ],
     "shiba": [
         "android_device_google_gs-common",
         "android_device_google_gs101",
