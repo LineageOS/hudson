@@ -16,6 +16,23 @@
       "message": "@johnsonnolen@gmail.com",
       "revId": "5921b372b8c8fd0ce0104337095408ee1fdfa530",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5b18a415_723fa6db",
+        "filename": "updater/device_deps.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 171,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-08-08T16:55:59Z",
+      "side": 1,
+      "message": "don\u0027t touch this file, the bot does this\n\ndevices.json yes add your device, device_deps.json no don\u0027t add your device",
+      "revId": "5921b372b8c8fd0ce0104337095408ee1fdfa530",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
