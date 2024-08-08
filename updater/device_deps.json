@@ -168,6 +168,12 @@
         "android_hardware_samsung",
         "android_kernel_samsung_sm6150"
     ],
+    "a71": [
+        "android_device_samsung_a71",
+        "android_device_samsung_a71-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_a71"
+    ],
     "a72q": [
         "android_device_samsung_a72q",
         "android_device_samsung_sm7125-common",
