@@ -16,6 +16,29 @@
       "message": "I corrected device_deps.json",
       "revId": "d15bc2b94a061e6b39d5800b7ce7960791edccf4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cebf5c77_79f5d456",
+        "filename": "updater/devices.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2024-08-09T01:48:24Z",
+      "side": 1,
+      "message": "device name doesn\u0027t match with wiki change. which one is right",
+      "range": {
+        "startLine": 9,
+        "startChar": 48,
+        "endLine": 9,
+        "endChar": 58
+      },
+      "revId": "d15bc2b94a061e6b39d5800b7ce7960791edccf4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
