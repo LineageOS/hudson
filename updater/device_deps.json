@@ -168,6 +168,12 @@
         "android_hardware_samsung",
         "android_kernel_samsung_sm6150"
     ],
+    "a71": [
+        "android_device_samsung_a71",
+        "android_device_samsung_a71-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_a71"
+    ],
     "a72q": [
         "android_device_samsung_a72q",
         "android_device_samsung_sm7125-common",
@@ -3154,6 +3160,13 @@
         "android_kernel_motorola_sm7250",
         "android_system_qcom"
     ],
+    "socrates": [
+        "android_device_xiaomi_socrates",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_sm8550",
+        "android_kernel_xiaomi_sm8550-devicetrees",
+        "android_kernel_xiaomi_sm8550-modules"
+    ],
     "sphynx": [
         "android_device_google_sphynx",
         "android_device_nvidia_sepolicy",
@@ -3374,6 +3387,11 @@
     "virtio_arm64": [
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_arm64",
+        "android_kernel_virt_virtio"
+    ],
+    "virtio_arm64only": [
+        "android_device_virt_virtio-common",
+        "android_device_virt_virtio_arm64only",
         "android_kernel_virt_virtio"
     ],
     "virtio_x86_64": [
