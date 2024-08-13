@@ -405,6 +405,7 @@
   {  "model": "shieldtablet", "oem": "Nvidia", "name": "Shield Tablet" },
   {  "model": "sif", "oem": "Nvidia", "name": "NVIDIA Shield TV (2019) [Android TV]" },
   {  "model": "sirius", "oem": "Sony", "name": "Xperia Z2" },
+  {  "model": "socrates", "oem": "Xiaomi", "name": "Redmi K60 Pro" },
   {  "model": "Spacewar", "oem": "Nothing", "name": "Phone (1)" },
   {  "model": "spyder", "oem": "Motorola", "name": "DROID RAZR" },
   {  "model": "star2lte", "oem": "Samsung", "name": "Galaxy S9+" },
