@@ -43,6 +43,7 @@
   {  "model": "beyond1lte", "oem": "Samsung", "name": "Galaxy S10" },
   {  "model": "beyond2lte", "oem": "Samsung", "name": "Galaxy S10+" },
   {  "model": "beyondx", "oem": "Samsung", "name": "Galaxy S10 5G" },
+  {  "model": "billie", "oem": "OnePlus", "name": "Nord N10 5G" },
   {  "model": "bluejay", "oem": "Google", "name": "Pixel 6a" },
   {  "model": "blueline", "oem": "Google", "name": "Pixel 3" },
   {  "model": "bonito", "oem": "Google", "name": "Pixel 3a XL" },
