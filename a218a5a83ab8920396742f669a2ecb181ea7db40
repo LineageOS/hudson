@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f06807e3_99dbe7a6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28798
+      },
+      "writtenOn": "2024-08-13T18:37:55Z",
+      "side": 1,
+      "message": "Need to wait for device tree merge",
+      "revId": "a218a5a83ab8920396742f669a2ecb181ea7db40",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
