@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9fea5235_95635baf",
+        "filename": "updater/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 413,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2024-08-14T08:41:16Z",
+      "side": 1,
+      "message": "out of order. should be on line 408",
+      "revId": "8698256fa8039e96dfc5e646949bb2f64dccaf25",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
