@@ -16,6 +16,24 @@
       "message": "out of order. should be on line 408",
       "revId": "8698256fa8039e96dfc5e646949bb2f64dccaf25",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c4bc3c8a_c5342cf9",
+        "filename": "updater/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 413,
+      "author": {
+        "id": 22465
+      },
+      "writtenOn": "2024-08-14T08:44:08Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9fea5235_95635baf",
+      "revId": "8698256fa8039e96dfc5e646949bb2f64dccaf25",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
