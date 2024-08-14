@@ -16,6 +16,23 @@
       "message": "Need to wait for device tree merge",
       "revId": "a218a5a83ab8920396742f669a2ecb181ea7db40",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "535c3311_2c5974a8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28798
+      },
+      "writtenOn": "2024-08-14T12:01:55Z",
+      "side": 1,
+      "message": "Trees are pushed now",
+      "revId": "a218a5a83ab8920396742f669a2ecb181ea7db40",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
