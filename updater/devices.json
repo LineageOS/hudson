@@ -265,6 +265,7 @@
   {  "model": "ls997", "oem": "LG", "name": "V20 (Sprint)" },
   {  "model": "lt02ltespr", "oem": "Samsung", "name": "Galaxy Tab 3 7.0 (Sprint)" },
   {  "model": "lt03lte", "oem": "Samsung", "name": "Galaxy Note 10.1 2014 (LTE)" },
+  {  "model": "luigi", "oem": "Realme", "name": "10 Pro 5G" },
   {  "model": "lux", "oem": "Motorola", "name": "moto x play" },
   {  "model": "lynx", "oem": "Google", "name": "Pixel 7a" },
   {  "model": "m20lte", "oem": "Samsung", "name": "Galaxy M20" },
