@@ -16,6 +16,24 @@
       "message": "Can\u0027t you just fill the \"supported models\" section on the wiki and add the other variants once you can confirm they work?",
       "revId": "90e55df9ca1db632cb7d75b9c2a89a1b0e3c4bd6",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "eb2d2e07_d0041a78",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 33569
+      },
+      "writtenOn": "2024-08-17T18:07:19Z",
+      "side": 1,
+      "message": "It is not about the variants. All variants has 2 different display and 2 different touchscreen digitizer + 4G variant also has both SLSI and NXP NFC. I cannot ensure about the stability of my changes for these hardwares as I can\u0027t find someone to test them. Plus I am using r8q as my main device for a few months and developing on my daily device is really a no go. I need a device just for development before continuing.",
+      "parentUuid": "d1bd7a1a_ef0dfd4f",
+      "revId": "90e55df9ca1db632cb7d75b9c2a89a1b0e3c4bd6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
