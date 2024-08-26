@@ -490,6 +490,13 @@
         "android_hardware_sony_timekeep",
         "android_kernel_sony_msm8974"
     ],
+    "cebu": [
+        "android_device_motorola_cebu",
+        "android_device_motorola_sm6225-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm6225",
+        "android_system_qcom"
+    ],
     "cedric": [
         "android_device_motorola_cedric",
         "android_device_motorola_msm8937-common",
