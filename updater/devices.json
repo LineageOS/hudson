@@ -55,6 +55,7 @@
   {  "model": "caprip", "oem": "Motorola", "name": "moto g30" },
   {  "model": "castor", "oem": "Sony", "name": "Xperia Tablet Z2 LTE" },
   {  "model": "castor_windy", "oem": "Sony", "name": "Xperia Tablet Z2 Wi-Fi" },
+  {  "model": "cebu", "oem": "Motorola", "name": "moto g9 power / Lenovo K12 Pro" },
   {  "model": "cedric", "oem": "Motorola", "name": "moto g5" },
   {  "model": "chagalllte", "oem": "Samsung", "name": "Galaxy Tab S 10.5 (LTE)" },
   {  "model": "chagallwifi", "oem": "Samsung", "name": "Galaxy Tab S 10.5 (Wi-Fi)" },
