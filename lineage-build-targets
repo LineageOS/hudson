@@ -211,8 +211,44 @@ mh2lm userdebug lineage-21.0 W
 Mi439 userdebug lineage-21.0 W
 Mi8917 userdebug lineage-21.0 W
 Mi8937 userdebug lineage-21.0 W
+<<<<<<< PATCH SET (7d0dc2 hudson: ship ovaltine)
+miatoll userdebug lineage-21.0 W
+munch userdebug lineage-21.0 W
+nairo userdebug lineage-21.0 W
+nash userdebug lineage-21.0 W
+natrium userdebug lineage-21.0 W
+nio userdebug lineage-21.0 W
+nx userdebug lineage-21.0 W
+nx_tab userdebug lineage-21.0 W
+ocean userdebug lineage-21.0 W
+odroidc4 userdebug lineage-21.0 W
+odroidc4_tab userdebug lineage-21.0 W
+oriole userdebug lineage-21.0 W
+oscar userdebug lineage-21.0 W
+ovaltine userdebug lineage-21.0 W
+panther userdebug lineage-21.0 W
+payton userdebug lineage-21.0 W
+pdx203 userdebug lineage-21.0 W
+pdx206 userdebug lineage-21.0 W
+pdx214 userdebug lineage-21.0 W
+pdx215 userdebug lineage-21.0 W
+pdx234 userdebug lineage-21.0 W
+perseus userdebug lineage-21.0 W
+pioneer userdebug lineage-21.0 W
+PL2 userdebug lineage-21.0 W
+polaris userdebug lineage-21.0 W
+porg userdebug lineage-21.0 W
+porg_tab userdebug lineage-21.0 W
+pro1 userdebug lineage-21.0 W
+pro1x userdebug lineage-21.0 W
+pstar userdebug lineage-21.0 W
+pyxis userdebug lineage-21.0 W
+quill userdebug lineage-21.0 W
+quill_tab userdebug lineage-21.0 W
+=======
 NB1 userdebug lineage-21.0 W
 nx611j userdebug lineage-21.0 W
 onclite userdebug lineage-21.0 W
+>>>>>>> BASE      (73f175 Regenerate device dependency mappings)
 racer userdebug lineage-21.0 W
 surya userdebug lineage-21.0 W
