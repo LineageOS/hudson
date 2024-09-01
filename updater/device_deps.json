@@ -2488,6 +2488,10 @@
         "android_kernel_motorola_msm8916",
         "android_system_qcom"
     ],
+    "otter": [
+        "android_device_shift_otter",
+        "android_kernel_fairphone_qcm6490"
+    ],
     "panther": [
         "android_device_google_gs-common",
         "android_device_google_gs101",
