@@ -70,6 +70,7 @@
   {  "model": "cheryl", "oem": "Razer", "name": "Phone" },
   {  "model": "chiron", "oem": "Xiaomi", "name": "Mi MIX 2" },
   {  "model": "clark", "oem": "Motorola", "name": "moto x pure edition / style (2015)" },
+  {  "model": "cmi", "oem": "Xiaomi", "name": "Mi 10 Pro" },
   {  "model": "condor", "oem": "Motorola", "name": "moto e" },
   {  "model": "coral", "oem": "Google", "name": "Pixel 4 XL" },
   {  "model": "crackling", "oem": "Wileyfox", "name": "Swift" },
