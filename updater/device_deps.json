@@ -3376,6 +3376,10 @@
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_sm8150"
     ],
+    "vboxware": [
+        "android_device_virt_vboxware",
+        "android_kernel_virt_virtio"
+    ],
     "vela": [
         "android_device_xiaomi_sdm710-common",
         "android_device_xiaomi_vela",
