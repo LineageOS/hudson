@@ -2490,7 +2490,7 @@
     ],
     "otter": [
         "android_device_shift_otter",
-        "android_kernel_fairphone_qcm6490"
+        "android_kernel_shift_qcm6490"
     ],
     "panther": [
         "android_device_google_gs-common",
@@ -3378,6 +3378,7 @@
     ],
     "vboxware": [
         "android_device_virt_vboxware",
+        "android_device_virt_virt-common",
         "android_kernel_virt_virtio"
     ],
     "vela": [
@@ -3406,27 +3407,32 @@
         "android_kernel_xiaomi_sm6150"
     ],
     "virtio_arm64": [
+        "android_device_virt_virt-common",
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_arm64",
         "android_kernel_virt_virtio"
     ],
     "virtio_arm64only": [
+        "android_device_virt_virt-common",
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_arm64only",
         "android_kernel_virt_virtio"
     ],
     "virtio_x86_64": [
+        "android_device_virt_virt-common",
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_x86_64",
         "android_kernel_virt_virtio"
     ],
     "virtio_x86_64_car": [
+        "android_device_virt_virt-common",
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_x86_64",
         "android_device_virt_virtio_x86_64_car",
         "android_kernel_virt_virtio"
     ],
     "virtio_x86_64_tv": [
+        "android_device_virt_virt-common",
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_x86_64",
         "android_device_virt_virtio_x86_64_tv",
