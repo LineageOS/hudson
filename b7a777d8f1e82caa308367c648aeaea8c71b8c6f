@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "57b82707_0ccef60a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34179
+      },
+      "writtenOn": "2024-09-25T15:14:04Z",
+      "side": 1,
+      "message": "K30S latest package, found a BUG, ​​network and Internet access-SIM card-clicking the second card will crash and unable to enter the interface",
+      "revId": "b7a777d8f1e82caa308367c648aeaea8c71b8c6f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
