@@ -3379,7 +3379,8 @@
     "vboxware": [
         "android_device_virt_vboxware",
         "android_device_virt_virt-common",
-        "android_kernel_virt_virtio"
+        "android_kernel_virt_virtio",
+        "android_prebuilts_bootmgr"
     ],
     "vela": [
         "android_device_xiaomi_sdm710-common",
@@ -3410,33 +3411,38 @@
         "android_device_virt_virt-common",
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_arm64",
-        "android_kernel_virt_virtio"
+        "android_kernel_virt_virtio",
+        "android_prebuilts_bootmgr"
     ],
     "virtio_arm64only": [
         "android_device_virt_virt-common",
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_arm64only",
-        "android_kernel_virt_virtio"
+        "android_kernel_virt_virtio",
+        "android_prebuilts_bootmgr"
     ],
     "virtio_x86_64": [
         "android_device_virt_virt-common",
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_x86_64",
-        "android_kernel_virt_virtio"
+        "android_kernel_virt_virtio",
+        "android_prebuilts_bootmgr"
     ],
     "virtio_x86_64_car": [
         "android_device_virt_virt-common",
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_x86_64",
         "android_device_virt_virtio_x86_64_car",
-        "android_kernel_virt_virtio"
+        "android_kernel_virt_virtio",
+        "android_prebuilts_bootmgr"
     ],
     "virtio_x86_64_tv": [
         "android_device_virt_virt-common",
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_x86_64",
         "android_device_virt_virtio_x86_64_tv",
-        "android_kernel_virt_virtio"
+        "android_kernel_virt_virtio",
+        "android_prebuilts_bootmgr"
     ],
     "voyager": [
         "android_device_sony_nile-common",
