@@ -2459,6 +2459,7 @@
     ],
     "onclite": [
         "android_device_xiaomi_onclite",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_onclite"
     ],
     "oneplus3": [
