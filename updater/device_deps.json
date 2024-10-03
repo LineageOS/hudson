@@ -45,6 +45,11 @@
         "android_device_xiaomi_mithorium-common",
         "android_kernel_xiaomi_msm8937"
     ],
+    "NB1": [
+        "android_device_nokia_NB1",
+        "android_device_nokia_msm8998-common",
+        "android_kernel_nokia_msm8998"
+    ],
     "NLA": [
         "android_device_nokia_NLA",
         "android_kernel_nokia_msm8998"
