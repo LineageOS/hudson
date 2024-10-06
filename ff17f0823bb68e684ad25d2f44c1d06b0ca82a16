@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "32d9e968_4273981c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2024-10-06T10:37:25Z",
+      "side": 1,
+      "message": "i\u0027ll wait for seba to vouch for it since you made 0 changes to -21.",
+      "revId": "ff17f0823bb68e684ad25d2f44c1d06b0ca82a16",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
