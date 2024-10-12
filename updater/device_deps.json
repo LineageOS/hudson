@@ -2067,8 +2067,8 @@
     ],
     "m5": [
         "android_device_amlogic_common",
-        "android_device_amlogic_g12-common",
         "android_device_amlogic_sepolicy",
+        "android_device_amlogic_sm1-common",
         "android_device_bananapi_m5",
         "android_hardware_amlogic_kernel-modules_mali-driver",
         "android_hardware_amlogic_kernel-modules_media",
@@ -2089,8 +2089,8 @@
     ],
     "m5_tab": [
         "android_device_amlogic_common",
-        "android_device_amlogic_g12-common",
         "android_device_amlogic_sepolicy",
+        "android_device_amlogic_sm1-common",
         "android_device_bananapi_m5",
         "android_device_bananapi_m5_tab",
         "android_hardware_amlogic_kernel-modules_mali-driver",
@@ -2437,8 +2437,8 @@
     ],
     "odroidc4": [
         "android_device_amlogic_common",
-        "android_device_amlogic_g12-common",
         "android_device_amlogic_sepolicy",
+        "android_device_amlogic_sm1-common",
         "android_device_hardkernel_odroidc4",
         "android_hardware_amlogic_kernel-modules_mali-driver",
         "android_hardware_amlogic_kernel-modules_media",
@@ -2450,8 +2450,8 @@
     ],
     "odroidc4_tab": [
         "android_device_amlogic_common",
-        "android_device_amlogic_g12-common",
         "android_device_amlogic_sepolicy",
+        "android_device_amlogic_sm1-common",
         "android_device_hardkernel_odroidc4",
         "android_device_hardkernel_odroidc4_tab",
         "android_hardware_amlogic_kernel-modules_mali-driver",
@@ -3005,8 +3005,8 @@
     ],
     "sabrina": [
         "android_device_amlogic_common",
-        "android_device_amlogic_g12-common",
         "android_device_amlogic_sepolicy",
+        "android_device_amlogic_sm1-common",
         "android_device_google_sabrina",
         "android_hardware_amlogic_kernel-modules_dhd-driver",
         "android_hardware_amlogic_kernel-modules_mali-driver",
