@@ -3421,6 +3421,7 @@
     "virtio_arm64only": [
         "android_device_virt_virt-common",
         "android_device_virt_virtio-common",
+        "android_device_virt_virtio_arm64",
         "android_device_virt_virtio_arm64only",
         "android_kernel_virt_virtio",
         "android_prebuilts_bootmgr"
