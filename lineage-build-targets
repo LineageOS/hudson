@@ -1,6 +1,9 @@
 # LineageOS build target list
 # <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
 
+# Weekly 22.0
+gts9wifi lineage-22.0 W
+
 # Weekly 21.0
 a52q userdebug lineage-21.0 W
 a52sxq userdebug lineage-21.0 W

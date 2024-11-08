@@ -158,6 +158,7 @@
   {  "model": "gtowifi", "oem": "Samsung", "name": "Galaxy Tab A 8.0 2019 (Wi-Fi)" },
   {  "model": "gts4lv", "oem": "Samsung", "name": "Galaxy Tab S5e (LTE)" },
   {  "model": "gts4lvwifi", "oem": "Samsung", "name": "Galaxy Tab S5e (Wi-Fi)" },
+  {  "model": "gts9wifi", "oem": "Samsung", "name": "Galaxy Tab S9 (Wi-Fi)" },
   {  "model": "guacamole", "oem": "OnePlus", "name": "7 Pro" },
   {  "model": "guacamoleb", "oem": "OnePlus", "name": "7" },
   {  "model": "guam", "oem": "Motorola", "name": "moto e7 plus" },
