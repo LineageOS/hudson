@@ -1328,6 +1328,13 @@
         "android_hardware_samsung",
         "android_kernel_samsung_sdm670"
     ],
+    "gts9wifi": [
+        "android_hardware_samsung_sm8550-common",
+        "android_device_samsung_gts9wifi",
+        "android_kernel_samsung_sm8550",
+        "android_kernel_samsung_sm8550-modules",
+        "android_kernel_samsung_sm8550-devicetrees"
+    ],
     "guacamole": [
         "android_device_oneplus_guacamole",
         "android_device_oneplus_sm8150-common",
