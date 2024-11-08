@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5f3df5f8_344ec7cb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-11-08T20:01:17Z",
+      "side": 1,
+      "message": "hehe, abandon this for now - wait until we formally launch 22\n\nI appreciate how fast you work though!",
+      "revId": "d26e794665ef1e18a247b1eae1fc225d20bb7cfe",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
