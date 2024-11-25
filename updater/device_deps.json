@@ -2550,6 +2550,14 @@
         "android_kernel_sony_sm8550-devicetrees",
         "android_kernel_sony_sm8550-modules"
     ],
+    "pdx237": [
+        "android_device_sony_pdx237",
+        "android_device_sony_sm8550-common",
+        "android_hardware_sony",
+        "android_kernel_sony_sm8550",
+        "android_kernel_sony_sm8550-devicetrees",
+        "android_kernel_sony_sm8550-modules"
+    ],
     "perseus": [
         "android_device_xiaomi_perseus",
         "android_device_xiaomi_sdm845-common",
