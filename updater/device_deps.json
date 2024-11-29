@@ -3391,6 +3391,7 @@
     "vboxware": [
         "android_device_virt_vboxware",
         "android_device_virt_virt-common",
+        "android_external_mesa",
         "android_kernel_virt_virtio",
         "android_prebuilts_bootmgr"
     ],
