@@ -946,12 +946,6 @@
         "android_hardware_samsung_slsi-linaro_openmax",
         "android_kernel_samsung_exynos9820"
     ],
-    "fajita": [
-        "android_device_oneplus_fajita",
-        "android_device_oneplus_sdm845-common",
-        "android_hardware_oneplus",
-        "android_kernel_oneplus_sdm845"
-    ],
     "felix": [
         "android_device_google_felix",
         "android_device_google_gs-common",
