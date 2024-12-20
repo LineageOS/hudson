@@ -433,6 +433,7 @@
   {  "model": "targa", "oem": "Motorola", "name": "DROID BIONIC" },
   {  "model": "tenshi", "oem": "BQ", "name": "Aquaris U Plus" },
   {  "model": "thea", "oem": "Motorola", "name": "moto g 4G (2014)" },
+  {  "model": "thyme", "oem": "Xiaomi", "name": "Mi 10S" },
   {  "model": "tissot", "oem": "Xiaomi", "name": "Mi A1" },
   {  "model": "titan", "oem": "Motorola", "name": "moto g (2014)" },
   {  "model": "tomato", "oem": "YU", "name": "Yureka" },
