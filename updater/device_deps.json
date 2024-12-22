@@ -106,6 +106,16 @@
         "android_device_asus_Z01R",
         "android_kernel_asus_sdm845"
     ],
+    "a21s": [
+        "android_device_samsung_a21s",
+        "android_device_samsung_a21s-common",
+        "android_device_samsung_slsi_sepolicy",
+        "android_hardware_samsung",
+        "android_hardware_samsung_slsi_libbt",
+        "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
+        "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
+        "android_kernel_samsung_exynos850"
+    ],
     "a3xelte": [
         "android_device_samsung_a3xelte",
         "android_device_samsung_universal7580-common",
