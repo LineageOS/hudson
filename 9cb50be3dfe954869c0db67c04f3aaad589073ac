@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0c670ece_e33fb1e9",
+        "filename": "lineage-build-targets",
+        "patchSetId": 11
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-12-24T23:39:50Z",
+      "side": 1,
+      "message": "SIM issue mike had. @chrmhoffmann@gmail.com - pls to test?",
+      "revId": "9cb50be3dfe954869c0db67c04f3aaad589073ac",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "312f300a_949b6dbc",
+        "filename": "lineage-build-targets",
+        "patchSetId": 11
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-12-24T23:39:50Z",
+      "side": 1,
+      "message": "@bgcngm@gmail.com - added to this commit - is it the WPA3 issue?",
+      "revId": "9cb50be3dfe954869c0db67c04f3aaad589073ac",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d78e982b_4fbc297a",
+        "filename": "lineage-build-targets",
+        "patchSetId": 11
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-12-24T23:39:50Z",
+      "side": 1,
+      "message": "calling issue thatMike and tommoms hit - ew.",
+      "revId": "9cb50be3dfe954869c0db67c04f3aaad589073ac",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "481bf477_546dc392",
+        "filename": "lineage-build-targets",
+        "patchSetId": 11
+      },
+      "lineNbr": 89,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-12-24T23:39:50Z",
+      "side": 1,
+      "message": "@bgcngm@gmail.com - added to this commit - is it the WPA3 issue?",
+      "revId": "9cb50be3dfe954869c0db67c04f3aaad589073ac",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
