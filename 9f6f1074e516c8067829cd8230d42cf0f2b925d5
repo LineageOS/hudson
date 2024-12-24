@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "264fdd06_f8106e10",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-12-24T19:17:03Z",
+      "side": 1,
+      "message": "yeah, @mike pls to split p9 into new commit and devices.json",
+      "revId": "9f6f1074e516c8067829cd8230d42cf0f2b925d5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
