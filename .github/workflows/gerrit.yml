@@ -20,11 +20,7 @@ jobs:
         ref: ${{ inputs.ref }}
 
     - name: Check
-      run: |
-        for file in updater/*.json; do
-          echo "Checking $file"
-          jq -e . $file > /dev/null
-        done
+      run: ./test.py
 
     - uses: lineageos-infra/gerrit-vote@main
       if: always()
