@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a1f546fd_8b83593d",
+        "filename": "lineage-build-targets",
+        "patchSetId": 4
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-12-24T00:44:36Z",
+      "side": 1,
+      "message": "newly shipped? probs a standalone commit? Needs wiki.",
+      "revId": "245b8c36632284608827b74c0cba3eacb7b2e823",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "aa31c10b_fbd36082",
+        "filename": "lineage-build-targets",
+        "patchSetId": 4
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-12-24T00:44:36Z",
+      "side": 1,
+      "message": "newly shipped? probs a standalone commit? Needs wiki.",
+      "revId": "245b8c36632284608827b74c0cba3eacb7b2e823",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2764c6e7_a7473c22",
+        "filename": "lineage-build-targets",
+        "patchSetId": 4
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-12-24T00:44:36Z",
+      "side": 1,
+      "message": "newly shipped? probs a standalone commit? Needs wiki.",
+      "revId": "245b8c36632284608827b74c0cba3eacb7b2e823",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "90ae7e14_2eaeb029",
+        "filename": "lineage-build-targets",
+        "patchSetId": 4
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-12-24T00:44:36Z",
+      "side": 1,
+      "message": "newly shipped? probs a standalone commit? Needs wiki.",
+      "revId": "245b8c36632284608827b74c0cba3eacb7b2e823",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
