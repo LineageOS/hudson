@@ -10,6 +10,10 @@ class HudsonTestCase(unittest.TestCase):
 
         with open("updater/devices.json", "r") as f:
             for device in json.load(f):
+                self.assertFalse(
+                    device["model"] in models_json,
+                    f"Duplicate model in devices.json: {device['model']}",
+                )
                 models_json.add(device["model"])
 
         models_hudson = set()
@@ -22,6 +26,11 @@ class HudsonTestCase(unittest.TestCase):
                     continue
 
                 model, _, _, _ = line.split()
+
+                self.assertFalse(
+                    model in models_hudson,
+                    f"Duplicate model in lineage-build-targets: {model}",
+                )
                 models_hudson.add(model)
 
         models_missing = models_hudson - models_json
