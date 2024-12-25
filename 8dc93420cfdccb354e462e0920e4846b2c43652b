@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a097a033_7404825e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 14
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-12-25T04:48:30Z",
+      "side": 1,
+      "message": "at this point it\u0027s just ingot, we\u0027ll just do ingot separately later.",
+      "revId": "8dc93420cfdccb354e462e0920e4846b2c43652b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
