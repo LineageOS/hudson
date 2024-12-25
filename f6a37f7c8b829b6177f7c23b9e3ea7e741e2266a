@@ -16,6 +16,24 @@
       "message": "is it worth checking?",
       "revId": "f6a37f7c8b829b6177f7c23b9e3ea7e741e2266a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9bba60ff_659a5b78",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2024-12-25T08:18:36Z",
+      "side": 1,
+      "message": "looking at https://review.lineageos.org/c/LineageOS/hudson/+/412292/15, I think it\u0027s easy to forget to remove something from 21.0",
+      "parentUuid": "8efafdf4_e3fcc9f8",
+      "revId": "f6a37f7c8b829b6177f7c23b9e3ea7e741e2266a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
