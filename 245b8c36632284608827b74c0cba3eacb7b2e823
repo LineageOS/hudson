@@ -36,6 +36,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "b57faf43_59df0838",
+        "filename": "lineage-build-targets",
+        "patchSetId": 4
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2024-12-25T19:22:53Z",
+      "side": 1,
+      "message": "https://review.lineageos.org/c/LineageOS/lineage_wiki/+/412724",
+      "parentUuid": "17c94026_2759a368",
+      "revId": "245b8c36632284608827b74c0cba3eacb7b2e823",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "aa31c10b_fbd36082",
@@ -67,6 +85,24 @@
       "side": 1,
       "message": "devices.json done: Still needs wiki",
       "parentUuid": "aa31c10b_fbd36082",
+      "revId": "245b8c36632284608827b74c0cba3eacb7b2e823",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c404338b_98e1c3eb",
+        "filename": "lineage-build-targets",
+        "patchSetId": 4
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2024-12-25T19:22:53Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "862dec9f_aac3290c",
       "revId": "245b8c36632284608827b74c0cba3eacb7b2e823",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
@@ -106,6 +142,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "c9f5efa0_b56e7301",
+        "filename": "lineage-build-targets",
+        "patchSetId": 4
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2024-12-25T19:22:53Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9bd22cec_0ab05b20",
+      "revId": "245b8c36632284608827b74c0cba3eacb7b2e823",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "90ae7e14_2eaeb029",
@@ -137,6 +191,24 @@
       "side": 1,
       "message": "devices.json done: Still needs wiki",
       "parentUuid": "90ae7e14_2eaeb029",
+      "revId": "245b8c36632284608827b74c0cba3eacb7b2e823",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2f42dd9a_33d74dfa",
+        "filename": "lineage-build-targets",
+        "patchSetId": 4
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2024-12-25T19:22:53Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "81559241_e2304e34",
       "revId": "245b8c36632284608827b74c0cba3eacb7b2e823",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
