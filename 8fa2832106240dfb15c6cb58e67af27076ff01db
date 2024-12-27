@@ -1,4 +1,22 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c37ac1d0_66ee189a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34600
+      },
+      "writtenOn": "2024-12-27T20:06:13Z",
+      "side": 1,
+      "message": "LG K10 LTE",
+      "revId": "8fa2832106240dfb15c6cb58e67af27076ff01db",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ],
   "submitRequirementResults": []
 }
