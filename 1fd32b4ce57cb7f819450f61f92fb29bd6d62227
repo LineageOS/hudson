@@ -50,6 +50,24 @@
       "message": "leave CR+1 and V+1 when ready",
       "revId": "1fd32b4ce57cb7f819450f61f92fb29bd6d62227",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d7e435a0_04d10647",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34491
+      },
+      "writtenOn": "2024-12-28T02:35:44Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "39331e8b_448098a9",
+      "revId": "1fd32b4ce57cb7f819450f61f92fb29bd6d62227",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
