@@ -466,6 +466,20 @@
         "android_device_google_redbull",
         "android_kernel_google_redbull"
     ],
+    "bronco": [
+        "android_device_motorola_bronco",
+        "android_device_motorola_sm8475-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm8475",
+        "android_system_qcom"
+    ],
+    "caiman": [
+        "android_device_google_caiman",
+        "android_device_google_caimito",
+        "android_device_google_gs-common",
+        "android_device_google_gs101",
+        "android_device_google_zumapro"
+    ],
     "capricorn": [
         "android_device_xiaomi_capricorn",
         "android_device_xiaomi_msm8996-common",
@@ -576,6 +590,12 @@
         "android_device_xiaomi_sm8250-common",
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_sm8250"
+    ],
+    "comet": [
+        "android_device_google_comet",
+        "android_device_google_gs-common",
+        "android_device_google_gs101",
+        "android_device_google_zumapro"
     ],
     "concord": [
         "android_bootable_tianocore_cmocka",
@@ -1858,6 +1878,13 @@
         "android_hardware_sony_timekeep",
         "android_kernel_samsung_msm8974"
     ],
+    "komodo": [
+        "android_device_google_caimito",
+        "android_device_google_gs-common",
+        "android_device_google_gs101",
+        "android_device_google_komodo",
+        "android_device_google_zumapro"
+    ],
     "kugo": [
         "android_device_sony_kugo",
         "android_device_sony_loire-common",
@@ -2875,6 +2902,20 @@
         "android_hardware_amlogic_tools_respacker",
         "android_kernel_amlogic_linux-4.9"
     ],
+    "radxa02": [
+        "android_device_amlogic_common",
+        "android_device_amlogic_sepolicy",
+        "android_device_amlogic_sm1-common",
+        "android_device_radxa_radxa02",
+        "android_hardware_amlogic_kernel-modules_dhd-driver",
+        "android_hardware_amlogic_kernel-modules_mali-driver",
+        "android_hardware_amlogic_kernel-modules_media",
+        "android_hardware_amlogic_kernel-modules_optee",
+        "android_hardware_amlogic_tools_dtbtool",
+        "android_hardware_amlogic_tools_imagepacker",
+        "android_hardware_amlogic_tools_respacker",
+        "android_kernel_amlogic_linux-4.9"
+    ],
     "radxa0_car": [
         "android_device_amlogic_common",
         "android_device_amlogic_g12-common",
@@ -3325,6 +3366,13 @@
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_msm8953"
     ],
+    "tokay": [
+        "android_device_google_caimito",
+        "android_device_google_gs-common",
+        "android_device_google_gs101",
+        "android_device_google_tokay",
+        "android_device_google_zumapro"
+    ],
     "touch": [
         "android_device_nvidia_touch"
     ],
@@ -3355,6 +3403,13 @@
         "android_hardware_sony_thermanager",
         "android_kernel_sony_msm8x60",
         "android_packages_resources_devicesettings"
+    ],
+    "tundra": [
+        "android_device_motorola_sm7325-common",
+        "android_device_motorola_tundra",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm7325",
+        "android_system_qcom"
     ],
     "twolip": [
         "android_device_xiaomi_sdm660-common",
@@ -3440,6 +3495,7 @@
         "android_device_virt_virt-common",
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_arm64",
+        "android_external_mesa",
         "android_kernel_virt_virtio",
         "android_prebuilts_bootmgr"
     ],
@@ -3448,6 +3504,7 @@
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_arm64",
         "android_device_virt_virtio_arm64only",
+        "android_external_mesa",
         "android_kernel_virt_virtio",
         "android_prebuilts_bootmgr"
     ],
@@ -3455,6 +3512,7 @@
         "android_device_virt_virt-common",
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_x86_64",
+        "android_external_mesa",
         "android_kernel_virt_virtio",
         "android_prebuilts_bootmgr"
     ],
@@ -3463,6 +3521,7 @@
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_x86_64",
         "android_device_virt_virtio_x86_64_car",
+        "android_external_mesa",
         "android_kernel_virt_virtio",
         "android_prebuilts_bootmgr"
     ],
@@ -3471,6 +3530,7 @@
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_x86_64",
         "android_device_virt_virtio_x86_64_tv",
+        "android_external_mesa",
         "android_kernel_virt_virtio",
         "android_prebuilts_bootmgr"
     ],
