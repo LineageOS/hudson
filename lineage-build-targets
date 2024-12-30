@@ -57,6 +57,8 @@ f62 userdebug lineage-22.1 W
 fajita userdebug lineage-22.1 W
 felix userdebug lineage-22.1 W
 flame userdebug lineage-22.1 W
+foster userdebug lineage-22.1 W
+foster_tab userdebug lineage-22.1 W
 FP4 userdebug lineage-22.1 W
 FP5 userdebug lineage-22.1 W
 g710n userdebug lineage-22.1 W
@@ -109,6 +111,8 @@ messi userdebug lineage-22.1 W
 nash userdebug lineage-22.1 W
 natrium userdebug lineage-22.1 W
 nio userdebug lineage-22.1 W
+nx userdebug lineage-22.1 W
+nx_tab userdebug lineage-22.1 W
 nx606j userdebug lineage-22.1 W
 nx619j userdebug lineage-22.1 W
 ocean userdebug lineage-22.1 W
@@ -129,10 +133,17 @@ perseus userdebug lineage-22.1 W
 pioneer userdebug lineage-22.1 W
 PL2 userdebug lineage-22.1 W
 polaris userdebug lineage-22.1 W
+porg userdebug lineage-22.1 W
+porg_tab userdebug lineage-22.1 W
 pro1 userdebug lineage-22.1 W
 pro1x userdebug lineage-22.1 W
 pstar userdebug lineage-22.1 W
+<<<<<<< PATCH SET (de418e "Fashionably Tegra-late, but worth the wait!")
+quill userdebug lineage-22.1 W
+quill_tab userdebug lineage-22.1 W
+=======
 pyxis userdebug lineage-22.1 W
+>>>>>>> BASE      (d7db78 hudson: Promote xiaomi sdm710 family to 22.1)
 radxa0 userdebug lineage-22.1 W
 radxa02 userdebug lineage-22.1 W
 radxa0_tab userdebug lineage-22.1 W
@@ -150,6 +161,7 @@ salami userdebug lineage-22.1 W
 sargo userdebug lineage-22.1 W
 shark userdebug lineage-22.1 W
 shiba userdebug lineage-22.1 W
+sif userdebug lineage-22.1 W
 socrates userdebug lineage-22.1 W
 sunfish userdebug lineage-22.1 W
 sweet userdebug lineage-22.1 W
@@ -175,8 +187,6 @@ billie userdebug lineage-21.0 W
 cmi userdebug lineage-21.0 W
 dre userdebug lineage-21.0 W
 earth userdebug lineage-21.0 W
-foster userdebug lineage-21.0 W
-foster_tab userdebug lineage-21.0 W
 FP3 userdebug lineage-21.0 W
 gtowifi userdebug lineage-21.0 W
 heart userdebug lineage-21.0 W
@@ -190,16 +200,17 @@ miatoll userdebug lineage-21.0 W
 munch userdebug lineage-21.0 W
 nairo userdebug lineage-21.0 W
 NB1 userdebug lineage-21.0 W
-nx userdebug lineage-21.0 W
-nx_tab userdebug lineage-21.0 W
 nx611j userdebug lineage-21.0 W
 onclite userdebug lineage-21.0 W
+<<<<<<< PATCH SET (de418e "Fashionably Tegra-late, but worth the wait!")
+pyxis userdebug lineage-21.0 W
+=======
 porg userdebug lineage-21.0 W
 porg_tab userdebug lineage-21.0 W
 quill userdebug lineage-21.0 W
 quill_tab userdebug lineage-21.0 W
+>>>>>>> BASE      (d7db78 hudson: Promote xiaomi sdm710 family to 22.1)
 racer userdebug lineage-21.0 W
-sif userdebug lineage-21.0 W
 surya userdebug lineage-21.0 W
 thyme userdebug lineage-21.0 W
 umi userdebug lineage-21.0 W
