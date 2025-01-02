@@ -471,6 +471,8 @@
         "android_device_motorola_sm8475-common",
         "android_hardware_motorola",
         "android_kernel_motorola_sm8475",
+        "android_kernel_motorola_sm8475-devicetrees",
+        "android_kernel_motorola_sm8475-modules",
         "android_system_qcom"
     ],
     "caiman": [
@@ -936,6 +938,8 @@
         "android_device_motorola_sm8475-common",
         "android_hardware_motorola",
         "android_kernel_motorola_sm8475",
+        "android_kernel_motorola_sm8475-devicetrees",
+        "android_kernel_motorola_sm8475-modules",
         "android_system_qcom"
     ],
     "equuleus": [
@@ -3697,6 +3701,8 @@
         "android_device_motorola_zeekr",
         "android_hardware_motorola",
         "android_kernel_motorola_sm8475",
+        "android_kernel_motorola_sm8475-devicetrees",
+        "android_kernel_motorola_sm8475-modules",
         "android_system_qcom"
     ],
     "zippo": [
