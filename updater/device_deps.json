@@ -882,6 +882,7 @@
     "discovery": [
         "android_device_sony_discovery",
         "android_device_sony_nile-common",
+        "android_hardware_sony",
         "android_hardware_sony_SonyOpenTelephony",
         "android_hardware_sony_macaddrsetup",
         "android_hardware_sony_simdetect",
@@ -1362,6 +1363,12 @@
         "android_hardware_samsung",
         "android_kernel_samsung_sdm670"
     ],
+    "gts7lwifi": [
+        "android_device_samsung_gts7lwifi",
+        "android_device_samsung_sm8250-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_sm8250"
+    ],
     "guacamole": [
         "android_device_oneplus_guacamole",
         "android_device_oneplus_sm8150-common",
@@ -1796,6 +1803,7 @@
     "kirin": [
         "android_device_sony_kirin",
         "android_device_sony_nile-common",
+        "android_hardware_sony",
         "android_hardware_sony_SonyOpenTelephony",
         "android_hardware_sony_macaddrsetup",
         "android_hardware_sony_simdetect",
@@ -1945,6 +1953,12 @@
         "android_device_xiaomi_mt6768-common",
         "android_hardware_mediatek",
         "android_kernel_xiaomi_mt6768"
+    ],
+    "larry": [
+        "android_device_oneplus_larry",
+        "android_device_oneplus_sm6375-common",
+        "android_hardware_oplus",
+        "android_kernel_oneplus_sm6375"
     ],
     "lavender": [
         "android_device_xiaomi_lavender",
@@ -2258,6 +2272,7 @@
     "mermaid": [
         "android_device_sony_mermaid",
         "android_device_sony_nile-common",
+        "android_hardware_sony",
         "android_hardware_sony_SonyOpenTelephony",
         "android_hardware_sony_macaddrsetup",
         "android_hardware_sony_simdetect",
@@ -2523,6 +2538,12 @@
         "android_hardware_oplus",
         "android_kernel_realme_sm6375"
     ],
+    "oscaro": [
+        "android_device_oneplus_oscaro",
+        "android_device_oneplus_sm6375-common",
+        "android_hardware_oplus",
+        "android_kernel_oneplus_sm6375"
+    ],
     "osprey": [
         "android_device_motorola_msm8916-common",
         "android_device_motorola_osprey",
@@ -2608,6 +2629,7 @@
     "pioneer": [
         "android_device_sony_nile-common",
         "android_device_sony_pioneer",
+        "android_hardware_sony",
         "android_hardware_sony_SonyOpenTelephony",
         "android_hardware_sony_macaddrsetup",
         "android_hardware_sony_simdetect",
@@ -3541,6 +3563,7 @@
     "voyager": [
         "android_device_sony_nile-common",
         "android_device_sony_voyager",
+        "android_hardware_sony",
         "android_hardware_sony_SonyOpenTelephony",
         "android_hardware_sony_macaddrsetup",
         "android_hardware_sony_simdetect",
