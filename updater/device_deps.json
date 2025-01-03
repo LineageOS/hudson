@@ -1946,6 +1946,12 @@
         "android_hardware_mediatek",
         "android_kernel_xiaomi_mt6768"
     ],
+    "larry": [
+        "android_device_oneplus_larry",
+        "android_device_oneplus_sm6375-common",
+        "android_hardware_oplus",
+        "android_kernel_oneplus_sm6375"
+    ],
     "lavender": [
         "android_device_xiaomi_lavender",
         "android_device_xiaomi_sdm660-common",
@@ -2522,6 +2528,12 @@
         "android_device_realme_sm6375-common",
         "android_hardware_oplus",
         "android_kernel_realme_sm6375"
+    ],
+    "oscaro": [
+        "android_device_oneplus_oscaro",
+        "android_device_oneplus_sm6375-common",
+        "android_hardware_oplus",
+        "android_kernel_oneplus_sm6375"
     ],
     "osprey": [
         "android_device_motorola_msm8916-common",
