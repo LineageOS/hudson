@@ -33,6 +33,23 @@
       "message": "sweet is ready",
       "revId": "85accf18aa5330f18ef6756d67859a0170926945",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5dc0f3c9_c94bc480",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2025-01-05T19:03:22Z",
+      "side": 1,
+      "message": "maybe rebase?",
+      "revId": "85accf18aa5330f18ef6756d67859a0170926945",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
