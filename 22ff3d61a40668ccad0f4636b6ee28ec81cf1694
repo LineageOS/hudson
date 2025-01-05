@@ -16,6 +16,23 @@
       "message": "haydn is not ready __yet__",
       "revId": "22ff3d61a40668ccad0f4636b6ee28ec81cf1694",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f73f4f7a_1b18d6af",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-01-05T17:24:58Z",
+      "side": 1,
+      "message": "renoir is ready.\n\nwait for grewal with haydn\nwait for giovanni with lisa",
+      "revId": "22ff3d61a40668ccad0f4636b6ee28ec81cf1694",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
