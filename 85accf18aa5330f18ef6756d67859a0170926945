@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "be08e479_469452c2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-01-05T17:37:31Z",
+      "side": 1,
+      "message": "davinci is ready\nwait for aryan and daniel with sweet",
+      "revId": "85accf18aa5330f18ef6756d67859a0170926945",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
