@@ -16,6 +16,24 @@
       "message": "LineageOS/android_kernel_xiaomi_sm8250:\nfatal: couldn\u0027t find remote ref refs/heads/lineage-22.1",
       "revId": "e23a8ae95948fb121c18e25561c90f6479e9957b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "eebc0882_b1a65d6b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 18796
+      },
+      "writtenOn": "2025-01-05T04:06:35Z",
+      "side": 1,
+      "message": "Its up now",
+      "parentUuid": "8c222bd0_c34bf042",
+      "revId": "e23a8ae95948fb121c18e25561c90f6479e9957b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
