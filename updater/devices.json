@@ -1,6 +1,7 @@
 [
   {  "model": "A6020", "oem": "Lenovo", "name": "Vibe K5 / K5 Plus" },
   {  "model": "Amber", "oem": "Yandex", "name": "Phone" },
+  {  "model": "a21s", "oem": "Samsung", "name": "Galaxy A21s" },
   {  "model": "a3xelte", "oem": "Samsung", "name": "Galaxy A3 (2016)" },
   {  "model": "a52q", "oem": "Samsung", "name": "Galaxy A52 4G" },
   {  "model": "a52sxq", "oem": "Samsung", "name": "Galaxy A52s 5G" },
