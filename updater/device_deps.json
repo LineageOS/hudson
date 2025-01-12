@@ -1071,7 +1071,6 @@
         "android_kernel_nvidia_linux-4.9_kernel_nvidia",
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia",
-        "android_kernel_nvidia_wireguard",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
@@ -1126,7 +1125,6 @@
         "android_kernel_nvidia_linux-4.9_kernel_nvidia",
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia",
-        "android_kernel_nvidia_wireguard",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
@@ -1213,7 +1211,6 @@
         "android_kernel_nvidia_nvethernetrm",
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia",
-        "android_kernel_nvidia_wireguard",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
@@ -1283,7 +1280,6 @@
         "android_kernel_nvidia_nvethernetrm",
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia",
-        "android_kernel_nvidia_wireguard",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
@@ -1658,7 +1654,6 @@
         "android_kernel_nvidia_linux-4.9_kernel_nvidia",
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia",
-        "android_kernel_nvidia_wireguard",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
@@ -2082,7 +2077,6 @@
         "android_kernel_nvidia_linux-4.9_kernel_nvidia",
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia",
-        "android_kernel_nvidia_wireguard",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
@@ -2268,7 +2262,6 @@
         "android_kernel_nvidia_linux-4.9_kernel_nvidia",
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia",
-        "android_kernel_nvidia_wireguard",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
@@ -2726,7 +2719,6 @@
         "android_kernel_nvidia_linux-4.9_kernel_nvidia",
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia",
-        "android_kernel_nvidia_wireguard",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
@@ -2785,7 +2777,6 @@
         "android_kernel_nvidia_linux-4.9_kernel_nvidia",
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia",
-        "android_kernel_nvidia_wireguard",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
@@ -2861,7 +2852,6 @@
         "android_kernel_nvidia_linux-4.9_kernel_nvidia",
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia",
-        "android_kernel_nvidia_wireguard",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
@@ -2917,7 +2907,6 @@
         "android_kernel_nvidia_linux-4.9_kernel_nvidia",
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia",
-        "android_kernel_nvidia_wireguard",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
@@ -3294,7 +3283,6 @@
         "android_kernel_nvidia_linux-4.9_kernel_nvidia",
         "android_kernel_nvidia_nvgpu",
         "android_kernel_nvidia_nvidia",
-        "android_kernel_nvidia_wireguard",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
