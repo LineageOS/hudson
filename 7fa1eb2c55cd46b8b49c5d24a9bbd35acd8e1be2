@@ -16,6 +16,23 @@
       "message": "pending vendor manifest change",
       "revId": "7fa1eb2c55cd46b8b49c5d24a9bbd35acd8e1be2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a635a665_19e881d8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-01-13T18:16:58Z",
+      "side": 1,
+      "message": "yall need vendor manifest PR",
+      "revId": "7fa1eb2c55cd46b8b49c5d24a9bbd35acd8e1be2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
