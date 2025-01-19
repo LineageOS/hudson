@@ -308,6 +308,13 @@
         "android_hardware_sony_timekeep",
         "android_kernel_oppo_msm8974"
     ],
+    "bangkk": [
+        "android_device_motorola_bangkk",
+        "android_device_motorola_sm7325-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm7325",
+        "android_system_qcom"
+    ],
     "barbet": [
         "android_device_google_barbet",
         "android_device_google_gs-common",
@@ -1020,6 +1027,13 @@
     "flox": [
         "android_device_asus_flox",
         "android_kernel_google_msm"
+    ],
+    "fogos": [
+        "android_device_motorola_fogos",
+        "android_device_motorola_sm7325-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm7325",
+        "android_system_qcom"
     ],
     "foster": [
         "android_device_nvidia_foster",
