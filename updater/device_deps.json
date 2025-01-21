@@ -2319,6 +2319,13 @@
         "android_hardware_lge",
         "android_kernel_lge_sm8150"
     ],
+    "miami": [
+        "android_device_motorola_miami",
+        "android_device_motorola_sm7325-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm7325",
+        "android_system_qcom"
+    ],
     "miatoll": [
         "android_device_xiaomi_miatoll",
         "android_device_xiaomi_sm6250-common",
@@ -3063,6 +3070,13 @@
         "android_device_motorola_sm6225-common",
         "android_hardware_motorola",
         "android_kernel_motorola_sm6225",
+        "android_system_qcom"
+    ],
+    "rhodep": [
+        "android_device_motorola_rhodep",
+        "android_device_motorola_sm7325-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm7325",
         "android_system_qcom"
     ],
     "river": [
