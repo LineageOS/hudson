@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e5bab8ff_3929531e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19252
+      },
+      "writtenOn": "2025-01-28T04:29:15Z",
+      "side": 1,
+      "message": "heart and zippo are all merged up including vendor manifest\n\nwiki change is here:\nhttps://review.lineageos.org/c/LineageOS/lineage_wiki/+/417056",
+      "revId": "3b042a4fa2b732dd7dd40b6e97ee9c8e387386e0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
