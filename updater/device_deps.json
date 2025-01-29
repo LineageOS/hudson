@@ -1024,6 +1024,12 @@
         "android_kernel_google_msm-4.14",
         "android_packages_apps_ElmyraService"
     ],
+    "flashlmdd": [
+        "android_device_lge_flashlmdd",
+        "android_device_lge_sm8150-common",
+        "android_hardware_lge",
+        "android_kernel_lge_sm8150"
+    ],
     "flox": [
         "android_device_asus_flox",
         "android_kernel_google_msm"
