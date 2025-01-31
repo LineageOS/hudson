@@ -128,14 +128,7 @@
         "android_kernel_samsung_universal7580"
     ],
     "a51": [
-        "android_device_samsung_a51",
-        "android_device_samsung_slsi_sepolicy",
-        "android_device_samsung_universal9611-common",
-        "android_hardware_samsung",
-        "android_hardware_samsung_slsi_libbt",
-        "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
-        "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
-        "android_kernel_samsung_universal9611"
+        "android_device_samsung_a51"
     ],
     "a52q": [
         "android_device_samsung_a52q",
@@ -984,6 +977,9 @@
         "android_device_lge_g3-common",
         "android_hardware_sony_timekeep",
         "android_kernel_lge_g3"
+    ],
+    "f41": [
+        "android_device_samsung_f41"
     ],
     "f62": [
         "android_device_samsung_exynos9820-common",
@@ -2153,6 +2149,15 @@
         "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
         "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
         "android_kernel_samsung_universal7904"
+    ],
+    "m21": [
+        "android_device_samsung_m21"
+    ],
+    "m31": [
+        "android_device_samsung_m31"
+    ],
+    "m31s": [
+        "android_device_samsung_m31s"
     ],
     "m5": [
         "android_device_amlogic_common",
