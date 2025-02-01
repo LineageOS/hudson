@@ -1427,6 +1427,12 @@
         "android_kernel_motorola_sm6225",
         "android_system_qcom"
     ],
+    "gunnar": [
+        "android_device_oneplus_gunnar",
+        "android_device_oneplus_sm6375-common",
+        "android_hardware_oplus",
+        "android_kernel_oneplus_sm6375"
+    ],
     "h830": [
         "android_device_lge_g5-common",
         "android_device_lge_h830",
