@@ -16,6 +16,24 @@
       "message": "before m5",
       "revId": "ae0890425585d5146a1046e1be863c32170f7d29",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3be5f0bb_f81ca691",
+        "filename": "lineage-build-targets",
+        "patchSetId": 7
+      },
+      "lineNbr": 109,
+      "author": {
+        "id": 34676
+      },
+      "writtenOn": "2025-02-04T19:14:20Z",
+      "side": 1,
+      "message": "i think m21, m31, m31s should before m52xq, not m5",
+      "parentUuid": "a09c930c_cf43f8e2",
+      "revId": "ae0890425585d5146a1046e1be863c32170f7d29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
