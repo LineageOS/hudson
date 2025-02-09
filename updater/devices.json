@@ -132,6 +132,7 @@
   {  "model": "find7", "oem": "OPPO", "name": "Find 7a" },
   {  "model": "find7s", "oem": "OPPO", "name": "Find 7s" },
   {  "model": "flame", "oem": "Google", "name": "Pixel 4" },
+  {  "model": "flashlmdd", "oem": "LG", "name": "V50 ThinQ" },
   {  "model": "flo", "oem": "Google", "name": "Nexus 7 2013 (Wi-Fi)" },
   {  "model": "flox", "oem": "Google", "name": "Nexus 7 2013 (Wi-Fi, Repartitioned)" },
   {  "model": "flounder", "oem": "Google", "name": "Nexus 9 (Wi-Fi)" },
