@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b471b83e_68aa695f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 17
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2025-02-13T17:39:44Z",
+      "side": 1,
+      "message": "Please merge on Sunday 02/16, before Monday builds start.",
+      "revId": "5991b35d5f53c93a6f8a3d8843f2bd8f77b863a7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
