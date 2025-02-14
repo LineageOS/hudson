@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "327c6bfa_5d5104c2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 22176
+      },
+      "writtenOn": "2025-02-14T15:58:43Z",
+      "side": 1,
+      "message": "apollon patchs not merged yet. Some of them are prerequisites for build",
+      "revId": "a3fe9849e78bb8786a2b5b1303b7bcf744f070fd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
