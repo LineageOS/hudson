@@ -16,6 +16,24 @@
       "message": "apollon patchs not merged yet. Some of them are prerequisites for build",
       "revId": "a3fe9849e78bb8786a2b5b1303b7bcf744f070fd",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e83d14ce_b16902e8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-02-14T16:04:58Z",
+      "side": 1,
+      "message": "The commit required to build has been merged.",
+      "parentUuid": "327c6bfa_5d5104c2",
+      "revId": "a3fe9849e78bb8786a2b5b1303b7bcf744f070fd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
