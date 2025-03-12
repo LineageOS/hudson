@@ -318,8 +318,7 @@
         "android_device_motorola_bangkk",
         "android_device_motorola_sm7325-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm7325",
-        "android_system_qcom"
+        "android_kernel_motorola_sm7325"
     ],
     "barbet": [
         "android_device_google_barbet",
@@ -357,22 +356,19 @@
         "android_device_motorola_msm8998-common",
         "android_external_bson",
         "android_hardware_motorola",
-        "android_kernel_motorola_msm8998",
-        "android_system_qcom"
+        "android_kernel_motorola_msm8998"
     ],
     "berlin": [
         "android_device_motorola_berlin",
         "android_device_motorola_sm7325-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm7325",
-        "android_system_qcom"
+        "android_kernel_motorola_sm7325"
     ],
     "berlna": [
         "android_device_motorola_berlna",
         "android_device_motorola_sm7325-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm7325",
-        "android_system_qcom"
+        "android_kernel_motorola_sm7325"
     ],
     "beryllium": [
         "android_device_xiaomi_beryllium",
@@ -470,8 +466,7 @@
         "android_device_motorola_borneo",
         "android_device_motorola_sm6225-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm6225",
-        "android_system_qcom"
+        "android_kernel_motorola_sm6225"
     ],
     "bramble": [
         "android_device_google_bramble",
@@ -505,8 +500,7 @@
         "android_device_motorola_caprip",
         "android_device_motorola_sm6225-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm6225",
-        "android_system_qcom"
+        "android_kernel_motorola_sm6225"
     ],
     "car": [
         "android_device_lineage_car"
@@ -538,8 +532,7 @@
         "android_device_motorola_cebu",
         "android_device_motorola_sm6225-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm6225",
-        "android_system_qcom"
+        "android_kernel_motorola_sm6225"
     ],
     "cedric": [
         "android_device_motorola_cedric",
@@ -560,8 +553,7 @@
         "android_device_motorola_sdm632-common",
         "android_external_bson",
         "android_hardware_motorola",
-        "android_kernel_motorola_sdm632",
-        "android_system_qcom"
+        "android_kernel_motorola_sdm632"
     ],
     "cheeseburger": [
         "android_device_oneplus_cheeseburger",
@@ -581,8 +573,7 @@
         "android_device_motorola_msm8998-common",
         "android_external_bson",
         "android_hardware_motorola",
-        "android_kernel_motorola_msm8998",
-        "android_system_qcom"
+        "android_kernel_motorola_msm8998"
     ],
     "cheryl": [
         "android_device_razer_cheryl",
@@ -895,8 +886,7 @@
         "android_device_motorola_devon",
         "android_device_motorola_sm6225-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm6225",
-        "android_system_qcom"
+        "android_kernel_motorola_sm6225"
     ],
     "dipper": [
         "android_device_xiaomi_dipper",
@@ -937,8 +927,7 @@
         "android_device_motorola_dubai",
         "android_device_motorola_sm7325-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm7325",
-        "android_system_qcom"
+        "android_kernel_motorola_sm7325"
     ],
     "dumpling": [
         "android_device_oneplus_dumpling",
@@ -984,8 +973,7 @@
         "android_device_motorola_msm8998-common",
         "android_external_bson",
         "android_hardware_motorola",
-        "android_kernel_motorola_msm8998",
-        "android_system_qcom"
+        "android_kernel_motorola_msm8998"
     ],
     "f400": [
         "android_device_lge_f400",
@@ -1062,8 +1050,7 @@
         "android_device_motorola_fogos",
         "android_device_motorola_sm7325-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm7325",
-        "android_system_qcom"
+        "android_kernel_motorola_sm7325"
     ],
     "foster": [
         "android_device_nvidia_foster",
@@ -1449,15 +1436,13 @@
         "android_device_motorola_guam",
         "android_device_motorola_sm6225-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm6225",
-        "android_system_qcom"
+        "android_kernel_motorola_sm6225"
     ],
     "guamp": [
         "android_device_motorola_guamp",
         "android_device_motorola_sm6225-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm6225",
-        "android_system_qcom"
+        "android_kernel_motorola_sm6225"
     ],
     "gunnar": [
         "android_device_oneplus_gunnar",
@@ -1551,8 +1536,7 @@
         "android_device_motorola_hawao",
         "android_device_motorola_sm6225-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm6225",
-        "android_system_qcom"
+        "android_kernel_motorola_sm6225"
     ],
     "hayabusa": [
         "android_device_sony_blue-common",
@@ -1856,8 +1840,7 @@
         "android_hardware_samsung_slsi_libbt",
         "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
         "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
-        "android_kernel_motorola_exynos9610",
-        "android_system_qcom"
+        "android_kernel_motorola_exynos9610"
     ],
     "kebab": [
         "android_device_oneplus_kebab",
@@ -1869,8 +1852,7 @@
         "android_device_motorola_kiev",
         "android_device_motorola_sm7250-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm7250",
-        "android_system_qcom"
+        "android_kernel_motorola_sm7250"
     ],
     "kirin": [
         "android_device_sony_kirin",
@@ -2016,8 +1998,7 @@
         "android_device_motorola_msm8998-common",
         "android_external_bson",
         "android_hardware_motorola",
-        "android_kernel_motorola_msm8998",
-        "android_system_qcom"
+        "android_kernel_motorola_msm8998"
     ],
     "lancelot": [
         "android_device_mediatek_sepolicy_vndr",
@@ -2060,8 +2041,7 @@
         "android_device_motorola_liber",
         "android_device_motorola_sm6150-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm6150",
-        "android_system_qcom"
+        "android_kernel_motorola_sm6150"
     ],
     "lisa": [
         "android_device_xiaomi_lisa",
@@ -2403,8 +2383,7 @@
         "android_device_motorola_msm8998-common",
         "android_external_bson",
         "android_hardware_motorola",
-        "android_kernel_motorola_msm8998",
-        "android_system_qcom"
+        "android_kernel_motorola_msm8998"
     ],
     "mh2lm": [
         "android_device_lge_mh2lm",
@@ -2416,8 +2395,7 @@
         "android_device_motorola_miami",
         "android_device_motorola_sm7325-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm7325",
-        "android_system_qcom"
+        "android_kernel_motorola_sm7325"
     ],
     "miatoll": [
         "android_device_xiaomi_miatoll",
@@ -2466,16 +2444,14 @@
         "android_device_motorola_nairo",
         "android_device_motorola_sm7250-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm7250",
-        "android_system_qcom"
+        "android_kernel_motorola_sm7250"
     ],
     "nash": [
         "android_device_motorola_msm8998-common",
         "android_device_motorola_nash",
         "android_external_bson",
         "android_hardware_motorola",
-        "android_kernel_motorola_msm8998",
-        "android_system_qcom"
+        "android_kernel_motorola_msm8998"
     ],
     "natrium": [
         "android_device_xiaomi_msm8996-common",
@@ -2487,8 +2463,7 @@
         "android_device_motorola_nio",
         "android_device_motorola_sm8250-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm8250",
-        "android_system_qcom"
+        "android_kernel_motorola_sm8250"
     ],
     "nx": [
         "android_device_nintendo_nx",
@@ -2608,15 +2583,13 @@
         "android_device_motorola_sdm632-common",
         "android_external_bson",
         "android_hardware_motorola",
-        "android_kernel_motorola_sdm632",
-        "android_system_qcom"
+        "android_kernel_motorola_sdm632"
     ],
     "odessa": [
         "android_device_motorola_odessa",
         "android_device_motorola_sm6150-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm6150",
-        "android_system_qcom"
+        "android_kernel_motorola_sm6150"
     ],
     "odroidc4": [
         "android_device_amlogic_common",
@@ -2698,16 +2671,14 @@
         "android_device_motorola_parker",
         "android_device_motorola_sm6150-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm6150",
-        "android_system_qcom"
+        "android_kernel_motorola_sm6150"
     ],
     "payton": [
         "android_device_motorola_msm8998-common",
         "android_device_motorola_payton",
         "android_external_bson",
         "android_hardware_motorola",
-        "android_kernel_motorola_msm8998",
-        "android_system_qcom"
+        "android_kernel_motorola_msm8998"
     ],
     "pdx203": [
         "android_device_sony_pdx203",
@@ -2910,8 +2881,7 @@
         "android_device_motorola_pstar",
         "android_device_motorola_sm8250-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm8250",
-        "android_system_qcom"
+        "android_kernel_motorola_sm8250"
     ],
     "pyxis": [
         "android_device_xiaomi_pyxis",
@@ -3040,8 +3010,7 @@
         "android_device_motorola_racer",
         "android_device_motorola_sm7250-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm7250",
-        "android_system_qcom"
+        "android_kernel_motorola_sm7250"
     ],
     "radxa0": [
         "android_device_amlogic_common",
@@ -3168,23 +3137,20 @@
         "android_device_motorola_rhode",
         "android_device_motorola_sm6225-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm6225",
-        "android_system_qcom"
+        "android_kernel_motorola_sm6225"
     ],
     "rhodep": [
         "android_device_motorola_rhodep",
         "android_device_motorola_sm7325-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm7325",
-        "android_system_qcom"
+        "android_kernel_motorola_sm7325"
     ],
     "river": [
         "android_device_motorola_river",
         "android_device_motorola_sdm632-common",
         "android_external_bson",
         "android_hardware_motorola",
-        "android_kernel_motorola_sdm632",
-        "android_system_qcom"
+        "android_kernel_motorola_sdm632"
     ],
     "rosemary": [
         "android_device_mediatek_sepolicy_vndr",
@@ -3430,8 +3396,7 @@
         "android_device_motorola_sm7250-common",
         "android_device_motorola_smith",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm7250",
-        "android_system_qcom"
+        "android_kernel_motorola_sm7250"
     ],
     "socrates": [
         "android_device_xiaomi_socrates",
@@ -3587,8 +3552,7 @@
         "android_hardware_samsung_slsi_libbt",
         "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
         "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
-        "android_kernel_motorola_exynos9610",
-        "android_system_qcom"
+        "android_kernel_motorola_exynos9610"
     ],
     "tsubasa": [
         "android_device_sony_blue-common",
@@ -3603,8 +3567,7 @@
         "android_device_motorola_sm7325-common",
         "android_device_motorola_tundra",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm7325",
-        "android_system_qcom"
+        "android_kernel_motorola_sm7325"
     ],
     "twolip": [
         "android_device_xiaomi_sdm660-common",
@@ -3821,8 +3784,7 @@
         "android_device_motorola_sm7325-common",
         "android_device_motorola_xpeng",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm7325",
-        "android_system_qcom"
+        "android_kernel_motorola_sm7325"
     ],
     "xz2c": [
         "android_device_sony_tama-common",
