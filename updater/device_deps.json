@@ -551,7 +551,6 @@
     "channel": [
         "android_device_motorola_channel",
         "android_device_motorola_sdm632-common",
-        "android_external_bson",
         "android_hardware_motorola",
         "android_kernel_motorola_sdm632"
     ],
@@ -2581,7 +2580,6 @@
     "ocean": [
         "android_device_motorola_ocean",
         "android_device_motorola_sdm632-common",
-        "android_external_bson",
         "android_hardware_motorola",
         "android_kernel_motorola_sdm632"
     ],
@@ -3148,7 +3146,6 @@
     "river": [
         "android_device_motorola_river",
         "android_device_motorola_sdm632-common",
-        "android_external_bson",
         "android_hardware_motorola",
         "android_kernel_motorola_sdm632"
     ],
@@ -3744,7 +3741,6 @@
     ],
     "walleye": [
         "android_device_google_gs-common",
-        "android_device_google_muskie",
         "android_device_google_wahoo",
         "android_device_google_walleye",
         "android_kernel_google_wahoo",
