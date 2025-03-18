@@ -2012,6 +2012,12 @@
         "android_hardware_oplus",
         "android_kernel_oneplus_sm6375"
     ],
+    "laurel_sprout": [
+        "android_device_xiaomi_laurel_sprout",
+        "android_device_xiaomi_sm6125-common",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_sm6125"
+    ],
     "lavender": [
         "android_device_xiaomi_lavender",
         "android_device_xiaomi_sdm660-common",
