@@ -480,8 +480,7 @@
         "android_hardware_motorola",
         "android_kernel_motorola_sm8475",
         "android_kernel_motorola_sm8475-devicetrees",
-        "android_kernel_motorola_sm8475-modules",
-        "android_system_qcom"
+        "android_kernel_motorola_sm8475-modules"
     ],
     "caiman": [
         "android_device_google_caiman",
@@ -953,8 +952,7 @@
         "android_hardware_motorola",
         "android_kernel_motorola_sm8475",
         "android_kernel_motorola_sm8475-devicetrees",
-        "android_kernel_motorola_sm8475-modules",
-        "android_system_qcom"
+        "android_kernel_motorola_sm8475-modules"
     ],
     "equuleus": [
         "android_device_xiaomi_equuleus",
@@ -3858,8 +3856,7 @@
         "android_hardware_motorola",
         "android_kernel_motorola_sm8475",
         "android_kernel_motorola_sm8475-devicetrees",
-        "android_kernel_motorola_sm8475-modules",
-        "android_system_qcom"
+        "android_kernel_motorola_sm8475-modules"
     ],
     "zippo": [
         "android_device_lenovo_sm8150-common",
