@@ -3,4 +3,4 @@
 # Note: there is no period attached to this, it's always "nightly"
 # Builds are cleared out on a regular basis from mirrors, the last one is kept
 cheetah userdebug lineage-21.0
-tokay userdebug lineage-22.1
+tokay userdebug lineage-22.2
