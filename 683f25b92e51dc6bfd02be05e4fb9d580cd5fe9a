@@ -33,6 +33,24 @@
       "message": "everything working and pushed to org",
       "revId": "683f25b92e51dc6bfd02be05e4fb9d580cd5fe9a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f96297e7_58db3828",
+        "filename": "lineage-build-targets",
+        "patchSetId": 5
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2025-03-29T14:34:17Z",
+      "side": 1,
+      "message": "just apply it yourself.",
+      "parentUuid": "c4abf807_2d5c40e3",
+      "revId": "683f25b92e51dc6bfd02be05e4fb9d580cd5fe9a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
