@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c4abf807_2d5c40e3",
+        "filename": "lineage-build-targets",
+        "patchSetId": 5
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 34512
+      },
+      "writtenOn": "2025-03-29T14:29:44Z",
+      "side": 1,
+      "message": "```suggestion\na21s userdebug lineage-22.2 W\n```",
+      "revId": "683f25b92e51dc6bfd02be05e4fb9d580cd5fe9a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4bf9530e_41a18ac9",
+        "filename": "lineage-build-targets",
+        "patchSetId": 5
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 34512
+      },
+      "writtenOn": "2025-03-29T14:29:44Z",
+      "side": 1,
+      "message": "everything working and pushed to org",
+      "revId": "683f25b92e51dc6bfd02be05e4fb9d580cd5fe9a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
