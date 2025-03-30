@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c48c9db4_5b38825b",
+        "filename": "lineage-build-targets",
+        "patchSetId": 9
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-03-30T06:21:44Z",
+      "side": 1,
+      "message": "hung on splash screen even on old clang, so a valid drop for now.",
+      "revId": "8aab431a784ebf9a9d9d8170e67624a112e1cf86",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1b050e90_fb5a6ac6",
+        "filename": "lineage-build-targets",
+        "patchSetId": 9
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-03-30T06:21:44Z",
+      "side": 1,
+      "message": "awaiting ELF checks. Valid drop for now.",
+      "revId": "8aab431a784ebf9a9d9d8170e67624a112e1cf86",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}

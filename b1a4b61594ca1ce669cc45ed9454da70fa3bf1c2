@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ecf198b7_b9207586",
+        "filename": "lineage-build-targets",
+        "patchSetId": 10
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-03-30T06:21:44Z",
+      "side": 1,
+      "message": "HIDL Power is dead. Needs migration to libperfmgr. Valid drop for now.",
+      "revId": "b1a4b61594ca1ce669cc45ed9454da70fa3bf1c2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "78269898_0e0315d8",
+        "filename": "lineage-build-targets",
+        "patchSetId": 10
+      },
+      "lineNbr": 154,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-03-30T06:21:44Z",
+      "side": 1,
+      "message": "awaiting ELF checks. Valid drop for now.",
+      "revId": "b1a4b61594ca1ce669cc45ed9454da70fa3bf1c2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fa807722_e30a8d19",
+        "filename": "lineage-build-targets",
+        "patchSetId": 10
+      },
+      "lineNbr": 176,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-03-30T06:21:44Z",
+      "side": 1,
+      "message": "HIDL Power is dead. Needs migration to libperfmgr. Valid drop for now.",
+      "revId": "b1a4b61594ca1ce669cc45ed9454da70fa3bf1c2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
