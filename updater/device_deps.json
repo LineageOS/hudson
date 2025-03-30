@@ -322,7 +322,7 @@
     ],
     "bangkk": [
         "android_device_motorola_bangkk",
-        "android_device_motorola_sm7325-common",
+        "android_device_motorola_sm6375-common",
         "android_hardware_motorola",
         "android_kernel_motorola_sm7325"
     ],
@@ -1049,9 +1049,15 @@
         "android_device_asus_flox",
         "android_kernel_google_msm"
     ],
+    "fogo": [
+        "android_device_motorola_fogo",
+        "android_device_motorola_sm6375-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm7325"
+    ],
     "fogos": [
         "android_device_motorola_fogos",
-        "android_device_motorola_sm7325-common",
+        "android_device_motorola_sm6375-common",
         "android_hardware_motorola",
         "android_kernel_motorola_sm7325"
     ],
