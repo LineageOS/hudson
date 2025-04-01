@@ -18,6 +18,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "f745c62b_664ee569",
+        "filename": "lineage-build-targets",
+        "patchSetId": 10
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-04-01T20:15:10Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ecf198b7_b9207586",
+      "revId": "b1a4b61594ca1ce669cc45ed9454da70fa3bf1c2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "78269898_0e0315d8",
@@ -48,6 +66,24 @@
       "writtenOn": "2025-03-30T06:21:44Z",
       "side": 1,
       "message": "HIDL Power is dead. Needs migration to libperfmgr. Valid drop for now.",
+      "revId": "b1a4b61594ca1ce669cc45ed9454da70fa3bf1c2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dc4ae4a3_0b59fc3f",
+        "filename": "lineage-build-targets",
+        "patchSetId": 10
+      },
+      "lineNbr": 176,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-04-01T20:15:10Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fa807722_e30a8d19",
       "revId": "b1a4b61594ca1ce669cc45ed9454da70fa3bf1c2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
