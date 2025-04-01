@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "04f45125_cd178da5",
+        "filename": "lineage-build-targets",
+        "patchSetId": 17
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-04-01T18:26:52Z",
+      "side": 1,
+      "message": "Broken FP.",
+      "revId": "6738d17b1ddbb79fc9c439f36639ed75bed28aad",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0004a1ed_5c901757",
+        "filename": "lineage-build-targets",
+        "patchSetId": 17
+      },
+      "lineNbr": 191,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-04-01T18:26:52Z",
+      "side": 1,
+      "message": "Broken FP.",
+      "revId": "6738d17b1ddbb79fc9c439f36639ed75bed28aad",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
