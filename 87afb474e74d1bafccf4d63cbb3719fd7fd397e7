@@ -16,6 +16,23 @@
       "message": "https://review.lineageos.org/Documentation/user-attention-set.html#_important_note_for_all_host_owners_project_owners_and_bot_owners",
       "revId": "87afb474e74d1bafccf4d63cbb3719fd7fd397e7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b2c20480_ad3be098",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35117
+      },
+      "writtenOn": "2025-04-04T05:36:40Z",
+      "side": 1,
+      "message": "https://review.lineageos.org/Documentation/user-attention-set.html#_important_note_for_all_host_owners_project_owners_and_bot_owners",
+      "revId": "87afb474e74d1bafccf4d63cbb3719fd7fd397e7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": []
