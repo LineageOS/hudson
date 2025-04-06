@@ -1390,6 +1390,38 @@
         "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
         "android_kernel_samsung_gta4xl"
     ],
+    "gta4xls": [
+        "android_device_samsung_gta4xls",
+        "android_device_samsung_gta4xls-common",
+        "android_device_samsung_slsi_sepolicy",
+        "android_hardware_samsung",
+        "android_hardware_samsung_slsi-linaro_config",
+        "android_hardware_samsung_slsi-linaro_exynos",
+        "android_hardware_samsung_slsi-linaro_exynos5",
+        "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_interfaces",
+        "android_hardware_samsung_slsi-linaro_openmax",
+        "android_hardware_samsung_slsi_libbt",
+        "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
+        "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
+        "android_kernel_samsung_gta4xls"
+    ],
+    "gta4xlswifi": [
+        "android_device_samsung_gta4xls-common",
+        "android_device_samsung_gta4xlswifi",
+        "android_device_samsung_slsi_sepolicy",
+        "android_hardware_samsung",
+        "android_hardware_samsung_slsi-linaro_config",
+        "android_hardware_samsung_slsi-linaro_exynos",
+        "android_hardware_samsung_slsi-linaro_exynos5",
+        "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_interfaces",
+        "android_hardware_samsung_slsi-linaro_openmax",
+        "android_hardware_samsung_slsi_libbt",
+        "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
+        "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
+        "android_kernel_samsung_gta4xls"
+    ],
     "gta4xlwifi": [
         "android_device_samsung_gta4xl-common",
         "android_device_samsung_gta4xlwifi",
@@ -3430,9 +3462,6 @@
         "android_hardware_sony_thermanager",
         "android_hardware_sony_timekeep",
         "android_kernel_sony_msm8974"
-    ],
-    "sm8650-devicetrees": [
-        "android_kernel_oneplus_sm8650-devicetrees"
     ],
     "smith": [
         "android_device_motorola_sm7250-common",
