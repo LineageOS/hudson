@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "327f267c_ca4509b6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19979
+      },
+      "writtenOn": "2025-04-08T03:02:40Z",
+      "side": 1,
+      "message": "I added dre to https://review.lineageos.org/c/LineageOS/hudson/+/424685",
+      "revId": "a878a828e1ab203db5fd90e1980717ca827916d5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
