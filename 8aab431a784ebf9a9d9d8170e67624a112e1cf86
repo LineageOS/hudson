@@ -51,6 +51,24 @@
       "message": "awaiting ELF checks. Valid drop for now.",
       "revId": "8aab431a784ebf9a9d9d8170e67624a112e1cf86",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6425816a_4b953a4e",
+        "filename": "lineage-build-targets",
+        "patchSetId": 9
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-04-11T16:48:33Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "1b050e90_fb5a6ac6",
+      "revId": "8aab431a784ebf9a9d9d8170e67624a112e1cf86",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
