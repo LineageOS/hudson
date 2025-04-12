@@ -4,6 +4,11 @@
         "android_kernel_yandex_sdm660",
         "android_packages_resources_devicesettings"
     ],
+    "B2N": [
+        "android_device_nokia_B2N",
+        "android_device_nokia_sdm660-common",
+        "android_kernel_nokia_sdm660"
+    ],
     "DRG": [
         "android_device_nokia_DRG",
         "android_device_nokia_sdm660-common",
@@ -494,6 +499,12 @@
         "android_device_google_gs-common",
         "android_device_google_gs101",
         "android_device_google_zumapro"
+    ],
+    "capri": [
+        "android_device_motorola_capri",
+        "android_device_motorola_sm6225-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm6225"
     ],
     "capricorn": [
         "android_device_xiaomi_capricorn",
@@ -3244,8 +3255,7 @@
         "android_hardware_motorola",
         "android_kernel_motorola_sm8550",
         "android_kernel_motorola_sm8550-devicetrees",
-        "android_kernel_motorola_sm8550-modules",
-        "android_system_qcom"
+        "android_kernel_motorola_sm8550-modules"
     ],
     "s2": [
         "android_device_leeco_s2",
