@@ -16,6 +16,23 @@
       "message": "Pending lineage-22.2-nokia-sdm660 merge.",
       "revId": "553226011213a8e7dac54f0847d3825c86bcb964",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0825987c_33c07c1f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-04-13T22:56:50Z",
+      "side": 1,
+      "message": "keep promotions and new ones separate pls, ship B2N in this commit, I shipped PL2/DRG",
+      "revId": "553226011213a8e7dac54f0847d3825c86bcb964",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
