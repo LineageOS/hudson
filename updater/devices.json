@@ -30,6 +30,7 @@
   {  "model": "avicii", "oem": "OnePlus", "name": "Nord" },
   {  "model": "axolotl", "oem": "SHIFT", "name": "SHIFT6mq" },
   {  "model": "axon7", "oem": "ZTE", "name": "Axon 7" },
+  {  "model": "B2N", "oem": "Nokia", "name": "7 plus" },
   {  "model": "bacon", "oem": "OnePlus", "name": "One" },
   {  "model": "barbet", "oem": "Google", "name": "Pixel 5a" },
   {  "model": "bardock", "oem": "BQ", "name": "Aquaris X" },
