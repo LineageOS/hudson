@@ -51,6 +51,24 @@
       "parentUuid": "9b5725b9_3ad517de",
       "revId": "fca33e97584ee601e1613e79ff39f2de2dabc532",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fe310f41_6e29fcdc",
+        "filename": "updater/devices.json",
+        "patchSetId": 4
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-04-14T09:53:36Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "21b39665_21e2b2e5",
+      "revId": "fca33e97584ee601e1613e79ff39f2de2dabc532",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
