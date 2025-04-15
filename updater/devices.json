@@ -55,6 +55,7 @@
   {  "model": "bullhead", "oem": "Google", "name": "Nexus 5X" },
   {  "model": "caiman", "oem": "Google", "name": "Pixel 9 Pro" },
   {  "model": "cancro", "oem": "Xiaomi", "name": "Mi 3w and Mi 4" },
+  {  "model": "capri", "oem": "Motorola", "name": "moto g10 / moto g10 power / Lenovo K13 Note" },
   {  "model": "capricorn", "oem": "Xiaomi", "name": "Mi 5s" },
   {  "model": "caprip", "oem": "Motorola", "name": "moto g30" },
   {  "model": "castor", "oem": "Sony", "name": "Xperia Tablet Z2 LTE" },
