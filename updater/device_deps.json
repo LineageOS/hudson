@@ -394,7 +394,17 @@
         "android_kernel_lge_sm8150"
     ],
     "beyond0lte": [
-        "android_device_samsung_beyond0lte"
+        "android_device_samsung_beyond0lte",
+        "android_device_samsung_exynos9820-common",
+        "android_device_samsung_slsi_sepolicy",
+        "android_hardware_samsung",
+        "android_hardware_samsung_slsi-linaro_config",
+        "android_hardware_samsung_slsi-linaro_exynos",
+        "android_hardware_samsung_slsi-linaro_exynos5",
+        "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_interfaces",
+        "android_hardware_samsung_slsi-linaro_openmax",
+        "android_kernel_samsung_exynos9820"
     ],
     "beyond1lte": [
         "android_device_samsung_beyond1lte",
@@ -1462,6 +1472,18 @@
         "android_hardware_samsung",
         "android_kernel_samsung_sm8250"
     ],
+    "gts7xl": [
+        "android_device_samsung_gts7xl",
+        "android_device_samsung_sm8250-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_sm8250"
+    ],
+    "gts7xlwifi": [
+        "android_device_samsung_gts7xlwifi",
+        "android_device_samsung_sm8250-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_sm8250"
+    ],
     "guacamole": [
         "android_device_oneplus_guacamole",
         "android_device_oneplus_sm8150-common",
@@ -1526,11 +1548,19 @@
     ],
     "h910": [
         "android_device_lge_h910",
-        "android_device_lge_v20-common"
+        "android_device_lge_msm8996-common",
+        "android_device_lge_v20-common",
+        "android_hardware_lge",
+        "android_hardware_sony_timekeep",
+        "android_kernel_lge_msm8996"
     ],
     "h918": [
         "android_device_lge_h918",
-        "android_device_lge_v20-common"
+        "android_device_lge_msm8996-common",
+        "android_device_lge_v20-common",
+        "android_hardware_lge",
+        "android_hardware_sony_timekeep",
+        "android_kernel_lge_msm8996"
     ],
     "h932": [
         "android_device_lge_h932",
@@ -1541,7 +1571,11 @@
     ],
     "h990": [
         "android_device_lge_h990",
-        "android_device_lge_v20-common"
+        "android_device_lge_msm8996-common",
+        "android_device_lge_v20-common",
+        "android_hardware_lge",
+        "android_hardware_sony_timekeep",
+        "android_kernel_lge_msm8996"
     ],
     "hannah": [
         "android_device_motorola_hannah",
@@ -2075,7 +2109,9 @@
     ],
     "liber": [
         "android_device_motorola_liber",
-        "android_device_motorola_sm6150-common"
+        "android_device_motorola_sm6150-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm6150"
     ],
     "lisa": [
         "android_device_xiaomi_lisa",
@@ -2167,7 +2203,11 @@
     ],
     "ls997": [
         "android_device_lge_ls997",
-        "android_device_lge_v20-common"
+        "android_device_lge_msm8996-common",
+        "android_device_lge_v20-common",
+        "android_hardware_lge",
+        "android_hardware_sony_timekeep",
+        "android_kernel_lge_msm8996"
     ],
     "luigi": [
         "android_device_realme_luigi",
@@ -2616,7 +2656,9 @@
     ],
     "odessa": [
         "android_device_motorola_odessa",
-        "android_device_motorola_sm6150-common"
+        "android_device_motorola_sm6150-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm6150"
     ],
     "odroidc4": [
         "android_device_amlogic_common",
@@ -2696,7 +2738,9 @@
     ],
     "parker": [
         "android_device_motorola_parker",
-        "android_device_motorola_sm6150-common"
+        "android_device_motorola_sm6150-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm6150"
     ],
     "payton": [
         "android_device_motorola_msm8998-common",
@@ -3637,12 +3681,20 @@
         "android_kernel_xiaomi_sdm845"
     ],
     "us996": [
+        "android_device_lge_msm8996-common",
         "android_device_lge_us996",
-        "android_device_lge_v20-common"
+        "android_device_lge_v20-common",
+        "android_hardware_lge",
+        "android_hardware_sony_timekeep",
+        "android_kernel_lge_msm8996"
     ],
     "us996d": [
+        "android_device_lge_msm8996-common",
         "android_device_lge_us996d",
-        "android_device_lge_v20-common"
+        "android_device_lge_v20-common",
+        "android_hardware_lge",
+        "android_hardware_sony_timekeep",
+        "android_kernel_lge_msm8996"
     ],
     "us997": [
         "android_device_lge_g6-common",
@@ -3756,8 +3808,12 @@
         "android_kernel_lge_g3"
     ],
     "vs995": [
+        "android_device_lge_msm8996-common",
         "android_device_lge_v20-common",
-        "android_device_lge_vs995"
+        "android_device_lge_vs995",
+        "android_hardware_lge",
+        "android_hardware_sony_timekeep",
+        "android_kernel_lge_msm8996"
     ],
     "wade": [
         "android_device_amlogic_common",
