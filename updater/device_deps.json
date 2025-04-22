@@ -347,6 +347,9 @@
         "android_device_bq_msm8953-common",
         "android_kernel_bq_msm8953"
     ],
+    "basic_x86_64_pc": [
+        "android_device_pc_basic_x86_64_pc"
+    ],
     "beast": [
         "android_device_amlogic_common",
         "android_device_amlogic_gx-common",
@@ -2460,6 +2463,12 @@
         "android_device_lge_sm8150-common",
         "android_hardware_lge",
         "android_kernel_lge_sm8150"
+    ],
+    "mi7150-mainline": [
+        "android_device_xiaomi_mi7150-mainline"
+    ],
+    "mi89xx-mainline": [
+        "android_device_xiaomi_mi89xx-mainline"
     ],
     "miami": [
         "android_device_motorola_miami",
