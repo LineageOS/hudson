@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7d04cf18_f796a6ef",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19252
+      },
+      "writtenOn": "2025-04-22T14:49:53Z",
+      "side": 1,
+      "message": "I just did a repo sync, build and flashed it and works fine\n\nMatching Wiki commit is here:\nhttps://review.lineageos.org/c/LineageOS/lineage_wiki/+/428109",
+      "revId": "e959caf1c3a0b6d29c369a6ac505d07b18cd4e73",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
