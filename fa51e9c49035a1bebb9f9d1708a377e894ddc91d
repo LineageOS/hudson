@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6433e056_9237882f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19252
+      },
+      "writtenOn": "2025-04-22T14:50:48Z",
+      "side": 1,
+      "message": "I did a repo sync, build and flashed to heart and zippo and they\u0027re fine\n\nHere\u0027s the wiki commit to go with it:\nhttps://review.lineageos.org/c/LineageOS/lineage_wiki/+/428110/1",
+      "revId": "fa51e9c49035a1bebb9f9d1708a377e894ddc91d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
