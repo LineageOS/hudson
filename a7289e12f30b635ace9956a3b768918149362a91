@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5174c6d6_c5a374ea",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-04-28T20:40:11Z",
+      "side": 1,
+      "message": "Merge Thursday if I don\u0027t CR-1/abandon pls.",
+      "revId": "a7289e12f30b635ace9956a3b768918149362a91",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
