@@ -16,6 +16,24 @@
       "message": "No oscar?",
       "revId": "3e508a02e36538beecbc2ae0583aba578d2ba5bc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "58bab1b0_1a50a1c1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26672
+      },
+      "writtenOn": "2025-05-02T03:48:38Z",
+      "side": 1,
+      "message": "No. I have to get rid of overlayfs structure in oscar (since it causes some weired sepolicy issues) and split it into 3 devices. so im skipping oscar in this cycle and will resume on next cycle.",
+      "parentUuid": "288ff95b_0d8b944f",
+      "revId": "3e508a02e36538beecbc2ae0583aba578d2ba5bc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
