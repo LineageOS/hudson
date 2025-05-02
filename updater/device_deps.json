@@ -348,7 +348,12 @@
         "android_kernel_bq_msm8953"
     ],
     "basic_x86_64_pc": [
-        "android_device_pc_basic_x86_64_pc"
+        "android_device_mainline_common",
+        "android_device_pc_basic_x86_64_pc",
+        "android_external_linux-firmware-mainline",
+        "android_external_mesa",
+        "android_hardware_mainline",
+        "android_kernel_virt_virtio"
     ],
     "beast": [
         "android_device_amlogic_common",
@@ -2465,10 +2470,28 @@
         "android_kernel_lge_sm8150"
     ],
     "mi7150-mainline": [
-        "android_device_xiaomi_mi7150-mainline"
+        "android_device_mainline_common",
+        "android_device_mainline_qcom-common",
+        "android_device_virt_virt-common",
+        "android_device_virt_virtio-common",
+        "android_device_virt_virtio_arm64",
+        "android_device_xiaomi_mi7150-mainline",
+        "android_external_linux-firmware-mainline",
+        "android_external_mesa",
+        "android_hardware_mainline",
+        "android_kernel_mainline_configs",
+        "android_kernel_virt_virtio",
+        "android_prebuilts_bootmgr"
     ],
     "mi89xx-mainline": [
-        "android_device_xiaomi_mi89xx-mainline"
+        "android_device_mainline_common",
+        "android_device_mainline_qcom-common",
+        "android_device_xiaomi_mi89xx-mainline",
+        "android_external_linux-firmware-mainline",
+        "android_external_lk2nd",
+        "android_external_mesa",
+        "android_hardware_mainline",
+        "android_kernel_mainline_configs"
     ],
     "miami": [
         "android_device_motorola_miami",
