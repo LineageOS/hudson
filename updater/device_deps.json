@@ -2495,9 +2495,9 @@
     ],
     "miami": [
         "android_device_motorola_miami",
-        "android_device_motorola_sm7325-common",
+        "android_device_motorola_sm6375-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm7325"
+        "android_kernel_motorola_sm6375"
     ],
     "miatoll": [
         "android_device_xiaomi_miatoll",
