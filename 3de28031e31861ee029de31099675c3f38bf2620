@@ -16,6 +16,23 @@
       "message": "vendor manifest needs entry",
       "revId": "3de28031e31861ee029de31099675c3f38bf2620",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "62c45bc9_71583a70",
+        "filename": "lineage-build-targets",
+        "patchSetId": 3
+      },
+      "lineNbr": 133,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-05-18T17:23:02Z",
+      "side": 1,
+      "message": "move down 3 lines",
+      "revId": "3de28031e31861ee029de31099675c3f38bf2620",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
