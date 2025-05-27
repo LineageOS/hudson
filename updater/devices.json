@@ -410,6 +410,7 @@
   {  "model": "renoir", "oem": "Xiaomi", "name": "Mi 11 Lite 5G" },
   {  "model": "rhannah", "oem": "Motorola", "name": "moto e5 plus (XT1924-1/2/4/5)" },
   {  "model": "rhode", "oem": "Motorola", "name": "moto g52" },
+  {  "model": "rhodep", "oem": "Motorola", "name": "moto g82" },
   {  "model": "river", "oem": "Motorola", "name": "moto g7" },
   {  "model": "RMX1801", "oem": "Realme", "name": "2 Pro" },
   {  "model": "RMX1851", "oem": "Realme", "name": "3 Pro" },
