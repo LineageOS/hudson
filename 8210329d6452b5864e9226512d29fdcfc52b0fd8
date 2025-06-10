@@ -16,6 +16,23 @@
       "message": "when these are ready add me and CR them",
       "revId": "8210329d6452b5864e9226512d29fdcfc52b0fd8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0d132f78_1108a618",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 27312
+      },
+      "writtenOn": "2025-06-10T21:55:04Z",
+      "side": 1,
+      "message": "Ready",
+      "revId": "8210329d6452b5864e9226512d29fdcfc52b0fd8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
