@@ -3525,6 +3525,7 @@
     ],
     "socrates": [
         "android_device_xiaomi_socrates",
+        "android_device_xiaomi_sm8550-common",
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_sm8550",
         "android_kernel_xiaomi_sm8550-devicetrees",
