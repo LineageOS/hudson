@@ -147,6 +147,7 @@
   {  "model": "foster", "oem": "Nvidia", "name": "Shield TV (2015 / 2015 Pro / 2017 / 2019 Pro) / Jetson TX1 [Android TV]" },
   {  "model": "foster_tab", "oem": "Nvidia", "name": "Shield TV (2015 / 2015 Pro / 2017 / 2019 Pro) / Jetson TX1 [Tablet]" },
   {  "model": "fugu", "oem": "Google", "name": "Nexus Player" },
+  {  "model": "fuxi", "oem": "Xiaomi", "name": "Xiaomi 13" }, 
   {  "model": "G", "oem": "10.or", "name": "G" },
   {  "model": "g2m", "oem": "LG", "name": "G2 Mini" },
   {  "model": "g710n", "oem": "LG", "name": "G7 ThinQ (G710N)" },
