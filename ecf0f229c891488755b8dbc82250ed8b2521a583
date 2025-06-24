@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8dfd4fdf_74b1b4bd",
+        "filename": "lineage-build-targets",
+        "patchSetId": 1
+      },
+      "lineNbr": 225,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-06-24T10:13:28Z",
+      "side": 1,
+      "message": "Alphabetize",
+      "revId": "ecf0f229c891488755b8dbc82250ed8b2521a583",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b266e1b9_c2dc670c",
+        "filename": "updater/device_deps.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 3528,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-06-24T10:13:28Z",
+      "side": 1,
+      "message": "This doesn\u0027t hurt, but it\u0027s updated automatically.",
+      "revId": "ecf0f229c891488755b8dbc82250ed8b2521a583",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
