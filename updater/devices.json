@@ -343,6 +343,7 @@
   {  "model": "NB1", "oem": "Nokia", "name": "8" },
   {  "model": "nicki", "oem": "Sony", "name": "Xperia M" },
   {  "model": "nio", "oem": "Motorola", "name": "edge s / moto g100" },
+  {  "model": "nuwa", "oem": "Xiaomi", "name": "13 Pro" },
   {  "model": "nx", "oem": "Nintendo", "name": "Switch v1 / v2 / Lite / OLED [Android TV]" },
   {  "model": "nx_tab", "oem": "Nintendo", "name": "Switch v1 / v2 / Lite / OLED [Tablet]" },
   {  "model": "nx512j", "oem": "Nubia", "name": "Nubia Z9 Max" },
