@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e17487bb_f5fae5f0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-07-13T01:53:32Z",
+      "side": 1,
+      "message": "pending a vendor manifest PR - DM\u0027d you.",
+      "revId": "92c9f683752d71a51f658fe1a8668d27a48bed10",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
