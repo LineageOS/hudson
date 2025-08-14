@@ -16,6 +16,24 @@
       "message": "move up one line",
       "revId": "7f1ff4ac3de667bd1a18ec9958c4487280e72246",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e296aa42_e8d19f8d",
+        "filename": "updater/devices.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 331,
+      "author": {
+        "id": 29242
+      },
+      "writtenOn": "2025-08-14T06:40:54Z",
+      "side": 1,
+      "message": "Fixed in ps3",
+      "parentUuid": "1bffbfa4_2cbb9443",
+      "revId": "7f1ff4ac3de667bd1a18ec9958c4487280e72246",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
