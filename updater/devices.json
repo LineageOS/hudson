@@ -328,6 +328,7 @@
   {  "model": "miatoll", "oem": "Xiaomi", "name": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite" },
   {  "model": "mido", "oem": "Xiaomi", "name": "Redmi Note 4" },
   {  "model": "mint", "oem": "Sony", "name": "Xperia T" },
+  {  "model": "milanf", "oem": "Motorola", "name": "moto g stylus 5G (2022)" },
   {  "model": "mondrian", "oem": "Xiaomi", "name": "POCO F5 Pro / Redmi K60" },
   {  "model": "mondrianwifi", "oem": "Samsung", "name": "Galaxy Tab Pro 8.4" },
   {  "model": "monet", "oem": "Xiaomi", "name": "Mi 10 Lite 5G" },
