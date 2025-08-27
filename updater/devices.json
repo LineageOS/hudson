@@ -63,6 +63,7 @@
   {  "model": "caprip", "oem": "Motorola", "name": "moto g30 / Lenovo K13 Pro" },
   {  "model": "castor", "oem": "Sony", "name": "Xperia Tablet Z2 LTE" },
   {  "model": "castor_windy", "oem": "Sony", "name": "Xperia Tablet Z2 Wi-Fi" },
+  {  "model": "casuarina", "oem": "Vsmart", "name": "Joy 3 / Joy 3+" },
   {  "model": "caymanslm", "oem": "LG", "name": "Velvet" },
   {  "model": "cebu", "oem": "Motorola", "name": "moto g9 power / Lenovo K12 Pro" },
   {  "model": "cedric", "oem": "Motorola", "name": "moto g5" },
