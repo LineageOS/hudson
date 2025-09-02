@@ -485,6 +485,7 @@
   {  "model": "troika", "oem": "Motorola", "name": "one action" },
   {  "model": "tsubasa", "oem": "Sony", "name": "Xperia V" },
   {  "model": "tulip", "oem": "ZTE", "name": "Axon 7 Mini" },
+  {  "model": "tucana", "oem": "Xiaomi", "name": "Mi Note 10 / CC9 Pro" },
   {  "model": "tundra", "oem": "Motorola", "name": "edge 30 fusion" },
   {  "model": "twolip", "oem": "Xiaomi", "name": "Redmi Note 6 Pro" },
   {  "model": "umi", "oem": "Xiaomi", "name": "Mi 10" },
