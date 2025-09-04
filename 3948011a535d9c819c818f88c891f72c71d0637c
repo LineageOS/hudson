@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "13f740ee_04b0cac1",
+        "filename": "updater/devices.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 487,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2025-09-04T22:37:41Z",
+      "side": 1,
+      "message": "missing Mi Note 10 Pro thats in the wiki change",
+      "revId": "3948011a535d9c819c818f88c891f72c71d0637c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
