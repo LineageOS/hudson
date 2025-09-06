@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "64c43dd2_77e9bc41",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2025-09-06T08:00:03Z",
+      "side": 1,
+      "message": "This has been there for long enough that it has been spilling over to other platforms.\napollon and umi are the only two devices of the sm8250 family that have those issues reported, if this has been fixed in the meantime then feel free to drop your device from the commit.",
+      "revId": "0d2f0bc08465a673ff173c7b3e0410e9b9d8e471",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
