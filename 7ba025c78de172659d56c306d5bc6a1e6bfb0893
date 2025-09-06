@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b47816dc_288c3c1f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2025-09-06T08:00:12Z",
+      "side": 1,
+      "message": "Fixed for umi.\nhttps://review.lineageos.org/c/LineageOS/android_device_xiaomi_umi/+/442626",
+      "revId": "7ba025c78de172659d56c306d5bc6a1e6bfb0893",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
