@@ -4064,6 +4064,9 @@
         "android_kernel_virt_virtio",
         "android_prebuilts_bootmgr"
     ],
+    "vboxware_arm64only": [
+        "android_device_virt_vboxware_arm64only"
+    ],
     "vela": [
         "android_device_xiaomi_sdm710-common",
         "android_device_xiaomi_vela",
