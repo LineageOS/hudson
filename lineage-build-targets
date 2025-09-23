@@ -1,6 +1,15 @@
 # LineageOS build target list
 # <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
 
+# Weekly 23.0
+berlin userdebug lineage-23.0 W
+berlna userdebug lineage-23.0 W
+dubai userdebug lineage-23.0 W
+ingot userdebug lineage-23.0 W
+pro1x userdebug lineage-23.0 W
+tundra userdebug lineage-23.0 W
+xpeng userdebug lineage-23.0 W
+
 # Weekly 22.2
 a21s userdebug lineage-22.2 W
 a52q userdebug lineage-22.2 W
@@ -22,8 +31,6 @@ bangkk userdebug lineage-22.2 W
 barbet userdebug lineage-22.2 W
 bathena userdebug lineage-22.2 W
 beckham userdebug lineage-22.2 W
-berlin userdebug lineage-22.2 W
-berlna userdebug lineage-22.2 W
 beryllium userdebug lineage-22.2 W
 beyond0lte userdebug lineage-22.2 W
 beyond1lte userdebug lineage-22.2 W
@@ -64,7 +71,6 @@ discovery userdebug lineage-22.2 W
 diting userdebug lineage-22.2 W
 dopinder userdebug lineage-22.2 W
 dre userdebug lineage-22.2 W
-dubai userdebug lineage-22.2 W
 dumpling userdebug lineage-22.2 W
 earth userdebug lineage-22.2 W
 enchilada userdebug lineage-22.2 W
@@ -109,7 +115,6 @@ heart userdebug lineage-22.2 W
 hotdog userdebug lineage-22.2 W
 hotdogb userdebug lineage-22.2 W
 husky userdebug lineage-22.2 W
-ingot userdebug lineage-22.2 W
 instantnoodle userdebug lineage-22.2 W
 instantnoodlep userdebug lineage-22.2 W
 joan userdebug lineage-22.2 W
@@ -185,7 +190,6 @@ Pong userdebug lineage-22.2 W
 porg userdebug lineage-22.2 W
 porg_tab userdebug lineage-22.2 W
 pro1 userdebug lineage-22.2 W
-pro1x userdebug lineage-22.2 W
 pstar userdebug lineage-22.2 W
 pyxis userdebug lineage-22.2 W
 quill userdebug lineage-22.2 W
@@ -226,7 +230,6 @@ TP1803 userdebug lineage-22.2 W
 tokay userdebug lineage-22.2 W
 troika userdebug lineage-22.2 W
 tucana userdebug lineage-22.2 W
-tundra userdebug lineage-22.2 W
 ursa userdebug lineage-22.2 W
 umi userdebug lineage-22.2 W
 unicorn userdebug lineage-22.2 W
@@ -237,7 +240,6 @@ voyager userdebug lineage-22.2 W
 wade userdebug lineage-22.2 W
 waffle userdebug lineage-22.2 W
 walleye userdebug lineage-22.2 W
-xpeng userdebug lineage-22.2 W
 xz2c userdebug lineage-22.2 W
 Z01R userdebug lineage-22.2 W
 zeus userdebug lineage-22.2 W
