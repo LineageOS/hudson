@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7db2cccd_7e05c8e8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2025-09-23T21:03:37Z",
+      "side": 1,
+      "message": "this list is honestly depressing but of all my devices it\u0027s all that\u0027s shippable.\n\npixel 6+ aren\u0027t due to prebuilt kernels until mike solves that.",
+      "revId": "9e7b4c131c59f1323d5e72afa0c220b98f95f78a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
