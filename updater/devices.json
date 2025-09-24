@@ -24,6 +24,7 @@
   {  "model": "angler", "oem": "Google", "name": "Nexus 6P" },
   {  "model": "anne", "oem": "Huawei", "name": "P20 Lite" },
   {  "model": "apollon", "oem": "Xiaomi", "name": "Mi 10T / Mi 10T Pro / Redmi K30S Ultra" },
+  {  "model": "aston", "oem": "OnePlus", "name": "12R" },
   {  "model": "armani", "oem": "Xiaomi", "name": "Redmi 1S" },
   {  "model": "athene", "oem": "Motorola", "name": "moto g4 / g4 plus" },
   {  "model": "aura", "oem": "Razer", "name": "Phone 2" },
