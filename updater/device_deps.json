@@ -646,6 +646,14 @@
         "android_kernel_motorola_sm8475-devicetrees",
         "android_kernel_motorola_sm8475-modules"
     ],
+    "caihong": [
+        "android_device_oneplus_caihong",
+        "android_device_oneplus_sm8650-common",
+        "android_hardware_oplus",
+        "android_kernel_oneplus_sm8650",
+        "android_kernel_oneplus_sm8650-devicetrees",
+        "android_kernel_oneplus_sm8650-modules"
+    ],
     "caiman": [
         "android_device_google_caiman",
         "android_device_google_caimito",
