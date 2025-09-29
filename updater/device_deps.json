@@ -327,6 +327,14 @@
         "android_hardware_sony_SonyOpenTelephony",
         "android_kernel_sony_sdm845"
     ],
+    "avalon": [
+        "android_device_oneplus_avalon",
+        "android_device_oneplus_sm8650-common",
+        "android_hardware_oplus",
+        "android_kernel_oneplus_sm8650",
+        "android_kernel_oneplus_sm8650-devicetrees",
+        "android_kernel_oneplus_sm8650-modules"
+    ],
     "avicii": [
         "android_device_oneplus_avicii",
         "android_hardware_oplus",
