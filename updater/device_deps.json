@@ -281,7 +281,6 @@
     "akita": [
         "android_device_google_akita",
         "android_device_google_gs-common",
-        "android_device_google_gs101",
         "android_device_google_zuma"
     ],
     "albus": [
@@ -365,6 +364,7 @@
         "android_device_nvidia_t210-common",
         "android_device_nvidia_tegra-common",
         "android_hardware_dolby_interfaces",
+        "android_hardware_nvidia_arm-trusted-firmware",
         "android_hardware_nvidia_hdmi-cec",
         "android_hardware_nvidia_interfaces",
         "android_hardware_nvidia_light",
@@ -423,6 +423,7 @@
         "android_device_nvidia_t210-common",
         "android_device_nvidia_tegra-common",
         "android_hardware_dolby_interfaces",
+        "android_hardware_nvidia_arm-trusted-firmware",
         "android_hardware_nvidia_hdmi-cec",
         "android_hardware_nvidia_interfaces",
         "android_hardware_nvidia_light",
@@ -493,7 +494,8 @@
         "android_external_linux-firmware-mainline",
         "android_external_mesa",
         "android_hardware_mainline",
-        "android_kernel_virt_virtio"
+        "android_kernel_virt_virtio",
+        "android_prebuilts_mesa-build-dep"
     ],
     "bathena": [
         "android_device_motorola_bathena",
@@ -666,7 +668,6 @@
         "android_device_google_caiman",
         "android_device_google_caimito",
         "android_device_google_gs-common",
-        "android_device_google_gs101",
         "android_device_google_zumapro"
     ],
     "capri": [
@@ -758,7 +759,6 @@
     "cheetah": [
         "android_device_google_cheetah",
         "android_device_google_gs-common",
-        "android_device_google_gs101",
         "android_device_google_gs201",
         "android_device_google_pantah"
     ],
@@ -794,30 +794,17 @@
     "comet": [
         "android_device_google_comet",
         "android_device_google_gs-common",
-        "android_device_google_gs101",
         "android_device_google_zumapro"
     ],
     "concord": [
-        "android_bootable_tianocore_cmocka",
-        "android_bootable_tianocore_edk2",
-        "android_bootable_tianocore_edk2-non-osi",
-        "android_bootable_tianocore_edk2-nvidia",
         "android_bootable_tianocore_edk2-nvidia-lineage",
-        "android_bootable_tianocore_edk2-nvidia-non-osi",
-        "android_bootable_tianocore_edk2-platforms",
-        "android_bootable_tianocore_googletest",
-        "android_bootable_tianocore_jansson",
-        "android_bootable_tianocore_libspdm",
-        "android_bootable_tianocore_mbedtls",
-        "android_bootable_tianocore_mipisyst",
-        "android_bootable_tianocore_openssl",
-        "android_bootable_tianocore_pylibfdt",
         "android_device_nvidia_concord",
         "android_device_nvidia_sepolicy",
         "android_device_nvidia_shield-common",
         "android_device_nvidia_t234-common",
         "android_device_nvidia_tegra-common",
         "android_hardware_dolby_interfaces",
+        "android_hardware_nvidia_arm-trusted-firmware",
         "android_hardware_nvidia_boot_control",
         "android_hardware_nvidia_hdmi-cec",
         "android_hardware_nvidia_interfaces",
@@ -863,20 +850,7 @@
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
     "concord_tab": [
-        "android_bootable_tianocore_cmocka",
-        "android_bootable_tianocore_edk2",
-        "android_bootable_tianocore_edk2-non-osi",
-        "android_bootable_tianocore_edk2-nvidia",
         "android_bootable_tianocore_edk2-nvidia-lineage",
-        "android_bootable_tianocore_edk2-nvidia-non-osi",
-        "android_bootable_tianocore_edk2-platforms",
-        "android_bootable_tianocore_googletest",
-        "android_bootable_tianocore_jansson",
-        "android_bootable_tianocore_libspdm",
-        "android_bootable_tianocore_mbedtls",
-        "android_bootable_tianocore_mipisyst",
-        "android_bootable_tianocore_openssl",
-        "android_bootable_tianocore_pylibfdt",
         "android_device_nvidia_concord",
         "android_device_nvidia_concord_tab",
         "android_device_nvidia_sepolicy",
@@ -884,6 +858,7 @@
         "android_device_nvidia_t234-common",
         "android_device_nvidia_tegra-common",
         "android_hardware_dolby_interfaces",
+        "android_hardware_nvidia_arm-trusted-firmware",
         "android_hardware_nvidia_boot_control",
         "android_hardware_nvidia_hdmi-cec",
         "android_hardware_nvidia_interfaces",
@@ -1250,7 +1225,6 @@
     "felix": [
         "android_device_google_felix",
         "android_device_google_gs-common",
-        "android_device_google_gs101",
         "android_device_google_gs201"
     ],
     "find7": [
@@ -1296,6 +1270,7 @@
         "android_device_nvidia_t210-common",
         "android_device_nvidia_tegra-common",
         "android_hardware_dolby_interfaces",
+        "android_hardware_nvidia_arm-trusted-firmware",
         "android_hardware_nvidia_hdmi-cec",
         "android_hardware_nvidia_interfaces",
         "android_hardware_nvidia_light",
@@ -1352,6 +1327,7 @@
         "android_device_nvidia_t210-common",
         "android_device_nvidia_tegra-common",
         "android_hardware_dolby_interfaces",
+        "android_hardware_nvidia_arm-trusted-firmware",
         "android_hardware_nvidia_hdmi-cec",
         "android_hardware_nvidia_interfaces",
         "android_hardware_nvidia_light",
@@ -1431,26 +1407,13 @@
         "android_bootable_cboot_lk",
         "android_bootable_cboot_t18x",
         "android_bootable_cboot_t19x",
-        "android_bootable_tianocore_cmocka",
-        "android_bootable_tianocore_edk2",
-        "android_bootable_tianocore_edk2-non-osi",
-        "android_bootable_tianocore_edk2-nvidia",
-        "android_bootable_tianocore_edk2-nvidia-lineage",
-        "android_bootable_tianocore_edk2-nvidia-non-osi",
-        "android_bootable_tianocore_edk2-platforms",
-        "android_bootable_tianocore_googletest",
-        "android_bootable_tianocore_jansson",
-        "android_bootable_tianocore_libspdm",
-        "android_bootable_tianocore_mbedtls",
-        "android_bootable_tianocore_mipisyst",
-        "android_bootable_tianocore_openssl",
-        "android_bootable_tianocore_pylibfdt",
         "android_device_nvidia_galen",
         "android_device_nvidia_sepolicy",
         "android_device_nvidia_shield-common",
         "android_device_nvidia_t194-common",
         "android_device_nvidia_tegra-common",
         "android_hardware_dolby_interfaces",
+        "android_hardware_nvidia_arm-trusted-firmware",
         "android_hardware_nvidia_boot_control",
         "android_hardware_nvidia_hdmi-cec",
         "android_hardware_nvidia_hwinc",
@@ -1500,20 +1463,6 @@
         "android_bootable_cboot_lk",
         "android_bootable_cboot_t18x",
         "android_bootable_cboot_t19x",
-        "android_bootable_tianocore_cmocka",
-        "android_bootable_tianocore_edk2",
-        "android_bootable_tianocore_edk2-non-osi",
-        "android_bootable_tianocore_edk2-nvidia",
-        "android_bootable_tianocore_edk2-nvidia-lineage",
-        "android_bootable_tianocore_edk2-nvidia-non-osi",
-        "android_bootable_tianocore_edk2-platforms",
-        "android_bootable_tianocore_googletest",
-        "android_bootable_tianocore_jansson",
-        "android_bootable_tianocore_libspdm",
-        "android_bootable_tianocore_mbedtls",
-        "android_bootable_tianocore_mipisyst",
-        "android_bootable_tianocore_openssl",
-        "android_bootable_tianocore_pylibfdt",
         "android_device_nvidia_galen",
         "android_device_nvidia_galen_tab",
         "android_device_nvidia_sepolicy",
@@ -1521,6 +1470,7 @@
         "android_device_nvidia_t194-common",
         "android_device_nvidia_tegra-common",
         "android_hardware_dolby_interfaces",
+        "android_hardware_nvidia_arm-trusted-firmware",
         "android_hardware_nvidia_boot_control",
         "android_hardware_nvidia_hdmi-cec",
         "android_hardware_nvidia_hwinc",
@@ -1929,7 +1879,6 @@
     ],
     "husky": [
         "android_device_google_gs-common",
-        "android_device_google_gs101",
         "android_device_google_husky",
         "android_device_google_shusky",
         "android_device_google_zuma"
@@ -1946,6 +1895,7 @@
         "android_device_nvidia_t210-common",
         "android_device_nvidia_tegra-common",
         "android_hardware_dolby_interfaces",
+        "android_hardware_nvidia_arm-trusted-firmware",
         "android_hardware_nvidia_hdmi-cec",
         "android_hardware_nvidia_interfaces",
         "android_hardware_nvidia_light",
@@ -2053,6 +2003,7 @@
         "android_device_nvidia_tegra-common",
         "android_device_nvidia_touch",
         "android_hardware_dolby_interfaces",
+        "android_hardware_nvidia_arm-trusted-firmware",
         "android_hardware_nvidia_interfaces",
         "android_hardware_nvidia_light",
         "android_hardware_nvidia_memtrack",
@@ -2246,7 +2197,6 @@
     "komodo": [
         "android_device_google_caimito",
         "android_device_google_gs-common",
-        "android_device_google_gs101",
         "android_device_google_komodo",
         "android_device_google_zumapro"
     ],
@@ -2376,6 +2326,7 @@
         "android_device_nvidia_tegra-common",
         "android_device_nvidia_touch",
         "android_hardware_dolby_interfaces",
+        "android_hardware_nvidia_arm-trusted-firmware",
         "android_hardware_nvidia_hdmi-cec",
         "android_hardware_nvidia_interfaces",
         "android_hardware_nvidia_light",
@@ -2463,7 +2414,6 @@
     ],
     "lynx": [
         "android_device_google_gs-common",
-        "android_device_google_gs101",
         "android_device_google_gs201",
         "android_device_google_lynx"
     ],
@@ -2627,6 +2577,7 @@
         "android_device_nvidia_t210-common",
         "android_device_nvidia_tegra-common",
         "android_hardware_dolby_interfaces",
+        "android_hardware_nvidia_arm-trusted-firmware",
         "android_hardware_nvidia_hdmi-cec",
         "android_hardware_nvidia_interfaces",
         "android_hardware_nvidia_light",
@@ -2728,7 +2679,8 @@
         "android_hardware_sony_timekeep",
         "android_kernel_mainline_configs",
         "android_kernel_virt_virtio",
-        "android_prebuilts_bootmgr"
+        "android_prebuilts_bootmgr",
+        "android_prebuilts_mesa-build-dep"
     ],
     "mi89xx-mainline": [
         "android_device_mainline_common",
@@ -2738,9 +2690,11 @@
         "android_external_lk2nd",
         "android_external_mesa",
         "android_external_tinyhal",
+        "android_hardware_intel_sensors-iio",
         "android_hardware_mainline",
         "android_hardware_sony_timekeep",
-        "android_kernel_mainline_configs"
+        "android_kernel_mainline_configs",
+        "android_prebuilts_mesa-build-dep"
     ],
     "miami": [
         "android_device_motorola_miami",
@@ -2863,6 +2817,7 @@
         "android_hardware_intel_sensors-iio",
         "android_hardware_nintendo_arm-trusted-firmware",
         "android_hardware_nintendo_joycond",
+        "android_hardware_nvidia_arm-trusted-firmware",
         "android_hardware_nvidia_interfaces",
         "android_hardware_nvidia_light",
         "android_hardware_nvidia_platform_t210_common",
@@ -2945,6 +2900,7 @@
         "android_hardware_intel_sensors-iio",
         "android_hardware_nintendo_arm-trusted-firmware",
         "android_hardware_nintendo_joycond",
+        "android_hardware_nvidia_arm-trusted-firmware",
         "android_hardware_nvidia_interfaces",
         "android_hardware_nvidia_light",
         "android_hardware_nvidia_platform_t210_common",
@@ -3048,7 +3004,6 @@
     ],
     "panther": [
         "android_device_google_gs-common",
-        "android_device_google_gs101",
         "android_device_google_gs201",
         "android_device_google_pantah",
         "android_device_google_panther"
@@ -3171,6 +3126,7 @@
         "android_device_nvidia_t210-common",
         "android_device_nvidia_tegra-common",
         "android_hardware_dolby_interfaces",
+        "android_hardware_nvidia_arm-trusted-firmware",
         "android_hardware_nvidia_hdmi-cec",
         "android_hardware_nvidia_interfaces",
         "android_hardware_nvidia_light",
@@ -3231,6 +3187,7 @@
         "android_device_nvidia_t210-common",
         "android_device_nvidia_tegra-common",
         "android_hardware_dolby_interfaces",
+        "android_hardware_nvidia_arm-trusted-firmware",
         "android_hardware_nvidia_hdmi-cec",
         "android_hardware_nvidia_interfaces",
         "android_hardware_nvidia_light",
@@ -3312,6 +3269,7 @@
         "android_device_nvidia_t186-common",
         "android_device_nvidia_tegra-common",
         "android_hardware_dolby_interfaces",
+        "android_hardware_nvidia_arm-trusted-firmware",
         "android_hardware_nvidia_boot_control",
         "android_hardware_nvidia_hdmi-cec",
         "android_hardware_nvidia_hwinc",
@@ -3368,6 +3326,7 @@
         "android_device_nvidia_t186-common",
         "android_device_nvidia_tegra-common",
         "android_hardware_dolby_interfaces",
+        "android_hardware_nvidia_arm-trusted-firmware",
         "android_hardware_nvidia_boot_control",
         "android_hardware_nvidia_hdmi-cec",
         "android_hardware_nvidia_hwinc",
@@ -3730,7 +3689,6 @@
     ],
     "shiba": [
         "android_device_google_gs-common",
-        "android_device_google_gs101",
         "android_device_google_shiba",
         "android_device_google_shusky",
         "android_device_google_zuma"
@@ -3744,6 +3702,7 @@
         "android_device_nvidia_tegra-common",
         "android_device_nvidia_touch",
         "android_hardware_dolby_interfaces",
+        "android_hardware_nvidia_arm-trusted-firmware",
         "android_hardware_nvidia_interfaces",
         "android_hardware_nvidia_light",
         "android_hardware_nvidia_memtrack",
@@ -3759,6 +3718,7 @@
         "android_device_nvidia_t210-common",
         "android_device_nvidia_tegra-common",
         "android_hardware_dolby_interfaces",
+        "android_hardware_nvidia_arm-trusted-firmware",
         "android_hardware_nvidia_hdmi-cec",
         "android_hardware_nvidia_interfaces",
         "android_hardware_nvidia_light",
@@ -3840,6 +3800,7 @@
         "android_device_nvidia_tegra-common",
         "android_external_tinyhal",
         "android_hardware_dolby_interfaces",
+        "android_hardware_nvidia_arm-trusted-firmware",
         "android_hardware_nvidia_interfaces",
         "android_hardware_nvidia_light",
         "android_hardware_nvidia_memtrack",
@@ -3943,9 +3904,13 @@
     ],
     "tangorpro": [
         "android_device_google_gs-common",
-        "android_device_google_gs101",
         "android_device_google_gs201",
         "android_device_google_tangorpro"
+    ],
+    "tegu": [
+        "android_device_google_gs-common",
+        "android_device_google_tegu",
+        "android_device_google_zumapro"
     ],
     "thor": [
         "android_device_xiaomi_sm8450-common",
@@ -3970,7 +3935,6 @@
     "tokay": [
         "android_device_google_caimito",
         "android_device_google_gs-common",
-        "android_device_google_gs101",
         "android_device_google_tokay",
         "android_device_google_zumapro"
     ],
@@ -4074,11 +4038,15 @@
         "android_kernel_xiaomi_sm8150"
     ],
     "vboxware": [
+        "android_device_mainline_common",
         "android_device_virt_vboxware",
         "android_device_virt_virt-common",
+        "android_external_linux-firmware-mainline",
         "android_external_mesa",
+        "android_hardware_mainline",
         "android_kernel_virt_virtio",
-        "android_prebuilts_bootmgr"
+        "android_prebuilts_bootmgr",
+        "android_prebuilts_mesa-build-dep"
     ],
     "vboxware_arm64only": [
         "android_device_virt_vboxware_arm64only"
@@ -4115,47 +4083,67 @@
         "android_kernel_xiaomi_sm6150"
     ],
     "virtio_arm64": [
+        "android_device_mainline_common",
         "android_device_virt_virt-common",
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_arm64",
+        "android_external_linux-firmware-mainline",
         "android_external_mesa",
+        "android_hardware_mainline",
         "android_kernel_virt_virtio",
-        "android_prebuilts_bootmgr"
+        "android_prebuilts_bootmgr",
+        "android_prebuilts_mesa-build-dep"
     ],
     "virtio_arm64only": [
+        "android_device_mainline_common",
         "android_device_virt_virt-common",
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_arm64",
         "android_device_virt_virtio_arm64only",
+        "android_external_linux-firmware-mainline",
         "android_external_mesa",
+        "android_hardware_mainline",
         "android_kernel_virt_virtio",
-        "android_prebuilts_bootmgr"
+        "android_prebuilts_bootmgr",
+        "android_prebuilts_mesa-build-dep"
     ],
     "virtio_x86_64": [
+        "android_device_mainline_common",
         "android_device_virt_virt-common",
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_x86_64",
+        "android_external_linux-firmware-mainline",
         "android_external_mesa",
+        "android_hardware_mainline",
         "android_kernel_virt_virtio",
-        "android_prebuilts_bootmgr"
+        "android_prebuilts_bootmgr",
+        "android_prebuilts_mesa-build-dep"
     ],
     "virtio_x86_64_car": [
+        "android_device_mainline_common",
         "android_device_virt_virt-common",
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_x86_64",
         "android_device_virt_virtio_x86_64_car",
+        "android_external_linux-firmware-mainline",
         "android_external_mesa",
+        "android_hardware_mainline",
         "android_kernel_virt_virtio",
-        "android_prebuilts_bootmgr"
+        "android_prebuilts_bootmgr",
+        "android_prebuilts_mesa-build-dep"
     ],
     "virtio_x86_64_tv": [
+        "android_device_mainline_common",
         "android_device_virt_virt-common",
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_x86_64",
         "android_device_virt_virtio_x86_64_tv",
+        "android_external_linux-firmware-mainline",
         "android_external_mesa",
+        "android_hardware_mainline",
         "android_kernel_virt_virtio",
-        "android_prebuilts_bootmgr"
+        "android_prebuilts_bootmgr",
+        "android_prebuilts_mesa-build-dep"
     ],
     "voyager": [
         "android_device_sony_nile-common",
