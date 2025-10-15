@@ -4229,6 +4229,19 @@
         "android_hardware_sony_timekeep",
         "android_kernel_wingtech_msm8916"
     ],
+    "x1s": [
+        "android_device_samsung_universal9830-common",
+        "android_device_samsung_x1s",
+        "android_hardware_samsung",
+        "android_hardware_samsung_nfc",
+        "android_hardware_samsung_slsi-linaro_config",
+        "android_hardware_samsung_slsi-linaro_exynos",
+        "android_hardware_samsung_slsi-linaro_exynos5",
+        "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_interfaces",
+        "android_hardware_samsung_slsi-linaro_openmax",
+        "android_kernel_samsung_universal9830"
+    ],
     "x2": [
         "android_device_leeco_msm8996-common",
         "android_device_leeco_x2",
@@ -4251,6 +4264,19 @@
         "android_device_sony_xz2c",
         "android_hardware_sony_SonyOpenTelephony",
         "android_kernel_sony_sdm845"
+    ],
+    "y2s": [
+        "android_device_samsung_universal9830-common",
+        "android_device_samsung_y2s",
+        "android_hardware_samsung",
+        "android_hardware_samsung_nfc",
+        "android_hardware_samsung_slsi-linaro_config",
+        "android_hardware_samsung_slsi-linaro_exynos",
+        "android_hardware_samsung_slsi-linaro_exynos5",
+        "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_interfaces",
+        "android_hardware_samsung_slsi-linaro_openmax",
+        "android_kernel_samsung_universal9830"
     ],
     "z2_plus": [
         "android_device_zuk_msm8996-common",
@@ -4297,6 +4323,19 @@
         "android_hardware_sony_thermanager",
         "android_hardware_sony_timekeep",
         "android_kernel_sony_msm8974"
+    ],
+    "z3s": [
+        "android_device_samsung_universal9830-common",
+        "android_device_samsung_z3s",
+        "android_hardware_samsung",
+        "android_hardware_samsung_nfc",
+        "android_hardware_samsung_slsi-linaro_config",
+        "android_hardware_samsung_slsi-linaro_exynos",
+        "android_hardware_samsung_slsi-linaro_exynos5",
+        "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_interfaces",
+        "android_hardware_samsung_slsi-linaro_openmax",
+        "android_kernel_samsung_universal9830"
     ],
     "zangya": [
         "android_device_bq_sdm660-common",
