@@ -4063,6 +4063,14 @@
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_sm8350"
     ],
+    "vermeer": [
+        "android_device_xiaomi_sm8550-common",
+        "android_device_xiaomi_vermeer",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_sm8550",
+        "android_kernel_xiaomi_sm8550-devicetrees",
+        "android_kernel_xiaomi_sm8550-modules"
+    ],
     "victara": [
         "android_device_motorola_victara",
         "android_external_bson",
