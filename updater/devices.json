@@ -29,6 +29,7 @@
   {  "model": "athene", "oem": "Motorola", "name": "moto g4 / g4 plus" },
   {  "model": "aura", "oem": "Razer", "name": "Phone 2" },
   {  "model": "aurora", "oem": "Sony", "name": "Xperia XZ2 Premium" },
+  {  "model": "avalon", "oem": "OnePlus", "name": "Nord 4" },
   {  "model": "avicii", "oem": "OnePlus", "name": "Nord" },
   {  "model": "axolotl", "oem": "SHIFT", "name": "SHIFT6mq" },
   {  "model": "axon7", "oem": "ZTE", "name": "Axon 7" },
