@@ -4238,6 +4238,7 @@
         "android_kernel_wingtech_msm8916"
     ],
     "x1s": [
+        "android_device_samsung_slsi_sepolicy",
         "android_device_samsung_universal9830-common",
         "android_device_samsung_x1s",
         "android_hardware_samsung",
@@ -4274,6 +4275,7 @@
         "android_kernel_sony_sdm845"
     ],
     "y2s": [
+        "android_device_samsung_slsi_sepolicy",
         "android_device_samsung_universal9830-common",
         "android_device_samsung_y2s",
         "android_hardware_samsung",
@@ -4333,6 +4335,7 @@
         "android_kernel_sony_msm8974"
     ],
     "z3s": [
+        "android_device_samsung_slsi_sepolicy",
         "android_device_samsung_universal9830-common",
         "android_device_samsung_z3s",
         "android_hardware_samsung",
