@@ -280,8 +280,12 @@
     ],
     "akita": [
         "android_device_google_akita",
+        "android_device_google_akita-kernels",
         "android_device_google_gs-common",
         "android_device_google_zuma"
+    ],
+    "akita-kernels": [
+        "android_device_google_akita-kernels"
     ],
     "albus": [
         "android_device_motorola_albus",
@@ -620,8 +624,12 @@
     ],
     "bluejay": [
         "android_device_google_bluejay",
+        "android_device_google_bluejay-kernels",
         "android_device_google_gs-common",
         "android_device_google_gs101"
+    ],
+    "bluejay-kernels": [
+        "android_device_google_bluejay-kernels"
     ],
     "blueline": [
         "android_device_google_blueline",
@@ -667,6 +675,7 @@
     "caiman": [
         "android_device_google_caiman",
         "android_device_google_caimito",
+        "android_device_google_caimito-kernels",
         "android_device_google_gs-common",
         "android_device_google_zumapro"
     ],
@@ -760,7 +769,8 @@
         "android_device_google_cheetah",
         "android_device_google_gs-common",
         "android_device_google_gs201",
-        "android_device_google_pantah"
+        "android_device_google_pantah",
+        "android_device_google_pantah-kernels"
     ],
     "chef": [
         "android_device_motorola_chef",
@@ -793,8 +803,12 @@
     ],
     "comet": [
         "android_device_google_comet",
+        "android_device_google_comet-kernels",
         "android_device_google_gs-common",
         "android_device_google_zumapro"
+    ],
+    "comet-kernels": [
+        "android_device_google_comet-kernels"
     ],
     "concord": [
         "android_bootable_tianocore_edk2-nvidia-lineage",
@@ -1224,8 +1238,12 @@
     ],
     "felix": [
         "android_device_google_felix",
+        "android_device_google_felix-kernels",
         "android_device_google_gs-common",
         "android_device_google_gs201"
+    ],
+    "felix-kernels": [
+        "android_device_google_felix-kernels"
     ],
     "find7": [
         "android_device_oppo_common",
@@ -1881,6 +1899,7 @@
         "android_device_google_gs-common",
         "android_device_google_husky",
         "android_device_google_shusky",
+        "android_device_google_shusky-kernels",
         "android_device_google_zuma"
     ],
     "icera": [
@@ -2196,6 +2215,7 @@
     ],
     "komodo": [
         "android_device_google_caimito",
+        "android_device_google_caimito-kernels",
         "android_device_google_gs-common",
         "android_device_google_komodo",
         "android_device_google_zumapro"
@@ -2415,7 +2435,11 @@
     "lynx": [
         "android_device_google_gs-common",
         "android_device_google_gs201",
-        "android_device_google_lynx"
+        "android_device_google_lynx",
+        "android_device_google_lynx-kernels"
+    ],
+    "lynx-kernels": [
+        "android_device_google_lynx-kernels"
     ],
     "m20lte": [
         "android_device_samsung_m20lte",
@@ -2974,7 +2998,8 @@
         "android_device_google_gs-common",
         "android_device_google_gs101",
         "android_device_google_oriole",
-        "android_device_google_raviole"
+        "android_device_google_raviole",
+        "android_device_google_raviole-kernels"
     ],
     "oscar": [
         "android_device_realme_oscar",
@@ -3006,6 +3031,7 @@
         "android_device_google_gs-common",
         "android_device_google_gs201",
         "android_device_google_pantah",
+        "android_device_google_pantah-kernels",
         "android_device_google_panther"
     ],
     "parker": [
@@ -3496,7 +3522,8 @@
         "android_device_google_gs-common",
         "android_device_google_gs101",
         "android_device_google_raven",
-        "android_device_google_raviole"
+        "android_device_google_raviole",
+        "android_device_google_raviole-kernels"
     ],
     "redfin": [
         "android_device_google_gs-common",
@@ -3691,6 +3718,7 @@
         "android_device_google_gs-common",
         "android_device_google_shiba",
         "android_device_google_shusky",
+        "android_device_google_shusky-kernels",
         "android_device_google_zuma"
     ],
     "shieldtablet": [
@@ -3905,12 +3933,20 @@
     "tangorpro": [
         "android_device_google_gs-common",
         "android_device_google_gs201",
-        "android_device_google_tangorpro"
+        "android_device_google_tangorpro",
+        "android_device_google_tangorpro-kernels"
+    ],
+    "tangorpro-kernels": [
+        "android_device_google_tangorpro-kernels"
     ],
     "tegu": [
         "android_device_google_gs-common",
         "android_device_google_tegu",
+        "android_device_google_tegu-kernels",
         "android_device_google_zumapro"
+    ],
+    "tegu-kernels": [
+        "android_device_google_tegu-kernels"
     ],
     "thor": [
         "android_device_xiaomi_sm8450-common",
@@ -3934,6 +3970,7 @@
     ],
     "tokay": [
         "android_device_google_caimito",
+        "android_device_google_caimito-kernels",
         "android_device_google_gs-common",
         "android_device_google_tokay",
         "android_device_google_zumapro"
