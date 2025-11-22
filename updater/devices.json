@@ -483,6 +483,7 @@
   {  "model": "thea", "oem": "Motorola", "name": "moto g 4G (2014)" },
   {  "model": "thor", "oem": "Xiaomi", "name": "12S Ultra" },
   {  "model": "thyme", "oem": "Xiaomi", "name": "Mi 10S" },
+  {  "model": "timelm", "oem": "LG", "name": "V60 ThinQ" },
   {  "model": "tissot", "oem": "Xiaomi", "name": "Mi A1" },
   {  "model": "titan", "oem": "Motorola", "name": "moto g (2014)" },
   {  "model": "tokay", "oem": "Google", "name": "Pixel 9" },
