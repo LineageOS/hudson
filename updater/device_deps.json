@@ -3967,6 +3967,11 @@
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_sm8250"
     ],
+    "timelm": [
+        "android_device_lge_timelm",
+        "android_hardware_lge",
+        "android_kernel_lge_sm8250"
+    ],
     "tissot": [
         "android_device_xiaomi_msm8953-common",
         "android_device_xiaomi_tissot",
