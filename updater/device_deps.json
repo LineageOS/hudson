@@ -129,6 +129,7 @@
         "android_hardware_samsung_slsi-linaro_interfaces",
         "android_hardware_samsung_slsi-linaro_openmax",
         "android_hardware_samsung_slsi_libbt",
+        "android_hardware_samsung_slsi_nfc",
         "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
         "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
         "android_kernel_samsung_exynos850"
@@ -358,6 +359,7 @@
         "android_device_motorola_bangkk",
         "android_device_motorola_sm6375-common",
         "android_hardware_motorola",
+        "android_hardware_samsung_slsi_nfc",
         "android_kernel_motorola_sm6375"
     ],
     "baracus": [
@@ -1281,6 +1283,7 @@
         "android_device_motorola_fogos",
         "android_device_motorola_sm6375-common",
         "android_hardware_motorola",
+        "android_hardware_samsung_slsi_nfc",
         "android_kernel_motorola_sm6375"
     ],
     "foster": [
@@ -1803,6 +1806,7 @@
         "android_device_motorola_hawao",
         "android_device_motorola_sm6225-common",
         "android_hardware_motorola",
+        "android_hardware_samsung_slsi_nfc",
         "android_kernel_motorola_sm6225"
     ],
     "hayabusa": [
@@ -3555,12 +3559,14 @@
         "android_device_motorola_rhode",
         "android_device_motorola_sm6225-common",
         "android_hardware_motorola",
+        "android_hardware_samsung_slsi_nfc",
         "android_kernel_motorola_sm6225"
     ],
     "rhodep": [
         "android_device_motorola_rhodep",
         "android_device_motorola_sm6375-common",
         "android_hardware_motorola",
+        "android_hardware_samsung_slsi_nfc",
         "android_kernel_motorola_sm6375"
     ],
     "river": [
@@ -4314,13 +4320,13 @@
         "android_device_samsung_universal9830-common",
         "android_device_samsung_x1s",
         "android_hardware_samsung",
-        "android_hardware_samsung_nfc",
         "android_hardware_samsung_slsi-linaro_config",
         "android_hardware_samsung_slsi-linaro_exynos",
         "android_hardware_samsung_slsi-linaro_exynos5",
         "android_hardware_samsung_slsi-linaro_graphics",
         "android_hardware_samsung_slsi-linaro_interfaces",
         "android_hardware_samsung_slsi-linaro_openmax",
+        "android_hardware_samsung_slsi_nfc",
         "android_kernel_samsung_universal9830"
     ],
     "x2": [
@@ -4351,13 +4357,13 @@
         "android_device_samsung_universal9830-common",
         "android_device_samsung_y2s",
         "android_hardware_samsung",
-        "android_hardware_samsung_nfc",
         "android_hardware_samsung_slsi-linaro_config",
         "android_hardware_samsung_slsi-linaro_exynos",
         "android_hardware_samsung_slsi-linaro_exynos5",
         "android_hardware_samsung_slsi-linaro_graphics",
         "android_hardware_samsung_slsi-linaro_interfaces",
         "android_hardware_samsung_slsi-linaro_openmax",
+        "android_hardware_samsung_slsi_nfc",
         "android_kernel_samsung_universal9830"
     ],
     "z2_plus": [
@@ -4411,13 +4417,13 @@
         "android_device_samsung_universal9830-common",
         "android_device_samsung_z3s",
         "android_hardware_samsung",
-        "android_hardware_samsung_nfc",
         "android_hardware_samsung_slsi-linaro_config",
         "android_hardware_samsung_slsi-linaro_exynos",
         "android_hardware_samsung_slsi-linaro_exynos5",
         "android_hardware_samsung_slsi-linaro_graphics",
         "android_hardware_samsung_slsi-linaro_interfaces",
         "android_hardware_samsung_slsi-linaro_openmax",
+        "android_hardware_samsung_slsi_nfc",
         "android_kernel_samsung_universal9830"
     ],
     "zangya": [
