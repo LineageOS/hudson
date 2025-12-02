@@ -412,7 +412,7 @@
   {  "model": "pro1", "oem": "F(x)tec", "name": "Pro1" },
   {  "model": "pro1x", "oem": "F(x)tec", "name": "Pro1 X" },
   {  "model": "pstar", "oem": "Motorola", "name": "edge 20 pro" },
-  {  "model": "pyxis", "oem": "Xiaomi", "name": "Mi CC 9 / Mi 9 Lite" },
+  {  "model": "pyxis", "oem": "Xiaomi", "name": "Mi CC9 / Mi 9 Lite" },
   {  "model": "quill", "oem": "Nvidia", "name": "Jetson (TX2 / TX2 NX) [Android TV]" },
   {  "model": "quill_tab", "oem": "Nvidia", "name": "Jetson (TX2 / TX2 NX) [Tablet]" },
   {  "model": "r5", "oem": "OPPO", "name": "R5/R5s (R8106/R8106s Intl)" },
