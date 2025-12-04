@@ -339,6 +339,14 @@
         "android_kernel_oneplus_sm8650-devicetrees",
         "android_kernel_oneplus_sm8650-modules"
     ],
+    "avatrn": [
+        "android_device_motorola_avatrn",
+        "android_device_motorola_sm7435-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm7435",
+        "android_kernel_motorola_sm7435-devicetrees",
+        "android_kernel_motorola_sm7435-modules"
+    ],
     "avicii": [
         "android_device_oneplus_avicii",
         "android_hardware_oplus",
@@ -3816,6 +3824,9 @@
         "android_hardware_sony_thermanager",
         "android_hardware_sony_timekeep",
         "android_kernel_sony_msm8974"
+    ],
+    "sm7435-devicetrees": [
+        "android_kernel_motorola_sm7435-devicetrees"
     ],
     "smith": [
         "android_device_motorola_sm7250-common",
