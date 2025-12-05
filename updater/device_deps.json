@@ -285,9 +285,6 @@
         "android_device_google_gs-common",
         "android_device_google_zuma"
     ],
-    "akita-kernels": [
-        "android_device_google_akita-kernels"
-    ],
     "albus": [
         "android_device_motorola_albus",
         "android_external_bson",
@@ -640,9 +637,6 @@
         "android_device_google_gs-common",
         "android_device_google_gs101"
     ],
-    "bluejay-kernels": [
-        "android_device_google_bluejay-kernels"
-    ],
     "blueline": [
         "android_device_google_blueline",
         "android_device_google_crosshatch",
@@ -818,9 +812,6 @@
         "android_device_google_comet-kernels",
         "android_device_google_gs-common",
         "android_device_google_zumapro"
-    ],
-    "comet-kernels": [
-        "android_device_google_comet-kernels"
     ],
     "concord": [
         "android_bootable_tianocore_edk2-nvidia-lineage",
@@ -1253,9 +1244,6 @@
         "android_device_google_felix-kernels",
         "android_device_google_gs-common",
         "android_device_google_gs201"
-    ],
-    "felix-kernels": [
-        "android_device_google_felix-kernels"
     ],
     "find7": [
         "android_device_oppo_common",
@@ -2450,9 +2438,6 @@
         "android_device_google_gs-common",
         "android_device_google_gs201",
         "android_device_google_lynx",
-        "android_device_google_lynx-kernels"
-    ],
-    "lynx-kernels": [
         "android_device_google_lynx-kernels"
     ],
     "m20lte": [
@@ -3825,9 +3810,6 @@
         "android_hardware_sony_timekeep",
         "android_kernel_sony_msm8974"
     ],
-    "sm7435-devicetrees": [
-        "android_kernel_motorola_sm7435-devicetrees"
-    ],
     "smith": [
         "android_device_motorola_sm7250-common",
         "android_device_motorola_smith",
@@ -3958,17 +3940,11 @@
         "android_device_google_tangorpro",
         "android_device_google_tangorpro-kernels"
     ],
-    "tangorpro-kernels": [
-        "android_device_google_tangorpro-kernels"
-    ],
     "tegu": [
         "android_device_google_gs-common",
         "android_device_google_tegu",
         "android_device_google_tegu-kernels",
         "android_device_google_zumapro"
-    ],
-    "tegu-kernels": [
-        "android_device_google_tegu-kernels"
     ],
     "thor": [
         "android_device_xiaomi_sm8450-common",
