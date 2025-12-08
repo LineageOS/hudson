@@ -2820,6 +2820,10 @@
         "android_hardware_amlogic_tools_respacker",
         "android_kernel_amlogic_linux-4.9"
     ],
+    "nicole": [
+        "android_device_razer_nicole",
+        "android_kernel_shift_qcm6490"
+    ],
     "nio": [
         "android_device_motorola_nio",
         "android_device_motorola_sm8250-common",
