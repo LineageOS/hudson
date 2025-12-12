@@ -421,7 +421,7 @@
   {  "model": "r5", "oem": "OPPO", "name": "R5/R5s (R8106/R8106s Intl)" },
   {  "model": "r7plus", "oem": "OPPO", "name": "R7 Plus (R7plusf Intl)" },
   {  "model": "r7sf", "oem": "OPPO", "name": "R7s (R7sf Intl)" },
-  {  "model": "r8q", "oem": "Samsung", "name": "Galaxy S20 FE" },
+  {  "model": "r8q", "oem": "Samsung", "name": "Galaxy S20 FE (Snapdragon)" },
   {  "model": "r8s", "oem": "Samsung", "name": "Galaxy S20 FE (Exynos)" },
   {  "model": "racer", "oem": "Motorola", "name": "edge" },
   {  "model": "radxa0", "oem": "Radxa", "name": "Zero (Android TV)" },
