@@ -3412,6 +3412,20 @@
         "android_hardware_samsung",
         "android_kernel_samsung_sm8250"
     ],
+    "r8s": [
+        "android_device_samsung_r8s",
+        "android_device_samsung_slsi_sepolicy",
+        "android_device_samsung_universal9830-common",
+        "android_hardware_samsung",
+        "android_hardware_samsung_slsi-linaro_config",
+        "android_hardware_samsung_slsi-linaro_exynos",
+        "android_hardware_samsung_slsi-linaro_exynos5",
+        "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_interfaces",
+        "android_hardware_samsung_slsi-linaro_openmax",
+        "android_hardware_samsung_slsi_nfc",
+        "android_kernel_samsung_universal9830"
+    ],
     "racer": [
         "android_device_motorola_racer",
         "android_device_motorola_sm7250-common",
