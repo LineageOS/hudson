@@ -927,6 +927,14 @@
         "android_kernel_google_msm-4.14",
         "android_packages_apps_ElmyraService"
     ],
+    "corvette": [
+        "android_device_oneplus_corvette",
+        "android_device_oneplus_sm8650-common",
+        "android_hardware_oplus",
+        "android_kernel_oneplus_sm8650",
+        "android_kernel_oneplus_sm8650-devicetrees",
+        "android_kernel_oneplus_sm8650-modules"
+    ],
     "crosshatch": [
         "android_device_google_crosshatch",
         "android_device_google_gs-common",
