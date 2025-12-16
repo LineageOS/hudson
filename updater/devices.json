@@ -91,6 +91,7 @@
   {  "model": "comet", "oem": "Google", "name": "Pixel 9 Pro Fold" },
   {  "model": "condor", "oem": "Motorola", "name": "moto e" },
   {  "model": "coral", "oem": "Google", "name": "Pixel 4 XL" },
+  {  "model": "corvette", "oem": "OnePlus", "name": "Ace 3 Pro"},
   {  "model": "crackling", "oem": "Wileyfox", "name": "Swift" },
   {  "model": "crosshatch", "oem": "Google", "name": "Pixel 3 XL" },
   {  "model": "crownlte", "oem": "Samsung", "name": "Galaxy Note 9" },
