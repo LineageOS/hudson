@@ -1543,6 +1543,13 @@
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
+    "garnet": [
+        "android_device_xiaomi_garnet",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_sm7435",
+        "android_kernel_xiaomi_sm7435-devicetrees",
+        "android_kernel_xiaomi_sm7435-modules"
+    ],
     "gauguin": [
         "android_device_xiaomi_gauguin",
         "android_hardware_xiaomi",
