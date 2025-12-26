@@ -3425,6 +3425,7 @@
         "android_device_samsung_r8q",
         "android_device_samsung_sm8250-common",
         "android_hardware_samsung",
+        "android_hardware_samsung_slsi_nfc",
         "android_kernel_samsung_sm8250"
     ],
     "r8s": [
