@@ -318,6 +318,14 @@
         "android_kernel_oneplus_sm8550-devicetrees",
         "android_kernel_oneplus_sm8550-modules"
     ],
+    "audi": [
+        "android_device_oneplus_audi",
+        "android_device_oneplus_sm8650-common",
+        "android_hardware_oplus",
+        "android_kernel_oneplus_sm8650",
+        "android_kernel_oneplus_sm8650-devicetrees",
+        "android_kernel_oneplus_sm8650-modules"
+    ],
     "aura": [
         "android_device_razer_aura",
         "android_kernel_razer_sdm845"
