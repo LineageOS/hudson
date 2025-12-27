@@ -123,6 +123,8 @@ rosemary userdebug lineage-23.0 W
 rtwo userdebug lineage-23.0 W
 sake userdebug lineage-23.0 W
 salami userdebug lineage-23.0 W
+sdk_phone_arm64 eng lineage-23.0 W
+sdk_phone_x86_64 eng lineage-23.0 W
 shiba userdebug lineage-23.0 W
 socrates userdebug lineage-23.0 W
 Spacewar userdebug lineage-23.0 W
