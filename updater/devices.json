@@ -458,6 +458,8 @@
   {  "model": "santoni", "oem":"Xiaomi", "name": "Redmi 4(X)" },
   {  "model": "sargo", "oem": "Google", "name": "Pixel 3a" },
   {  "model": "scorpio", "oem": "Xiaomi", "name": "Mi Note 2" },
+  {  "model": "sdk_phone_arm64", "oem": "Emulator", "name": "Emulator ARM-64" },
+  {  "model": "sdk_phone_x86_64", "oem": "Emulator", "name": "Emulator x86-64" },
   {  "model": "seed", "oem": "Google", "name": "Android One 2nd gen" },
   {  "model": "shamu", "oem": "Google", "name": "Nexus 6" },
   {  "model": "shark", "oem": "Xiaomi", "name": "Black Shark" },
