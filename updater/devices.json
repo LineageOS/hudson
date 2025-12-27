@@ -27,6 +27,7 @@
   {  "model": "aston", "oem": "OnePlus", "name": "12R / Ace 3" },
   {  "model": "armani", "oem": "Xiaomi", "name": "Redmi 1S" },
   {  "model": "athene", "oem": "Motorola", "name": "moto g4 / g4 plus" },
+  {  "model": "audi", "oem": "OnePlus", "name": "Ace 3V" },
   {  "model": "aura", "oem": "Razer", "name": "Phone 2" },
   {  "model": "aurora", "oem": "Sony", "name": "Xperia XZ2 Premium" },
   {  "model": "avalon", "oem": "OnePlus", "name": "Nord 4" },
