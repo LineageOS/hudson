@@ -1583,6 +1583,14 @@
         "android_kernel_oneplus_sm8650-devicetrees",
         "android_kernel_oneplus_sm8650-modules"
     ],
+    "giuliac": [
+        "android_device_oneplus_giuliac",
+        "android_device_oneplus_sm8650-common",
+        "android_hardware_oplus",
+        "android_kernel_oneplus_sm8650",
+        "android_kernel_oneplus_sm8650-devicetrees",
+        "android_kernel_oneplus_sm8650-modules"
+    ],
     "goldfish": [
         "android_device_generic_goldfish"
     ],
