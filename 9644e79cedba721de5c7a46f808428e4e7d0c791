@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b5cb91dd_a141b6ac",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-01-03T02:51:55Z",
+      "side": 1,
+      "message": "not sure why we would want to keep this building.\n\nIf we want to keep it because we merge ASBs to it, we should add 20.0 as well.",
+      "revId": "9644e79cedba721de5c7a46f808428e4e7d0c791",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
