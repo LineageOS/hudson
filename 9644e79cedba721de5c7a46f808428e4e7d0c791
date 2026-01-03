@@ -87,6 +87,24 @@
       "parentUuid": "4fb34d34_bfbfc62b",
       "revId": "9644e79cedba721de5c7a46f808428e4e7d0c791",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3aee0594_b25e47c6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-01-03T18:27:39Z",
+      "side": 1,
+      "message": "I was told the reason we kept them running was \"we merge ASBs\" - so my thought was either drop 21.0 or add 20.0 (either being fine).\n\nIf we want to add 20.0, might not be a bad idea as well then.",
+      "parentUuid": "fc0cc62f_0ba4c6e1",
+      "revId": "9644e79cedba721de5c7a46f808428e4e7d0c791",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": []
