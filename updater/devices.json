@@ -173,6 +173,8 @@
   {  "model": "gemini", "oem": "Xiaomi", "name": "Mi 5" },
   {  "model": "ghost", "oem": "Motorola", "name": "moto x (2013)" },
   {  "model": "ginkgo", "oem": "Xiaomi", "name": "Redmi Note 8 / 8T" },
+  {  "model": "giulia", "oem": "OnePlus", "name": "13R" },
+  {  "model": "giuliac", "oem": "OnePlus", "name": "Ace 5" },
   {  "model": "gohan", "oem": "BQ", "name": "Aquaris X5 Plus" },
   {  "model": "griffin", "oem": "Motorola", "name": "moto z" },
   {  "model": "grus", "oem": "Xiaomi", "name": "Mi 9 SE" },
