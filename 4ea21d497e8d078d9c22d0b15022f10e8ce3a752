@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2acea47d_09750cd0",
+        "filename": "updater/devices.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 299,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2026-01-07T20:56:35Z",
+      "side": 1,
+      "message": "x may still be after \u0027n\u0027 in the latin alphabet.",
+      "revId": "4ea21d497e8d078d9c22d0b15022f10e8ce3a752",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
