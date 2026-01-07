@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b683cc05_d43ec536",
+        "filename": "lineage-build-targets",
+        "patchSetId": 1
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2026-01-07T17:40:05Z",
+      "side": 1,
+      "message": "follow order.",
+      "revId": "4ac733e14dbb7041fd02fbd5cbec457412efbe94",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d50ca525_c2a87e79",
+        "filename": "updater/devices.json",
+        "patchSetId": 1
+      },
+      "lineNbr": 314,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2026-01-07T17:40:05Z",
+      "side": 1,
+      "message": "follow order",
+      "revId": "4ac733e14dbb7041fd02fbd5cbec457412efbe94",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
