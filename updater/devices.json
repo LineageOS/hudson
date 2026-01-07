@@ -311,6 +311,7 @@
   {  "model": "luigi", "oem": "Realme", "name": "10 Pro 5G" },
   {  "model": "lux", "oem": "Motorola", "name": "moto x play" },
   {  "model": "lynx", "oem": "Google", "name": "Pixel 7a" },
+  {  "model": "lexus", "oem": "OnePlus", "name": "Nord 5" },
   {  "model": "m20lte", "oem": "Samsung", "name": "Galaxy M20" },
   {  "model": "m216", "oem": "LG", "name": "K10" },
   {  "model": "m5", "oem": "Banana Pi", "name": "M5 (Android TV)" },
