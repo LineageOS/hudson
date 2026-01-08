@@ -4416,6 +4416,14 @@
         "android_hardware_motorola",
         "android_kernel_motorola_sm7325"
     ],
+    "xueying": [
+        "android_device_oneplus_sm8550-common",
+        "android_device_oneplus_xueying",
+        "android_hardware_oplus",
+        "android_kernel_oneplus_sm8550",
+        "android_kernel_oneplus_sm8550-devicetrees",
+        "android_kernel_oneplus_sm8550-modules"
+    ],
     "xz2c": [
         "android_device_sony_tama-common",
         "android_device_sony_xz2c",
