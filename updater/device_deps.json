@@ -3129,11 +3129,19 @@
     ],
     "pdx223": [
         "android_device_sony_pdx223",
-        "android_device_sony_sm8450-common"
+        "android_device_sony_sm8450-common",
+        "android_hardware_sony",
+        "android_kernel_sony_sm8450",
+        "android_kernel_sony_sm8450-devicetrees",
+        "android_kernel_sony_sm8450-modules"
     ],
     "pdx224": [
         "android_device_sony_pdx224",
-        "android_device_sony_sm8450-common"
+        "android_device_sony_sm8450-common",
+        "android_hardware_sony",
+        "android_kernel_sony_sm8450",
+        "android_kernel_sony_sm8450-devicetrees",
+        "android_kernel_sony_sm8450-modules"
     ],
     "pdx225": [
         "android_device_sony_pdx225",
