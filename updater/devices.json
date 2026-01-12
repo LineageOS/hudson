@@ -401,6 +401,8 @@
   {  "model": "pdx206", "oem": "Sony", "name": "Xperia 5 II" },
   {  "model": "pdx214", "oem": "Sony", "name": "Xperia 5 III" },
   {  "model": "pdx215", "oem": "Sony", "name": "Xperia 1 III" },
+  {  "model": "pdx223", "oem": "Sony", "name": "Xperia 1 IV" },
+  {  "model": "pdx224", "oem": "Sony", "name": "Xperia 5 IV" },
   {  "model": "pdx225", "oem": "Sony", "name": "Xperia 10 IV" },
   {  "model": "pdx234", "oem": "Sony", "name": "Xperia 1 V" },
   {  "model": "pdx235", "oem": "Sony", "name": "Xperia 10 V" },
