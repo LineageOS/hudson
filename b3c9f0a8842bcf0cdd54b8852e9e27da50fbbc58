@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6c21b39e_c0b931b0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32674
+      },
+      "writtenOn": "2026-01-12T16:06:26Z",
+      "side": 1,
+      "message": "Pending hardware/sony sepolicy merge and experimental builds.",
+      "revId": "b3c9f0a8842bcf0cdd54b8852e9e27da50fbbc58",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
