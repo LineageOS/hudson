@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "880c6912_d54a64b2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36488
+      },
+      "writtenOn": "2026-01-12T21:37:06Z",
+      "side": 1,
+      "message": "Closer to completionist (100%)",
+      "revId": "52ba84f0fa7d854b2fee2728f0a984a457b31f1e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
