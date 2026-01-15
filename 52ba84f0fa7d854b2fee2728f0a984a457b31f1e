@@ -16,6 +16,23 @@
       "message": "Closer to completionist (100%)",
       "revId": "52ba84f0fa7d854b2fee2728f0a984a457b31f1e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d12123af_4b10996c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32674
+      },
+      "writtenOn": "2026-01-15T15:12:27Z",
+      "side": 1,
+      "message": "hardware/sony sepolicy is merged so this can be merged now",
+      "revId": "52ba84f0fa7d854b2fee2728f0a984a457b31f1e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
