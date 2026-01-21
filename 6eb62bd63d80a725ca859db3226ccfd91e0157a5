@@ -1,4 +1,22 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ad5b12ab_05614dcc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 38
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36516
+      },
+      "writtenOn": "2026-01-21T06:28:46Z",
+      "side": 1,
+      "message": "I need my divece oneplys 5t A version update and Kernel version update",
+      "revId": "6eb62bd63d80a725ca859db3226ccfd91e0157a5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ],
   "submitRequirementResults": []
 }
