@@ -318,6 +318,14 @@
         "android_kernel_oneplus_sm8550-devicetrees",
         "android_kernel_oneplus_sm8550-modules"
     ],
+    "astonc": [
+        "android_device_oneplus_astonc",
+        "android_device_oneplus_sm8550-common",
+        "android_hardware_oplus",
+        "android_kernel_oneplus_sm8550",
+        "android_kernel_oneplus_sm8550-devicetrees",
+        "android_kernel_oneplus_sm8550-modules"
+    ],
     "audi": [
         "android_device_oneplus_audi",
         "android_device_oneplus_sm8650-common",
