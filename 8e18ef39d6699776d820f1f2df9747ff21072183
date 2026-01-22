@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "553d3ee9_7e73b7d0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 10
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-01-22T20:10:49Z",
+      "side": 1,
+      "message": "Marc: Statusbar full screen crash fix merged, re-added those 3 devices",
+      "revId": "8e18ef39d6699776d820f1f2df9747ff21072183",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
