@@ -123,6 +123,7 @@
   {  "model": "dipper", "oem": "Xiaomi", "name": "Mi 8" },
   {  "model": "discovery", "oem": "Sony", "name": "Xperia XA2 Ultra" },
   {  "model": "diting", "oem": "Xiaomi", "name": "12T Pro / Redmi K50 Ultra" },
+  {  "model": "dm1q", "oem": "Samsung", "name": "Galaxy S23" },
   {  "model": "dodge", "oem": "OnePlus", "name": "13" },
   {  "model": "dogo", "oem": "Sony", "name": "Xperia ZR" },
   {  "model": "dopinder", "oem": "Walmart", "name": "onn. TV Box 4K (2021)" },
