@@ -165,12 +165,14 @@
         "android_device_samsung_a52q",
         "android_device_samsung_sm7125-common",
         "android_hardware_samsung",
+        "android_hardware_samsung_slsi_nfc",
         "android_kernel_samsung_sm7125"
     ],
     "a52sxq": [
         "android_device_samsung_a52sxq",
         "android_device_samsung_sm7325-common",
         "android_hardware_samsung",
+        "android_hardware_samsung_slsi_nfc",
         "android_kernel_samsung_sm7325"
     ],
     "a5xelte": [
@@ -217,12 +219,14 @@
         "android_device_samsung_a72q",
         "android_device_samsung_sm7125-common",
         "android_hardware_samsung",
+        "android_hardware_samsung_slsi_nfc",
         "android_kernel_samsung_sm7125"
     ],
     "a73xq": [
         "android_device_samsung_a73xq",
         "android_device_samsung_sm7325-common",
         "android_hardware_samsung",
+        "android_hardware_samsung_slsi_nfc",
         "android_kernel_samsung_sm7325"
     ],
     "a7xelte": [
@@ -501,7 +505,6 @@
     ],
     "barbet": [
         "android_device_google_barbet",
-        "android_device_google_gs-common",
         "android_device_google_redbull",
         "android_kernel_google_redbull"
     ],
@@ -523,7 +526,7 @@
         "android_external_linux-firmware-mainline",
         "android_external_mesa",
         "android_external_minigbm-upstream",
-        "android_hardware_mainline",
+        "android_hardware_mainline_common",
         "android_kernel_virt_virtio",
         "android_prebuilts_mesa-build-dep"
     ],
@@ -597,6 +600,7 @@
         "android_hardware_samsung_slsi-linaro_graphics",
         "android_hardware_samsung_slsi-linaro_interfaces",
         "android_hardware_samsung_slsi-linaro_openmax",
+        "android_hardware_samsung_slsi_nfc",
         "android_kernel_samsung_exynos9820"
     ],
     "beyond1lte": [
@@ -610,6 +614,7 @@
         "android_hardware_samsung_slsi-linaro_graphics",
         "android_hardware_samsung_slsi-linaro_interfaces",
         "android_hardware_samsung_slsi-linaro_openmax",
+        "android_hardware_samsung_slsi_nfc",
         "android_kernel_samsung_exynos9820"
     ],
     "beyond2lte": [
@@ -623,6 +628,7 @@
         "android_hardware_samsung_slsi-linaro_graphics",
         "android_hardware_samsung_slsi-linaro_interfaces",
         "android_hardware_samsung_slsi-linaro_openmax",
+        "android_hardware_samsung_slsi_nfc",
         "android_kernel_samsung_exynos9820"
     ],
     "beyondx": [
@@ -636,6 +642,7 @@
         "android_hardware_samsung_slsi-linaro_graphics",
         "android_hardware_samsung_slsi-linaro_interfaces",
         "android_hardware_samsung_slsi-linaro_openmax",
+        "android_hardware_samsung_slsi_nfc",
         "android_kernel_samsung_exynos9820"
     ],
     "billie": [
@@ -675,7 +682,6 @@
     ],
     "bramble": [
         "android_device_google_bramble",
-        "android_device_google_gs-common",
         "android_device_google_redbull",
         "android_kernel_google_redbull"
     ],
@@ -939,7 +945,6 @@
     ],
     "coral": [
         "android_device_google_coral",
-        "android_device_google_gs-common",
         "android_kernel_google_msm-4.14",
         "android_packages_apps_ElmyraService"
     ],
@@ -983,6 +988,7 @@
         "android_hardware_samsung_slsi-linaro_graphics",
         "android_hardware_samsung_slsi-linaro_interfaces",
         "android_hardware_samsung_slsi-linaro_openmax",
+        "android_hardware_samsung_slsi_nfc",
         "android_kernel_samsung_exynos9820"
     ],
     "d1x": [
@@ -996,6 +1002,7 @@
         "android_hardware_samsung_slsi-linaro_graphics",
         "android_hardware_samsung_slsi-linaro_interfaces",
         "android_hardware_samsung_slsi-linaro_openmax",
+        "android_hardware_samsung_slsi_nfc",
         "android_kernel_samsung_exynos9820"
     ],
     "d2s": [
@@ -1009,6 +1016,7 @@
         "android_hardware_samsung_slsi-linaro_graphics",
         "android_hardware_samsung_slsi-linaro_interfaces",
         "android_hardware_samsung_slsi-linaro_openmax",
+        "android_hardware_samsung_slsi_nfc",
         "android_kernel_samsung_exynos9820"
     ],
     "d2x": [
@@ -1022,6 +1030,7 @@
         "android_hardware_samsung_slsi-linaro_graphics",
         "android_hardware_samsung_slsi-linaro_interfaces",
         "android_hardware_samsung_slsi-linaro_openmax",
+        "android_hardware_samsung_slsi_nfc",
         "android_kernel_samsung_exynos9820"
     ],
     "d800": [
@@ -1256,6 +1265,7 @@
         "android_hardware_samsung_slsi-linaro_graphics",
         "android_hardware_samsung_slsi-linaro_interfaces",
         "android_hardware_samsung_slsi-linaro_openmax",
+        "android_hardware_samsung_slsi_nfc",
         "android_kernel_samsung_exynos9820"
     ],
     "fajita": [
@@ -1280,7 +1290,6 @@
     "flame": [
         "android_device_google_coral",
         "android_device_google_flame",
-        "android_device_google_gs-common",
         "android_kernel_google_msm-4.14",
         "android_packages_apps_ElmyraService"
     ],
@@ -2575,6 +2584,7 @@
         "android_device_samsung_m52xq",
         "android_device_samsung_sm7325-common",
         "android_hardware_samsung",
+        "android_hardware_samsung_slsi_nfc",
         "android_kernel_samsung_sm7325"
     ],
     "m5_tab": [
@@ -2757,7 +2767,8 @@
         "android_external_mesa",
         "android_external_minigbm-upstream",
         "android_external_tinyhal",
-        "android_hardware_mainline",
+        "android_hardware_mainline_common",
+        "android_hardware_mainline_qcom",
         "android_hardware_sony_timekeep",
         "android_kernel_mainline_configs",
         "android_kernel_virt_virtio",
@@ -2776,7 +2787,8 @@
         "android_external_minigbm-upstream",
         "android_external_tinyhal",
         "android_hardware_intel_sensors-iio",
-        "android_hardware_mainline",
+        "android_hardware_mainline_common",
+        "android_hardware_mainline_qcom",
         "android_hardware_sony_timekeep",
         "android_kernel_mainline_configs",
         "android_prebuilts_mesa-build-dep"
@@ -3020,6 +3032,12 @@
         "android_device_motorola_sm6150-common",
         "android_hardware_motorola",
         "android_kernel_motorola_sm6150"
+    ],
+    "odin2_ack": [
+        "android_device_ayn_odin2_ack"
+    ],
+    "odin2_tab_ack": [
+        "android_device_ayn_odin2_tab_ack"
     ],
     "odroidc4": [
         "android_device_amlogic_common",
@@ -3364,6 +3382,9 @@
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_sdm710"
     ],
+    "qcs8550-ack": [
+        "android_device_ayn_qcs8550-ack"
+    ],
     "quill": [
         "android_bootable_cboot_common",
         "android_bootable_cboot_lk",
@@ -3621,7 +3642,6 @@
         "android_device_google_raviole-kernels"
     ],
     "redfin": [
-        "android_device_google_gs-common",
         "android_device_google_redbull",
         "android_device_google_redfin",
         "android_kernel_google_redbull"
@@ -3988,7 +4008,6 @@
         "android_kernel_lge_sdm845"
     ],
     "sunfish": [
-        "android_device_google_gs-common",
         "android_device_google_sunfish",
         "android_kernel_google_msm-4.14"
     ],
@@ -4179,7 +4198,7 @@
         "android_external_linux-firmware-mainline",
         "android_external_mesa",
         "android_external_minigbm-upstream",
-        "android_hardware_mainline",
+        "android_hardware_mainline_common",
         "android_kernel_mainline_configs",
         "android_kernel_virt_virtio",
         "android_prebuilts_bootmgr",
@@ -4197,7 +4216,7 @@
         "android_external_linux-firmware-mainline",
         "android_external_mesa",
         "android_external_minigbm-upstream",
-        "android_hardware_mainline",
+        "android_hardware_mainline_common",
         "android_kernel_mainline_configs",
         "android_kernel_virt_virtio",
         "android_prebuilts_bootmgr",
@@ -4252,7 +4271,7 @@
         "android_external_linux-firmware-mainline",
         "android_external_mesa",
         "android_external_minigbm-upstream",
-        "android_hardware_mainline",
+        "android_hardware_mainline_common",
         "android_kernel_mainline_configs",
         "android_kernel_virt_virtio",
         "android_prebuilts_bootmgr",
@@ -4269,7 +4288,7 @@
         "android_external_linux-firmware-mainline",
         "android_external_mesa",
         "android_external_minigbm-upstream",
-        "android_hardware_mainline",
+        "android_hardware_mainline_common",
         "android_kernel_mainline_configs",
         "android_kernel_virt_virtio",
         "android_prebuilts_bootmgr",
@@ -4285,7 +4304,7 @@
         "android_external_linux-firmware-mainline",
         "android_external_mesa",
         "android_external_minigbm-upstream",
-        "android_hardware_mainline",
+        "android_hardware_mainline_common",
         "android_kernel_mainline_configs",
         "android_kernel_virt_virtio",
         "android_prebuilts_bootmgr",
@@ -4302,7 +4321,7 @@
         "android_external_linux-firmware-mainline",
         "android_external_mesa",
         "android_external_minigbm-upstream",
-        "android_hardware_mainline",
+        "android_hardware_mainline_common",
         "android_kernel_mainline_configs",
         "android_kernel_virt_virtio",
         "android_prebuilts_bootmgr",
@@ -4319,7 +4338,7 @@
         "android_external_linux-firmware-mainline",
         "android_external_mesa",
         "android_external_minigbm-upstream",
-        "android_hardware_mainline",
+        "android_hardware_mainline_common",
         "android_kernel_mainline_configs",
         "android_kernel_virt_virtio",
         "android_prebuilts_bootmgr",
