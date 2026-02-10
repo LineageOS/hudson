@@ -1145,6 +1145,15 @@
         "android_kernel_xiaomi_sm8450-devicetrees",
         "android_kernel_xiaomi_sm8450-modules"
     ],
+    "dm1q": [
+        "android_device_samsung_dm1q",
+        "android_device_samsung_slsi_sepolicy",
+        "android_device_samsung_sm8550-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_sm8550",
+        "android_kernel_samsung_sm8550-devicetrees",
+        "android_kernel_samsung_sm8550-modules"
+    ],
     "dodge": [
         "android_device_oneplus_dodge",
         "android_device_oneplus_sm8750-common",
