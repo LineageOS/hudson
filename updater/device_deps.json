@@ -318,6 +318,7 @@
         "android_device_oneplus_aston",
         "android_device_oneplus_sm8550-common",
         "android_hardware_oplus",
+        "android_hardware_pixelworks_interfaces",
         "android_kernel_oneplus_sm8550",
         "android_kernel_oneplus_sm8550-devicetrees",
         "android_kernel_oneplus_sm8550-modules"
@@ -326,6 +327,7 @@
         "android_device_oneplus_astonc",
         "android_device_oneplus_sm8550-common",
         "android_hardware_oplus",
+        "android_hardware_pixelworks_interfaces",
         "android_kernel_oneplus_sm8550",
         "android_kernel_oneplus_sm8550-devicetrees",
         "android_kernel_oneplus_sm8550-modules"
@@ -2366,12 +2368,14 @@
         "android_device_oneplus_lemonade",
         "android_device_oneplus_sm8350-common",
         "android_hardware_oplus",
+        "android_hardware_pixelworks_interfaces",
         "android_kernel_oneplus_sm8350"
     ],
     "lemonadep": [
         "android_device_oneplus_lemonadep",
         "android_device_oneplus_sm8350-common",
         "android_hardware_oplus",
+        "android_hardware_pixelworks_interfaces",
         "android_kernel_oneplus_sm8350"
     ],
     "lemonades": [
@@ -2652,6 +2656,7 @@
         "android_device_oneplus_martini",
         "android_device_oneplus_sm8350-common",
         "android_hardware_oplus",
+        "android_hardware_pixelworks_interfaces",
         "android_kernel_oneplus_sm8350"
     ],
     "mata": [
@@ -3789,6 +3794,7 @@
         "android_device_oneplus_salami",
         "android_device_oneplus_sm8550-common",
         "android_hardware_oplus",
+        "android_hardware_pixelworks_interfaces",
         "android_kernel_oneplus_sm8550",
         "android_kernel_oneplus_sm8550-devicetrees",
         "android_kernel_oneplus_sm8550-modules"
@@ -4472,6 +4478,7 @@
         "android_device_oneplus_sm8550-common",
         "android_device_oneplus_xueying",
         "android_hardware_oplus",
+        "android_hardware_pixelworks_interfaces",
         "android_kernel_oneplus_sm8550",
         "android_kernel_oneplus_sm8550-devicetrees",
         "android_kernel_oneplus_sm8550-modules"
