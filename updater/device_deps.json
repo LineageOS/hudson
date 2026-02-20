@@ -3047,11 +3047,23 @@
         "android_hardware_motorola",
         "android_kernel_motorola_sm6150"
     ],
+    "odin2": [
+        "android_device_ayn_odin2"
+    ],
     "odin2_ack": [
         "android_device_ayn_odin2_ack"
     ],
     "odin2_tab_ack": [
         "android_device_ayn_odin2_tab_ack"
+    ],
+    "odin2mini": [
+        "android_device_ayn_odin2mini"
+    ],
+    "odin2portal": [
+        "android_device_ayn_odin2portal"
+    ],
+    "odin2thor": [
+        "android_device_ayn_odin2thor"
     ],
     "odroidc4": [
         "android_device_amlogic_common",
