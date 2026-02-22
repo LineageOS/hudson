@@ -188,6 +188,7 @@
   {  "model": "gta4l", "oem": "Samsung", "name": "Galaxy Tab A7 10.4 2020 (LTE)" },
   {  "model": "gta4lwifi", "oem": "Samsung", "name": "Galaxy Tab A7 10.4 2020 (Wi-Fi)" },
   {  "model": "gta4xl", "oem": "Samsung", "name": "Galaxy Tab S6 Lite (LTE)" },
+  {  "model": "gta4xlswifi", "oem": "Samsung", "name": "Galaxy Tab S6 Lite 2024 (Wi-Fi)" },
   {  "model": "gta4xlwifi", "oem": "Samsung", "name": "Galaxy Tab S6 Lite (Wi-Fi)" },
   {  "model": "gtowifi", "oem": "Samsung", "name": "Galaxy Tab A 8.0 2019 (Wi-Fi)" },
   {  "model": "gts4lv", "oem": "Samsung", "name": "Galaxy Tab S5e (LTE)" },
