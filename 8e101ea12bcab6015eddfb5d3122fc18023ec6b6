@@ -33,6 +33,23 @@
       "message": "thyme still needs to pick this commit: https://review.lineageos.org/c/LineageOS/android_device_xiaomi_thyme/+/475019",
       "revId": "8e101ea12bcab6015eddfb5d3122fc18023ec6b6",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ccb855c9_dc4f0df6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 22176
+      },
+      "writtenOn": "2026-02-23T06:21:44Z",
+      "side": 1,
+      "message": "For apollon",
+      "revId": "8e101ea12bcab6015eddfb5d3122fc18023ec6b6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
