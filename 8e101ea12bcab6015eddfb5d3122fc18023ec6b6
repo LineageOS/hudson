@@ -16,6 +16,23 @@
       "message": "+1 for lmi and munch",
       "revId": "8e101ea12bcab6015eddfb5d3122fc18023ec6b6",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "15cd6a96_3ac3827b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34491
+      },
+      "writtenOn": "2026-02-23T03:04:12Z",
+      "side": 1,
+      "message": "thyme still needs to pick this commit: https://review.lineageos.org/c/LineageOS/android_device_xiaomi_thyme/+/475019",
+      "revId": "8e101ea12bcab6015eddfb5d3122fc18023ec6b6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
