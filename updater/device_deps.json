@@ -3237,6 +3237,14 @@
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_sdm845"
     ],
+    "piloti": [
+        "android_device_oneplus_sm8750-common",
+        "android_device_realme_piloti",
+        "android_hardware_oplus",
+        "android_kernel_oneplus_sm8750",
+        "android_kernel_oneplus_sm8750-devicetrees",
+        "android_kernel_oneplus_sm8750-modules"
+    ],
     "pioneer": [
         "android_device_sony_nile-common",
         "android_device_sony_pioneer",
