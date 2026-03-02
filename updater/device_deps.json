@@ -2770,6 +2770,27 @@
         "android_hardware_lge",
         "android_kernel_lge_sm8150"
     ],
+    "mi710-mainline": [
+        "android_device_mainline_common",
+        "android_device_mainline_qcom-common",
+        "android_device_virt_virt-common",
+        "android_device_virt_virtio-common",
+        "android_device_virt_virtio_arm64",
+        "android_device_xiaomi_mi710-mainline",
+        "android_external_drm_hwcomposer-upstream",
+        "android_external_libdisplay-info-upstream",
+        "android_external_linux-firmware-mainline",
+        "android_external_mesa",
+        "android_external_minigbm-upstream",
+        "android_external_tinyhal",
+        "android_hardware_mainline_common",
+        "android_hardware_mainline_qcom",
+        "android_hardware_sony_timekeep",
+        "android_kernel_mainline_configs",
+        "android_kernel_virt_virtio",
+        "android_prebuilts_bootmgr",
+        "android_prebuilts_mesa-build-dep"
+    ],
     "mi7150-mainline": [
         "android_device_mainline_common",
         "android_device_mainline_qcom-common",
@@ -3417,6 +3438,9 @@
         "android_device_xiaomi_sdm710-common",
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_sdm710"
+    ],
+    "pyxis_mainline": [
+        "android_device_xiaomi_pyxis_mainline"
     ],
     "qcs8550-ack": [
         "android_device_ayn_qcs8550-ack"
