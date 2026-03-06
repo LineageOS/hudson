@@ -73,6 +73,9 @@
         "android_kernel_nothing_sm8475-devicetrees",
         "android_kernel_nothing_sm8475-modules"
     ],
+    "RP6": [
+        "android_device_retroidpocket_RP6"
+    ],
     "Spacewar": [
         "android_device_nothing_Spacewar",
         "android_hardware_nothing",
@@ -3990,6 +3993,9 @@
         "android_hardware_motorola",
         "android_hardware_sony_timekeep",
         "android_kernel_motorola_sm7250"
+    ],
+    "snowcastle": [
+        "android_device_apple_snowcastle"
     ],
     "socrates": [
         "android_device_xiaomi_sm8550-common",
