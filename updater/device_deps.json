@@ -73,6 +73,9 @@
         "android_kernel_nothing_sm8475-devicetrees",
         "android_kernel_nothing_sm8475-modules"
     ],
+    "Q25": [
+        "android_device_xelex_Q25"
+    ],
     "RP6": [
         "android_device_retroidpocket_RP6"
     ],
@@ -3248,6 +3251,13 @@
         "android_kernel_sony_sm8550",
         "android_kernel_sony_sm8550-devicetrees",
         "android_kernel_sony_sm8550-modules"
+    ],
+    "pdx257": [
+        "android_device_sony_pdx257",
+        "android_hardware_sony",
+        "android_kernel_sony_sm6475",
+        "android_kernel_sony_sm6475-devicetrees",
+        "android_kernel_sony_sm6475-modules"
     ],
     "penang": [
         "android_device_motorola_penang",
