@@ -663,6 +663,13 @@
         "android_hardware_oneplus",
         "android_kernel_oneplus_sm4250"
     ],
+    "blazer": [
+        "android_device_google_blazer",
+        "android_device_google_caimito",
+        "android_device_google_caimito-kernels",
+        "android_device_google_gs-common",
+        "android_device_google_zumapro"
+    ],
     "bluejay": [
         "android_device_google_bluejay",
         "android_device_google_bluejay-kernels",
@@ -1445,6 +1452,13 @@
         "android_kernel_nvidia_nvidia",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
+    ],
+    "frankel": [
+        "android_device_google_caimito",
+        "android_device_google_caimito-kernels",
+        "android_device_google_frankel",
+        "android_device_google_gs-common",
+        "android_device_google_zumapro"
     ],
     "fugu": [
         "android_device_asus_fugu",
@@ -2340,6 +2354,10 @@
         "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8998"
     ],
+    "laguna": [
+        "android_device_google_gs-common",
+        "android_device_google_laguna"
+    ],
     "lake": [
         "android_device_motorola_lake",
         "android_device_motorola_msm8998-common",
@@ -2899,6 +2917,19 @@
         "android_kernel_google_wahoo",
         "android_packages_apps_ElmyraService"
     ],
+    "mustang": [
+        "android_device_google_caimito",
+        "android_device_google_caimito-kernels",
+        "android_device_google_gs-common",
+        "android_device_google_mustang",
+        "android_device_google_zumapro"
+    ],
+    "muzel": [
+        "android_device_google_caimito-kernels",
+        "android_device_google_gs-common",
+        "android_device_google_muzel",
+        "android_device_google_zumapro"
+    ],
     "nairo": [
         "android_device_motorola_nairo",
         "android_device_motorola_sm7250-common",
@@ -3454,6 +3485,10 @@
         "android_hardware_motorola",
         "android_kernel_motorola_sm8250"
     ],
+    "pyrite": [
+        "android_device_osom_pyrite",
+        "android_kernel_osom_sm8350"
+    ],
     "pyxis": [
         "android_device_xiaomi_pyxis",
         "android_device_xiaomi_sdm710-common",
@@ -3708,6 +3743,12 @@
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
         "android_kernel_amlogic_linux-4.9"
+    ],
+    "rango": [
+        "android_device_google_comet-kernels",
+        "android_device_google_gs-common",
+        "android_device_google_rango",
+        "android_device_google_zumapro"
     ],
     "raphael": [
         "android_device_xiaomi_raphael",
@@ -4071,6 +4112,12 @@
         "android_kernel_nvidia_wireguard",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
+    ],
+    "stallion": [
+        "android_device_google_gs-common",
+        "android_device_google_stallion",
+        "android_device_google_tegu-kernels",
+        "android_device_google_zumapro"
     ],
     "star2lte": [
         "android_device_samsung_exynos9810-common",
