@@ -2354,10 +2354,6 @@
         "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8998"
     ],
-    "laguna": [
-        "android_device_google_gs-common",
-        "android_device_google_laguna"
-    ],
     "lake": [
         "android_device_motorola_lake",
         "android_device_motorola_msm8998-common",
@@ -2922,12 +2918,6 @@
         "android_device_google_caimito-kernels",
         "android_device_google_gs-common",
         "android_device_google_mustang",
-        "android_device_google_zumapro"
-    ],
-    "muzel": [
-        "android_device_google_caimito-kernels",
-        "android_device_google_gs-common",
-        "android_device_google_muzel",
         "android_device_google_zumapro"
     ],
     "nairo": [
