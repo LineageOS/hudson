@@ -666,9 +666,9 @@
     ],
     "blazer": [
         "android_device_google_blazer",
-        "android_device_google_caimito",
         "android_device_google_caimito-kernels",
         "android_device_google_gs-common",
+        "android_device_google_muzel",
         "android_device_google_zumapro"
     ],
     "bluejay": [
@@ -1455,10 +1455,10 @@
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
     "frankel": [
-        "android_device_google_caimito",
         "android_device_google_caimito-kernels",
         "android_device_google_frankel",
         "android_device_google_gs-common",
+        "android_device_google_muzel",
         "android_device_google_zumapro"
     ],
     "fugu": [
@@ -2921,10 +2921,10 @@
         "android_packages_apps_ElmyraService"
     ],
     "mustang": [
-        "android_device_google_caimito",
         "android_device_google_caimito-kernels",
         "android_device_google_gs-common",
         "android_device_google_mustang",
+        "android_device_google_muzel",
         "android_device_google_zumapro"
     ],
     "nairo": [
