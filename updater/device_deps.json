@@ -3322,6 +3322,9 @@
         "android_hardware_motorola",
         "android_kernel_motorola_sm6375"
     ],
+    "peridot": [
+        "android_device_xiaomi_peridot"
+    ],
     "perseus": [
         "android_device_xiaomi_perseus",
         "android_device_xiaomi_sdm845-common",
