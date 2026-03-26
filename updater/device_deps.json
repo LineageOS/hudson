@@ -3323,7 +3323,11 @@
         "android_kernel_motorola_sm6375"
     ],
     "peridot": [
-        "android_device_xiaomi_peridot"
+        "android_device_xiaomi_peridot",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_sm8635",
+        "android_kernel_xiaomi_sm8635-devicetrees",
+        "android_kernel_xiaomi_sm8635-modules"
     ],
     "perseus": [
         "android_device_xiaomi_perseus",
@@ -4583,11 +4587,7 @@
         "android_packages_apps_ElmyraService"
     ],
     "wayne": [
-        "android_device_xiaomi_sdm660-common",
-        "android_device_xiaomi_wayne",
-        "android_device_xiaomi_wayne-common",
-        "android_hardware_xiaomi",
-        "android_kernel_xiaomi_sdm660"
+        "android_device_xiaomi_wayne"
     ],
     "whyred": [
         "android_device_xiaomi_sdm660-common",
