@@ -4587,7 +4587,11 @@
         "android_packages_apps_ElmyraService"
     ],
     "wayne": [
-        "android_device_xiaomi_wayne"
+        "android_device_xiaomi_sdm660-common",
+        "android_device_xiaomi_wayne",
+        "android_device_xiaomi_wayne-common",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_sdm660"
     ],
     "whyred": [
         "android_device_xiaomi_sdm660-common",
