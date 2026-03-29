@@ -666,10 +666,10 @@
     ],
     "blazer": [
         "android_device_google_blazer",
-        "android_device_google_caimito-kernels",
         "android_device_google_gs-common",
+        "android_device_google_laguna",
         "android_device_google_muzel",
-        "android_device_google_zumapro"
+        "android_device_google_muzel-kernels"
     ],
     "bluejay": [
         "android_device_google_bluejay",
@@ -1455,11 +1455,11 @@
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3"
     ],
     "frankel": [
-        "android_device_google_caimito-kernels",
         "android_device_google_frankel",
         "android_device_google_gs-common",
+        "android_device_google_laguna",
         "android_device_google_muzel",
-        "android_device_google_zumapro"
+        "android_device_google_muzel-kernels"
     ],
     "fugu": [
         "android_device_asus_fugu",
@@ -2921,11 +2921,11 @@
         "android_packages_apps_ElmyraService"
     ],
     "mustang": [
-        "android_device_google_caimito-kernels",
         "android_device_google_gs-common",
+        "android_device_google_laguna",
         "android_device_google_mustang",
         "android_device_google_muzel",
-        "android_device_google_zumapro"
+        "android_device_google_muzel-kernels"
     ],
     "nairo": [
         "android_device_motorola_nairo",
@@ -3790,10 +3790,10 @@
         "android_kernel_amlogic_linux-4.9"
     ],
     "rango": [
-        "android_device_google_comet-kernels",
         "android_device_google_gs-common",
+        "android_device_google_laguna",
         "android_device_google_rango",
-        "android_device_google_zumapro"
+        "android_device_google_rango-kernels"
     ],
     "raphael": [
         "android_device_xiaomi_raphael",
