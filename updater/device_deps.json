@@ -169,10 +169,7 @@
     ],
     "a52q": [
         "android_device_samsung_a52q",
-        "android_device_samsung_sm7125-common",
-        "android_hardware_samsung",
-        "android_hardware_samsung_slsi_nfc",
-        "android_kernel_samsung_sm7125"
+        "android_device_samsung_sm7125-common"
     ],
     "a52sxq": [
         "android_device_samsung_a52sxq",
@@ -223,10 +220,7 @@
     ],
     "a72q": [
         "android_device_samsung_a72q",
-        "android_device_samsung_sm7125-common",
-        "android_hardware_samsung",
-        "android_hardware_samsung_slsi_nfc",
-        "android_kernel_samsung_sm7125"
+        "android_device_samsung_sm7125-common"
     ],
     "a73xq": [
         "android_device_samsung_a73xq",
@@ -387,6 +381,14 @@
         "android_device_oppo_msm8974-common",
         "android_hardware_sony_timekeep",
         "android_kernel_oppo_msm8974"
+    ],
+    "bale": [
+        "android_device_oneplus_sm8650-common",
+        "android_device_realme_bale",
+        "android_hardware_oplus",
+        "android_kernel_oneplus_sm8650",
+        "android_kernel_oneplus_sm8650-devicetrees",
+        "android_kernel_oneplus_sm8650-modules"
     ],
     "bangkk": [
         "android_device_motorola_bangkk",
