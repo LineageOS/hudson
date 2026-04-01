@@ -169,7 +169,10 @@
     ],
     "a52q": [
         "android_device_samsung_a52q",
-        "android_device_samsung_sm7125-common"
+        "android_device_samsung_sm7125-common",
+        "android_hardware_samsung",
+        "android_hardware_samsung_slsi_nfc",
+        "android_kernel_samsung_sm7125"
     ],
     "a52sxq": [
         "android_device_samsung_a52sxq",
@@ -220,7 +223,10 @@
     ],
     "a72q": [
         "android_device_samsung_a72q",
-        "android_device_samsung_sm7125-common"
+        "android_device_samsung_sm7125-common",
+        "android_hardware_samsung",
+        "android_hardware_samsung_slsi_nfc",
+        "android_kernel_samsung_sm7125"
     ],
     "a73xq": [
         "android_device_samsung_a73xq",
@@ -3310,6 +3316,14 @@
         "android_kernel_sony_sm8550",
         "android_kernel_sony_sm8550-devicetrees",
         "android_kernel_sony_sm8550-modules"
+    ],
+    "pdx245": [
+        "android_device_sony_pdx245",
+        "android_device_sony_sm8650-common",
+        "android_hardware_sony",
+        "android_kernel_sony_sm8650",
+        "android_kernel_sony_sm8650-devicetrees",
+        "android_kernel_sony_sm8650-modules"
     ],
     "pdx257": [
         "android_device_sony_pdx257",
