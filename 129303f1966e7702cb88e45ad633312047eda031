@@ -16,6 +16,24 @@
       "message": "Incomplete. Example https://review.lineageos.org/c/LineageOS/hudson/+/479192",
       "revId": "129303f1966e7702cb88e45ad633312047eda031",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "31b339e7_a72d4e06",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36633
+      },
+      "writtenOn": "2026-04-02T06:47:22Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a6b7df51_c06636f7",
+      "revId": "129303f1966e7702cb88e45ad633312047eda031",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
