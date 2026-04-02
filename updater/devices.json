@@ -38,6 +38,7 @@
   {  "model": "axon7", "oem": "ZTE", "name": "Axon 7" },
   {  "model": "B2N", "oem": "Nokia", "name": "7 plus" },
   {  "model": "bacon", "oem": "OnePlus", "name": "One" },
+  {  "model": "bale", "oem": "Realme", "name": "GT Neo6" },
   {  "model": "baracus", "oem": "Google", "name": "Jamboard [Android TV]" },
   {  "model": "baracus_tab", "oem": "Google", "name": "Jamboard [Tablet]" },
   {  "model": "bangkk", "oem": "Motorola", "name": "moto g84 5G" },
