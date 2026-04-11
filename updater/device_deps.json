@@ -1626,6 +1626,18 @@
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_msm8996"
     ],
+    "generic": [
+        "android_device_mainline_common",
+        "android_device_mainline_generic",
+        "android_external_drm_hwcomposer-upstream",
+        "android_external_libdisplay-info-upstream",
+        "android_external_linux-firmware-mainline",
+        "android_external_mesa",
+        "android_external_minigbm-upstream",
+        "android_hardware_mainline_common",
+        "android_kernel_virt_virtio",
+        "android_prebuilts_mesa-build-dep"
+    ],
     "ginkgo": [
         "android_device_xiaomi_ginkgo",
         "android_device_xiaomi_sm6125-common",
