@@ -74,7 +74,10 @@
         "android_kernel_nothing_sm8475-modules"
     ],
     "Q25": [
-        "android_device_xelex_Q25"
+        "android_device_mediatek_sepolicy_vndr",
+        "android_device_xelex_Q25",
+        "android_hardware_mediatek",
+        "android_kernel_xelex_mt6789"
     ],
     "RP6": [
         "android_device_retroidpocket_RP6"
