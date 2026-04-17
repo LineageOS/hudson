@@ -4301,6 +4301,10 @@
     "touch": [
         "android_device_nvidia_touch"
     ],
+    "trident": [
+        "android_device_smartisan_trident",
+        "android_kernel_smartisan_sdm845"
+    ],
     "troika": [
         "android_device_motorola_exynos9610-common",
         "android_device_motorola_troika",
