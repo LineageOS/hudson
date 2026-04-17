@@ -512,6 +512,7 @@
   {  "model": "toro", "oem": "Google", "name": "Galaxy Nexus (VZW)" },
   {  "model": "toroplus", "oem": "Google", "name": "Galaxy Nexus (Sprint)" },
   {  "model": "TP1803", "oem": "Nubia", "name": "Mini 5G" },
+  {  "model": "trident", "oem": "Smartisan", "name": "R1" },
   {  "model": "troika", "oem": "Motorola", "name": "one action" },
   {  "model": "tsubasa", "oem": "Sony", "name": "Xperia V" },
   {  "model": "tucana", "oem": "Xiaomi", "name": "Mi Note 10 / Note 10 Pro / CC9 Pro" },
