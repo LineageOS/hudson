@@ -3174,6 +3174,9 @@
     "odin2thor": [
         "android_device_ayn_odin2thor"
     ],
+    "odin3": [
+        "android_device_ayn_odin3"
+    ],
     "odroidc4": [
         "android_device_amlogic_common",
         "android_device_amlogic_g12-common",
