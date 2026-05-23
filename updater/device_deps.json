@@ -2228,6 +2228,7 @@
         "android_hardware_samsung_slsi-linaro_openmax",
         "android_hardware_samsung_slsi_fm",
         "android_hardware_samsung_slsi_libbt",
+        "android_hardware_samsung_slsi_nfc",
         "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
         "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
         "android_kernel_motorola_exynos9610"
@@ -4294,6 +4295,7 @@
         "android_hardware_samsung_slsi-linaro_openmax",
         "android_hardware_samsung_slsi_fm",
         "android_hardware_samsung_slsi_libbt",
+        "android_hardware_samsung_slsi_nfc",
         "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
         "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
         "android_kernel_motorola_exynos9610"
