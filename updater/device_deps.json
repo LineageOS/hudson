@@ -1211,6 +1211,7 @@
         "android_external_mesa",
         "android_external_minigbm-upstream",
         "android_hardware_mainline_common",
+        "android_kernel_mainline_configs",
         "android_kernel_virt_virtio",
         "android_prebuilts_mesa-build-dep"
     ],
@@ -3292,6 +3293,7 @@
         "android_external_mesa",
         "android_external_minigbm-upstream",
         "android_hardware_mainline_common",
+        "android_kernel_mainline_configs",
         "android_kernel_virt_virtio",
         "android_prebuilts_mesa-build-dep"
     ],
