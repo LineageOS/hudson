@@ -440,6 +440,7 @@
         "android_external_mesa",
         "android_external_minigbm-upstream",
         "android_hardware_mainline_common",
+        "android_kernel_mainline_configs",
         "android_kernel_virt_virtio",
         "android_prebuilts_mesa-build-dep"
     ],
@@ -1214,6 +1215,14 @@
         "android_kernel_mainline_configs",
         "android_kernel_virt_virtio",
         "android_prebuilts_mesa-build-dep"
+    ],
+    "genevn": [
+        "android_device_motorola_genevn",
+        "android_device_motorola_sm7435-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm7435",
+        "android_kernel_motorola_sm7435-devicetrees",
+        "android_kernel_motorola_sm7435-modules"
     ],
     "ginkgo": [
         "android_device_xiaomi_ginkgo",
