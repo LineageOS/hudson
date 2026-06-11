@@ -30,6 +30,13 @@
         "android_device_fairphone_FP5",
         "android_kernel_fairphone_qcm6490"
     ],
+    "FP6": [
+        "android_device_fairphone_FP6",
+        "android_hardware_samsung_slsi_nfc",
+        "android_kernel_fairphone_sm7635",
+        "android_kernel_fairphone_sm7635-devicetrees",
+        "android_kernel_fairphone_sm7635-modules"
+    ],
     "G": [
         "android_device_10or_G",
         "android_kernel_10or_G"
