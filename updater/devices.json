@@ -461,6 +461,7 @@
   {  "model": "RMX1851", "oem": "Realme", "name": "3 Pro" },
   {  "model": "rosemary", "oem": "Xiaomi", "name": "Redmi Note 10S / Redmi Note 10S NFC / Redmi Note 10S Latin America / POCO M5s" },
   {  "model": "roth", "oem": "Nvidia", "name": "Shield Portable" },
+  {  "model": "RP6", "oem": "Retroid Pocket", "name": "RP6" },
   {  "model": "rs988", "oem": "LG", "name": "G5 (US)" },
   {  "model": "rtwo", "oem": "Motorola", "name": "edge 40 pro / moto X40 / edge+ (2023)" },
   {  "model": "s2", "oem": "LeEco", "name": "Le 2" },
