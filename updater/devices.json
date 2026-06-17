@@ -242,6 +242,7 @@
   {  "model": "i9100", "oem": "Samsung", "name": "Galaxy S II (Intl)" },
   {  "model": "i9300", "oem": "Samsung", "name": "Galaxy S III (Intl)" },
   {  "model": "i9305", "oem": "Samsung", "name": "Galaxy S III (GSM LTE)" },
+  {  "model": "ibiza", "oem": "Motorola", "name": "Moto G50" },
   {  "model": "ido", "oem": "Xiaomi", "name": "Redmi 3/Prime" },
   {  "model": "ingot", "oem": "Solana", "name": "Saga" },
   {  "model": "instantnoodle", "oem": "OnePlus", "name": "8" },
