@@ -16,6 +16,24 @@
       "message": "uh, it doesn\u0027t seem like you\u0027re a device maintainer? why are you submitting this change...?",
       "revId": "c7606986d8e6cdeb231d383e4b0e79b8f40c98b1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "555ee79c_7cca7223",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 37327
+      },
+      "writtenOn": "2026-06-24T10:24:31Z",
+      "side": 1,
+      "message": "Being the owner of a Fairphone 6 and wanting to help, I initially thought that it might be useful to prepare this change for when the device would be ready to launch. \n\nIt was a way to help @arian.kulmer@web.de who is one of the maintainers.",
+      "parentUuid": "409d8cc3_cda833ed",
+      "revId": "c7606986d8e6cdeb231d383e4b0e79b8f40c98b1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
