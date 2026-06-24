@@ -34,6 +34,24 @@
       "parentUuid": "409d8cc3_cda833ed",
       "revId": "c7606986d8e6cdeb231d383e4b0e79b8f40c98b1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "92d1ef2f_d67547b4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2026-06-24T10:34:25Z",
+      "side": 1,
+      "message": "as non-maintainer I\u0027d suggest you keep your contributions to basically everything aside from enabling/disabling device support. this is one thing maintainers do not need any help with.",
+      "parentUuid": "555ee79c_7cca7223",
+      "revId": "c7606986d8e6cdeb231d383e4b0e79b8f40c98b1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
