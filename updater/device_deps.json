@@ -2456,6 +2456,9 @@
         "android_hardware_motorola",
         "android_kernel_motorola_sm8250"
     ],
+    "nova": [
+        "android_device_retroidpocket_nova"
+    ],
     "nuwa": [
         "android_device_xiaomi_nuwa",
         "android_device_xiaomi_sm8550-common",
