@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cdf28f51_430bedfd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29242
+      },
+      "writtenOn": "2026-07-01T09:01:19Z",
+      "side": 1,
+      "message": "Awaiting one change to qcs8550-modules. After which, we ship.",
+      "revId": "57cf22fffc5c1b51f7589f506979cf04d5b891cc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
