@@ -1966,6 +1966,9 @@
         "android_hardware_motorola",
         "android_kernel_motorola_msm8998"
     ],
+    "lamu": [
+        "android_device_motorola_lamu"
+    ],
     "lancelot": [
         "android_device_mediatek_sepolicy_vndr",
         "android_device_xiaomi_lancelot",
