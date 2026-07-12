@@ -1967,7 +1967,11 @@
         "android_kernel_motorola_msm8998"
     ],
     "lamu": [
-        "android_device_motorola_lamu"
+        "android_device_mediatek_sepolicy_vndr",
+        "android_device_motorola_lamu",
+        "android_device_motorola_lamu-kernels",
+        "android_device_motorola_mt6768-common",
+        "android_hardware_mediatek"
     ],
     "lancelot": [
         "android_device_mediatek_sepolicy_vndr",
