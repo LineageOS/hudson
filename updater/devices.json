@@ -71,6 +71,7 @@
   {  "model": "capri", "oem": "Motorola", "name": "moto g10 / moto g10 power / Lenovo K13 Note" },
   {  "model": "capricorn", "oem": "Xiaomi", "name": "Mi 5s" },
   {  "model": "caprip", "oem": "Motorola", "name": "moto g30 / Lenovo K13 Pro" },
+  {  "model": "cas", "oem": "Xiaomi", "name": "Mi 10 Ultra" },
   {  "model": "castor", "oem": "Sony", "name": "Xperia Tablet Z2 LTE" },
   {  "model": "castor_windy", "oem": "Sony", "name": "Xperia Tablet Z2 Wi-Fi" },
   {  "model": "casuarina", "oem": "Vsmart", "name": "Joy 3 / Joy 3+" },
