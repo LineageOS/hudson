@@ -664,6 +664,12 @@
     "car": [
         "android_device_lineage_car"
     ],
+    "cas": [
+        "android_device_xiaomi_cas",
+        "android_device_xiaomi_sm8250-common",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_sm8250"
+    ],
     "castor": [
         "android_device_sony_castor",
         "android_device_sony_castor_windy",
