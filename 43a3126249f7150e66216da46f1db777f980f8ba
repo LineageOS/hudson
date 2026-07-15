@@ -16,6 +16,24 @@
       "message": "Missing updater/devices.json change",
       "revId": "43a3126249f7150e66216da46f1db777f980f8ba",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "060ba859_6a67d391",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19979
+      },
+      "writtenOn": "2026-07-15T18:03:53Z",
+      "side": 1,
+      "message": "Will fix today",
+      "parentUuid": "f6e80adc_ec6f93ac",
+      "revId": "43a3126249f7150e66216da46f1db777f980f8ba",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
