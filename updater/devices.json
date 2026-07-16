@@ -392,6 +392,8 @@
   {  "model": "obiwan", "oem": "ASUS", "name": "ROG Phone 3" },
   {  "model": "ocean", "oem": "Motorola", "name": "moto g7 power" },
   {  "model": "odin", "oem": "Sony", "name": "Xperia ZL" },
+  {  "model": "odin_m0", "oem": "AYN", "name": "Odin (M0)" },
+  {  "model": "odin_m2", "oem": "AYN", "name": "Odin (M2)" },
   {  "model": "odroidc4", "oem": "HardKernel", "name": "ODROID-C4 (Android TV)" },
   {  "model": "odroidc4_tab", "oem": "HardKernel", "name": "ODROID-C4 (Tablet)" },
   {  "model": "onclite", "oem": "Xiaomi", "name": "Redmi 7 / Y3" },
