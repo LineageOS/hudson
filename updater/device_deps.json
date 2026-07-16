@@ -2678,6 +2678,16 @@
     "odin3": [
         "android_device_ayn_odin3"
     ],
+    "odin_m0": [
+        "android_device_ayn_odin_m0",
+        "android_device_ayn_sdm845-common",
+        "android_kernel_ayn_sdm845"
+    ],
+    "odin_m2": [
+        "android_device_ayn_odin_m2",
+        "android_device_ayn_sdm845-common",
+        "android_kernel_ayn_sdm845"
+    ],
     "odroidc4": [
         "android_device_amlogic_common",
         "android_device_amlogic_g12-common",
