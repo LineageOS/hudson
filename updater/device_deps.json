@@ -1473,6 +1473,14 @@
         "android_hardware_sony_timekeep",
         "android_kernel_lge_msm8996"
     ],
+    "h873": [
+        "android_device_lge_g6-common",
+        "android_device_lge_h873",
+        "android_device_lge_msm8996-common",
+        "android_hardware_lge",
+        "android_hardware_sony_timekeep",
+        "android_kernel_lge_msm8996"
+    ],
     "h910": [
         "android_device_lge_h910",
         "android_device_lge_msm8996-common",
