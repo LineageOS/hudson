@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "02274f70_cdcfa5b9",
+        "filename": "updater/devices.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 214,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2026-07-19T23:06:48Z",
+      "side": 1,
+      "message": "This one is out of order too",
+      "range": {
+        "startLine": 214,
+        "startChar": 15,
+        "endLine": 214,
+        "endChar": 19
+      },
+      "revId": "4be2016b8088ea82496ad1a837d55e7c497a1d19",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
