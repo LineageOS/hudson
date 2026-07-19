@@ -212,6 +212,7 @@
   {  "model": "h870", "oem": "LG", "name": "G6 (EU Unlocked)" },
   {  "model": "h870d", "oem": "LG", "name": "G6 (EU Unlocked - ENG BL)" },
   {  "model": "h872", "oem": "LG", "name": "G6 (T-Mobile)" },
+  {  "model": "h873", "oem": "LG", "name": "G6 (Canada - ENG BL)" },
   {  "model": "h910", "oem": "LG", "name": "V20 (AT&T)" },
   {  "model": "h918", "oem": "LG", "name": "V20 (TMO)" },
   {  "model": "h932", "oem": "LG", "name": "V30 (T-Mobile)" },
