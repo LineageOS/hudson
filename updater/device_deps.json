@@ -95,6 +95,9 @@
         "android_kernel_ayn_qcs8550-devicetrees",
         "android_kernel_ayn_qcs8550-modules"
     ],
+    "RPN": [
+        "android_device_retroidpocket_RPN"
+    ],
     "Spacewar": [
         "android_device_nothing_Spacewar",
         "android_hardware_nothing",
@@ -2483,9 +2486,6 @@
         "android_device_motorola_sm8250-common",
         "android_hardware_motorola",
         "android_kernel_motorola_sm8250"
-    ],
-    "nova": [
-        "android_device_retroidpocket_nova"
     ],
     "nuwa": [
         "android_device_xiaomi_nuwa",
