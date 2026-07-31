@@ -96,7 +96,13 @@
         "android_kernel_ayn_qcs8550-modules"
     ],
     "RPN": [
-        "android_device_retroidpocket_RPN"
+        "android_device_ayn_qcs8550-common",
+        "android_device_retroidpocket_RPN",
+        "android_hardware_ayn",
+        "android_kernel_ayn_common-modules",
+        "android_kernel_ayn_qcs8550",
+        "android_kernel_ayn_qcs8550-devicetrees",
+        "android_kernel_ayn_qcs8550-modules"
     ],
     "Spacewar": [
         "android_device_nothing_Spacewar",
@@ -495,6 +501,9 @@
         "android_kernel_oneplus_sm8550",
         "android_kernel_oneplus_sm8550-devicetrees",
         "android_kernel_oneplus_sm8550-modules"
+    ],
+    "berkeley": [
+        "android_device_huawei_berkeley"
     ],
     "berlin": [
         "android_device_motorola_berlin",
@@ -1948,12 +1957,12 @@
         "android_device_khadas_kvim1s",
         "android_hardware_amlogic_kernel-modules_dhd-driver",
         "android_hardware_amlogic_kernel-modules_mali-driver",
-        "android_hardware_amlogic_kernel-modules_media-5.4",
+        "android_hardware_amlogic_kernel-modules_media",
         "android_hardware_amlogic_kernel-modules_optee",
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
-        "android_kernel_amlogic_linux-5.4"
+        "android_kernel_amlogic_linux-4.9"
     ],
     "kvim3l": [
         "android_device_amlogic_common",
@@ -2715,6 +2724,20 @@
         "android_device_amlogic_sepolicy",
         "android_device_hardkernel_odroidc4",
         "android_device_hardkernel_odroidc4_tab",
+        "android_hardware_amlogic_kernel-modules_mali-driver",
+        "android_hardware_amlogic_kernel-modules_media",
+        "android_hardware_amlogic_kernel-modules_optee",
+        "android_hardware_amlogic_tools_dtbtool",
+        "android_hardware_amlogic_tools_imagepacker",
+        "android_hardware_amlogic_tools_respacker",
+        "android_kernel_amlogic_linux-4.9"
+    ],
+    "ohm": [
+        "android_device_amlogic_common",
+        "android_device_amlogic_g12-common",
+        "android_device_amlogic_ohm",
+        "android_device_amlogic_sepolicy",
+        "android_hardware_amlogic_kernel-modules_dhd-driver",
         "android_hardware_amlogic_kernel-modules_mali-driver",
         "android_hardware_amlogic_kernel-modules_media",
         "android_hardware_amlogic_kernel-modules_optee",
