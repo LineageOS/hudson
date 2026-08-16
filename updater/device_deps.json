@@ -409,6 +409,8 @@
     "b0s": [
         "android_device_samsung_b0s",
         "android_device_samsung_s5e9925-common",
+        "android_device_samsung_slsi_sepolicy",
+        "android_hardware_nxp_uwb",
         "android_hardware_samsung",
         "android_hardware_samsung_slsi-linaro_codec2",
         "android_hardware_samsung_slsi-linaro_config",
@@ -1215,6 +1217,8 @@
     "g0s": [
         "android_device_samsung_g0s",
         "android_device_samsung_s5e9925-common",
+        "android_device_samsung_slsi_sepolicy",
+        "android_hardware_nxp_uwb",
         "android_hardware_samsung",
         "android_hardware_samsung_slsi-linaro_codec2",
         "android_hardware_samsung_slsi-linaro_config",
@@ -3046,6 +3050,8 @@
     "r0s": [
         "android_device_samsung_r0s",
         "android_device_samsung_s5e9925-common",
+        "android_device_samsung_slsi_sepolicy",
+        "android_hardware_nxp_uwb",
         "android_hardware_samsung",
         "android_hardware_samsung_slsi-linaro_codec2",
         "android_hardware_samsung_slsi-linaro_config",
