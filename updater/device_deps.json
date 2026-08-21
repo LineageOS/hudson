@@ -41,22 +41,6 @@
         "android_device_10or_G",
         "android_kernel_10or_G"
     ],
-    "Mi439": [
-        "android_device_xiaomi_Mi439",
-        "android_device_xiaomi_mithorium-common",
-        "android_kernel_xiaomi_msm8937"
-    ],
-    "Mi8917": [
-        "android_device_xiaomi_Mi8917",
-        "android_device_xiaomi_Mi8937",
-        "android_device_xiaomi_mithorium-common",
-        "android_kernel_xiaomi_msm8937"
-    ],
-    "Mi8937": [
-        "android_device_xiaomi_Mi8937",
-        "android_device_xiaomi_mithorium-common",
-        "android_kernel_xiaomi_msm8937"
-    ],
     "NB1": [
         "android_device_nokia_NB1",
         "android_device_nokia_msm8998-common",
