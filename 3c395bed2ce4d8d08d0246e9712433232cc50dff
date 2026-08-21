@@ -16,6 +16,23 @@
       "message": "we only drop from build targets. Done.",
       "revId": "3c395bed2ce4d8d08d0246e9712433232cc50dff",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5a76e2d6_0a08b42d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-08-21T20:58:43Z",
+      "side": 1,
+      "message": "for tracking, extract was never updated to python, so it is broken and maintainer does not wish to fix it.",
+      "revId": "3c395bed2ce4d8d08d0246e9712433232cc50dff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
