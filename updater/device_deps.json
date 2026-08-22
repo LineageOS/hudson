@@ -2278,6 +2278,14 @@
         "android_kernel_htc_msm8974",
         "android_packages_apps_FlipFlap"
     ],
+    "manaus": [
+        "android_device_mediatek_sepolicy_vndr",
+        "android_device_motorola_manaus",
+        "android_device_motorola_mt6879-common",
+        "android_hardware_mediatek",
+        "android_hardware_motorola",
+        "android_kernel_motorola_mt6879"
+    ],
     "marble": [
         "android_device_xiaomi_marble",
         "android_device_xiaomi_sm8450-common",
