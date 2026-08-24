@@ -337,6 +337,7 @@
   {  "model": "maguro", "oem": "Google", "name": "Galaxy Nexus (GSM)" },
   {  "model": "mako", "oem": "Google", "name": "Nexus 4" },
   {  "model": "manta", "oem": "Google", "name": "Nexus 10" },
+  {  "model": "manaus", "oem": "Motorola", "name": "edge 40 neo" },
   {  "model": "marble", "oem": "Xiaomi", "name": "POCO F5 / Redmi Note 12 Turbo" },
   {  "model": "marlin", "oem": "Google", "name": "Pixel XL" },
   {  "model": "mars", "oem": "Xiaomi", "name": "Mi 11 Pro" },
