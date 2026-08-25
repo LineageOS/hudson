@@ -400,6 +400,7 @@
   {  "model": "odin_m2", "oem": "AYN", "name": "Odin (M2)" },
   {  "model": "odroidc4", "oem": "HardKernel", "name": "ODROID-C4 (S905X3, eMMC Only) [Android TV]" },
   {  "model": "odroidc4_tab", "oem": "HardKernel", "name": "ODROID-C4 (S905X3, eMMC Only) [Tablet]" },
+  {  "model": "ohm", "oem": "DroidLogic", "name": "Developer Kit (S905X4-B/K) / ADT-4/4+/4 (Low Ram)"},
   {  "model": "onclite", "oem": "Xiaomi", "name": "Redmi 7 / Y3" },
   {  "model": "oneplus2", "oem": "OnePlus", "name": "2" },
   {  "model": "oneplus3", "oem": "OnePlus", "name": "3 / 3T" },
