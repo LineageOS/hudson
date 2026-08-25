@@ -405,6 +405,7 @@
   {  "model": "oneplus2", "oem": "OnePlus", "name": "2" },
   {  "model": "oneplus3", "oem": "OnePlus", "name": "3 / 3T" },
   {  "model": "onyx", "oem": "OnePlus", "name": "X" },
+  {  "model": "oppen", "oem": "DroidLogic", "name": "Developer Kit (S905Y4)" },
   {  "model": "oriole", "oem": "Google", "name": "Pixel 6" },
   {  "model": "oscar", "oem": "Realme", "name": "9 Pro 5G / 9 5G / Q5" },
   {  "model": "oscaro", "oem": "OnePlus", "name": "Nord CE 2 Lite 5G" },
