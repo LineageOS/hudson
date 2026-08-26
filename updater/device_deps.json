@@ -2527,9 +2527,28 @@
         "android_hardware_amlogic_kernel-modules_mali-driver",
         "android_hardware_amlogic_kernel-modules_media",
         "android_hardware_amlogic_kernel-modules_optee",
+        "android_hardware_amlogic_kernel-modules_rtl8822cs",
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
+        "android_hardware_realtek",
+        "android_kernel_amlogic_linux-4.9"
+    ],
+    "nicepool_rtk": [
+        "android_device_amlogic_common",
+        "android_device_amlogic_g12-common",
+        "android_device_amlogic_sepolicy",
+        "android_device_freebox_nicepool",
+        "android_device_freebox_nicepool_rtk",
+        "android_hardware_amlogic_kernel-modules_dhd-driver",
+        "android_hardware_amlogic_kernel-modules_mali-driver",
+        "android_hardware_amlogic_kernel-modules_media",
+        "android_hardware_amlogic_kernel-modules_optee",
+        "android_hardware_amlogic_kernel-modules_rtl8822cs",
+        "android_hardware_amlogic_tools_dtbtool",
+        "android_hardware_amlogic_tools_imagepacker",
+        "android_hardware_amlogic_tools_respacker",
+        "android_hardware_realtek",
         "android_kernel_amlogic_linux-4.9"
     ],
     "nicole": [
