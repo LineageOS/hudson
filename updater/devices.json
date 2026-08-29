@@ -395,6 +395,7 @@
   {  "model": "odin", "oem": "Sony", "name": "Xperia ZL" },
   {  "model": "odin_m0", "oem": "AYN", "name": "Odin (M0)" },
   {  "model": "odin_m2", "oem": "AYN", "name": "Odin (M2)" },
+  {  "model": "odin2portal", "oem": "AYN", "name": "Odin2 Portal" },
   {  "model": "odroidc4", "oem": "HardKernel", "name": "ODROID-C4 (S905X3, eMMC Only) [Android TV]" },
   {  "model": "odroidc4_tab", "oem": "HardKernel", "name": "ODROID-C4 (S905X3, eMMC Only) [Tablet]" },
   {  "model": "onclite", "oem": "Xiaomi", "name": "Redmi 7 / Y3" },
