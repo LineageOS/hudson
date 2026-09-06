@@ -1020,6 +1020,15 @@
         "android_kernel_samsung_sm8550-devicetrees",
         "android_kernel_samsung_sm8550-modules"
     ],
+    "dm3q": [
+        "android_device_samsung_dm3q",
+        "android_device_samsung_slsi_sepolicy",
+        "android_device_samsung_sm8550-common",
+        "android_hardware_samsung",
+        "android_kernel_samsung_sm8550",
+        "android_kernel_samsung_sm8550-devicetrees",
+        "android_kernel_samsung_sm8550-modules"
+    ],
     "dodge": [
         "android_device_oneplus_dodge",
         "android_device_oneplus_sm8750-common",
@@ -2042,6 +2051,7 @@
         "android_device_xiaomi_lancelot",
         "android_device_xiaomi_mt6768-common",
         "android_hardware_mediatek",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_mt6768"
     ],
     "larry": [
@@ -2344,6 +2354,7 @@
         "android_device_xiaomi_merlinx",
         "android_device_xiaomi_mt6768-common",
         "android_hardware_mediatek",
+        "android_hardware_xiaomi",
         "android_kernel_xiaomi_mt6768"
     ],
     "mermaid": [
