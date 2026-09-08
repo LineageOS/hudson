@@ -725,6 +725,12 @@
         "android_device_vsmart_casuarina",
         "android_kernel_vsmart_msm8953"
     ],
+    "caymanlm": [
+        "android_device_lge_caymanlm",
+        "android_device_lge_sm7250-common",
+        "android_hardware_lge",
+        "android_kernel_lge_sm7250"
+    ],
     "caymanslm": [
         "android_device_lge_caymanslm",
         "android_device_lge_sdm845-common",
@@ -1470,6 +1476,12 @@
     ],
     "guam": [
         "android_device_motorola_guam",
+        "android_device_motorola_sm6225-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm6225"
+    ],
+    "guamna": [
+        "android_device_motorola_guamna",
         "android_device_motorola_sm6225-common",
         "android_hardware_motorola",
         "android_kernel_motorola_sm6225"
@@ -4030,6 +4042,12 @@
         "android_device_xiaomi_whyred",
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_sdm660"
+    ],
+    "winglm": [
+        "android_device_lge_sm7250-common",
+        "android_device_lge_winglm",
+        "android_hardware_lge",
+        "android_kernel_lge_sm7250"
     ],
     "wt88047x": [
         "android_device_cyanogen_msm8916-common",
