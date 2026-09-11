@@ -201,10 +201,7 @@
     ],
     "a52sxq": [
         "android_device_samsung_a52sxq",
-        "android_device_samsung_sm7325-common",
-        "android_hardware_samsung",
-        "android_hardware_samsung_slsi_nfc",
-        "android_kernel_samsung_sm7325"
+        "android_device_samsung_sm7325-common"
     ],
     "a5xelte": [
         "android_device_samsung_a5xelte",
@@ -255,10 +252,7 @@
     ],
     "a73xq": [
         "android_device_samsung_a73xq",
-        "android_device_samsung_sm7325-common",
-        "android_hardware_samsung",
-        "android_hardware_samsung_slsi_nfc",
-        "android_kernel_samsung_sm7325"
+        "android_device_samsung_sm7325-common"
     ],
     "a7xelte": [
         "android_device_samsung_a7xelte",
@@ -2262,10 +2256,7 @@
     ],
     "m52xq": [
         "android_device_samsung_m52xq",
-        "android_device_samsung_sm7325-common",
-        "android_hardware_samsung",
-        "android_hardware_samsung_slsi_nfc",
-        "android_kernel_samsung_sm7325"
+        "android_device_samsung_sm7325-common"
     ],
     "m5_tab": [
         "android_device_amlogic_common",
