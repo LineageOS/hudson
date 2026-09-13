@@ -494,14 +494,14 @@
         "android_device_amlogic_sepolicy",
         "android_device_google_beast",
         "android_hardware_amlogic_kernel-modules_mali-driver",
-        "android_hardware_amlogic_kernel-modules_media-pie",
-        "android_hardware_amlogic_kernel-modules_optee-pie",
+        "android_hardware_amlogic_kernel-modules_media",
+        "android_hardware_amlogic_kernel-modules_optee",
         "android_hardware_amlogic_kernel-modules_rtl8822bs",
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
         "android_hardware_realtek",
-        "android_kernel_amlogic_linux-4.9-pie"
+        "android_kernel_amlogic_linux-4.9"
     ],
     "beckham": [
         "android_device_motorola_beckham",
@@ -2004,6 +2004,22 @@
         "android_device_lenovo_kuntao",
         "android_kernel_lenovo_msm8953"
     ],
+    "kvim": [
+        "android_device_amlogic_common",
+        "android_device_amlogic_gx-common",
+        "android_device_amlogic_sepolicy",
+        "android_device_khadas_kvim",
+        "android_hardware_amlogic_kernel-modules_dhd-driver",
+        "android_hardware_amlogic_kernel-modules_mali-driver",
+        "android_hardware_amlogic_kernel-modules_media",
+        "android_hardware_amlogic_kernel-modules_optee",
+        "android_hardware_amlogic_tools_dtbtool",
+        "android_hardware_amlogic_tools_imagepacker",
+        "android_hardware_amlogic_tools_respacker",
+        "android_hardware_amlogic_u-boot",
+        "android_hardware_amlogic_u-boot_build",
+        "android_kernel_amlogic_linux-4.9"
+    ],
     "kvim1s": [
         "android_device_amlogic_ne-common",
         "android_device_khadas_kvim1s",
@@ -2257,6 +2273,8 @@
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
+        "android_hardware_amlogic_u-boot",
+        "android_hardware_amlogic_u-boot_build",
         "android_hardware_realtek",
         "android_kernel_amlogic_linux-4.9"
     ],
@@ -2281,6 +2299,8 @@
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
+        "android_hardware_amlogic_u-boot",
+        "android_hardware_amlogic_u-boot_build",
         "android_hardware_realtek",
         "android_kernel_amlogic_linux-4.9"
     ],
@@ -2806,6 +2826,8 @@
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
+        "android_hardware_amlogic_u-boot",
+        "android_hardware_amlogic_u-boot_build",
         "android_kernel_amlogic_linux-4.9"
     ],
     "odroidc4_tab": [
@@ -2820,6 +2842,8 @@
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
+        "android_hardware_amlogic_u-boot",
+        "android_hardware_amlogic_u-boot_build",
         "android_kernel_amlogic_linux-4.9"
     ],
     "ohm": [
@@ -3159,6 +3183,8 @@
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
+        "android_hardware_amlogic_u-boot",
+        "android_hardware_amlogic_u-boot_build",
         "android_kernel_amlogic_linux-4.9"
     ],
     "radxa02": [
@@ -3173,6 +3199,8 @@
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
+        "android_hardware_amlogic_u-boot",
+        "android_hardware_amlogic_u-boot_build",
         "android_kernel_amlogic_linux-4.9"
     ],
     "radxa02_car": [
@@ -3188,6 +3216,8 @@
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
+        "android_hardware_amlogic_u-boot",
+        "android_hardware_amlogic_u-boot_build",
         "android_kernel_amlogic_linux-4.9"
     ],
     "radxa02_tab": [
@@ -3203,6 +3233,8 @@
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
+        "android_hardware_amlogic_u-boot",
+        "android_hardware_amlogic_u-boot_build",
         "android_kernel_amlogic_linux-4.9"
     ],
     "radxa02pro": [
@@ -3217,6 +3249,8 @@
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
+        "android_hardware_amlogic_u-boot",
+        "android_hardware_amlogic_u-boot_build",
         "android_kernel_amlogic_linux-4.9"
     ],
     "radxa02pro_tab": [
@@ -3232,6 +3266,8 @@
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
+        "android_hardware_amlogic_u-boot",
+        "android_hardware_amlogic_u-boot_build",
         "android_kernel_amlogic_linux-4.9"
     ],
     "radxa0_car": [
@@ -3247,6 +3283,8 @@
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
+        "android_hardware_amlogic_u-boot",
+        "android_hardware_amlogic_u-boot_build",
         "android_kernel_amlogic_linux-4.9"
     ],
     "radxa0_tab": [
@@ -3262,6 +3300,8 @@
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
+        "android_hardware_amlogic_u-boot",
+        "android_hardware_amlogic_u-boot_build",
         "android_kernel_amlogic_linux-4.9"
     ],
     "rango": [
