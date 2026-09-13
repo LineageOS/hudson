@@ -2755,15 +2755,6 @@
         "android_device_ayn_qcs8550-ack",
         "android_hardware_qcom_audioreach-topology"
     ],
-    "odin2mini": [
-        "android_device_ayn_odin2mini",
-        "android_device_ayn_qcs8550-common",
-        "android_hardware_ayn",
-        "android_kernel_ayn_common-modules",
-        "android_kernel_ayn_qcs8550",
-        "android_kernel_ayn_qcs8550-devicetrees",
-        "android_kernel_ayn_qcs8550-modules"
-    ],
     "odin2portal": [
         "android_device_ayn_odin2portal",
         "android_device_ayn_qcs8550-common",
