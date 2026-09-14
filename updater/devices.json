@@ -66,6 +66,7 @@
   {  "model": "bramble", "oem": "Google", "name": "Pixel 4a 5G" },
   {  "model": "bronco", "oem": "Motorola", "name": "ThinkPhone by motorola" },
   {  "model": "bullhead", "oem": "Google", "name": "Nexus 5X" },
+  {  "model": "c2s", "oem": "Samsung", "name": "Galaxy Note20 Ultra (4G/5G)" },
   {  "model": "caihong", "oem": "OnePlus", "name": "Pad Pro / Pad 2" },
   {  "model": "caiman", "oem": "Google", "name": "Pixel 9 Pro" },
   {  "model": "cancro", "oem": "Xiaomi", "name": "Mi 3w and Mi 4" },
