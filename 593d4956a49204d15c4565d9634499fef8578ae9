@@ -16,6 +16,24 @@
       "message": "Update manifest please.",
       "revId": "593d4956a49204d15c4565d9634499fef8578ae9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4dff633f_04305f0b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36094
+      },
+      "writtenOn": "2026-09-14T12:20:21Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "e3946b9a_9a752136",
+      "revId": "593d4956a49204d15c4565d9634499fef8578ae9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
