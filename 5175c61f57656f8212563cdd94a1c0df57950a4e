@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "785c2175_10a78451",
+        "filename": "lineage-build-targets",
+        "patchSetId": 15
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 19252
+      },
+      "writtenOn": "2026-09-16T16:21:48Z",
+      "side": 1,
+      "message": "Please keep in mind fellas, when you do copy/paste, make sure you change it to lineage-24.0. I fixed this one for someone",
+      "revId": "5175c61f57656f8212563cdd94a1c0df57950a4e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
