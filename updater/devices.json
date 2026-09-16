@@ -47,6 +47,7 @@
   {  "model": "bardock", "oem": "BQ", "name": "Aquaris X" },
   {  "model": "bardockpro", "oem": "BQ", "name": "Aquaris X Pro" },
   {  "model": "bathena", "oem": "Motorola", "name": "defy 2021" },
+  {  "model": "beast", "oem": "Google", "name": "ADT-2" },
   {  "model": "beckham", "oem": "Motorola", "name": "moto z3 play" },
   {  "model": "benz", "oem": "OnePlus", "name": "Nord CE4" },
   {  "model": "berkeley", "oem": "Huawei", "name": "Honor View 10" },
