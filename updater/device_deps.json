@@ -2013,6 +2013,14 @@
         "android_device_google_komodo",
         "android_device_google_zumapro"
     ],
+    "ktm": [
+        "android_device_oneplus_ktm",
+        "android_device_oneplus_sm8750-common",
+        "android_hardware_oplus",
+        "android_kernel_oneplus_sm8750",
+        "android_kernel_oneplus_sm8750-devicetrees",
+        "android_kernel_oneplus_sm8750-modules"
+    ],
     "kugo": [
         "android_device_sony_kugo",
         "android_device_sony_loire-common",
