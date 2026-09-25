@@ -1792,8 +1792,8 @@
         "android_device_amlogic_ne-common",
         "android_device_xiaomi_jaws",
         "android_hardware_realtek",
-        "android_kernel_amlogic_oppen-build",
-        "android_kernel_amlogic_realtek-drivers_8822cs"
+        "android_kernel_amlogic_realtek-drivers_8822cs",
+        "android_kernel_xiaomi_jaws-build"
     ],
     "jetson": [
         "android_device_mainline_common",
