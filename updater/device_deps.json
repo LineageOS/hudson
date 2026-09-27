@@ -656,6 +656,21 @@
         "android_kernel_motorola_sm8475-devicetrees",
         "android_kernel_motorola_sm8475-modules"
     ],
+    "c1s": [
+        "android_device_samsung_c1s",
+        "android_device_samsung_slsi_sepolicy",
+        "android_device_samsung_universal9830-common",
+        "android_hardware_nxp_uwb",
+        "android_hardware_samsung",
+        "android_hardware_samsung_slsi-linaro_config",
+        "android_hardware_samsung_slsi-linaro_exynos",
+        "android_hardware_samsung_slsi-linaro_exynos5",
+        "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_interfaces",
+        "android_hardware_samsung_slsi-linaro_openmax",
+        "android_hardware_samsung_slsi_nfc",
+        "android_kernel_samsung_universal9830"
+    ],
     "c2s": [
         "android_device_samsung_c2s",
         "android_device_samsung_slsi_sepolicy",
@@ -1791,8 +1806,7 @@
     "jaws": [
         "android_device_amlogic_ne-common",
         "android_device_xiaomi_jaws",
-        "android_hardware_realtek",
-        "android_kernel_amlogic_realtek-drivers_8822cs",
+        "android_kernel_amlogic_mtk-drivers_mt7663u",
         "android_kernel_xiaomi_jaws-build"
     ],
     "jetson": [
