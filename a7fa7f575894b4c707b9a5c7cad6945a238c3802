@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4c49c82c_bc021c68",
+        "filename": "lineage-build-targets",
+        "patchSetId": 2
+      },
+      "lineNbr": 131,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-10-01T07:03:49Z",
+      "side": 1,
+      "message": "P come before R",
+      "revId": "a7fa7f575894b4c707b9a5c7cad6945a238c3802",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
