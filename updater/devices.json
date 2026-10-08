@@ -528,6 +528,7 @@
   {  "model": "style3lm", "oem": "LG", "name": "Style3" },
   {  "model": "sumire", "oem": "Sony", "name": "Xperia Z5" },
   {  "model": "sunfish", "oem": "Google", "name": "Pixel 4a" },
+  {  "model": "sunstone", "oem": "Amazon", "name": "Fire Max 11" },
   {  "model": "surnia", "oem": "Motorola", "name": "moto e LTE (2015)" },
   {  "model": "surya", "oem": "Xiaomi", "name": "POCO X3 NFC" },
   {  "model": "suzu", "oem": "Sony", "name": "Xperia X" },
