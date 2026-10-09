@@ -260,6 +260,7 @@
   {  "model": "i9300", "oem": "Samsung", "name": "Galaxy S III (Intl)" },
   {  "model": "i9305", "oem": "Samsung", "name": "Galaxy S III (GSM LTE)" },
   {  "model": "ibiza", "oem": "Motorola", "name": "moto g50" },
+  {  "model": "iceland", "oem": "OnePlus", "name": "Pad 3 Pro / Pad 4" },
   {  "model": "ido", "oem": "Xiaomi", "name": "Redmi 3/Prime" },
   {  "model": "infiniti", "oem": "OnePlus", "name": "15" },
   {  "model": "ingot", "oem": "Solana", "name": "Saga" },
