@@ -602,6 +602,7 @@
   {  "model": "X01BD", "oem": "ASUS", "name": "Zenfone Max Pro M2" },
   {  "model": "x1s", "oem": "Samsung", "name": "Galaxy S20 (4G/5G)" },
   {  "model": "x2", "oem": "LeEco", "name": "Le Max 2" },
+  {  "model": "xaga", "oem": "Xiaomi", "name": "Redmi Note 11T Pro / Pro+ / POCO X4 GT / Redmi K50i" },
   {  "model": "xmsirius", "oem": "Xiaomi", "name": "Mi 8 SE" },
   {  "model": "xpeng", "oem": "Motorola", "name": "moto g200 5G / Edge S30" },
   {  "model": "xt897", "oem": "Motorola", "name": "PHOTON Q 4G LTE" },
