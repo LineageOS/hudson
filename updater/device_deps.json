@@ -317,7 +317,6 @@
     "akita": [
         "android_device_google_akita",
         "android_device_google_akita-kernels",
-        "android_device_google_gs-common",
         "android_device_google_zuma"
     ],
     "albus": [
@@ -410,7 +409,6 @@
         "android_device_samsung_b0s",
         "android_device_samsung_s5e9925-common",
         "android_device_samsung_slsi_sepolicy",
-        "android_hardware_nxp_uwb",
         "android_hardware_samsung",
         "android_hardware_samsung_slsi-linaro_codec2",
         "android_hardware_samsung_slsi-linaro_config",
@@ -472,6 +470,8 @@
     "basic_x86_64_pc": [
         "android_device_mainline_common",
         "android_device_pc_basic_x86_64_pc",
+        "android_external_alsa-lib",
+        "android_external_alsa-ucm-conf",
         "android_external_drm_hwcomposer-upstream",
         "android_external_libdisplay-info-upstream",
         "android_external_linux-firmware-mainline",
@@ -480,7 +480,8 @@
         "android_hardware_mainline_common",
         "android_kernel_mainline_configs",
         "android_kernel_virt_virtio",
-        "android_prebuilts_mesa-build-dep"
+        "android_prebuilts_mesa-build-dep",
+        "android_vendor_mainline"
     ],
     "bathena": [
         "android_device_motorola_bathena",
@@ -613,7 +614,6 @@
     ],
     "blazer": [
         "android_device_google_blazer",
-        "android_device_google_gs-common",
         "android_device_google_laguna",
         "android_device_google_muzel",
         "android_device_google_muzel-kernels"
@@ -621,7 +621,6 @@
     "bluejay": [
         "android_device_google_bluejay",
         "android_device_google_bluejay-kernels",
-        "android_device_google_gs-common",
         "android_device_google_gs101"
     ],
     "blueline": [
@@ -660,7 +659,6 @@
         "android_device_samsung_c1s",
         "android_device_samsung_slsi_sepolicy",
         "android_device_samsung_universal9830-common",
-        "android_hardware_nxp_uwb",
         "android_hardware_samsung",
         "android_hardware_samsung_slsi-linaro_config",
         "android_hardware_samsung_slsi-linaro_exynos",
@@ -675,7 +673,6 @@
         "android_device_samsung_c2s",
         "android_device_samsung_slsi_sepolicy",
         "android_device_samsung_universal9830-common",
-        "android_hardware_nxp_uwb",
         "android_hardware_samsung",
         "android_hardware_samsung_slsi-linaro_config",
         "android_hardware_samsung_slsi-linaro_exynos",
@@ -698,7 +695,6 @@
         "android_device_google_caiman",
         "android_device_google_caimito",
         "android_device_google_caimito-kernels",
-        "android_device_google_gs-common",
         "android_device_google_zumapro"
     ],
     "capri": [
@@ -801,7 +797,6 @@
     ],
     "cheetah": [
         "android_device_google_cheetah",
-        "android_device_google_gs-common",
         "android_device_google_gs201",
         "android_device_google_pantah",
         "android_device_google_pantah-kernels"
@@ -838,7 +833,6 @@
     "comet": [
         "android_device_google_comet",
         "android_device_google_comet-kernels",
-        "android_device_google_gs-common",
         "android_device_google_zumapro"
     ],
     "concord_tab": [
@@ -1049,7 +1043,6 @@
     ],
     "dm1q": [
         "android_device_samsung_dm1q",
-        "android_device_samsung_slsi_sepolicy",
         "android_device_samsung_sm8550-common",
         "android_hardware_samsung",
         "android_kernel_samsung_sm8550",
@@ -1058,7 +1051,6 @@
     ],
     "dm3q": [
         "android_device_samsung_dm3q",
-        "android_device_samsung_slsi_sepolicy",
         "android_device_samsung_sm8550-common",
         "android_hardware_samsung",
         "android_kernel_samsung_sm8550",
@@ -1188,6 +1180,10 @@
         "android_hardware_samsung_slsi_nfc",
         "android_kernel_samsung_exynos9820"
     ],
+    "fairlady": [
+        "android_device_oneplus_fairlady",
+        "android_device_oneplus_sm8850-common"
+    ],
     "fajita": [
         "android_device_oneplus_fajita",
         "android_device_oneplus_sdm845-common",
@@ -1197,7 +1193,6 @@
     "felix": [
         "android_device_google_felix",
         "android_device_google_felix-kernels",
-        "android_device_google_gs-common",
         "android_device_google_gs201"
     ],
     "find7": [
@@ -1242,7 +1237,6 @@
     ],
     "frankel": [
         "android_device_google_frankel",
-        "android_device_google_gs-common",
         "android_device_google_laguna",
         "android_device_google_muzel",
         "android_device_google_muzel-kernels"
@@ -1263,7 +1257,6 @@
         "android_device_samsung_g0s",
         "android_device_samsung_s5e9925-common",
         "android_device_samsung_slsi_sepolicy",
-        "android_hardware_nxp_uwb",
         "android_hardware_samsung",
         "android_hardware_samsung_slsi-linaro_codec2",
         "android_hardware_samsung_slsi-linaro_config",
@@ -1314,6 +1307,8 @@
     "generic": [
         "android_device_mainline_common",
         "android_device_mainline_generic",
+        "android_external_alsa-lib",
+        "android_external_alsa-ucm-conf",
         "android_external_drm_hwcomposer-upstream",
         "android_external_libdisplay-info-upstream",
         "android_external_linux-firmware-mainline",
@@ -1323,7 +1318,8 @@
         "android_hardware_mainline_common",
         "android_kernel_mainline_configs",
         "android_prebuilts_bootmgr",
-        "android_prebuilts_mesa-build-dep"
+        "android_prebuilts_mesa-build-dep",
+        "android_vendor_mainline"
     ],
     "genevn": [
         "android_device_motorola_genevn",
@@ -1734,7 +1730,6 @@
         "android_kernel_oneplus_sm8750-modules"
     ],
     "husky": [
-        "android_device_google_gs-common",
         "android_device_google_husky",
         "android_device_google_shusky",
         "android_device_google_shusky-kernels",
@@ -1746,6 +1741,10 @@
         "android_hardware_motorola",
         "android_kernel_motorola_sm6375"
     ],
+    "iceland": [
+        "android_device_oneplus_iceland",
+        "android_device_oneplus_sm8850-common"
+    ],
     "icera": [
         "android_device_nvidia_icera"
     ],
@@ -1753,6 +1752,10 @@
         "android_device_nintendo_icosa",
         "android_device_nvidia_foster",
         "android_device_nvidia_foster_tab"
+    ],
+    "infiniti": [
+        "android_device_oneplus_infiniti",
+        "android_device_oneplus_sm8850-common"
     ],
     "ingot": [
         "android_device_osom_ingot",
@@ -1790,6 +1793,12 @@
         "android_hardware_samsung",
         "android_kernel_samsung_jf"
     ],
+    "jagar": [
+        "android_device_daylight_jagar",
+        "android_device_mediatek_sepolicy_vndr",
+        "android_hardware_mediatek",
+        "android_kernel_daylight_mt6789"
+    ],
     "jasmine_sprout": [
         "android_device_xiaomi_jasmine_sprout",
         "android_device_xiaomi_sdm660-common",
@@ -1819,6 +1828,8 @@
         "android_device_nvidia_t124-common",
         "android_device_nvidia_tegra-common",
         "android_device_nvidia_touch",
+        "android_external_alsa-lib",
+        "android_external_alsa-ucm-conf",
         "android_external_drm_hwcomposer-upstream",
         "android_external_libdisplay-info-upstream",
         "android_external_linux-firmware-mainline",
@@ -1834,7 +1845,8 @@
         "android_hardware_nvidia_power",
         "android_hardware_nvidia_thermal",
         "android_kernel_nvidia_shield",
-        "android_prebuilts_mesa-build-dep"
+        "android_prebuilts_mesa-build-dep",
+        "android_vendor_mainline"
     ],
     "jflteatt": [
         "android_device_samsung_jf-common",
@@ -2023,7 +2035,6 @@
     "komodo": [
         "android_device_google_caimito",
         "android_device_google_caimito-kernels",
-        "android_device_google_gs-common",
         "android_device_google_komodo",
         "android_device_google_zumapro"
     ],
@@ -2252,7 +2263,6 @@
         "android_system_qcom"
     ],
     "lynx": [
-        "android_device_google_gs-common",
         "android_device_google_gs201",
         "android_device_google_lynx",
         "android_device_google_lynx-kernels"
@@ -2474,6 +2484,8 @@
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_arm64",
         "android_device_xiaomi_mi710-mainline",
+        "android_external_alsa-lib",
+        "android_external_alsa-ucm-conf",
         "android_external_drm_hwcomposer-upstream",
         "android_external_libdisplay-info-upstream",
         "android_external_linux-firmware-mainline",
@@ -2486,7 +2498,8 @@
         "android_kernel_mainline_configs",
         "android_kernel_virt_virtio",
         "android_prebuilts_bootmgr",
-        "android_prebuilts_mesa-build-dep"
+        "android_prebuilts_mesa-build-dep",
+        "android_vendor_mainline"
     ],
     "mi7150-mainline": [
         "android_device_mainline_common",
@@ -2495,6 +2508,8 @@
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_arm64",
         "android_device_xiaomi_mi7150-mainline",
+        "android_external_alsa-lib",
+        "android_external_alsa-ucm-conf",
         "android_external_drm_hwcomposer-upstream",
         "android_external_libdisplay-info-upstream",
         "android_external_linux-firmware-mainline",
@@ -2507,12 +2522,15 @@
         "android_kernel_mainline_configs",
         "android_kernel_virt_virtio",
         "android_prebuilts_bootmgr",
-        "android_prebuilts_mesa-build-dep"
+        "android_prebuilts_mesa-build-dep",
+        "android_vendor_mainline"
     ],
     "mi89xx-mainline": [
         "android_device_mainline_common",
         "android_device_mainline_qcom-common",
         "android_device_xiaomi_mi89xx-mainline",
+        "android_external_alsa-lib",
+        "android_external_alsa-ucm-conf",
         "android_external_drm_hwcomposer-upstream",
         "android_external_libdisplay-info-upstream",
         "android_external_linux-firmware-mainline",
@@ -2520,12 +2538,12 @@
         "android_external_mesa",
         "android_external_minigbm-upstream",
         "android_external_tinyhal",
-        "android_hardware_intel_sensors-iio",
         "android_hardware_mainline_common",
         "android_hardware_mainline_qcom",
         "android_hardware_sony_timekeep",
         "android_kernel_mainline_configs",
-        "android_prebuilts_mesa-build-dep"
+        "android_prebuilts_mesa-build-dep",
+        "android_vendor_mainline"
     ],
     "miami": [
         "android_device_motorola_miami",
@@ -2591,7 +2609,6 @@
         "android_packages_apps_ElmyraService"
     ],
     "mustang": [
-        "android_device_google_gs-common",
         "android_device_google_laguna",
         "android_device_google_mustang",
         "android_device_google_muzel",
@@ -2674,6 +2691,8 @@
         "android_device_nvidia_sepolicy",
         "android_device_nvidia_t210-common",
         "android_device_nvidia_tegra-common",
+        "android_external_alsa-lib",
+        "android_external_alsa-ucm-conf",
         "android_external_drm_hwcomposer-upstream",
         "android_external_libdisplay-info-upstream",
         "android_external_libevdev",
@@ -2703,7 +2722,8 @@
         "android_kernel_nvidia_nvidia-nx",
         "android_kernel_nvidia_wireguard",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3",
-        "android_prebuilts_mesa-build-dep"
+        "android_prebuilts_mesa-build-dep",
+        "android_vendor_mainline"
     ],
     "nx563j": [
         "android_device_nubia_msm8998-common",
@@ -2765,6 +2785,8 @@
         "android_device_nvidia_sepolicy",
         "android_device_nvidia_t210-common",
         "android_device_nvidia_tegra-common",
+        "android_external_alsa-lib",
+        "android_external_alsa-ucm-conf",
         "android_external_drm_hwcomposer-upstream",
         "android_external_libdisplay-info-upstream",
         "android_external_libevdev",
@@ -2794,7 +2816,8 @@
         "android_kernel_nvidia_nvidia-nx",
         "android_kernel_nvidia_wireguard",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3",
-        "android_prebuilts_mesa-build-dep"
+        "android_prebuilts_mesa-build-dep",
+        "android_vendor_mainline"
     ],
     "obiwan": [
         "android_device_asus_obiwan"
@@ -2926,7 +2949,6 @@
         "android_kernel_amlogic_realtek-drivers_8822cs"
     ],
     "oriole": [
-        "android_device_google_gs-common",
         "android_device_google_gs101",
         "android_device_google_oriole",
         "android_device_google_raviole",
@@ -2971,7 +2993,6 @@
         "android_kernel_shift_qcm6490"
     ],
     "panther": [
-        "android_device_google_gs-common",
         "android_device_google_gs201",
         "android_device_google_pantah",
         "android_device_google_pantah-kernels",
@@ -3186,7 +3207,6 @@
         "android_device_samsung_r0s",
         "android_device_samsung_s5e9925-common",
         "android_device_samsung_slsi_sepolicy",
-        "android_hardware_nxp_uwb",
         "android_hardware_samsung",
         "android_hardware_samsung_slsi-linaro_codec2",
         "android_hardware_samsung_slsi-linaro_config",
@@ -3209,7 +3229,6 @@
         "android_device_samsung_r8s",
         "android_device_samsung_slsi_sepolicy",
         "android_device_samsung_universal9830-common",
-        "android_hardware_nxp_uwb",
         "android_hardware_samsung",
         "android_hardware_samsung_slsi-linaro_config",
         "android_hardware_samsung_slsi-linaro_exynos",
@@ -3239,8 +3258,6 @@
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
-        "android_hardware_amlogic_u-boot",
-        "android_hardware_amlogic_u-boot_build",
         "android_kernel_amlogic_linux-4.9"
     ],
     "radxa02": [
@@ -3339,8 +3356,6 @@
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
-        "android_hardware_amlogic_u-boot",
-        "android_hardware_amlogic_u-boot_build",
         "android_kernel_amlogic_linux-4.9"
     ],
     "radxa0_tab": [
@@ -3356,12 +3371,9 @@
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
-        "android_hardware_amlogic_u-boot",
-        "android_hardware_amlogic_u-boot_build",
         "android_kernel_amlogic_linux-4.9"
     ],
     "rango": [
-        "android_device_google_gs-common",
         "android_device_google_laguna",
         "android_device_google_rango",
         "android_device_google_rango-kernels"
@@ -3373,7 +3385,6 @@
         "android_kernel_xiaomi_sm8150"
     ],
     "raven": [
-        "android_device_google_gs-common",
         "android_device_google_gs101",
         "android_device_google_raven",
         "android_device_google_raviole",
@@ -3571,7 +3582,6 @@
         "android_kernel_xiaomi_shark"
     ],
     "shiba": [
-        "android_device_google_gs-common",
         "android_device_google_shiba",
         "android_device_google_shusky",
         "android_device_google_shusky-kernels",
@@ -3586,6 +3596,8 @@
         "android_device_nvidia_t124-common",
         "android_device_nvidia_tegra-common",
         "android_device_nvidia_touch",
+        "android_external_alsa-lib",
+        "android_external_alsa-ucm-conf",
         "android_external_drm_hwcomposer-upstream",
         "android_external_libdisplay-info-upstream",
         "android_external_linux-firmware-mainline",
@@ -3601,7 +3613,8 @@
         "android_hardware_nvidia_power",
         "android_hardware_nvidia_thermal",
         "android_kernel_nvidia_shield",
-        "android_prebuilts_mesa-build-dep"
+        "android_prebuilts_mesa-build-dep",
+        "android_vendor_mainline"
     ],
     "sif": [
         "android_device_nvidia_foster",
@@ -3629,6 +3642,8 @@
         "android_device_apple_snowcastle",
         "android_device_mainline_common",
         "android_device_mainline_generic",
+        "android_external_alsa-lib",
+        "android_external_alsa-ucm-conf",
         "android_external_drm_hwcomposer-upstream",
         "android_external_libdisplay-info-upstream",
         "android_external_linux-firmware-mainline",
@@ -3638,7 +3653,8 @@
         "android_hardware_mainline_common",
         "android_kernel_mainline_configs",
         "android_prebuilts_bootmgr",
-        "android_prebuilts_mesa-build-dep"
+        "android_prebuilts_mesa-build-dep",
+        "android_vendor_mainline"
     ],
     "socrates": [
         "android_device_xiaomi_sm8550-common",
@@ -3654,6 +3670,8 @@
         "android_device_nvidia_sepolicy",
         "android_device_nvidia_t210-common",
         "android_device_nvidia_tegra-common",
+        "android_external_alsa-lib",
+        "android_external_alsa-ucm-conf",
         "android_external_drm_hwcomposer-upstream",
         "android_external_libdisplay-info-upstream",
         "android_external_linux-firmware-mainline",
@@ -3704,12 +3722,12 @@
         "android_kernel_nvidia_wireguard",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1",
         "android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-9.3",
-        "android_prebuilts_mesa-build-dep"
+        "android_prebuilts_mesa-build-dep",
+        "android_vendor_mainline"
     ],
     "stallion": [
-        "android_device_google_gs-common",
         "android_device_google_stallion",
-        "android_device_google_tegu-kernels",
+        "android_device_google_stallion-kernels",
         "android_device_google_zumapro"
     ],
     "star2lte": [
@@ -3735,6 +3753,13 @@
     "sunfish": [
         "android_device_google_sunfish",
         "android_kernel_google_msm-4.14"
+    ],
+    "sunstone": [
+        "android_device_amazon_sunstone",
+        "android_device_mediatek_sepolicy_vndr",
+        "android_hardware_amazon",
+        "android_hardware_mediatek",
+        "android_kernel_amazon_mt8188"
     ],
     "surnia": [
         "android_device_motorola_msm8916-common",
@@ -3772,13 +3797,11 @@
         "android_packages_apps_ElmyraService"
     ],
     "tangorpro": [
-        "android_device_google_gs-common",
         "android_device_google_gs201",
         "android_device_google_tangorpro",
         "android_device_google_tangorpro-kernels"
     ],
     "tegu": [
-        "android_device_google_gs-common",
         "android_device_google_tegu",
         "android_device_google_tegu-kernels",
         "android_device_google_zumapro"
@@ -3817,7 +3840,6 @@
     "tokay": [
         "android_device_google_caimito",
         "android_device_google_caimito-kernels",
-        "android_device_google_gs-common",
         "android_device_google_tokay",
         "android_device_google_zumapro"
     ],
@@ -3929,6 +3951,8 @@
         "android_device_mainline_common",
         "android_device_virt_vboxware",
         "android_device_virt_virt-common",
+        "android_external_alsa-lib",
+        "android_external_alsa-ucm-conf",
         "android_external_drm_hwcomposer-upstream",
         "android_external_libdisplay-info-upstream",
         "android_external_linux-firmware-mainline",
@@ -3938,7 +3962,8 @@
         "android_kernel_mainline_configs",
         "android_kernel_virt_virtio",
         "android_prebuilts_bootmgr",
-        "android_prebuilts_mesa-build-dep"
+        "android_prebuilts_mesa-build-dep",
+        "android_vendor_mainline"
     ],
     "vboxware_arm64only": [
         "android_device_mainline_common",
@@ -3947,6 +3972,8 @@
         "android_device_virt_virt-common",
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_arm64",
+        "android_external_alsa-lib",
+        "android_external_alsa-ucm-conf",
         "android_external_drm_hwcomposer-upstream",
         "android_external_libdisplay-info-upstream",
         "android_external_linux-firmware-mainline",
@@ -3956,7 +3983,8 @@
         "android_kernel_mainline_configs",
         "android_kernel_virt_virtio",
         "android_prebuilts_bootmgr",
-        "android_prebuilts_mesa-build-dep"
+        "android_prebuilts_mesa-build-dep",
+        "android_vendor_mainline"
     ],
     "vela": [
         "android_device_xiaomi_sdm710-common",
@@ -4002,6 +4030,8 @@
         "android_device_virt_virt-common",
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_arm64",
+        "android_external_alsa-lib",
+        "android_external_alsa-ucm-conf",
         "android_external_drm_hwcomposer-upstream",
         "android_external_libdisplay-info-upstream",
         "android_external_linux-firmware-mainline",
@@ -4011,7 +4041,8 @@
         "android_kernel_mainline_configs",
         "android_kernel_virt_virtio",
         "android_prebuilts_bootmgr",
-        "android_prebuilts_mesa-build-dep"
+        "android_prebuilts_mesa-build-dep",
+        "android_vendor_mainline"
     ],
     "virtio_arm64only": [
         "android_device_mainline_common",
@@ -4019,6 +4050,8 @@
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_arm64",
         "android_device_virt_virtio_arm64only",
+        "android_external_alsa-lib",
+        "android_external_alsa-ucm-conf",
         "android_external_drm_hwcomposer-upstream",
         "android_external_libdisplay-info-upstream",
         "android_external_linux-firmware-mainline",
@@ -4028,13 +4061,16 @@
         "android_kernel_mainline_configs",
         "android_kernel_virt_virtio",
         "android_prebuilts_bootmgr",
-        "android_prebuilts_mesa-build-dep"
+        "android_prebuilts_mesa-build-dep",
+        "android_vendor_mainline"
     ],
     "virtio_x86_64": [
         "android_device_mainline_common",
         "android_device_virt_virt-common",
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_x86_64",
+        "android_external_alsa-lib",
+        "android_external_alsa-ucm-conf",
         "android_external_drm_hwcomposer-upstream",
         "android_external_libdisplay-info-upstream",
         "android_external_linux-firmware-mainline",
@@ -4044,7 +4080,8 @@
         "android_kernel_mainline_configs",
         "android_kernel_virt_virtio",
         "android_prebuilts_bootmgr",
-        "android_prebuilts_mesa-build-dep"
+        "android_prebuilts_mesa-build-dep",
+        "android_vendor_mainline"
     ],
     "virtio_x86_64_car": [
         "android_device_mainline_common",
@@ -4052,6 +4089,8 @@
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_x86_64",
         "android_device_virt_virtio_x86_64_car",
+        "android_external_alsa-lib",
+        "android_external_alsa-ucm-conf",
         "android_external_drm_hwcomposer-upstream",
         "android_external_libdisplay-info-upstream",
         "android_external_linux-firmware-mainline",
@@ -4061,7 +4100,8 @@
         "android_kernel_mainline_configs",
         "android_kernel_virt_virtio",
         "android_prebuilts_bootmgr",
-        "android_prebuilts_mesa-build-dep"
+        "android_prebuilts_mesa-build-dep",
+        "android_vendor_mainline"
     ],
     "virtio_x86_64_tv": [
         "android_device_mainline_common",
@@ -4069,6 +4109,8 @@
         "android_device_virt_virtio-common",
         "android_device_virt_virtio_x86_64",
         "android_device_virt_virtio_x86_64_tv",
+        "android_external_alsa-lib",
+        "android_external_alsa-ucm-conf",
         "android_external_drm_hwcomposer-upstream",
         "android_external_libdisplay-info-upstream",
         "android_external_linux-firmware-mainline",
@@ -4078,7 +4120,8 @@
         "android_kernel_mainline_configs",
         "android_kernel_virt_virtio",
         "android_prebuilts_bootmgr",
-        "android_prebuilts_mesa-build-dep"
+        "android_prebuilts_mesa-build-dep",
+        "android_vendor_mainline"
     ],
     "voyager": [
         "android_device_sony_nile-common",
@@ -4174,7 +4217,6 @@
         "android_device_samsung_slsi_sepolicy",
         "android_device_samsung_universal9830-common",
         "android_device_samsung_x1s",
-        "android_hardware_nxp_uwb",
         "android_hardware_samsung",
         "android_hardware_samsung_slsi-linaro_config",
         "android_hardware_samsung_slsi-linaro_exynos",
@@ -4189,6 +4231,14 @@
         "android_device_leeco_msm8996-common",
         "android_device_leeco_x2",
         "android_kernel_leeco_msm8996"
+    ],
+    "xaga": [
+        "android_device_mediatek_sepolicy_vndr",
+        "android_device_xiaomi_mt6895-common",
+        "android_device_xiaomi_xaga",
+        "android_hardware_mediatek",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_mt6895"
     ],
     "xmsirius": [
         "android_device_xiaomi_sdm710-common",
@@ -4221,7 +4271,6 @@
         "android_device_samsung_slsi_sepolicy",
         "android_device_samsung_universal9830-common",
         "android_device_samsung_y2s",
-        "android_hardware_nxp_uwb",
         "android_hardware_samsung",
         "android_hardware_samsung_slsi-linaro_config",
         "android_hardware_samsung_slsi-linaro_exynos",
@@ -4282,7 +4331,6 @@
         "android_device_samsung_slsi_sepolicy",
         "android_device_samsung_universal9830-common",
         "android_device_samsung_z3s",
-        "android_hardware_nxp_uwb",
         "android_hardware_samsung",
         "android_hardware_samsung_slsi-linaro_config",
         "android_hardware_samsung_slsi-linaro_exynos",
