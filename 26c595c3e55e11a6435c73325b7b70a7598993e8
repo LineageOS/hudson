@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5dcf4c48_59431f9e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2026-10-15T17:16:48Z",
+      "side": 1,
+      "message": "Merge if not fixed by Tuesday when this device gets built",
+      "revId": "26c595c3e55e11a6435c73325b7b70a7598993e8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
