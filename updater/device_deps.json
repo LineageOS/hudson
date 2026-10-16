@@ -1104,6 +1104,14 @@
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_earth"
     ],
+    "ellis": [
+        "android_device_mediatek_sepolicy_vndr",
+        "android_device_motorola_ellis",
+        "android_device_motorola_mt6765-common",
+        "android_hardware_mediatek",
+        "android_hardware_motorola",
+        "android_kernel_motorola_mt6765"
+    ],
     "enchilada": [
         "android_device_oneplus_enchilada",
         "android_device_oneplus_sdm845-common",
