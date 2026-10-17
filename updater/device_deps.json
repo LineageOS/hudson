@@ -2581,6 +2581,14 @@
         "android_kernel_sony_msm8x60",
         "android_packages_resources_devicesettings"
     ],
+    "mona": [
+        "android_device_motorola_mona",
+        "android_device_motorola_sm7435-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm7435",
+        "android_kernel_motorola_sm7435-devicetrees",
+        "android_kernel_motorola_sm7435-modules"
+    ],
     "mondrian": [
         "android_device_xiaomi_mondrian",
         "android_device_xiaomi_sm8450-common",
@@ -2890,7 +2898,13 @@
         "android_kernel_ayn_qcs8550-modules"
     ],
     "odin3": [
-        "android_device_ayn_odin3"
+        "android_device_ayn_cq8725s-common",
+        "android_device_ayn_odin3",
+        "android_hardware_ayn",
+        "android_kernel_ayn_common-modules",
+        "android_kernel_ayn_cq8725s",
+        "android_kernel_ayn_cq8725s-devicetrees",
+        "android_kernel_ayn_cq8725s-modules"
     ],
     "odin_m0": [
         "android_device_ayn_odin_m0",
