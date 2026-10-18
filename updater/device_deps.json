@@ -3280,6 +3280,8 @@
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
+        "android_hardware_amlogic_u-boot",
+        "android_hardware_amlogic_u-boot_build",
         "android_kernel_amlogic_linux-4.9"
     ],
     "radxa02": [
@@ -3378,6 +3380,8 @@
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
+        "android_hardware_amlogic_u-boot",
+        "android_hardware_amlogic_u-boot_build",
         "android_kernel_amlogic_linux-4.9"
     ],
     "radxa0_tab": [
@@ -3393,6 +3397,8 @@
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
+        "android_hardware_amlogic_u-boot",
+        "android_hardware_amlogic_u-boot_build",
         "android_kernel_amlogic_linux-4.9"
     ],
     "rango": [
