@@ -608,6 +608,7 @@
   {  "model": "xmsirius", "oem": "Xiaomi", "name": "Mi 8 SE" },
   {  "model": "xpeng", "oem": "Motorola", "name": "moto g200 5G / Edge S30" },
   {  "model": "xt897", "oem": "Motorola", "name": "PHOTON Q 4G LTE" },
+  {  "model": "xueying", "oem": "OnePlus", "name": "Open" },
   {  "model": "xz2c", "oem": "Sony", "name": "Xperia XZ2 Compact" },
   {  "model": "y2s", "oem": "Samsung", "name": "Galaxy S20+ (4G/5G)" },
   {  "model": "YTX703F", "oem": "Lenovo", "name": "Yoga Tab 3 Plus Wi-Fi" },
