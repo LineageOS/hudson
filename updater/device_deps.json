@@ -2583,11 +2583,11 @@
     ],
     "mona": [
         "android_device_motorola_mona",
-        "android_device_motorola_sm7435-common",
+        "android_device_motorola_sm6475-common",
         "android_hardware_motorola",
-        "android_kernel_motorola_sm7435",
-        "android_kernel_motorola_sm7435-devicetrees",
-        "android_kernel_motorola_sm7435-modules"
+        "android_kernel_motorola_sm6475",
+        "android_kernel_motorola_sm6475-devicetrees",
+        "android_kernel_motorola_sm6475-modules"
     ],
     "mondrian": [
         "android_device_xiaomi_mondrian",
