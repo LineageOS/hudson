@@ -141,6 +141,7 @@
   {  "model": "dumpling", "oem": "OnePlus", "name": "5T" },
   {  "model": "DRG", "oem": "Nokia", "name": "6.1 Plus" },
   {  "model": "earth", "oem": "Xiaomi", "name": "Redmi 12C / Redmi 12C NFC / POCO C55" },
+  {  "model": "ellis", "oem": "Motorola", "name": "moto g pure" },
   {  "model": "enchilada", "oem": "OnePlus", "name": "6" },
   {  "model": "erhai", "oem": "OnePlus", "name": "Pad 2 Pro / Pad 3" },
   {  "model": "eqs", "oem": "Motorola", "name": "edge 30 ultra" },
