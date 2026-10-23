@@ -3221,6 +3221,9 @@
     "pyxis_mainline": [
         "android_device_xiaomi_pyxis_mainline"
     ],
+    "q5q": [
+        "android_device_samsung_q5q"
+    ],
     "quill_tab": [
         "android_device_nvidia_quill",
         "android_device_nvidia_quill_tab"
