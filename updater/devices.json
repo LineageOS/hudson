@@ -277,6 +277,7 @@
   {  "model": "jasmine", "oem": "ZTE", "name": "Trek 2 HD" },
   {  "model": "jasmine_sprout", "oem": "Xiaomi", "name": "Mi A2" },
   {  "model": "jason", "oem": "Xiaomi", "name": "Mi Note 3" },
+  {  "model": "jaws", "oem": "Xiaomi", "name": "TV Box S (2nd gen)" },
   {  "model": "jflteatt", "oem": "Samsung", "name": "Galaxy S4 (SGH-I337)" },
   {  "model": "jfltespr", "oem": "Samsung", "name": "Galaxy S4 (SCH-R970/C/X,SPH-L720)" },
   {  "model": "jfltevzw", "oem": "Samsung", "name": "Galaxy S4 (SCH-I545)" },
