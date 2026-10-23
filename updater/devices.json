@@ -474,6 +474,7 @@
   {  "model": "pyrite", "oem": "OSOM", "name": "OV1" },
   {  "model": "pyxis", "oem": "Xiaomi", "name": "Mi CC9 / Mi 9 Lite" },
   {  "model": "Q25", "oem": "Zinwa", "name": "Q25 Pro" },
+  {  "model": "q5q", "oem": "Samsung", "name": "Galaxy Z Fold5" },
   {  "model": "quill", "oem": "Nvidia", "name": "Jetson (TX2 / TX2 NX) [Android TV]" },
   {  "model": "quill_tab", "oem": "Nvidia", "name": "Jetson (TX2 / TX2 NX) [Tablet]" },
   {  "model": "r0s", "oem": "Samsung", "name": "Galaxy S22" },
