@@ -311,6 +311,7 @@
   {  "model": "kltekor", "oem": "Samsung", "name": "Galaxy S5 LTE (G900K/L/S)" },
   {  "model": "kltesprsports", "oem": "Samsung", "name": "Galaxy S5 Sport (SM-G860P)" },
   {  "model": "komodo", "oem": "Google", "name": "Pixel 9 Pro XL" },
+  {  "model": "ktm", "oem": "OnePlus", "name": "Ace 6" },
   {  "model": "ks01lte", "oem": "Samsung", "name": "Galaxy S4 LTE-A" },
   {  "model": "kugo", "oem": "Sony", "name": "Xperia X Compact" },
   {  "model": "kuntao", "oem": "Lenovo", "name": "P2 (P2a42 Intl)" },
