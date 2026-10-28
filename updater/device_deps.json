@@ -69,6 +69,13 @@
     "OP4A7A": [
         "android_device_oppo_OP4A7A"
     ],
+    "P26": [
+        "android_device_mediatek_sepolicy_vndr",
+        "android_device_xelex_P26",
+        "android_device_xelex_mt6789-common",
+        "android_hardware_mediatek",
+        "android_kernel_xelex_mt6789"
+    ],
     "PL2": [
         "android_device_nokia_PL2",
         "android_device_nokia_sdm660-common",
@@ -83,6 +90,7 @@
     "Q25": [
         "android_device_mediatek_sepolicy_vndr",
         "android_device_xelex_Q25",
+        "android_device_xelex_mt6789-common",
         "android_hardware_mediatek",
         "android_kernel_xelex_mt6789"
     ],
@@ -205,6 +213,24 @@
         "android_hardware_samsung",
         "android_hardware_samsung_slsi_nfc",
         "android_kernel_samsung_sm7325"
+    ],
+    "a53x": [
+        "android_device_samsung_a53x",
+        "android_device_samsung_s5e8825-common",
+        "android_device_samsung_slsi_sepolicy",
+        "android_hardware_samsung",
+        "android_hardware_samsung_slsi-linaro_codec2",
+        "android_hardware_samsung_slsi-linaro_config",
+        "android_hardware_samsung_slsi-linaro_exynos",
+        "android_hardware_samsung_slsi-linaro_exynos5",
+        "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_interfaces",
+        "android_hardware_samsung_slsi-linaro_openmax",
+        "android_hardware_samsung_slsi_libbt",
+        "android_hardware_samsung_slsi_nfc",
+        "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
+        "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
+        "android_kernel_samsung_s5e8825"
     ],
     "a5xelte": [
         "android_device_samsung_a5xelte",
@@ -2820,6 +2846,13 @@
         "android_device_google_gs201",
         "android_device_google_lynx",
         "android_device_google_lynx-kernels"
+    ],
+    "lyriq": [
+        "android_device_mediatek_sepolicy_vndr",
+        "android_device_motorola_lyriq",
+        "android_device_motorola_lyriq-kernels",
+        "android_hardware_mediatek",
+        "android_hardware_motorola"
     ],
     "m20lte": [
         "android_device_samsung_m20lte",
