@@ -1311,6 +1311,12 @@
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_earth"
     ],
+    "ebba": [
+        "android_device_oneplus_ebba",
+        "android_device_oneplus_sm8250-common",
+        "android_hardware_oplus",
+        "android_kernel_oneplus_sm8250"
+    ],
     "ellis": [
         "android_device_mediatek_sepolicy_vndr",
         "android_device_motorola_ellis",
@@ -2860,6 +2866,13 @@
         "android_device_samsung_universal7904-common",
         "android_hardware_samsung",
         "android_hardware_samsung_nfc",
+        "android_hardware_samsung_slsi-linaro_config",
+        "android_hardware_samsung_slsi-linaro_exynos",
+        "android_hardware_samsung_slsi-linaro_exynos5",
+        "android_hardware_samsung_slsi-linaro_graphics",
+        "android_hardware_samsung_slsi-linaro_interfaces",
+        "android_hardware_samsung_slsi-linaro_openmax",
+        "android_hardware_samsung_slsi_fm",
         "android_hardware_samsung_slsi_libbt",
         "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
         "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
@@ -3802,7 +3815,16 @@
         "android_kernel_sony_sm8650-modules"
     ],
     "pdx257": [
+        "android_device_sony_elbe-common",
         "android_device_sony_pdx257",
+        "android_hardware_sony",
+        "android_kernel_sony_sm6475",
+        "android_kernel_sony_sm6475-devicetrees",
+        "android_kernel_sony_sm6475-modules"
+    ],
+    "pdx268": [
+        "android_device_sony_elbe-common",
+        "android_device_sony_pdx268",
         "android_hardware_sony",
         "android_kernel_sony_sm6475",
         "android_kernel_sony_sm6475-devicetrees",
