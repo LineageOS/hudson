@@ -1313,9 +1313,9 @@
     ],
     "ebba": [
         "android_device_oneplus_ebba",
-        "android_device_oneplus_sm8250-common",
+        "android_device_oneplus_sm7250-common",
         "android_hardware_oplus",
-        "android_kernel_oneplus_sm8250"
+        "android_kernel_oneplus_sm7250"
     ],
     "ellis": [
         "android_device_mediatek_sepolicy_vndr",
