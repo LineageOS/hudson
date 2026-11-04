@@ -1217,14 +1217,15 @@
         "android_device_amlogic_g12-common",
         "android_device_amlogic_sepolicy",
         "android_device_askey_deadpool",
-        "android_hardware_amlogic_kernel-modules_dhd-driver",
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
         "android_kernel_amlogic_common_drivers",
+        "android_kernel_amlogic_dhd-driver",
         "android_kernel_amlogic_gpu-modules",
         "android_kernel_amlogic_kernel-5.15",
-        "android_kernel_amlogic_media-modules"
+        "android_kernel_amlogic_media-modules",
+        "android_kernel_askey_deadpool-build"
     ],
     "debx": [
         "android_device_asus_debx",
@@ -2352,6 +2353,7 @@
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
+        "android_hardware_xiaomi",
         "android_kernel_amlogic_bt-modules",
         "android_kernel_amlogic_common_drivers",
         "android_kernel_amlogic_gpu-modules",
