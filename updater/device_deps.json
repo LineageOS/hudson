@@ -3651,7 +3651,8 @@
         "android_kernel_amlogic_common_drivers",
         "android_kernel_amlogic_gpu-modules",
         "android_kernel_amlogic_kernel-5.15",
-        "android_kernel_amlogic_media-modules"
+        "android_kernel_amlogic_media-modules",
+        "android_kernel_hardkernel_odroidc4-build"
     ],
     "odroidc4_tab": [
         "android_device_amlogic_common",
@@ -3667,7 +3668,8 @@
         "android_kernel_amlogic_common_drivers",
         "android_kernel_amlogic_gpu-modules",
         "android_kernel_amlogic_kernel-5.15",
-        "android_kernel_amlogic_media-modules"
+        "android_kernel_amlogic_media-modules",
+        "android_kernel_hardkernel_odroidc4-build"
     ],
     "ohm": [
         "android_device_amlogic_common",
@@ -4325,16 +4327,17 @@
         "android_device_amlogic_g12-common",
         "android_device_amlogic_sepolicy",
         "android_device_radxa_radxa02pro",
-        "android_hardware_amlogic_kernel-modules_dhd-driver",
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
         "android_hardware_amlogic_u-boot",
         "android_hardware_amlogic_u-boot_build",
         "android_kernel_amlogic_common_drivers",
+        "android_kernel_amlogic_dhd-driver",
         "android_kernel_amlogic_gpu-modules",
         "android_kernel_amlogic_kernel-5.15",
-        "android_kernel_amlogic_media-modules"
+        "android_kernel_amlogic_media-modules",
+        "android_kernel_radxa_radxa02pro-build"
     ],
     "radxa02pro_tab": [
         "android_device_amlogic_common",
@@ -4342,16 +4345,17 @@
         "android_device_amlogic_sepolicy",
         "android_device_radxa_radxa02pro",
         "android_device_radxa_radxa02pro_tab",
-        "android_hardware_amlogic_kernel-modules_dhd-driver",
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
         "android_hardware_amlogic_u-boot",
         "android_hardware_amlogic_u-boot_build",
         "android_kernel_amlogic_common_drivers",
+        "android_kernel_amlogic_dhd-driver",
         "android_kernel_amlogic_gpu-modules",
         "android_kernel_amlogic_kernel-5.15",
-        "android_kernel_amlogic_media-modules"
+        "android_kernel_amlogic_media-modules",
+        "android_kernel_radxa_radxa02pro-build"
     ],
     "radxa0_car": [
         "android_device_amlogic_common",
