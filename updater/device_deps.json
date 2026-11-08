@@ -2640,14 +2640,15 @@
         "android_device_amlogic_ne-common",
         "android_device_amlogic_sepolicy",
         "android_device_khadas_kvim1s",
-        "android_hardware_amlogic_kernel-modules_dhd-driver",
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
         "android_kernel_amlogic_common_drivers",
+        "android_kernel_amlogic_dhd-driver",
         "android_kernel_amlogic_gpu-modules",
         "android_kernel_amlogic_kernel-5.15",
-        "android_kernel_amlogic_media-modules"
+        "android_kernel_amlogic_media-modules",
+        "android_kernel_khadas_kvim1s-build"
     ],
     "kvim3": [
         "android_device_amlogic_common",
