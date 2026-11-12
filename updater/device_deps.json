@@ -3310,6 +3310,12 @@
         "android_device_google_muzel",
         "android_device_google_muzel-kernels"
     ],
+    "nabu": [
+        "android_device_xiaomi_nabu",
+        "android_device_xiaomi_sm8150-common",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_sm8150"
+    ],
     "nairo": [
         "android_device_motorola_nairo",
         "android_device_motorola_sm7250-common",
