@@ -103,6 +103,15 @@
         "android_kernel_ayn_qcs8550-devicetrees",
         "android_kernel_ayn_qcs8550-modules"
     ],
+    "RPDuo": [
+        "android_device_retroidpocket_RPDuo",
+        "android_device_retroidpocket_cq7790s-common",
+        "android_hardware_ayn",
+        "android_kernel_ayn_common-modules",
+        "android_kernel_ayn_cq8725s",
+        "android_kernel_ayn_cq8725s-devicetrees",
+        "android_kernel_ayn_cq8725s-modules"
+    ],
     "RPN": [
         "android_device_ayn_qcs8550-common",
         "android_device_retroidpocket_RPN",
@@ -5265,6 +5274,7 @@
         "android_device_oneplus_sm8650-common",
         "android_device_oneplus_waffle",
         "android_hardware_oplus",
+        "android_hardware_pixelworks_interfaces",
         "android_kernel_oneplus_sm8650",
         "android_kernel_oneplus_sm8650-devicetrees",
         "android_kernel_oneplus_sm8650-modules"
