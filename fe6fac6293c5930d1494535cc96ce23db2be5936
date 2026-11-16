@@ -16,6 +16,23 @@
       "message": "until i merge the corresponding device change Id9e5b8e727762a91d651bb951fb02cd491ed55bf",
       "revId": "fe6fac6293c5930d1494535cc96ce23db2be5936",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "442b2815_6182fe20",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-11-16T18:54:20Z",
+      "side": 1,
+      "message": "Ready?",
+      "revId": "fe6fac6293c5930d1494535cc96ce23db2be5936",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
