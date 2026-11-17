@@ -486,6 +486,7 @@
         "android_device_oneplus_sm8650-common",
         "android_device_realme_bale",
         "android_hardware_oplus",
+        "android_hardware_pixelworks_interfaces",
         "android_kernel_oneplus_sm8650",
         "android_kernel_oneplus_sm8650-devicetrees",
         "android_kernel_oneplus_sm8650-modules"
@@ -3774,6 +3775,14 @@
     "otter": [
         "android_device_shift_otter",
         "android_kernel_shift_qcm6490"
+    ],
+    "paganic": [
+        "android_device_oneplus_paganic",
+        "android_device_oneplus_sm8750-common",
+        "android_hardware_oplus",
+        "android_kernel_oneplus_sm8750",
+        "android_kernel_oneplus_sm8750-devicetrees",
+        "android_kernel_oneplus_sm8750-modules"
     ],
     "panther": [
         "android_device_google_gs201",
