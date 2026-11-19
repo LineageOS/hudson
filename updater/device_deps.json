@@ -3951,6 +3951,9 @@
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_sdm660"
     ],
+    "plato": [
+        "android_device_xiaomi_plato"
+    ],
     "pnangn": [
         "android_device_motorola_pnangn",
         "android_device_motorola_sm6375-common",
