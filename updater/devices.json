@@ -442,6 +442,7 @@
   {  "model": "otter", "oem": "SHIFT", "name": "SHIFTphone 8.0 / 8.1" },
   {  "model": "otus", "oem": "Motorola", "name": "moto e (2015)" },
   {  "model": "P024", "oem": "ASUS", "name": "ZenPad 8.0 (Z380KL)" },
+  {  "model": "P26", "oem": "Zinwa", "name": "P26" },
   {  "model": "paella", "oem": "BQ", "name": "Aquaris X5" },
   {  "model": "panther", "oem": "Google", "name": "Pixel 7" },
   {  "model": "parker", "oem": "Motorola", "name": "one zoom" },
