@@ -170,6 +170,8 @@
         "android_device_samsung_a21s-common",
         "android_device_samsung_slsi_sepolicy",
         "android_hardware_samsung",
+        "android_hardware_samsung_slsi-linaro_camera",
+        "android_hardware_samsung_slsi-linaro_codec2",
         "android_hardware_samsung_slsi-linaro_config",
         "android_hardware_samsung_slsi-linaro_exynos",
         "android_hardware_samsung_slsi-linaro_exynos5",
