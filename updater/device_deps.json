@@ -1084,6 +1084,12 @@
         "android_kernel_google_msm-4.14",
         "android_packages_apps_ElmyraService"
     ],
+    "corfur": [
+        "android_device_motorola_corfur",
+        "android_device_motorola_sm6375-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm6375"
+    ],
     "corvette": [
         "android_device_oneplus_corvette",
         "android_device_oneplus_sm8650-common",
@@ -1112,6 +1118,12 @@
         "android_kernel_xiaomi_sm8450",
         "android_kernel_xiaomi_sm8450-devicetrees",
         "android_kernel_xiaomi_sm8450-modules"
+    ],
+    "cypfq": [
+        "android_device_motorola_cypfq",
+        "android_device_motorola_sm6375-common",
+        "android_hardware_motorola",
+        "android_kernel_motorola_sm6375"
     ],
     "d1": [
         "android_device_samsung_d1",
@@ -1651,6 +1663,9 @@
         "android_device_lge_sdm845-common",
         "android_hardware_lge",
         "android_kernel_lge_sdm845"
+    ],
+    "gale": [
+        "android_device_xiaomi_gale"
     ],
     "galen": [
         "android_bootable_cboot_common",
@@ -3955,7 +3970,12 @@
         "android_kernel_xiaomi_sdm660"
     ],
     "plato": [
-        "android_device_xiaomi_plato"
+        "android_device_mediatek_sepolicy_vndr",
+        "android_device_xiaomi_mt6895-common",
+        "android_device_xiaomi_plato",
+        "android_hardware_mediatek",
+        "android_hardware_xiaomi",
+        "android_kernel_xiaomi_mt6895"
     ],
     "pnangn": [
         "android_device_motorola_pnangn",
