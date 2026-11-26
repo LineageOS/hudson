@@ -500,6 +500,7 @@
   {  "model": "radxa0_tab", "oem": "Radxa", "name": "Zero (S905Y2, eMMC Only) [Tablet]" },
   {  "model": "radxa02_tab", "oem": "Radxa", "name": "Zero 2 (S905D3, eMMC Only) [Tablet]" },
   {  "model": "rango", "oem": "Google", "name": "Pixel 10 Pro Fold" },
+  {  "model": "raspite", "oem": "Amazon", "name": "Fire HD 8 / HD 8 Plus (12th Gen)" },
   {  "model": "raven", "oem": "Google", "name": "Pixel 6 Pro" },
   {  "model": "redfin", "oem": "Google", "name": "Pixel 5" },
   {  "model": "renoir", "oem": "Xiaomi", "name": "Mi 11 Lite 5G" },
