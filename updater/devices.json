@@ -187,6 +187,7 @@
   {  "model": "g2m", "oem": "LG", "name": "G2 Mini" },
   {  "model": "g710n", "oem": "LG", "name": "G7 ThinQ (G710N)" },
   {  "model": "g710ulm", "oem": "LG", "name": "G7 ThinQ (G710ULM/VMX)" },
+  {  "model": "gale", "oem": "Xiaomi", "name": "Redmi 13C / Redmi 13C NFC / POCO C65" },
   {  "model": "garnet", "oem": "Xiaomi", "name": "Redmi Note 13 Pro 5G / POCO X6 5G" },
   {  "model": "gauguin", "oem": "Xiaomi", "name": "Mi 10T Lite 5G / Mi 10i 5G / Redmi Note 9 Pro 5G" },
   {  "model": "gemini", "oem": "Xiaomi", "name": "Mi 5" },
