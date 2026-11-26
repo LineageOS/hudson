@@ -1665,7 +1665,11 @@
         "android_kernel_lge_sdm845"
     ],
     "gale": [
-        "android_device_xiaomi_gale"
+        "android_device_mediatek_sepolicy_vndr",
+        "android_device_xiaomi_gale",
+        "android_device_xiaomi_gale-kernels",
+        "android_hardware_mediatek",
+        "android_hardware_xiaomi"
     ],
     "galen": [
         "android_bootable_cboot_common",
@@ -2391,6 +2395,7 @@
         "android_hardware_amlogic_tools_dtbtool",
         "android_hardware_amlogic_tools_imagepacker",
         "android_hardware_amlogic_tools_respacker",
+        "android_hardware_mediatek",
         "android_hardware_xiaomi",
         "android_kernel_amlogic_bt-modules",
         "android_kernel_amlogic_common_drivers",
@@ -4458,6 +4463,14 @@
         "android_hardware_xiaomi",
         "android_kernel_xiaomi_sm8150"
     ],
+    "raspite": [
+        "android_device_amazon_mt8169-common",
+        "android_device_amazon_raspite",
+        "android_device_mediatek_sepolicy_vndr",
+        "android_hardware_amazon",
+        "android_hardware_mediatek",
+        "android_kernel_amazon_mt8169"
+    ],
     "raven": [
         "android_device_google_gs101",
         "android_device_google_raven",
@@ -5027,6 +5040,14 @@
         "android_device_motorola_tundra",
         "android_hardware_motorola",
         "android_kernel_motorola_sm7325"
+    ],
+    "tungsten": [
+        "android_device_amazon_mt8169-common",
+        "android_device_amazon_tungsten",
+        "android_device_mediatek_sepolicy_vndr",
+        "android_hardware_amazon",
+        "android_hardware_mediatek",
+        "android_kernel_amazon_mt8169"
     ],
     "twolip": [
         "android_device_xiaomi_sdm660-common",
